@@ -1,0 +1,17 @@
+title: 'SMH Gemeinden'
+default_lang: de
+author:
+  email: mail@samuelstein.de
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Willkommen zu den Veranstaltungen der Berliner Gemeinden im St.-Michaels-Heim'
+  generator: ''
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

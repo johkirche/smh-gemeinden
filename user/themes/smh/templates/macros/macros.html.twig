@@ -1,0 +1,11 @@
+{% macro nav_loop(page) %}
+  {% import _self as macros %}
+  {% for p in page.children.visible %}
+    {% set active_page = (p.active or p.activeChild) ? ' class="active"' : '' %}
+      <li>
+        <a href="{{ p.url }}"{{ active_page }}>
+          {{ p.menu }}
+        </a>
+      </li>
+  {% endfor %}
+{% endmacro %}

@@ -1,0 +1,23 @@
+# Grav Specific
+.sass-cache
+composer.lock
+backup/*
+cache/*
+assets/*
+logs/*
+images/*
+user/data/*
+user/accounts
+user/config/security
+user/config/plugins/cal-dav-import.yaml
+user/pages/03.veranstaltungen/*
+!user/pages/03.veranstaltungen/events.de.md
+/vendor
+/webserver-configs
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp

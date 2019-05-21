@@ -1,0 +1,15 @@
+enabled: false
+built_in_css: true
+date_display_format: 'F Y'
+show_count: false
+limit: 12
+order:
+  by: date
+  dir: desc
+filter_combinator: and
+filters:
+  category:
+    - events
+taxonomy_names:
+  month: archives_month
+  year: archives_year
