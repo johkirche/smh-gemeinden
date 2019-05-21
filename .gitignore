@@ -1,8 +1,8 @@
 # Grav Specific
 .sass-cache
-composer.lock
 backup/*
 cache/*
+composer.phar
 assets/*
 logs/*
 images/*
@@ -21,3 +21,4 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
