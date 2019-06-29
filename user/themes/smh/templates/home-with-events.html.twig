@@ -1,0 +1,48 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+    {{ page.content|raw }}
+
+{% set next_events =
+  page.collection({
+    'items': {
+      '@taxonomy': {
+        'type': 'event',
+      }
+    },
+    'dateRange': {
+      'start': datetools.today|date('m/d/Y'),
+      'end': datetools.parseDate('+1 month')|date('m/d/Y')
+    },
+    'order': {
+      'by': 'date',
+      'dir': 'asc'
+    },
+    'limit': 3
+  })
+%}
+
+{% if next_events != null %}
+	<h3>Die nächsten Veranstaltungen</h3>
+
+<section class="events-listing">
+{% for event in next_events %}
+        <article class="event-item">
+          <section class="event-content">
+            <h4>{{ event.title }}</h4>
+            <div class="event-meta">
+              <ul>
+                <li class="when"><i class="fa fa-calendar"></i>{{'DAYS_OF_THE_WEEK'|ta(event.header.event.start|date('N')-1)}}, {{event.header.event.start|date('d.')}} {{config.plugins.events.date_format.translate ? 'MONTHS_OF_THE_YEAR'|ta(event.header.event.start|date('n') - 1) : event.header.event.start|date('M') }} {{event.header.event.start|date('Y')}}</li>
+                <li class="when"><i class="fa fa-clock-o"></i>{{event.header.event.start|date('H:i')}} Uhr</li>
+              </ul>
+              <a href="{{ event.url }}" class="event-button">{{ 'PLUGIN_EVENTS.EVENTS.BUTTON'|t }}</a>
+            </div>
+          </section>
+        </article>
+      {% endfor %}
+      <a href="/veranstaltungen" class="button-main">{{ 'PLUGIN_EVENTS.EVENTS.ALL'|t }}</a>
+</section>
+{% endif %}
+
+{% endblock %}
+

@@ -1,0 +1,75 @@
+name: Cal DAV Import
+version: 0.1.0
+description: The plugin imports external CalDAV events as separate pages
+icon: plug
+author:
+  name: Samuel Stein
+  email: mail@samuelstein.de
+homepage: https://github.com/samuelstein/grav-plugin-cal-dav-import
+demo: 
+keywords: grav, plugin, cal dav
+bugs: https://github.com/samuelstein/grav-plugin-cal-dav-import/issues
+docs: https://github.com/samuelstein/grav-plugin-cal-dav-import/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '~1.1' }
+  - events
+  - taxonomylist
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: PLUGIN_ADMIN.PLUGIN_STATUS
+      highlight: 1
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+    caldav-url:
+      type: text
+      label: CalDAV URL
+      validate:
+        required: true
+        type: text
+        min: 0
+        max: 255
+    caldav-user:
+      type: text
+      label: User
+      validate:
+        required: true
+        type: text
+        min: 0
+        max: 25
+    caldav-password:
+      type: password
+      label: Password
+      validate:
+        required: true
+        type: text
+        min: 0
+        max: 25
+    caldav-refresh-interval:
+      type: text
+      label: Refresh interval
+      size: x-small
+      append: minutes
+      default: 1
+      validate:
+        required: true
+        type: int
+        min: 1
+        max: 1440
+    folder-name:
+      type: text
+      label: Parent folder name
+      validate:
+        required: true
+        type: text
+        min: 0
+        max: 255

@@ -1,0 +1,117 @@
+{% embed 'partials/base.html.twig' %}
+
+{# get the featured events #}
+{% set featured_events =
+  page.collection({
+    'items': {
+      '@taxonomy': {
+        'type': 'event',
+        'category': 'featured'
+      }
+    },
+    'dateRange': {
+      'start': datetools.today|date('m/d/Y'),
+      'end': datetools.parseDate('+1 month')|date('m/d/Y')
+    },
+    'order': {
+      'by': 'date',
+      'dir': 'asc'
+    },
+    'limit': 3
+  })
+%}
+
+{# get events by taxonomy #}
+{% set events =
+    page.collection({
+      'items': {
+        '@taxonomy': {
+          'type': 'event',
+        }
+      },
+      'dateRange': {
+        'start': datetools.today|date('m/d/Y'),
+        'end': datetools.endOfYear|date('m/d/Y')
+      },
+      'order': {
+        'by': 'date',
+        'dir': 'asc'
+      },
+      'limit': 1000,
+      'pagination': false
+    })
+%}
+
+{% block content %}
+
+  <div class="events-container">
+
+    <header>
+      <h1 class="center">{{ page.title }}</h1>
+      <p class="center">vom {{datetools.today|date('d.m.Y')}} bis {{datetools.endOfYear|date('d.m.Y')}}</p>
+      <p class="warning"><strong>Diese Seite befindet sich im Aufbau. Deshalb kann es bei den Terminen noch zu Abweichungen kommen.</strong></p>
+    </header>
+
+    <section class="featured-events">
+    Filtern nach Monat
+    {% include 'partials/archives.html.twig' %}
+    {% include 'partials/taxonomylistManual.html.twig' with {base_url: page.url, taxonomy: 'tag' } %}
+
+      {% for event in featured_events %}
+        <article class="featured-event">
+          <div class="featured-event-masthead">
+            {% set image = event.media.images|first %}
+            {% if image != null %}
+              {{ image.cropZoom(1200,500).html }}
+            {% endif %}
+            <h3 class="featured-event-title"><a href="{{ event.url }}">{{ event.title }}</a></h3>
+          </div>
+
+          <div class="featured-event-content">
+
+            <ul class="event-meta-information">
+              <li class="when"><i class="fa fa-calendar"></i> {{ event.header.event.start|date(J, d) }}</li>
+              {% if event.header.event.location %}
+                <li class="where"><i class="fa fa-location-arrow"></i> {{ event.header.event.location }}</li>
+              {% endif %}
+            </ul>
+
+            {{ event.summary(200) }}
+
+            <p>
+              <a href="{{ event.url }}" class="event-button" />{{ 'PLUGIN_EVENTS.EVENTS.BUTTON'|t }}</a>
+            </p>
+
+          </div>
+        </article>
+      {% endfor %}
+
+    </section>
+
+    <section class="events-listing">
+      {% for item in events %}
+
+        <article class="event-item">
+          <section class="event-content">
+            <h3>{{ item.title }}</h3>
+            <div class="event-meta">
+              <ul>
+                <li class="when"><i class="fa fa-calendar"></i>{{'DAYS_OF_THE_WEEK'|ta(item.header.event.start|date('N')-1)}}, {{item.header.event.start|date('d.')}} {{config.plugins.events.date_format.translate ? 'MONTHS_OF_THE_YEAR'|ta(item.header.event.start|date('n') - 1) : item.header.event.start|date('M') }} {{item.header.event.start|date('Y')}}</li>
+                <li class="when"><i class="fa fa-clock-o"></i>{{item.header.event.start|date('H:i')}} Uhr</li>
+              </ul>
+              <a href="{{ item.url }}" class="event-button">{{ 'PLUGIN_EVENTS.EVENTS.BUTTON'|t }}</a>
+            </div>
+          </section>
+        </article>
+      {% endfor %}
+    </section>
+	</div>
+
+  {# Render the pagination list #}
+  {% if config.plugins.pagination.enabled and events.params.pagination %}
+      {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+  {% endif %}
+
+{% endblock %}
+
+{% endembed %}

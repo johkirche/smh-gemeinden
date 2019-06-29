@@ -1,0 +1,18 @@
+{% set taxlist = children_only is defined ? taxonomylist.getChildPagesTags() : taxonomylist.get() %}
+
+{% if taxlist %}
+<span class="tags">
+	<a class="label label-rounded label-secondary" href="/veranstaltungen/tag:Januar">Januar</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:Februar">Februar</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:März">März</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:April">April</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:Mai">Mai</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:Juni">Juni</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:Juli">Juli</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:August">August</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:September">September</a>
+	<a class="label label-rounded label-secondary" href="/veranstaltungen/tag:Oktober">Oktober</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:November">November</a>
+    <a class="label label-rounded label-secondary" href="/veranstaltungen/tag:Dezember">Dezember</a>
+ </span>
+{% endif %}
