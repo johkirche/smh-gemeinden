@@ -2,7 +2,6 @@
 title: Home
 published: true
 routable: true
-visible: true
 ---
 
 # Willkommen
