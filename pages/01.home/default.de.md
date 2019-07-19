@@ -5,7 +5,9 @@ routable: true
 visible: false
 ---
 
-# Willkommen
-## zu den Veranstaltungen der Berliner Gemeinden im St.-Michaels-Heim
-Die Gemeindeveranstaltungen der [Johannischen Kirche](https://www.johannische-kirche.org) im St.-Michaels-Heim sind alle öffentlich, und jeder ist hier ein gern gesehener Gast.  
-Damit vereinen sich im Haus die Ziele der [Johannischen Kirche](https://www.johannische-kirche.org) mit denen der einstigen Erbauer, der Familie Mendelssohn: **Toleranz und Nächstenliebe**.
+# Herzlich Willkommen
+Im St.-Michaels-Heim finden 5 Gemeinden der  [Johannischen Kirche](https://www.johannische-kirche.org) ihre Heimat:  
+Die Hauptgemeinde, die Gemeinden Steglitz, Neukölln, Tempelhof und Spandau.
+
+Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich schnell und einfach über neue Veranstaltungen zu informieren.
+Besucher und Gäste sind herzlich willkommen! 
