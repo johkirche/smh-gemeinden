@@ -2,7 +2,7 @@
 content:
     items:
         - '@self.children'
-    limit: 5
+    limit: 50
     order:
         by: date
         dir: desc
