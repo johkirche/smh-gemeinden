@@ -9,7 +9,8 @@ event:
 	end: 24-11-2019 16:00
 	location: 'SMH Rezeption Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 

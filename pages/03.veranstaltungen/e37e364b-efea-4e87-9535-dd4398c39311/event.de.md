@@ -9,7 +9,8 @@ event:
 	end: 07-04-2019 13:30
 	location: 'St.-Michaels-Heim, Bismarckallee 23, 14193 Berlin, Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Die Hauptgemeinde der Johannischen Kirche plant ihren Gemeindetag. Alle Geschwister, Freunde und Interessenten sind herzlich eingeladen. Wer an dem Treffen nicht teilnehmen kann, aber Wünsche und Ideen einbringen möchte, sendet diese bitte im Vorfeld an d.stolpe[at]johannische-kirche.org

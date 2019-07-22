@@ -9,7 +9,8 @@ event:
 	end: 09-02-2019 19:00
 	location: 'Kirche St.-Michaelsheim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Monatlich findet die Schule für Geisteswissenschaften statt. Diese ist eine Fortbildung nur für Amtsträger der Johannischen Kirche.

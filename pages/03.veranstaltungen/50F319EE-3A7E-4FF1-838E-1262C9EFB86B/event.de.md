@@ -9,7 +9,8 @@ event:
 	end: 30-11-2019 20:00
 	location: 'St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Liebe Gäste und Besucher/innen!

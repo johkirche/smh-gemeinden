@@ -9,7 +9,8 @@ event:
 	end: 15-03-2019 22:00
 	location: 'Jugendraum'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Start der Diskussionsrunde zum Pabst-Film ist um 19 Uhr.

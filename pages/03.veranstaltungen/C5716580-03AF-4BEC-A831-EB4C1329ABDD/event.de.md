@@ -9,7 +9,8 @@ event:
 	end: 15-03-2019 21:00
 	location: 'Waldfrieden 52 (im Mini Mich) 14959 Blankensee, Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Pfingsten feiern wir 25 Jahre Rückgabe der Friendesstadt. Für die Vorbereitung nicht nur dieses Events, sondern auch unseres gemeinsamen Pfingstfestes in der Firedensstadt treffen sich alle, die an der Vorbereitung teilnehmen möchten.

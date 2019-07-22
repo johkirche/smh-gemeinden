@@ -9,7 +9,8 @@ event:
 	end: 05-05-2019 18:00
 	location: 'Kuppelsaal St.-Michaels-Heim Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Am Sonntag, den 5.5. findet eine regionale Arbeitstagung für alle Missionshelfer/innen der St.-Michaels-Heim-Gemeinden Hauptgemeinde, Neukölln, Tempelhof und Spandau statt.

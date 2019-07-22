@@ -7,16 +7,14 @@ rule:
 event:
 	start: 24-07-2019 19:00
 	end: 24-07-2019 19:45
-	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'Kirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: Gottesdienst
 
 ---
 
 
 
-**Veranstaltungsort:** Kirche St.-Michaels-Heim
-Bismarkallee 23
-14193 Berlin
-Deutschland
+**Veranstaltungsort:** Kirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland
 

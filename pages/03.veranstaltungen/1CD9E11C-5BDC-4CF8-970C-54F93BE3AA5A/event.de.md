@@ -9,7 +9,8 @@ event:
 	end: 18-02-2019 20:30
 	location: 'Salon Mendessohn'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Wir tanzen zusammen Salsa. Anfänger und Fortgeschrittene sind herzlich willkommen.

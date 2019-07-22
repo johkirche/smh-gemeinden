@@ -9,7 +9,8 @@ event:
 	end: 20-02-2019 19:30
 	location: 'Kirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
-	category: Gottesdienst
+	category: veranstaltungen
+	tag: Gottesdienst
 
 ---
 Vierzentägig lädt die Johannische Kirche am Mittwoch, um 19 Uhr, zu einen Gottesdienst in die Kirche im St.-Michaels-Heim ein. Geschwister, Freunde und Gäste sind immer herzlich willkommen. Unter folgendem Link finden Sie weitere Informationen z.B. zum Ablauf des Gottesdienstes: https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php

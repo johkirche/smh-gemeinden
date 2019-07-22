@@ -9,7 +9,8 @@ event:
 	end: 27-06-2019 21:00
 	location: 'Salon Medelssohn St.-Michaels-Heim Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Die Gemeindehelferinnen und Gemeindehelfer aller St.-Michaels-Heim Gemeinden treffen sich, um gemeinsam einen Beitrag für eine Begrüßung der neuen Konfirmanden zu erarbeiten. Treffpunkt ist der Salon Mendelssohn.

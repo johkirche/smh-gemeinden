@@ -9,7 +9,8 @@ event:
 	end: 11-10-2019 22:00
 	location: 'Jugendraum SMH'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Letztes Mal gab es Lasagne, dieses Mal Königsberger Klopse. Ihr seid herzlich eingeladen zu einem gemütlichen Abend im Jugendraum zum gemeinsamen Kochen mit Markus.

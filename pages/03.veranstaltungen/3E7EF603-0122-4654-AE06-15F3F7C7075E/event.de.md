@@ -9,7 +9,8 @@ event:
 	end: 16-03-2019 16:00
 	location: 'SMH Kindertagesstätte Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Secondhand-Verkauf

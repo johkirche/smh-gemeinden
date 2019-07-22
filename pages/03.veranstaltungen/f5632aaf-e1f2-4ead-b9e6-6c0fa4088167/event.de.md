@@ -9,7 +9,8 @@ event:
 	end: 07-07-2019 14:00
 	location: ''
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 

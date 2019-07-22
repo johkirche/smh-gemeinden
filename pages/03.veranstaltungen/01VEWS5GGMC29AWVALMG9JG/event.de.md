@@ -9,7 +9,8 @@ event:
 	end: 14-01-2019 20:30
 	location: 'SMH Bismarckzimmer'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Planung für den 27.01.

@@ -9,7 +9,8 @@ event:
 	end: 23-08-2019 15:00
 	location: ''
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 

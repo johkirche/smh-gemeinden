@@ -9,7 +9,8 @@ event:
 	end: 29-03-2019 22:00
 	location: ''
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Geschwister und Freunde der St.-Michaels-heim-Gemeinden laden alle Geschwister, Freunde und Gäste herzlich zu einem kleinen Speieleabend in den Jugendraum ein. Es wird beispielsweise die Gelegenheit geben, "Die Werwölfe von Düsterwald" zu spielen.

@@ -9,7 +9,8 @@ event:
 	end: 10-04-2019 20:30
 	location: 'SMH'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Interessierte und Freunde breiten die gastronomische Versorgung unserer Geschwister, Freunde und Gäste in der kommenden Kirchentagswoche am Standort St.-Michaels-Heim vor. Interessierte, die an dem Treffen teilnehmen möchen, wenden sich bitte im Vorfeld an einen Gemeindeführer der St.-Michaels-Heim-Gemeinden.

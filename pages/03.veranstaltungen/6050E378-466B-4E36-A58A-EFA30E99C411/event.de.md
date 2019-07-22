@@ -9,7 +9,8 @@ event:
 	end: 07-04-2019 13:30
 	location: 'St.-Michaels-Heim Kuppelsaal Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Die Gemeinde Berlin Steglitz der Johannischen Kirche plant gemeinsam ihren Gemeindetag. Alle Geschwister, Freunde und Interessenten sind herzlich eingeladen. Wer an dem Treffen nicht teilnehmen kann, aber Gedanken, Wünsche, Ideen usw. einbringen möchte, sendet diese bitte im Vorfeld an b-steglitz[at]johannische-kirche.org

@@ -9,7 +9,8 @@ event:
 	end: 17-08-2019 19:00
 	location: 'Kirche St.-Michaelsheim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 

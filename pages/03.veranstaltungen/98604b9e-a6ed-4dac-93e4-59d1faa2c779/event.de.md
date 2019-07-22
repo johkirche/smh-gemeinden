@@ -9,7 +9,8 @@ event:
 	end: 12-04-2019 20:00
 	location: ''
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 

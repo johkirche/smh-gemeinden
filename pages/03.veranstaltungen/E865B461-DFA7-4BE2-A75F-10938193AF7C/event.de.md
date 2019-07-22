@@ -9,7 +9,8 @@ event:
 	end: 06-03-2019 19:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Am 6. März, dem Tag des Heimganges Joseph Weißenbergs - dem Gründer der Johannischen Kirche - im Jahre 1941, begehen die johannischen Christen ihren Bekenntnistag. Sie werden in den Gottesdiensten ihrer Gemeinden gemeinsam das johannische Glaubensbekenntnis sprechen.

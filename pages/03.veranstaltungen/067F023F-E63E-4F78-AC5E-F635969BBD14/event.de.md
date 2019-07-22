@@ -9,7 +9,8 @@ event:
 	end: 06-01-2019 10:15
 	location: 'SMH - Arbeit Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 

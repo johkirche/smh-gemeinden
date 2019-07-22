@@ -9,7 +9,8 @@ event:
 	end: 11-05-2019 15:00
 	location: ''
 taxonomy:
-	category: 
+	category: veranstaltungen
+	tag: 
 
 ---
 Wir stellen gemeinsam Tische und schmücken und freuen uns über alle großen und kleinen Helfer/innen.
