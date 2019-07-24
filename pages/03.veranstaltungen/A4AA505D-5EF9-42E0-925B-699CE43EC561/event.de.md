@@ -7,17 +7,14 @@ rule:
 event:
 	start: 16-11-2019 18:00
 	end: 16-11-2019 19:00
-	location: 'Kirche St.-Michaelsheim Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'Kirche St.-MichaelsheimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
-	category: veranstaltungen
+	category: Amtsträger
 	tag: 
 
 ---
 
 
 
-**Veranstaltungsort:** Kirche St.-Michaelsheim
-Bismarkallee 23
-14193 Berlin
-Deutschland
+**Veranstaltungsort:** Kirche St.-MichaelsheimBismarkallee 2314193 BerlinDeutschland
 

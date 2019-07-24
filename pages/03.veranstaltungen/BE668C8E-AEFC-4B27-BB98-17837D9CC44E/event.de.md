@@ -9,7 +9,7 @@ event:
 	end: 17-08-2019 20:15
 	location: 'St.-Michaels-Heim'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

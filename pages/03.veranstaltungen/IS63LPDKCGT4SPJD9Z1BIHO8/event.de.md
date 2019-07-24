@@ -9,7 +9,7 @@ event:
 	end: 30-10-2019 22:00
 	location: ''
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

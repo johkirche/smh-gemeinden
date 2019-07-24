@@ -9,7 +9,7 @@ event:
 	end: 18-01-2019 20:00
 	location: 'St.-Michaels-Heim, Jugendraum, Bismarkallee 23, 14193 Berlin, Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

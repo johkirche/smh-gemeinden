@@ -9,7 +9,7 @@ event:
 	end: 11-05-2019 15:00
 	location: ''
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

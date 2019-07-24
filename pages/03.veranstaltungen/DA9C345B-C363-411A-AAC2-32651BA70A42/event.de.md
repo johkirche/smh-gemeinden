@@ -9,7 +9,7 @@ event:
 	end: 10-04-2019 20:30
 	location: 'SMH'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

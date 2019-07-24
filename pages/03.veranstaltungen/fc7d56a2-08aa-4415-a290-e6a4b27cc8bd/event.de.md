@@ -9,8 +9,8 @@ event:
 	end: 07-10-2019 00:00
 	location: 'Bismarckallee 23, Bismarckallee 23, 14193 Berlin, Deutschland'
 taxonomy:
-	category: veranstaltungen
-	tag: Veranstaltung
+	category: 
+	tag: 
 
 ---
 

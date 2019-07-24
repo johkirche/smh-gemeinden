@@ -9,7 +9,7 @@ event:
 	end: 15-03-2019 22:00
 	location: 'Jugendraum'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

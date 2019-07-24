@@ -9,7 +9,7 @@ event:
 	end: 22-01-2019 21:00
 	location: 'SMH'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

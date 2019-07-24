@@ -9,7 +9,7 @@ event:
 	end: 08-09-2019 15:00
 	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

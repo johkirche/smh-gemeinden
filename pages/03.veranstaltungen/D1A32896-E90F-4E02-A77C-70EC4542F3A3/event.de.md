@@ -9,7 +9,7 @@ event:
 	end: 11-06-2019 00:00
 	location: 'Friedensstadt Weißenberg'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

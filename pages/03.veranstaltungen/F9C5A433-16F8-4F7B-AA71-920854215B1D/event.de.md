@@ -9,7 +9,7 @@ event:
 	end: 10-01-2019 21:30
 	location: 'St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

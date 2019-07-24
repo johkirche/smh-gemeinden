@@ -9,7 +9,7 @@ event:
 	end: 04-03-2019 20:00
 	location: 'Salon Mendessohn'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

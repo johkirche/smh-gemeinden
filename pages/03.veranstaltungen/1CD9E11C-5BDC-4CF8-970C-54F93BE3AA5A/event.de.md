@@ -9,7 +9,7 @@ event:
 	end: 18-02-2019 20:30
 	location: 'Salon Mendessohn'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

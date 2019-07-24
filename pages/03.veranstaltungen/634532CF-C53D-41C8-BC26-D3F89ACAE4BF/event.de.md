@@ -9,7 +9,7 @@ event:
 	end: 24-08-2019 11:30
 	location: 'Waldfrieden 52 14959 Blankensee, Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

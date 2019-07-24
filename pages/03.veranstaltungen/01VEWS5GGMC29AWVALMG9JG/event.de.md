@@ -9,7 +9,7 @@ event:
 	end: 14-01-2019 20:30
 	location: 'SMH Bismarckzimmer'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

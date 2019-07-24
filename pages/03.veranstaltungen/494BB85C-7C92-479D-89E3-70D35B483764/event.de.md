@@ -9,7 +9,7 @@ event:
 	end: 27-06-2019 21:00
 	location: 'Salon Medelssohn St.-Michaels-Heim Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

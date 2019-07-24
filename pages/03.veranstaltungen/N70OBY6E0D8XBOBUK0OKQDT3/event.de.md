@@ -9,7 +9,7 @@ event:
 	end: 11-12-2019 22:00
 	location: ''
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

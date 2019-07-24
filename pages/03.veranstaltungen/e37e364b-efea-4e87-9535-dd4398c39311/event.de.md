@@ -9,7 +9,7 @@ event:
 	end: 07-04-2019 13:30
 	location: 'St.-Michaels-Heim, Bismarckallee 23, 14193 Berlin, Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

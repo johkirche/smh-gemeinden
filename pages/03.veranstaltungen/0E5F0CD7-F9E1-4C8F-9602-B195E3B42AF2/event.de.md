@@ -9,7 +9,7 @@ event:
 	end: 25-08-2019 11:30
 	location: 'Kirche Waldfriedhof 52, 14959 Blankensee'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

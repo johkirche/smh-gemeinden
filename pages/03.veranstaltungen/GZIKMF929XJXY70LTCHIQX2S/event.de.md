@@ -9,7 +9,7 @@ event:
 	end: 26-06-2019 22:30
 	location: ''
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

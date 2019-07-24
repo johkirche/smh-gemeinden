@@ -9,7 +9,7 @@ event:
 	end: 15-01-2019 20:00
 	location: 'Nach Vereinbahrung'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

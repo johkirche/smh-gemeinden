@@ -9,7 +9,7 @@ event:
 	end: 15-03-2019 17:00
 	location: 'Kindertagesstätte'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

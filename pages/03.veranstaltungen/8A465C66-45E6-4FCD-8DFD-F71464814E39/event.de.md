@@ -9,7 +9,7 @@ event:
 	end: 09-02-2019 20:15
 	location: 'St.-Michaels-Heim'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

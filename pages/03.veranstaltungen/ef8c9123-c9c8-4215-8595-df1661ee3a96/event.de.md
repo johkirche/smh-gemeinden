@@ -9,7 +9,7 @@ event:
 	end: 11-10-2019 22:00
 	location: 'Jugendraum SMH'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

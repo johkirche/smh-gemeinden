@@ -9,7 +9,7 @@ event:
 	end: 17-04-2019 20:30
 	location: ''
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

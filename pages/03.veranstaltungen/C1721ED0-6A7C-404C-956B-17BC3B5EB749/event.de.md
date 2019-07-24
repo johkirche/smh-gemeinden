@@ -9,7 +9,7 @@ event:
 	end: 10-02-2019 13:00
 	location: 'Turnhalle oder 220 Musikraum'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

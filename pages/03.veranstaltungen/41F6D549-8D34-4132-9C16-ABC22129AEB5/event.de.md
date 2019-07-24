@@ -9,7 +9,7 @@ event:
 	end: 04-05-2019 17:00
 	location: 'St.-Michaels-Heim'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

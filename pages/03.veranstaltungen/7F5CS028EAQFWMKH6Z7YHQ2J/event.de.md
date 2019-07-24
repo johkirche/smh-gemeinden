@@ -9,7 +9,7 @@ event:
 	end: 06-03-2019 21:00
 	location: 'St.-Michaels-Heim Jugendraum und KiGo-Saal Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

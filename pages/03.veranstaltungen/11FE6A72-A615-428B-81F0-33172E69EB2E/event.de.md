@@ -9,7 +9,7 @@ event:
 	end: 06-01-2019 14:00
 	location: 'Gemeinderaum SMH Rezeption Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

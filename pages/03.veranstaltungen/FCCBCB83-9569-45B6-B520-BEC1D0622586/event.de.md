@@ -9,7 +9,7 @@ event:
 	end: 10-11-2019 18:00
 	location: 'Nach Vereinbahrung'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

@@ -9,7 +9,7 @@ event:
 	end: 02-11-2019 18:00
 	location: 'Waldfrieden 52 14959 Blankensee, Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

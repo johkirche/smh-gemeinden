@@ -9,7 +9,7 @@ event:
 	end: 07-06-2019 21:30
 	location: 'Jugendraum'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

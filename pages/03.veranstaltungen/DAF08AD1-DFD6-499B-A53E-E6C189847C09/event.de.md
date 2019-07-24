@@ -9,7 +9,7 @@ event:
 	end: 25-05-2019 13:30
 	location: 'Jugendraum'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

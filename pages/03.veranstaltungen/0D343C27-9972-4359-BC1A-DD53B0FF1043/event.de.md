@@ -9,7 +9,7 @@ event:
 	end: 06-05-2019 20:30
 	location: 'St.-Michaels-Heim Salon Mendelssohn Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

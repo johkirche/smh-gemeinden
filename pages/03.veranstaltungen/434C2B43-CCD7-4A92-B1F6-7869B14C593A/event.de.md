@@ -9,7 +9,7 @@ event:
 	end: 15-06-2019 23:00
 	location: ''
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

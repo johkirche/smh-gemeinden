@@ -9,7 +9,7 @@ event:
 	end: 16-01-2019 19:30
 	location: 'SMH - Bismarckzimmer Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

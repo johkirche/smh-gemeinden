@@ -9,7 +9,7 @@ event:
 	end: 23-02-2019 18:00
 	location: 'SMH Rezeption Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

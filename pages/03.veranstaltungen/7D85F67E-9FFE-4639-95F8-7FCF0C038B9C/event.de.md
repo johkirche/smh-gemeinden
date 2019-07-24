@@ -9,7 +9,7 @@ event:
 	end: 10-06-2019 14:00
 	location: 'Park'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

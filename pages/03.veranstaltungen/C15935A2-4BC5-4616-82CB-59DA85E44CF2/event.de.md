@@ -9,7 +9,7 @@ event:
 	end: 10-06-2019 14:15
 	location: 'Nach Vereinbahrung'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

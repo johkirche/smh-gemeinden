@@ -9,7 +9,7 @@ event:
 	end: 27-10-2019 18:00
 	location: 'St.-Michaels-Heim  114 Salon Medelssohn  Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

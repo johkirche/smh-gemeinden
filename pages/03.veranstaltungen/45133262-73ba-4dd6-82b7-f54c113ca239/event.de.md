@@ -9,7 +9,7 @@ event:
 	end: 29-03-2019 22:00
 	location: ''
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

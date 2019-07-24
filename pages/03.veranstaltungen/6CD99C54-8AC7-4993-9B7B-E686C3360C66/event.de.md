@@ -9,7 +9,7 @@ event:
 	end: 11-04-2019 20:00
 	location: 'Christengemeinschaft Berlin-Wilmersdorf, Ruhrstrasse 10, 10709 Berlin'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

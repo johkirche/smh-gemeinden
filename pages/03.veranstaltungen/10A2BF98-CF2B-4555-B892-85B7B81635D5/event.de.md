@@ -9,7 +9,7 @@ event:
 	end: 16-08-2019 18:00
 	location: 'Roter Platz (Treffpunkt)'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---

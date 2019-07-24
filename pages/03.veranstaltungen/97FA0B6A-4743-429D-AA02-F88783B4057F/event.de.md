@@ -9,7 +9,7 @@ event:
 	end: 08-06-2019 16:00
 	location: 'Kirche im Waldfrieden 52, 14959 Blankensee'
 taxonomy:
-	category: veranstaltungen
+	category: 
 	tag: 
 
 ---
