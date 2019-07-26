@@ -13,7 +13,7 @@ taxonomy:
 	tag: 
 
 ---
-Alle Geschwister und Freunde sind herzlich zur diesjährigen gemeinsamen Jahresplanbesprechung eingeladen. Auf Grundlage der Vorarbeit der vielen Arbeitsgruppen wird das Ergebnis der zusammengetragenen Wünsche und Vorschläge vorgestellt und eventuell entstehende Terminkonpflikte gelöst. Wir freuen uns auf einen fröhlihen Austausch.
+Alle Geschwister und Freunde sind herzlich zur diesjährigen gemeinsamen Jahresplanbesprechung eingeladen. Auf Grundlage der Vorarbeit der vielen Arbeitsgruppen wird das Ergebnis der zusammengetragenen Wünsche und Vorschläge vorgestellt und eventuell entstehende Terminkonflikte gelöst. Wir freuen uns auf einen fröhlihen Austausch.
 
 
 **Veranstaltungsort:** Salon Mendelssohn
