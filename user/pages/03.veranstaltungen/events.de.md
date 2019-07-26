@@ -1,26 +1,5 @@
 {% embed 'partials/base.html.twig' %}
 
-{# get the featured events #}
-{% set featured_events =
-  page.collection({
-    'items': {
-      '@taxonomy': {
-        'type': 'event',
-        'category': 'featured'
-      }
-    },
-    'dateRange': {
-      'start': datetools.today|date('m/d/Y'),
-      'end': datetools.parseDate('+1 month')|date('m/d/Y')
-    },
-    'order': {
-      'by': 'date',
-      'dir': 'asc'
-    },
-    'limit': 3
-  })
-%}
-
 {# get events by taxonomy #}
 {% set events =
     page.collection({
@@ -46,46 +25,15 @@
 
   <div class="events-container">
 
+    <h1 class="center">ljl{{page.title}}</h1>
     <header>
-      <h1 class="center">{{ page.title }}</h1>
-      <p class="center">vom {{datetools.today|date('d.m.Y')}} bis {{datetools.endOfYear|date('d.m.Y')}}</p>
+      <p class="center">vom {{datetools.today|date('d.m.Y')}} bis {{"now + 1 year"|date("d.m.Y")}}</p>
       <p class="warning"><strong>Diese Seite befindet sich im Aufbau. Deshalb kann es bei den Terminen noch zu Abweichungen kommen.</strong></p>
     </header>
 
     <section class="featured-events">
     Filtern nach Monat
-    {% include 'partials/archives.html.twig' %}
-    {% include 'partials/taxonomylistManual.html.twig' with {base_url: page.url, taxonomy: 'tag' } %}
-
-      {% for event in featured_events %}
-        <article class="featured-event">
-          <div class="featured-event-masthead">
-            {% set image = event.media.images|first %}
-            {% if image != null %}
-              {{ image.cropZoom(1200,500).html }}
-            {% endif %}
-            <h3 class="featured-event-title"><a href="{{ event.url }}">{{ event.title }}</a></h3>
-          </div>
-
-          <div class="featured-event-content">
-
-            <ul class="event-meta-information">
-              <li class="when"><i class="fa fa-calendar"></i> {{ event.header.event.start|date(J, d) }}</li>
-              {% if event.header.event.location %}
-                <li class="where"><i class="fa fa-location-arrow"></i> {{ event.header.event.location }}</li>
-              {% endif %}
-            </ul>
-
-            {{ event.summary(200) }}
-
-            <p>
-              <a href="{{ event.url }}" class="event-button" />{{ 'PLUGIN_EVENTS.EVENTS.BUTTON'|t }}</a>
-            </p>
-
-          </div>
-        </article>
-      {% endfor %}
-
+    {# include 'partials/taxonomylistManual.html.twig' with {base_url: page.url, taxonomy: 'tag' } #}
     </section>
 
     <section class="events-listing">

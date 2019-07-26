@@ -13,6 +13,7 @@ namespace Grav\Framework\Flex\Traits;
 
 use Grav\Common\Grav;
 use Grav\Common\User\Interfaces\UserInterface;
+use Grav\Framework\Flex\FlexDirectory;
 use Grav\Framework\Flex\Interfaces\FlexObjectInterface;
 
 /**
@@ -25,6 +26,7 @@ trait FlexAuthorizeTrait
     public function isAuthorized(string $action, string $scope = null, UserInterface $user = null) : bool
     {
         if (null === $user) {
+            /** @var UserInterface $user */
             $user = Grav::instance()['user'];
         }
 
@@ -44,7 +46,11 @@ trait FlexAuthorizeTrait
             $action = $this->exists() ? 'update' : 'create';
         }
 
-        return $user->authorize(sprintf($this->_authorize, $scope, $action));
+        $directory = $this instanceof FlexDirectory ? $this : $this->getFlexDirectory();
+        $config = $directory->getConfig();
+        $allowed = $config->get("{$scope}.actions.{$action}") ?? $config->get("actions.{$action}") ?? true;
+
+        return $allowed && $user->authorize(sprintf($this->_authorize, $scope, $action));
     }
 
     protected function setAuthorizeRule(string $authorize) : void

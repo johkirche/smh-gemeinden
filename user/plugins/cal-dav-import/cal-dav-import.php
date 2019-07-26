@@ -207,6 +207,7 @@ event:
 \tlocation: '$cleanedLocation'
 taxonomy:
 \tcategory: $category
+\ttag: 
 
 ---
 $event->description
