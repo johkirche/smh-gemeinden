@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include 'partials/metadata.html.twig' %}
 
-    <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}" />
+    <link rel="icon" type="image/png" href="{{ url('theme://images/smh-favicon.png') }}" />
     <link rel="canonical" href="{{ page.url(true, true) }}" />
 
     {% block stylesheets %}
@@ -74,7 +74,7 @@
         {% block body %}
             <section id="body-wrapper" class="section">
             <div class="hero-image">
-                <img src="{{ url('theme://images/header/smh-strassenansicht.jpg') }}" alt="SMH Straßenansicht" width="100%">
+                <a href="/" title="Zurück zur Startseite"><img src="{{ url('theme://images/header/logo_smh_gemeinden.png') }}" alt="SMH Gemeinden Logo" class="center"></a>
             </div>
                 <section class="container {{ grid_size }}">
                     {% block messages %}

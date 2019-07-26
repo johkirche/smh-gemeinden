@@ -1,3 +1,36 @@
+# v1.6.11
+## 06/21/2019
+
+1. [](#new)
+    * Added `FormTrait::getAllFlashes()` method to get all the available form flash objects for the form
+    * Added creation and update timestamps to `FormFlash` objects
+1. [](#improved)
+    * Added `FormFlashInterface`, changed constructor to take `$config` array
+1. [](#bugfix)
+    * Fixed error in `ImageMedium::url()` if the image cache folder does not exist
+    * Fixed empty form flash name after file upload or form state update
+    * Fixed a bug in `Route::withParam()` method
+    * Fixed issue with `FormFlash` objects when there is no session initialized
+
+# v1.6.10
+## 06/14/2019
+
+1. [](#improved)
+    * Added **page blueprints** to `YamlLinter` CLI and Admin reports
+    * Removed `Gitter` and `Slack` [#2502](https://github.com/getgrav/grav/issues/2502)
+    * Optimizations for Plugin/Theme loading
+    * Generalized markdown classes so they can be used outside of `Page` scope with a custom `Excerpts` class instance
+    * Change minimal port number to 0 (unix socket) [#2452](https://github.com/getgrav/grav/issues/2452)
+1. [](#bugfix)
+    * Force question to install demo content in theme update [#2493](https://github.com/getgrav/grav/issues/2493)
+    * Fixed GPM errors from blueprints not being logged [#2505](https://github.com/getgrav/grav/issues/2505)
+    * Don't error when IP is invalid [#2507](https://github.com/getgrav/grav/issues/2507)
+    * Fixed regression with `bin/plugin` not listing the plugins available (1c725c0)
+    * Fixed bitwise operator in `TwigExtension::exifFunc()` [#2518](https://github.com/getgrav/grav/issues/2518)
+    * Fixed issue with lang prefix incorrectly identifying as admin [#2511](https://github.com/getgrav/grav/issues/2511)
+    * Fixed issue with `U0ils::pathPrefixedBYLanguageCode()` and trailing slash [#2510](https://github.com/getgrav/grav/issues/2511) 
+    * Fixed regresssion issue of `Utils::Url()` not returning `false` on failure. Added new optional `fail_gracefully` 3rd attribute to return string that caused failure [#2524](https://github.com/getgrav/grav/issues/2524)
+
 # v1.6.9
 ## 05/09/2019
 
