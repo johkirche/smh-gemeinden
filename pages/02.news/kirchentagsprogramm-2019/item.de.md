@@ -12,4 +12,4 @@ Das Programmheft für die Kirchentagswoche 2019 wird seit vergangenem Wochenende
 Es bietet eine tägliche Programmübersicht und mit den Kurzinformationen wieder einen Überblick über Vorträge und Gesprächskreise für Erwachsene, Jugendliche und Kinder sowie über das kulturelle Programm an den beiden Veranstaltungsorten St.-Michaels-Heim und Friedensstadt mit dem Waldfrieden.
 Das Programmheft wird kostenfrei verteilt. Einzelne Exemplare können bei Weg und Ziel mit einem frankierten Rückumschlag (1,55 Euro) an 
 Weg und Ziel, Am Glauer Hof 1, 14959 Trebbin, bestellt werden.  
-Aktualisierungen werden ab Anfang August im Internet unter www.johannischer-kirchentag.de veröffentlicht.
+Aktualisierungen werden ab Anfang August im Internet unter [www.johannischer-kirchentag.de](http://www.johannischer-kirchentag.de) veröffentlicht.
