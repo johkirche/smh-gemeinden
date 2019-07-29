@@ -19,6 +19,7 @@
         {% else %}
             {{ page.content|raw }}
         {% endif %}
+        <a href="{{ page.url }}">mehr</a>
     </div>
     <div class="card-footer">
         {% include 'partials/blog/taxonomy.html.twig' %}
