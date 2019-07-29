@@ -1,6 +1,5 @@
 ---
-title: Test
+title: 'Aufruf Kirchentagsspende'
 visible: true
 ---
 
-thisi is a test
