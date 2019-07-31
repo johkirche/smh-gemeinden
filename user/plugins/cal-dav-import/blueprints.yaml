@@ -1,6 +1,6 @@
 name: Cal DAV Import
 version: 0.1.0
-description: The plugin imports external CalDAV events as separate pages
+description: The plugin imports events in .ical format from external CalDAV resources
 icon: plug
 author:
   name: Samuel Stein
@@ -30,6 +30,29 @@ form:
         0: PLUGIN_ADMIN.DISABLED
       validate:
         type: bool
+    scheduler.enabled:
+      type: toggle
+      label: Enable Import Scheduled Job
+      help: Use the Grav Scheduler to kick off a background Import job
+      highlight: 1
+      default: 1
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
+    scheduler.at:
+      type: cron
+      label: Scheduled Job Frequency
+      size: medium
+      help: Use 'cron' format
+      default: '*/5 * * * *'
+      placeholder: '*/5 * * * *'
+    scheduler.logs:
+      type: text
+      label: Scheduled Job Log File
+      placeholder: 'logs/cal-dav-import-job.out'
+      size: medium
     caldav-url:
       type: text
       label: CalDAV URL
@@ -54,17 +77,6 @@ form:
         type: text
         min: 0
         max: 25
-    caldav-refresh-interval:
-      type: text
-      label: Refresh interval
-      size: x-small
-      append: minutes
-      default: 1
-      validate:
-        required: true
-        type: int
-        min: 1
-        max: 1440
     folder-name:
       type: text
       label: Parent folder name

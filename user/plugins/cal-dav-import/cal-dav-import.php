@@ -30,6 +30,7 @@ class CalDAVImportPlugin extends Plugin {
      * higher the number the higher the priority. */
     public static function getSubscribedEvents() {
         return [
+            'onSchedulerInitialized'    => ['onSchedulerInitialized', 0],
             'onPluginsInitialized' => ['onPluginsInitialized', 0]
         ];
     }
@@ -79,10 +80,35 @@ class CalDAVImportPlugin extends Plugin {
     public function onPageInitialized()
     {
         // Initialize plugin
-        if($this->needsEventRefresh()){
+        /*if($this->needsEventRefresh()){
         	$this->removeEvents();
-          	$this->importEvents();
-        }
+          $this->importEvents();
+        }*/
+    }
+
+    /**
+     * Run event import as scheduler job
+     * Requires Grav 1.6.0 - Scheduler
+     */
+    public function onSchedulerInitialized(Event $e)
+    {
+      if ($this->config->get('plugins.cal-dav-import.scheduler.enabled')) {
+        $scheduler = $e['scheduler'];
+        $at = $this->config->get('plugins.cal-dav-import.scheduler.at');
+        $logs = $this->config->get('plugins.cal-dav-import.scheduler.logs');
+        $job = $scheduler->addFunction('Grav\Plugin\CalDAVImportPlugin::refreshEvents', [], 'updateEvents');
+        $job->at($at);
+        $job->output($logs);
+        $job->backlink('/plugins/cal-dav-import');
+      }
+    }
+
+    public static function refreshEvents(){
+      $grav = Grav::instance();
+      $grav['debugger']->enabled(false);
+
+      static::removeEvents($grav);
+      static::importEvents($grav);
     }
 
     public function needsEventRefresh(){
@@ -105,27 +131,27 @@ class CalDAVImportPlugin extends Plugin {
       return false;
     }
 
-    public function removeEvents(){
-      $path = $this->grav['locator']->findResource('user://pages/'.$this->grav['config']->get('plugins.cal-dav-import.folder-name'), true);
+    public static function removeEvents($grav){
+      $path = $grav['locator']->findResource('user://pages/'.$grav['config']->get('plugins.cal-dav-import.folder-name'), true);
       //var_dump($path);
-      $this->rrmdir($path);
+      static::rrmdir($path);
     }
 
-    public function rrmdir($dir) { 
+    public static function rrmdir($dir) { 
 	   if (is_dir($dir)) { 
 	     $objects = scandir($dir); 
 	     //var_dump($objects);
 	     foreach ($objects as $object) { 
 	       if ($object != "." && $object != "..") { 
 	         if (is_dir($dir."/".$object))
-	           $this->rrmdir($dir."/".$object);
+	           static::rrmdir($dir."/".$object);
 	         else
 	         	if(!(strcasecmp($object, "events.de.md") == 0) && !(strcasecmp($object, ".importlog") == 0)){
 	           		unlink($dir."/".$object); 
 	         	}
 	       } 
        }
-       if($this->dir_is_empty($dir)){
+       if(static::dir_is_empty($dir)){
         rmdir($dir);
        }
 	   } 
@@ -137,7 +163,7 @@ class CalDAVImportPlugin extends Plugin {
    * @param string $dirname
    * @return bool
    */
-  public function dir_is_empty($dirname)
+  public static function dir_is_empty($dirname)
   {
     if (!is_dir($dirname)) return false;
     foreach (scandir($dirname) as $file)
@@ -147,7 +173,7 @@ class CalDAVImportPlugin extends Plugin {
     return true;
   }
 
-    public function importEvents() {
+    public static function importEvents($grav) {
         try {
             $ical = new ICal(array(
                 'defaultSpan' => 2, // Default value
@@ -160,7 +186,7 @@ class CalDAVImportPlugin extends Plugin {
                 'skipRecurrence' => false, // Default value
                 'useTimeZoneWithRRules' => false, // Default value
             ));
-            $ical->initUrl($this->grav['config']->get('plugins.cal-dav-import.caldav-url'), $this->grav['config']->get('plugins.cal-dav-import.caldav-user'), $this->grav['config']->get('plugins.cal-dav-import.caldav-password'));
+            $ical->initUrl($grav['config']->get('plugins.cal-dav-import.caldav-url'), $grav['config']->get('plugins.cal-dav-import.caldav-user'), $grav['config']->get('plugins.cal-dav-import.caldav-password'));
             
             if($ical->hasEvents()){
                 //$events = $ical->events();
@@ -175,7 +201,7 @@ class CalDAVImportPlugin extends Plugin {
                     $parsedStartDate = $dtstart->format('d-m-y');
                     $parsedStartDateTime = $dtstart->format('d-m-Y H:i');
                     $parsedEndDateTime = $dtend->format('d-m-Y H:i');
-                    $month = $this->grav['language']->translateArray('MONTHS_OF_THE_YEAR', $dtstart->format('n') - 1, 'de');
+                    $month = $grav['language']->translateArray('MONTHS_OF_THE_YEAR', $dtstart->format('n') - 1, 'de');
                     $year = $dtstart->format('Y');
                     $category = $event->categories;
                     $frequency = "";
@@ -198,6 +224,7 @@ class CalDAVImportPlugin extends Plugin {
 ---
 title: $event->summary
 visible: true
+cache_enable: true
 ics: $eventIcsFile
 date: $parsedStartDate
 rule: $event->rrule
@@ -264,15 +291,15 @@ EOT;
                     
                     $pages->addPage($page, $path);*/
 
-                    $locator = $this->grav['locator'];
-                    $path = $locator->findResource('user://pages/'.$this->grav['config']->get('plugins.cal-dav-import.folder-name'), true);
+                    $locator = $grav['locator'];
+                    $path = $locator->findResource('user://pages/'.$grav['config']->get('plugins.cal-dav-import.folder-name'), true);
                     $dir = $path . DS . $dirname;
                     $fullFileName = $dir. DS . $filename;
 
                     $file = File::instance($fullFileName);
                     $file->save($data);
                 }
-                $this->writeImportLog($ical->eventCount);
+                static::writeImportLog($grav, $ical->eventCount);
             }
 
         } catch (\Exception $e) {
@@ -307,10 +334,10 @@ EOT;
   return $text;
 }
 
-public function writeImportLog($count){
+public static function writeImportLog($grav, $count){
   $data=$count." events successfully imported";
-  $locator = $this->grav['locator'];
-                    $path = $locator->findResource('user://pages/'.$this->grav['config']->get('plugins.cal-dav-import.folder-name'), true);
+  $locator = $grav['locator'];
+                    $path = $locator->findResource('user://pages/'.$grav['config']->get('plugins.cal-dav-import.folder-name'), true);
                     //$dir = $path . DS . $dirname;
                     $fullFileName = $path . DS . ".importlog";
                     file_put_contents($fullFileName, $data);
