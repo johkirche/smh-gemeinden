@@ -1,5 +1,6 @@
 ---
 title: 'Kirchentagsprogramm 2019'
+media_order: '2019-07-26 Programmhäft KiTaWo.pdf'
 published: true
 publish_date: '29-07-2019 20:58'
 unpublish_date: '25-08-2019 20:59'
