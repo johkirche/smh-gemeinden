@@ -1,6 +1,5 @@
 ---
 title: 'Kirchentagsprogramm 2019'
-media_order: '2019-07-26 Programmhäft KiTaWo.pdf'
 published: true
 publish_date: '29-07-2019 20:58'
 unpublish_date: '25-08-2019 20:59'
@@ -14,3 +13,4 @@ Es bietet eine tägliche Programmübersicht und mit den Kurzinformationen wieder
 Das Programmheft wird kostenfrei verteilt. Einzelne Exemplare können bei Weg und Ziel mit einem frankierten Rückumschlag (1,55 Euro) an 
 Weg und Ziel, Am Glauer Hof 1, 14959 Trebbin, bestellt werden.  
 Aktualisierungen werden ab Anfang August im Internet unter [www.johannischer-kirchentag.de](http://www.johannischer-kirchentag.de) veröffentlicht.
+Alle die es nicht warten können, bis sie ihr gedrucktes Exemplar in den Händen halten, können [https://cloud.johannische-kirche.org/index.php/s/6yXZTGDtgopDoQF](hier) einen Blick in das digitale Programmheft werfen.
