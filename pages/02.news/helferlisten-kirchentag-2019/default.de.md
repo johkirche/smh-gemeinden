@@ -1,6 +1,7 @@
 ---
 title: 'Helferlisten Kirchentag 2019'
 published: true
+visible: true
 ---
 
 Liebe Geschwister und Freunde,
