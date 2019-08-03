@@ -13,4 +13,4 @@ Es bietet eine tägliche Programmübersicht und mit den Kurzinformationen wieder
 Das Programmheft wird kostenfrei verteilt. Einzelne Exemplare können bei Weg und Ziel mit einem frankierten Rückumschlag (1,55 Euro) an 
 Weg und Ziel, Am Glauer Hof 1, 14959 Trebbin, bestellt werden.  
 Aktualisierungen werden ab Anfang August im Internet unter [www.johannischer-kirchentag.de](http://www.johannischer-kirchentag.de) veröffentlicht.
-Alle die es nicht warten können, bis sie ihr gedrucktes Exemplar in den Händen halten, können [https://cloud.johannische-kirche.org/index.php/s/6yXZTGDtgopDoQF](hier) einen Blick in das digitale Programmheft werfen.
+Alle die es nicht warten können, bis sie ihr gedrucktes Exemplar in den Händen halten, können [hier](https://cloud.johannische-kirche.org/index.php/s/6yXZTGDtgopDoQF) einen Blick in das digitale Programmheft werfen.
