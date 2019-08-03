@@ -15,4 +15,4 @@ Weg und Ziel, Am Glauer Hof 1, 14959 Trebbin, bestellt werden.
 
 Aktualisierungen werden ab Anfang August im Internet unter [www.johannischer-kirchentag.de](http://www.johannischer-kirchentag.de) veröffentlicht.
 
-Alle die es nicht warten können, bis sie ihr gedrucktes Exemplar in den Händen halten, können [hier](https://cloud.johannische-kirche.org/index.php/s/6yXZTGDtgopDoQF) einen Blick in das digitale Programmheft werfen.
+Alle die die Spannung bis zu dem Moment, in dem sie ihr gedrucktes Exemplar in den Händen halten, kaum aushalten können, finden [hier](https://cloud.johannische-kirche.org/index.php/s/6yXZTGDtgopDoQF) den Link für einen Blick in das digitale Programmheft.
