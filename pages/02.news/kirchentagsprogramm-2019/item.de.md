@@ -1,5 +1,6 @@
 ---
 title: 'Kirchentagsprogramm 2019'
+media_order: 'Bildschirmfoto 2019-08-04 um 16.30.43.png'
 published: true
 date: '29-07-2019 20:58'
 unpublish_date: '26-08-2019 00:00'
@@ -16,3 +17,5 @@ Weg und Ziel, Am Glauer Hof 1, 14959 Trebbin, bestellt werden.
 Aktualisierungen werden ab Anfang August im Internet unter [www.johannischer-kirchentag.de](http://www.johannischer-kirchentag.de) veröffentlicht.
 
 Alle die die Spannung bis zu dem Moment, in dem sie ihr gedrucktes Exemplar in den Händen halten, kaum aushalten können, klicken [hier](https://cloud.johannische-kirche.org/index.php/s/6yXZTGDtgopDoQF) und finden das digitale Programmheft.
+
+![](Bildschirmfoto%202019-08-04%20um%2016.30.43.png)
