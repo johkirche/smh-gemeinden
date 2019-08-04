@@ -1,6 +1,5 @@
 ---
 title: 'Kirchentagsprogramm 2019'
-media_order: 'Bildschirmfoto 2019-08-04 um 16.30.43.png'
 published: true
 date: '29-07-2019 20:58'
 unpublish_date: '26-08-2019 00:00'
