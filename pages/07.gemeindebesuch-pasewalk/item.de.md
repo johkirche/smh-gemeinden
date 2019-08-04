@@ -23,7 +23,7 @@ Doch was machen wir eigentlich?
 * 13:30 Uhr: Floßfahrt auf der Uecker
 * 17:00 Uhr: Kaffee & Kuchen auf dem Gemeindegrundstück (Kuchenspenden sind herzlich willkommen)
 * 18:30 Uhr: Abfahrt nach einem wunderschönen Tag in der Gemeinschaft nach Berlin
-*  ca. 21:00 Uhr: Ankunft im St.-Michaels-Heim
+* ca. 21:00 Uhr: Ankunft im St.-Michaels-Heim
 
 Wie Ihr der Anmeldung entnehmen könnt bitten wir um einen Unkostenbeitrag. Wie immer gilt, dass eine Teilnahme nicht an finanziellen Gründen scheitern soll. Bitte gebt uns kurz Bescheid, wir finden eine Lösung.
 
