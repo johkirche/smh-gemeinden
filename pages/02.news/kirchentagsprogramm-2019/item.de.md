@@ -3,7 +3,7 @@ title: 'Kirchentagsprogramm 2019'
 published: true
 date: '29-07-2019 20:58'
 publish_date: '29-07-2019 20:58'
-unpublish_date: '25-08-2019 20:59'
+unpublish_date: '26-08-2019 20:59'
 visible: true
 hero_classes: hero-fullscreen
 show_sidebar: false
