@@ -1,5 +1,8 @@
 ---
 title: 'Gemeindebesuch Pasewalk'
+published: true
+external_links:
+    process: true
 ---
 
 ### Wir fahren nach Lübs
