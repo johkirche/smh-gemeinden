@@ -6,7 +6,7 @@ unpublish_date: '15-09-2019 23:59'
 external_links:
     process: true
 visible: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 ### Wir fahren nach Lübs
