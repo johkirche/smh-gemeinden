@@ -1,6 +1,12 @@
 ---
 title: 'Gemeindekegeln Neuköln und Tempelhof'
+published: true
+date: '06-08-2019 09:53'
+unpublish_date: '04-09-2019 00:00'
+external_links:
+    process: false
 visible: true
+show_sidebar: false
 ---
 
 Liebe Geschwister und Freunde der Gemeinden Neukölln und Tempelhof,
