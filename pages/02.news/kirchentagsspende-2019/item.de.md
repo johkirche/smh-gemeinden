@@ -17,9 +17,9 @@ Mögen wir alle im Glauben zusammenstehen und gemeinsam eine freimachende Kirche
 
 Die Spende kann bis zum Kirchentag, dem 25. August 2019, mit dem Vermerk „Kirchentagsspende 2019“ bar beim Gemeindekassierer eingezahlt oder auf folgendes Konto überwiesen werden:
 
-Bank für Sozialwirtschaftt,
-IBAN: DE61 1002 0500 0003 0144 01,
-BIC: BFSWDE33BER,    
-Empfänger: Johannische Kirche.  
+* Bank für Sozialwirtschaftt,
+* IBAN: DE61 1002 0500 0003 0144 01,
+* BIC: BFSWDE33BER,    
+* Empfänger: Johannische Kirche.  
 
 Vielen Dank und ein herzlich Gott zum Gruß!
