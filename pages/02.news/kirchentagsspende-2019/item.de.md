@@ -21,5 +21,4 @@ Die Spende kann bis zum Kirchentag, dem 25. August 2019, mit dem Vermerk „Kirc
 * BIC: BFSWDE33BER,    
 * Empfänger: Johannische Kirche.
 
-
 Vielen Dank und ein herzlich Gott zum Gruß!
