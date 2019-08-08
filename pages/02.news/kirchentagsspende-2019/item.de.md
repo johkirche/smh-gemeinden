@@ -19,6 +19,7 @@ Die Spende kann bis zum Kirchentag, dem 25. August 2019, mit dem Vermerk „Kirc
 * Bank für Sozialwirtschaftt,
 * IBAN: DE61 1002 0500 0003 0144 01,
 * BIC: BFSWDE33BER,    
-* Empfänger: Johannische Kirche.  
+* Empfänger: Johannische Kirche.
+
 
 Vielen Dank und ein herzlich Gott zum Gruß!
