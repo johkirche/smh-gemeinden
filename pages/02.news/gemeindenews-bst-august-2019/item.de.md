@@ -7,7 +7,7 @@ Liebe Freunde und liebe Geschwister,
 
 *Trommelwirbel* hier kommt der aktuelle Gemeindenewsletter der Gemeinde Steglitz!
 
-Link: [https://cloud.johannische-kirche.org/index.php/s/2Q2t32EpDHbNrTd](Gemeindenewsletter-BST-August-September)
+Link: [Gemeindenewsletter-BST-August-September](https://cloud.johannische-kirche.org/index.php/s/2Q2t32EpDHbNrTd)
 
 Enthalten sind viele aktuelle Infos zur Kirchentagswoche inklusive einer herzlichen Einladung euch in die Online-Helferlisten einzutragen. Zudem erhaltet ihr Neuigkeiten zu unserem Gemeindeausflug am 15.9. in die Gemeinde Pasewalk und last but not least einen Ausblick auf weitere Möglichkeiten im August und September im St.-Michaels-Heim zusammenzukommen.
 
