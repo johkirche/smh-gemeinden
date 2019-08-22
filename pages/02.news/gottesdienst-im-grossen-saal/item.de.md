@@ -4,7 +4,6 @@ published: true
 date: '22-08-2019 12:12'
 unpublish_date: '08-09-2019 12:12'
 visible: true
-show_sidebar: true
 show_breadcrumbs: true
 summary:
     enabled: '1'
