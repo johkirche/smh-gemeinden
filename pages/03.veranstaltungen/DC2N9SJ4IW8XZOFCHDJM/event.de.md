@@ -1,5 +1,5 @@
 ---
-title: Gemeindehelfer- und Gemeindeführertagung SMH-Gemeidnen
+title: Gemeindehelfer- und Gemeindeführertagung SMH-Gemeinden
 visible: true
 cache_enable: true
 ics: 
@@ -8,7 +8,7 @@ rule:
 event:
 	start: 11-09-2019 18:30
 	end: 11-09-2019 20:00
-	location: 'St.-Michaels-Heim Salon Mendelssohn Bismarkallee 2314193 Berlin'
+	location: 'St.-Michaels-Heim Salon Mendelssohn Bismarckallee 23 14193 Berlin'
 taxonomy:
 	category: Amtsträger
 	tag: 
@@ -24,5 +24,5 @@ die erste im neuen Kirchenjahr, möchten wir gemeinsam mit einigen weiteren Gäs
 -Besprechung eines Wunsches aus der Gemeinde, der das Thema Arbeitseinsätze betrifft. (wenn wir das nicht schon bei der ersten Tagung behandeln)
 
 
-**Veranstaltungsort:** St.-Michaels-Heim Salon Mendelssohn Bismarkallee 2314193 Berlin
+**Veranstaltungsort:** St.-Michaels-Heim Salon Mendelssohn Bismarckallee 23 14193 Berlin
 

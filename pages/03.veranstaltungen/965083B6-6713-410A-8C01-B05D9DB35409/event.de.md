@@ -1,5 +1,5 @@
 ---
-title: Gemeindekegeln Neuköln und Tempelhof
+title: Gemeindekegeln Neukölln und Tempelhof
 visible: true
 cache_enable: true
 ics: 
