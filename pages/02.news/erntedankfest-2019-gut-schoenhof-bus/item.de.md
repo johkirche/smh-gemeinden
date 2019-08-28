@@ -7,6 +7,7 @@ unpublish_date: '30-09-2019 00:00'
 external_links:
     process: true
 visible: true
+show_sidebar: false
 ---
 
 ### Erntedankfest 2019 auf Gut Schönhof
