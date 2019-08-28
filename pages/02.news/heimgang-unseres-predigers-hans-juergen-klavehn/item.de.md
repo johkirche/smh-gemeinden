@@ -1,5 +1,7 @@
 ---
 title: 'Heimgang unseres Predigers Hans-Jürgen Klavehn'
+date: '28-08-2019 15:24'
+unpublish_date: '01-09-2019 00:00'
 show_sidebar: false
 ---
 
