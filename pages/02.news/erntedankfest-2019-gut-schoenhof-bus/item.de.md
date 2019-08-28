@@ -1,5 +1,5 @@
 ---
-title: 'Erntedankfest 2019 Gut Schönhof Bus'
+title: 'Erntedankfest 2019 - Mit dem Bus zum Gut Schönhof'
 visible: true
 ---
 
