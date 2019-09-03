@@ -3,11 +3,11 @@
  * This PHP class will read an ICS (`.ics`, `.ical`, `.ifb`) file, parse it and return an
  * array of its contents.
  *
- * PHP 5 (≥ 5.3.0)
+ * PHP 5 (≥ 5.3.9)
  *
  * @author  Jonathan Goode <https://github.com/u01jmg3>
  * @license https://opensource.org/licenses/mit-license.php MIT License
- * @version 2.1.8
+ * @version 2.1.13
  */
 
 namespace ICal;
@@ -16,7 +16,7 @@ use Carbon\Carbon;
 
 class ICal
 {
-    // phpcs:disable Generic.Arrays.DisallowLongArraySyntax.Found
+    // phpcs:disable Generic.Arrays.DisallowLongArraySyntax
 
     const DATE_TIME_FORMAT        = 'Ymd\THis';
     const DATE_TIME_FORMAT_PRETTY = 'F Y H:i:s';
@@ -99,13 +99,6 @@ class ICal
     public $disableCharacterReplacement = false;
 
     /**
-     * Toggles whether to replace (non-CLDR) Windows time zone IDs with their IANA equivalent.
-     *
-     * @var boolean
-     */
-    public $replaceWindowsTimeZoneIds = false;
-
-    /**
      * With this being non-null the parser will ignore all events more than roughly this many days after now.
      *
      * @var integer
@@ -141,11 +134,11 @@ class ICal
     protected $lastKeyword;
 
     /**
-     * Cache valid time zones to avoid unnecessary lookups
+     * Cache valid IANA time zone IDs to avoid unnecessary lookups
      *
      * @var array
      */
-    protected $validTimeZones = array();
+    protected $validIanaTimeZones = array();
 
     /**
      * Event recurrence instances that have been altered
@@ -173,13 +166,15 @@ class ICal
      * @var array
      */
     protected $weekdays = array(
-        'SU' => 'sunday',
-        'MO' => 'monday',
-        'TU' => 'tuesday',
-        'WE' => 'wednesday',
-        'TH' => 'thursday',
-        'FR' => 'friday',
-        'SA' => 'saturday',
+        'SU'      => 'sunday of',
+        'MO'      => 'monday of',
+        'TU'      => 'tuesday of',
+        'WE'      => 'wednesday of',
+        'TH'      => 'thursday of',
+        'FR'      => 'friday of',
+        'SA'      => 'saturday of',
+        'day'     => 'day of',
+        'weekday' => 'weekday',
     );
 
     /**
@@ -234,6 +229,13 @@ class ICal
     protected $httpBasicAuth = array();
 
     /**
+     * Holds the custom User Agent string header
+     *
+     * @var string
+     */
+    protected $httpUserAgent = null;
+
+    /**
      * Define which variables can be configured
      *
      * @var array
@@ -245,9 +247,122 @@ class ICal
         'disableCharacterReplacement',
         'filterDaysAfter',
         'filterDaysBefore',
-        'replaceWindowsTimeZoneIds',
         'skipRecurrence',
         'useTimeZoneWithRRules',
+    );
+
+    /**
+     * CLDR time zones mapped to IANA time zones.
+     *
+     * @var array
+     */
+    private static $cldrTimeZonesMap = array(
+        '(UTC-12:00) International Date Line West'                      => 'Etc/GMT+12',
+        '(UTC-11:00) Coordinated Universal Time-11'                     => 'Etc/GMT+11',
+        '(UTC-10:00) Hawaii'                                            => 'Pacific/Honolulu',
+        '(UTC-09:00) Alaska'                                            => 'America/Anchorage',
+        '(UTC-08:00) Pacific Time (US & Canada)'                        => 'America/Los_Angeles',
+        '(UTC-07:00) Arizona'                                           => 'America/Phoenix',
+        '(UTC-07:00) Chihuahua, La Paz, Mazatlan'                       => 'America/Chihuahua',
+        '(UTC-07:00) Mountain Time (US & Canada)'                       => 'America/Denver',
+        '(UTC-06:00) Central America'                                   => 'America/Guatemala',
+        '(UTC-06:00) Central Time (US & Canada)'                        => 'America/Chicago',
+        '(UTC-06:00) Guadalajara, Mexico City, Monterrey'               => 'America/Mexico_City',
+        '(UTC-06:00) Saskatchewan'                                      => 'America/Regina',
+        '(UTC-05:00) Bogota, Lima, Quito, Rio Branco'                   => 'America/Bogota',
+        '(UTC-05:00) Chetumal'                                          => 'America/Cancun',
+        '(UTC-05:00) Eastern Time (US & Canada)'                        => 'America/New_York',
+        '(UTC-05:00) Indiana (East)'                                    => 'America/Indianapolis',
+        '(UTC-04:00) Asuncion'                                          => 'America/Asuncion',
+        '(UTC-04:00) Atlantic Time (Canada)'                            => 'America/Halifax',
+        '(UTC-04:00) Caracas'                                           => 'America/Caracas',
+        '(UTC-04:00) Cuiaba'                                            => 'America/Cuiaba',
+        '(UTC-04:00) Georgetown, La Paz, Manaus, San Juan'              => 'America/La_Paz',
+        '(UTC-04:00) Santiago'                                          => 'America/Santiago',
+        '(UTC-03:30) Newfoundland'                                      => 'America/St_Johns',
+        '(UTC-03:00) Brasilia'                                          => 'America/Sao_Paulo',
+        '(UTC-03:00) Cayenne, Fortaleza'                                => 'America/Cayenne',
+        '(UTC-03:00) City of Buenos Aires'                              => 'America/Buenos_Aires',
+        '(UTC-03:00) Greenland'                                         => 'America/Godthab',
+        '(UTC-03:00) Montevideo'                                        => 'America/Montevideo',
+        '(UTC-03:00) Salvador'                                          => 'America/Bahia',
+        '(UTC-02:00) Coordinated Universal Time-02'                     => 'Etc/GMT+2',
+        '(UTC-01:00) Azores'                                            => 'Atlantic/Azores',
+        '(UTC-01:00) Cabo Verde Is.'                                    => 'Atlantic/Cape_Verde',
+        '(UTC) Coordinated Universal Time'                              => 'Etc/GMT',
+        '(UTC+00:00) Casablanca'                                        => 'Africa/Casablanca',
+        '(UTC+00:00) Dublin, Edinburgh, Lisbon, London'                 => 'Europe/London',
+        '(UTC+00:00) Monrovia, Reykjavik'                               => 'Atlantic/Reykjavik',
+        '(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna'  => 'Europe/Berlin',
+        '(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague' => 'Europe/Budapest',
+        '(UTC+01:00) Brussels, Copenhagen, Madrid, Paris'               => 'Europe/Paris',
+        '(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb'                  => 'Europe/Warsaw',
+        '(UTC+01:00) West Central Africa'                               => 'Africa/Lagos',
+        '(UTC+02:00) Amman'                                             => 'Asia/Amman',
+        '(UTC+02:00) Athens, Bucharest'                                 => 'Europe/Bucharest',
+        '(UTC+02:00) Beirut'                                            => 'Asia/Beirut',
+        '(UTC+02:00) Cairo'                                             => 'Africa/Cairo',
+        '(UTC+02:00) Chisinau'                                          => 'Europe/Chisinau',
+        '(UTC+02:00) Damascus'                                          => 'Asia/Damascus',
+        '(UTC+02:00) Harare, Pretoria'                                  => 'Africa/Johannesburg',
+        '(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius'     => 'Europe/Kiev',
+        '(UTC+02:00) Jerusalem'                                         => 'Asia/Jerusalem',
+        '(UTC+02:00) Kaliningrad'                                       => 'Europe/Kaliningrad',
+        '(UTC+02:00) Tripoli'                                           => 'Africa/Tripoli',
+        '(UTC+02:00) Windhoek'                                          => 'Africa/Windhoek',
+        '(UTC+03:00) Baghdad'                                           => 'Asia/Baghdad',
+        '(UTC+03:00) Istanbul'                                          => 'Europe/Istanbul',
+        '(UTC+03:00) Kuwait, Riyadh'                                    => 'Asia/Riyadh',
+        '(UTC+03:00) Minsk'                                             => 'Europe/Minsk',
+        '(UTC+03:00) Moscow, St. Petersburg, Volgograd'                 => 'Europe/Moscow',
+        '(UTC+03:00) Nairobi'                                           => 'Africa/Nairobi',
+        '(UTC+03:30) Tehran'                                            => 'Asia/Tehran',
+        '(UTC+04:00) Abu Dhabi, Muscat'                                 => 'Asia/Dubai',
+        '(UTC+04:00) Baku'                                              => 'Asia/Baku',
+        '(UTC+04:00) Izhevsk, Samara'                                   => 'Europe/Samara',
+        '(UTC+04:00) Port Louis'                                        => 'Indian/Mauritius',
+        '(UTC+04:00) Tbilisi'                                           => 'Asia/Tbilisi',
+        '(UTC+04:00) Yerevan'                                           => 'Asia/Yerevan',
+        '(UTC+04:30) Kabul'                                             => 'Asia/Kabul',
+        '(UTC+05:00) Ashgabat, Tashkent'                                => 'Asia/Tashkent',
+        '(UTC+05:00) Ekaterinburg'                                      => 'Asia/Yekaterinburg',
+        '(UTC+05:00) Islamabad, Karachi'                                => 'Asia/Karachi',
+        '(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi'               => 'Asia/Calcutta',
+        '(UTC+05:30) Sri Jayawardenepura'                               => 'Asia/Colombo',
+        '(UTC+05:45) Kathmandu'                                         => 'Asia/Katmandu',
+        '(UTC+06:00) Astana'                                            => 'Asia/Almaty',
+        '(UTC+06:00) Dhaka'                                             => 'Asia/Dhaka',
+        '(UTC+06:30) Yangon (Rangoon)'                                  => 'Asia/Rangoon',
+        '(UTC+07:00) Bangkok, Hanoi, Jakarta'                           => 'Asia/Bangkok',
+        '(UTC+07:00) Krasnoyarsk'                                       => 'Asia/Krasnoyarsk',
+        '(UTC+07:00) Novosibirsk'                                       => 'Asia/Novosibirsk',
+        '(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi'             => 'Asia/Shanghai',
+        '(UTC+08:00) Irkutsk'                                           => 'Asia/Irkutsk',
+        '(UTC+08:00) Kuala Lumpur, Singapore'                           => 'Asia/Singapore',
+        '(UTC+08:00) Perth'                                             => 'Australia/Perth',
+        '(UTC+08:00) Taipei'                                            => 'Asia/Taipei',
+        '(UTC+08:00) Ulaanbaatar'                                       => 'Asia/Ulaanbaatar',
+        '(UTC+09:00) Osaka, Sapporo, Tokyo'                             => 'Asia/Tokyo',
+        '(UTC+09:00) Pyongyang'                                         => 'Asia/Pyongyang',
+        '(UTC+09:00) Seoul'                                             => 'Asia/Seoul',
+        '(UTC+09:00) Yakutsk'                                           => 'Asia/Yakutsk',
+        '(UTC+09:30) Adelaide'                                          => 'Australia/Adelaide',
+        '(UTC+09:30) Darwin'                                            => 'Australia/Darwin',
+        '(UTC+10:00) Brisbane'                                          => 'Australia/Brisbane',
+        '(UTC+10:00) Canberra, Melbourne, Sydney'                       => 'Australia/Sydney',
+        '(UTC+10:00) Guam, Port Moresby'                                => 'Pacific/Port_Moresby',
+        '(UTC+10:00) Hobart'                                            => 'Australia/Hobart',
+        '(UTC+10:00) Vladivostok'                                       => 'Asia/Vladivostok',
+        '(UTC+11:00) Chokurdakh'                                        => 'Asia/Srednekolymsk',
+        '(UTC+11:00) Magadan'                                           => 'Asia/Magadan',
+        '(UTC+11:00) Solomon Is., New Caledonia'                        => 'Pacific/Guadalcanal',
+        '(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky'                  => 'Asia/Kamchatka',
+        '(UTC+12:00) Auckland, Wellington'                              => 'Pacific/Auckland',
+        '(UTC+12:00) Coordinated Universal Time+12'                     => 'Etc/GMT-12',
+        '(UTC+12:00) Fiji'                                              => 'Pacific/Fiji',
+        "(UTC+13:00) Nuku'alofa"                                        => 'Pacific/Tongatapu',
+        '(UTC+13:00) Samoa'                                             => 'Pacific/Apia',
+        '(UTC+14:00) Kiritimati Island'                                 => 'Pacific/Kiritimati',
     );
 
     /**
@@ -397,18 +512,27 @@ class ICal
     );
 
     /**
-     * Store the Windows Time Zone IDs to search and replace
+     * If `$filterDaysBefore` or `$filterDaysAfter` are set then the events are filtered according to the window defined
+     * by this field and `$windowMaxTimestamp`.
      *
-     * @var array
+     * @var integer
      */
-    private $windowsTimeZones;
+    private $windowMinTimestamp = null;
 
     /**
-     * Store the IANA IDs to be used as a replacement for Windows Time Zone IDs
+     * If `$filterDaysBefore` or `$filterDaysAfter` are set then the events are filtered according to the window defined
+     * by this field and `$windowMinTimestamp`.
      *
-     * @var array
+     * @var integer
      */
-    private $windowsTimeZonesIana;
+    private $windowMaxTimestamp = null;
+
+    /**
+     * `true` if either `$filterDaysBefore` or `$filterDaysAfter` are set.
+     *
+     * @var boolean
+     */
+    private $shouldFilterByWindow = false;
 
     /**
      * Creates the ICal object
@@ -432,8 +556,13 @@ class ICal
             $this->defaultTimeZone = date_default_timezone_get();
         }
 
-        $this->windowsTimeZones     = array_keys(self::$windowsTimeZonesMap);
-        $this->windowsTimeZonesIana = array_values(self::$windowsTimeZonesMap);
+        // Ideally you would use `PHP_INT_MIN` from PHP 7
+        $php_int_min = -2147483648;
+
+        $this->windowMinTimestamp = is_null($this->filterDaysBefore) ? $php_int_min : (new \DateTime('now'))->sub(new \DateInterval('P' . $this->filterDaysBefore . 'D'))->getTimestamp();
+        $this->windowMaxTimestamp = is_null($this->filterDaysAfter) ? PHP_INT_MAX : (new \DateTime('now'))->add(new \DateInterval('P' . $this->filterDaysAfter . 'D'))->getTimestamp();
+
+        $this->shouldFilterByWindow = !is_null($this->filterDaysBefore) || !is_null($this->filterDaysAfter);
 
         if ($files !== false) {
             $files = is_array($files) ? $files : array($files);
@@ -494,13 +623,18 @@ class ICal
      * @param  string $url
      * @param  string $username
      * @param  string $password
+     * @param  string $userAgent
      * @return ICal
      */
-    public function initUrl($url, $username = null, $password = null)
+    public function initUrl($url, $username = null, $password = null, $userAgent = null)
     {
         if (!is_null($username) && !is_null($password)) {
             $this->httpBasicAuth['username'] = $username;
             $this->httpBasicAuth['password'] = $password;
+        }
+
+        if (!is_null($userAgent)) {
+            $this->httpUserAgent = $userAgent;
         }
 
         $this->initFile($url);
@@ -527,10 +661,6 @@ class ICal
 
                 if (!$this->disableCharacterReplacement) {
                     $line = $this->cleanData($line);
-                }
-
-                if ($this->replaceWindowsTimeZoneIds && strpos($line, 'TZID') !== false) {
-                    $line = $this->replaceWindowsTimeZoneId($line);
                 }
 
                 $add = $this->keyValueFromString($line);
@@ -562,7 +692,7 @@ class ICal
                             }
 
                             $component = 'VTODO';
-                        break;
+                            break;
 
                         // https://www.kanzaki.com/docs/ical/vevent.html
                         case 'BEGIN:VEVENT':
@@ -571,7 +701,7 @@ class ICal
                             }
 
                             $component = 'VEVENT';
-                        break;
+                            break;
 
                         // https://www.kanzaki.com/docs/ical/vfreebusy.html
                         case 'BEGIN:VFREEBUSY':
@@ -580,7 +710,7 @@ class ICal
                             }
 
                             $component = 'VFREEBUSY';
-                        break;
+                            break;
 
                         case 'BEGIN:VALARM':
                             if (!is_array($value)) {
@@ -588,32 +718,39 @@ class ICal
                             }
 
                             $component = 'VALARM';
-                        break;
+                            break;
 
                         case 'END:VALARM':
                             $component = 'VEVENT';
-                        break;
+                            break;
 
                         case 'BEGIN:DAYLIGHT':
                         case 'BEGIN:STANDARD':
                         case 'BEGIN:VCALENDAR':
                         case 'BEGIN:VTIMEZONE':
                             $component = $value;
-                        break;
+                            break;
 
                         case 'END:DAYLIGHT':
                         case 'END:STANDARD':
                         case 'END:VCALENDAR':
-                        case 'END:VEVENT':
                         case 'END:VFREEBUSY':
                         case 'END:VTIMEZONE':
                         case 'END:VTODO':
                             $component = 'VCALENDAR';
-                        break;
+                            break;
+
+                        case 'END:VEVENT':
+                            if ($this->shouldFilterByWindow) {
+                                $this->removeLastEventIfOutsideWindowAndNonRecurring();
+                            }
+
+                            $component = 'VCALENDAR';
+                            break;
 
                         default:
                             $this->addCalendarComponentWithKeyAndValue($component, $keyword, $value);
-                        break;
+                            break;
                     }
                 }
             }
@@ -639,11 +776,35 @@ class ICal
                 }
             }
 
-            if (!is_null($this->filterDaysBefore) || !is_null($this->filterDaysAfter)) {
+            if ($this->shouldFilterByWindow) {
                 $this->reduceEventsToMinMaxRange();
             }
 
             $this->processDateConversions();
+        }
+    }
+
+    /**
+     * Removes the last event (i.e. most recently parsed) if its start date is outside the window spanned by
+     * `$windowMinTimestamp` / `$windowMaxTimestamp`.
+     *
+     * @return void
+     */
+    protected function removeLastEventIfOutsideWindowAndNonRecurring()
+    {
+        $events = $this->cal['VEVENT'];
+
+        if (!empty($events)) {
+            $lastIndex = sizeof($events) - 1;
+            $lastEvent = $events[$lastIndex];
+
+            if ((!isset($lastEvent['RRULE']) || $lastEvent['RRULE'] === '') && $this->doesEventStartOutsideWindow($lastEvent)) {
+                $this->eventCount--;
+
+                unset($events[$lastIndex]);
+            }
+
+            $this->cal['VEVENT'] = $events;
         }
     }
 
@@ -657,14 +818,13 @@ class ICal
         $events = (isset($this->cal['VEVENT'])) ? $this->cal['VEVENT'] : array();
 
         if (!empty($events)) {
-            // Ideally you would use `PHP_INT_MIN` from PHP 7
-            $php_int_min = -2147483648;
-
-            $minTimestamp = is_null($this->filterDaysBefore) ? $php_int_min : (new \DateTime('now'))->sub(new \DateInterval('P' . $this->filterDaysBefore . 'D'))->getTimestamp();
-            $maxTimestamp = is_null($this->filterDaysAfter) ? PHP_INT_MAX : (new \DateTime('now'))->add(new \DateInterval('P' . $this->filterDaysAfter . 'D'))->getTimestamp();
-
             foreach ($events as $key => $anEvent) {
-                if (!$this->isValidDate($anEvent['DTSTART']) || $this->isOutOfRange($anEvent['DTSTART'], $minTimestamp, $maxTimestamp)) {
+                if ($anEvent === null) {
+                    unset($events[$key]);
+                    continue;
+                }
+
+                if ($this->doesEventStartOutsideWindow($anEvent)) {
                     $this->eventCount--;
 
                     unset($events[$key]);
@@ -678,18 +838,30 @@ class ICal
     }
 
     /**
-     * Determines whether an event's start time is within a given range
+     * Determines whether the event start date is outside `$windowMinTimestamp` / `$windowMaxTimestamp`.
+     * Returns `true` for invalid dates.
      *
-     * @param  string  $eventStart
+     * @param  array $event
+     * @return boolean
+     */
+    protected function doesEventStartOutsideWindow(array $event)
+    {
+        return !$this->isValidDate($event['DTSTART']) || $this->isOutOfRange($event['DTSTART'], $this->windowMinTimestamp, $this->windowMaxTimestamp);
+    }
+
+    /**
+     * Determines whether a valid iCalendar date is within a given range
+     *
+     * @param  string  $calendarDate
      * @param  integer $minTimestamp
      * @param  integer $maxTimestamp
      * @return boolean
      */
-    protected function isOutOfRange($eventStart, $minTimestamp, $maxTimestamp)
+    protected function isOutOfRange($calendarDate, $minTimestamp, $maxTimestamp)
     {
-        $eventStartTimestamp = strtotime(explode('T', $eventStart)[0]);
+        $timestamp = strtotime(explode('T', $calendarDate)[0]);
 
-        return $eventStartTimestamp < $minTimestamp || $eventStartTimestamp > $maxTimestamp;
+        return $timestamp < $minTimestamp || $timestamp > $maxTimestamp;
     }
 
     /**
@@ -697,7 +869,7 @@ class ICal
      * (https://icalendar.org/iCalendar-RFC-5545/3-1-content-lines.html)
      *
      * @param  array $lines
-     * @return string
+     * @return array
      */
     protected function unfold(array $lines)
     {
@@ -744,7 +916,7 @@ class ICal
                         $this->cal[$key1][$key2][$key3][$keyword] .= ',' . $value;
                     }
                 }
-            break;
+                break;
 
             case 'VEVENT':
                 $key1 = $component;
@@ -783,7 +955,7 @@ class ICal
                         $this->cal[$key1][$key2][$keyword] .= ',' . $value;
                     }
                 }
-            break;
+                break;
 
             case 'VFREEBUSY':
                 $key1 = $component;
@@ -805,15 +977,15 @@ class ICal
                 } else {
                     $this->cal[$key1][$key2][$key3][] = $value;
                 }
-            break;
+                break;
 
             case 'VTODO':
                 $this->cal[$component][$this->todoCount - 1][$keyword] = $value;
-            break;
+                break;
 
             default:
                 $this->cal[$component][$keyword] = $value;
-            break;
+                break;
         }
 
         $this->lastKeyword = $keyword;
@@ -823,7 +995,7 @@ class ICal
      * Gets the key value pair from an iCal string
      *
      * @param  string $text
-     * @return array
+     * @return array|boolean
      */
     protected function keyValueFromString($text)
     {
@@ -919,13 +1091,11 @@ class ICal
     /**
      * Returns a `DateTime` object from an iCal date time format
      *
-     * @param  string  $icalDate
-     * @param  boolean $forceTimeZone
-     * @param  boolean $forceUtc
-     * @return DateTime
+     * @param  string $icalDate
+     * @return \DateTime
      * @throws \Exception
      */
-    public function iCalDateToDateTime($icalDate, $forceTimeZone = false, $forceUtc = false)
+    public function iCalDateToDateTime($icalDate)
     {
         /**
          * iCal times may be in 3 formats, (https://www.kanzaki.com/docs/ical/dateTime.html)
@@ -937,15 +1107,12 @@ class ICal
          * Use DateTime class objects to get around limitations with `mktime` and `gmmktime`.
          * Must have a local time zone set to process floating times.
          */
-        $pattern  = '/\AT?Z?I?D?=?(.*):?'; // [1]: Time zone
-        $pattern .= '([0-9]{4})';          // [2]: YYYY
-        $pattern .= '([0-9]{2})';          // [3]: MM
-        $pattern .= '([0-9]{2})';          // [4]: DD
-        $pattern .= 'T?';                  //      Time delimiter
-        $pattern .= '([0-9]{0,2})';        // [5]: HH
-        $pattern .= '([0-9]{0,2})';        // [6]: MM
-        $pattern .= '([0-9]{0,2})';        // [7]: SS
-        $pattern .= '(Z?)/';               // [8]: UTC flag
+        $pattern  = '/^(?:TZID=)?([^:]*|".*")'; // [1]: Time zone
+        $pattern .= ':?';                       //      Time zone delimiter
+        $pattern .= '([0-9]{8})';               // [2]: YYYYMMDD
+        $pattern .= 'T?';                       //      Time delimiter
+        $pattern .= '(?(?<=T)([0-9]{6}))';      // [3]: HHMMSS (filled if delimiter present)
+        $pattern .= '(Z?)/';                    // [4]: UTC flag
 
         preg_match($pattern, $icalDate, $date);
 
@@ -953,75 +1120,40 @@ class ICal
             throw new \Exception('Invalid iCal date format.');
         }
 
-        // A Unix timestamp cannot represent a date prior to 1 Jan 1970
-        $year  = $date[2];
-        $isUtc = false;
+        // A Unix timestamp usually cannot represent a date prior to 1 Jan 1970.
+        // PHP, on the other hand, uses negative numbers for that. Thus we don't
+        // need to special case them.
 
-        if ($year <= self::UNIX_MIN_YEAR) {
-            $eventTimeZone = ltrim(strstr($icalDate, ':', true), 'TZID=');
-
-            if (empty($eventTimeZone)) {
-                $dateTime = new \DateTime($icalDate, new \DateTimeZone($this->defaultTimeZone));
-            } else {
-                $icalDate = ltrim(strstr($icalDate, ':'), ':');
-                $dateTime = new \DateTime($icalDate, new \DateTimeZone($eventTimeZone));
-            }
+        if ($date[4] === 'Z') {
+            $dateTimeZone = new \DateTimeZone(self::TIME_ZONE_UTC);
+        } elseif (!empty($date[1])) {
+            $dateTimeZone = $this->timeZoneStringToDateTimeZone($date[1]);
         } else {
-            if ($forceTimeZone) {
-                // TZID={Time Zone}:
-                if (isset($date[1])) {
-                    $eventTimeZone = rtrim($date[1], ':');
-                }
-
-                if ($date[8] === 'Z') {
-                    $isUtc    = true;
-                    $dateTime = new \DateTime('now', new \DateTimeZone(self::TIME_ZONE_UTC));
-                } elseif (isset($eventTimeZone) && $this->isValidIanaTimeZoneId($eventTimeZone)) {
-                    $dateTime = new \DateTime('now', new \DateTimeZone($eventTimeZone));
-                } elseif (isset($eventTimeZone) && $this->isValidCldrTimeZoneId($eventTimeZone)) {
-                    $dateTime = new \DateTime('now', new \DateTimeZone($this->isValidCldrTimeZoneId($eventTimeZone, true)));
-                } else {
-                    $dateTime = new \DateTime('now', new \DateTimeZone($this->defaultTimeZone));
-                }
-            } else {
-                if ($forceUtc) {
-                    $dateTime = new \DateTime('now', new \DateTimeZone(self::TIME_ZONE_UTC));
-                } else {
-                    $dateTime = new \DateTime('now');
-                }
-            }
-
-            $dateTime->setDate((int) $date[2], (int) $date[3], (int) $date[4]);
-            $dateTime->setTime((int) $date[5], (int) $date[6], (int) $date[7]);
+            $dateTimeZone = new \DateTimeZone($this->defaultTimeZone);
         }
 
-        if ($forceTimeZone && $isUtc) {
-            $dateTime->setTimezone(new \DateTimeZone($this->defaultTimeZone));
-        } elseif ($forceUtc) {
-            $dateTime->setTimezone(new \DateTimeZone(self::TIME_ZONE_UTC));
+        // The exclamation mark at the start of the format string indicates that if a
+        // time portion is not included, the time in the returned DateTime should be
+        // set to 00:00:00. Without it, the time would be set to the current system time.
+        $dateFormat = '!Ymd';
+        $dateBasic = $date[2];
+        if (!empty($date[3])) {
+            $dateBasic .= 'T' . $date[3];
+            $dateFormat .= '\THis';
         }
 
-        return $dateTime;
+        return \DateTime::createFromFormat($dateFormat, $dateBasic, $dateTimeZone);
     }
 
     /**
      * Returns a Unix timestamp from an iCal date time format
      *
-     * @param  string  $icalDate
-     * @param  boolean $forceTimeZone
-     * @param  boolean $forceUtc
+     * @param  string $icalDate
      * @return integer
      */
-    public function iCalDateToUnixTimestamp($icalDate, $forceTimeZone = false, $forceUtc = false)
+    public function iCalDateToUnixTimestamp($icalDate)
     {
-        $dateTime = $this->iCalDateToDateTime($icalDate, $forceTimeZone, $forceUtc);
-        $offset   = 0;
-
-        if ($forceTimeZone) {
-            $offset = $dateTime->getOffset();
-        }
-
-        return $dateTime->getTimestamp() + $offset;
+        return $this->iCalDateToDateTime($icalDate)->getTimestamp();
     }
 
     /**
@@ -1039,38 +1171,22 @@ class ICal
         }
 
         $dateArray = $event[$key . '_array'];
-        $date      = $event[$key];
 
         if ($key === 'DURATION') {
-            $duration = end($dateArray);
-            $dateTime = $this->parseDuration($event['DTSTART'], $duration, null);
+            $dateTime = $this->parseDuration($event['DTSTART'], $dateArray[2], null);
         } else {
-            $dateTime = new \DateTime($dateArray[1], new \DateTimeZone(self::TIME_ZONE_UTC));
-            $dateTime->setTimezone(new \DateTimeZone($this->calendarTimeZone()));
+            // When constructing from a Unix Timestamp, no time zone needs passing.
+            $dateTime = new \DateTime('@' . $dateArray[2]);
         }
 
-        // Force time zone
-        if (isset($dateArray[0]['TZID'])) {
-            if ($this->isValidIanaTimeZoneId($dateArray[0]['TZID'])) {
-                $dateTime->setTimezone(new \DateTimeZone($dateArray[0]['TZID']));
-            } elseif ($this->isValidCldrTimeZoneId($dateArray[0]['TZID'])) {
-                $dateTime->setTimezone(new \DateTimeZone($this->isValidCldrTimeZoneId($dateArray[0]['TZID'], true)));
-            } else {
-                $dateTime->setTimezone(new \DateTimeZone($this->defaultTimeZone));
-            }
-        }
+        // Set the time zone we wish to use when running `$dateTime->format`.
+        $dateTime->setTimezone(new \DateTimeZone($this->calendarTimeZone()));
 
         if (is_null($format)) {
-            $output = $dateTime;
-        } else {
-            if ($format === self::UNIX_FORMAT) {
-                $output = $dateTime->getTimestamp();
-            } else {
-                $output = $dateTime->format($format);
-            }
+            return $dateTime;
         }
 
-        return $output;
+        return $dateTime->format($format);
     }
 
     /**
@@ -1078,78 +1194,78 @@ class ICal
      * Adds a Unix timestamp to all `{DTSTART|DTEND|RECURRENCE-ID}_array` arrays
      * Tracks modified recurrence instances
      *
-     * @return boolean|void
+     * @return void
      */
     protected function processEvents()
     {
         $events = (isset($this->cal['VEVENT'])) ? $this->cal['VEVENT'] : array();
 
-        if (empty($events)) {
-            return false;
-        }
+        if (!empty($events)) {
+            foreach ($events as $key => $anEvent) {
+                foreach (array('DTSTART', 'DTEND', 'RECURRENCE-ID') as $type) {
+                    if (isset($anEvent[$type])) {
+                        $date = $anEvent[$type . '_array'][1];
 
-        foreach ($events as $key => $anEvent) {
-            foreach (array('DTSTART', 'DTEND', 'RECURRENCE-ID') as $type) {
-                if (isset($anEvent[$type])) {
-                    $date = $anEvent[$type . '_array'][1];
+                        if (isset($anEvent[$type . '_array'][0]['TZID'])) {
+                            $timeZone = $this->escapeParamText($anEvent[$type . '_array'][0]['TZID']);
+                            $date = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone) . $date;
+                        }
 
-                    if (isset($anEvent[$type . '_array'][0]['TZID'])) {
-                        $date = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $anEvent[$type . '_array'][0]['TZID']) . $date;
+                        $anEvent[$type . '_array'][2] = $this->iCalDateToUnixTimestamp($date);
+                        $anEvent[$type . '_array'][3] = $date;
+                    }
+                }
+
+                if (isset($anEvent['RECURRENCE-ID'])) {
+                    $uid = $anEvent['UID'];
+
+                    if (!isset($this->alteredRecurrenceInstances[$uid])) {
+                        $this->alteredRecurrenceInstances[$uid] = array();
                     }
 
-                    $anEvent[$type . '_array'][2] = $this->iCalDateToUnixTimestamp($date, true, true);
-                    $anEvent[$type . '_array'][3] = $date;
+                    $recurrenceDateUtc = $this->iCalDateToUnixTimestamp($anEvent['RECURRENCE-ID_array'][3]);
+                    $this->alteredRecurrenceInstances[$uid][$key] = $recurrenceDateUtc;
+                }
+
+                $events[$key] = $anEvent;
+            }
+
+            $eventKeysToRemove = array();
+
+            foreach ($events as $key => $event) {
+                $checks[] = !isset($event['RECURRENCE-ID']);
+                $checks[] = isset($event['UID']);
+                $checks[] = isset($event['UID']) && isset($this->alteredRecurrenceInstances[$event['UID']]);
+
+                if ((bool) array_product($checks)) {
+                    $eventDtstartUnix = $this->iCalDateToUnixTimestamp($event['DTSTART_array'][3]);
+
+                    // phpcs:ignore CustomPHPCS.ControlStructures.AssignmentInCondition
+                    if (false !== $alteredEventKey = array_search($eventDtstartUnix, $this->alteredRecurrenceInstances[$event['UID']])) {
+                        $eventKeysToRemove[] = $alteredEventKey;
+
+                        $alteredEvent = array_replace_recursive($events[$key], $events[$alteredEventKey]);
+                        $this->alteredRecurrenceInstances[$event['UID']]['altered-event'] = array($key => $alteredEvent);
+                    }
+                }
+
+                unset($checks);
+            }
+
+            if (!empty($eventKeysToRemove)) {
+                foreach ($eventKeysToRemove as $eventKeyToRemove) {
+                    $events[$eventKeyToRemove] = null;
                 }
             }
 
-            if (isset($anEvent['RECURRENCE-ID'])) {
-                $uid = $anEvent['UID'];
-
-                if (!isset($this->alteredRecurrenceInstances[$uid])) {
-                    $this->alteredRecurrenceInstances[$uid] = array();
-                }
-
-                $recurrenceDateUtc = $this->iCalDateToUnixTimestamp($anEvent['RECURRENCE-ID_array'][3], true, true);
-                $this->alteredRecurrenceInstances[$uid][$key] = $recurrenceDateUtc;
-            }
-
-            $events[$key] = $anEvent;
+            $this->cal['VEVENT'] = $events;
         }
-
-        $eventKeysToRemove = array();
-
-        foreach ($events as $key => $event) {
-            $checks[] = !isset($event['RECURRENCE-ID']);
-            $checks[] = isset($event['UID']);
-            $checks[] = isset($event['UID']) && isset($this->alteredRecurrenceInstances[$event['UID']]);
-
-            if ((bool) array_product($checks)) {
-                $eventDtstartUnix = $this->iCalDateToUnixTimestamp($event['DTSTART_array'][3], true, true);
-
-                if (false !== $alteredEventKey = array_search($eventDtstartUnix, $this->alteredRecurrenceInstances[$event['UID']])) {
-                    $eventKeysToRemove[] = $alteredEventKey;
-
-                    $alteredEvent = array_replace_recursive($events[$key], $events[$alteredEventKey]);
-                    $this->alteredRecurrenceInstances[$event['UID']]['altered-event'] = array($key => $alteredEvent);
-                }
-            }
-
-            unset($checks);
-        }
-
-        if (!empty($eventKeysToRemove)) {
-            foreach ($eventKeysToRemove as $eventKeyToRemove) {
-                $events[$eventKeyToRemove] = null;
-            }
-        }
-
-        $this->cal['VEVENT'] = $events;
     }
 
     /**
      * Processes recurrence rules
      *
-     * @return boolean|void
+     * @return void
      */
     protected function processRecurrences()
     {
@@ -1158,403 +1274,208 @@ class ICal
         $recurrenceEvents    = array();
         $allRecurrenceEvents = array();
 
-        if (empty($events)) {
-            return false;
-        }
+        if (!empty($events)) {
+            foreach ($events as $anEvent) {
+                if (isset($anEvent['RRULE']) && $anEvent['RRULE'] !== '') {
+                    // Tag as generated by a recurrence rule
+                    $anEvent['RRULE_array'][2] = self::RECURRENCE_EVENT;
 
-        foreach ($events as $anEvent) {
-            if (isset($anEvent['RRULE']) && $anEvent['RRULE'] !== '') {
-                // Tag as generated by a recurrence rule
-                $anEvent['RRULE_array'][2] = self::RECURRENCE_EVENT;
+                    $countNb = 0;
 
-                $isAllDayEvent = (strlen($anEvent['DTSTART_array'][1]) === 8) ? true : false;
+                    $initialStart             = new \DateTime($anEvent['DTSTART_array'][1]);
+                    $initialStartTimeZoneName = $initialStart->getTimezone()->getName();
 
-                $initialStart             = new \DateTime($anEvent['DTSTART_array'][1]);
-                $initialStartTimeZoneName = $initialStart->getTimezone()->getName();
+                    if (isset($anEvent['DTEND'])) {
+                        $initialEnd             = new \DateTime($anEvent['DTEND_array'][1]);
+                        $initialEndTimeZoneName = $initialEnd->getTimezone()->getName();
+                    } else {
+                        $initialEndTimeZoneName = $initialStartTimeZoneName;
+                    }
 
-                if (isset($anEvent['DTEND'])) {
-                    $initialEnd             = new \DateTime($anEvent['DTEND_array'][1]);
-                    $initialEndTimeZoneName = $initialEnd->getTimezone()->getName();
-                } else {
-                    $initialEndTimeZoneName = $initialStartTimeZoneName;
-                }
+                    // Recurring event, parse RRULE and add appropriate duplicate events
+                    $rrules = array();
+                    $rruleStrings = explode(';', $anEvent['RRULE']);
 
-                // Recurring event, parse RRULE and add appropriate duplicate events
-                $rrules = array();
-                $rruleStrings = explode(';', $anEvent['RRULE']);
+                    foreach ($rruleStrings as $s) {
+                        list($k, $v) = explode('=', $s);
+                        $rrules[$k] = $v;
+                    }
 
-                foreach ($rruleStrings as $s) {
-                    list($k, $v) = explode('=', $s);
-                    $rrules[$k] = $v;
-                }
+                    // Get frequency
+                    $frequency = $rrules['FREQ'];
+                    // Get Start timestamp
+                    $startTimestamp = $initialStart->getTimestamp();
 
-                // Get frequency
-                $frequency = $rrules['FREQ'];
-                // Get Start timestamp
-                $startTimestamp = $initialStart->getTimestamp();
+                    if (isset($anEvent['DTEND'])) {
+                        $endTimestamp = $initialEnd->getTimestamp();
+                    } elseif (isset($anEvent['DURATION'])) {
+                        $duration = end($anEvent['DURATION_array']);
+                        $endTimestamp = $this->parseDuration($anEvent['DTSTART'], $duration);
+                    } else {
+                        $endTimestamp = $anEvent['DTSTART_array'][2];
+                    }
 
-                if (isset($anEvent['DTEND'])) {
-                    $endTimestamp = $initialEnd->getTimestamp();
-                } elseif (isset($anEvent['DURATION'])) {
-                    $duration = end($anEvent['DURATION_array']);
-                    $endTimestamp = $this->parseDuration($anEvent['DTSTART'], $duration);
-                } else {
-                    $endTimestamp = $anEvent['DTSTART_array'][2];
-                }
+                    $eventTimestampOffset = $endTimestamp - $startTimestamp;
+                    // Get Interval
+                    $interval = (isset($rrules['INTERVAL']) && $rrules['INTERVAL'] !== '') ? $rrules['INTERVAL'] : 1;
 
-                $eventTimestampOffset = $endTimestamp - $startTimestamp;
-                // Get Interval
-                $interval = (isset($rrules['INTERVAL']) && $rrules['INTERVAL'] !== '') ? $rrules['INTERVAL'] : 1;
+                    $dayNumber = null;
+                    $weekday   = null;
 
-                $dayNumber = null;
-                $weekday   = null;
+                    if (in_array($frequency, array('MONTHLY', 'YEARLY')) && isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
+                        // Deal with BYDAY
+                        $byDay     = $rrules['BYDAY'];
+                        $dayNumber = intval($byDay);
 
-                if (in_array($frequency, array('MONTHLY', 'YEARLY')) && isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
-                    // Deal with BYDAY
-                    $byDay     = $rrules['BYDAY'];
-                    $dayNumber = intval($byDay);
+                        if (empty($dayNumber)) { // Returns 0 when no number defined in BYDAY
+                            if (!isset($rrules['BYSETPOS'])) {
+                                $dayNumber = 1; // Set first as default
+                            } elseif (is_numeric($rrules['BYSETPOS'])) {
+                                $dayNumber = $rrules['BYSETPOS'];
 
-                    if (empty($dayNumber)) { // Returns 0 when no number defined in BYDAY
-                        if (!isset($rrules['BYSETPOS'])) {
-                            $dayNumber = 1; // Set first as default
-                        } elseif (is_numeric($rrules['BYSETPOS'])) {
-                            $dayNumber = $rrules['BYSETPOS'];
+                                $byDaysCounted = array_count_values(explode(',', $rrules['BYDAY']));
+
+                                if ($byDaysCounted == array_count_values($this->weeks['MO'])) {
+                                    $weekday = 'day';
+                                } elseif ($byDaysCounted == array_count_values(array_slice($this->weeks['MO'], 0, 5))) {
+                                    $weekday = 'weekday';
+                                }
+                            }
+                        }
+
+                        if (!isset($weekday)) {
+                            $weekday = substr($byDay, -2);
                         }
                     }
 
-                    $weekday = substr($byDay, -2);
-                }
-
-                if (is_int($this->defaultSpan)) {
-                    $untilDefault = date_create('now');
-                    $untilDefault->modify($this->defaultSpan . ' year');
-                    $untilDefault->setTime(23, 59, 59); // End of the day
-                } else {
-                    trigger_error('ICal::defaultSpan: User defined value is not an integer', E_USER_NOTICE);
-                }
-
-                // Compute EXDATEs
-                $exdates = $this->parseExdates($anEvent);
-
-                if (isset($rrules['UNTIL'])) {
-                    // Get Until
-                    $until = strtotime($rrules['UNTIL']);
-                } elseif (isset($rrules['COUNT'])) {
-                    $countOrig = (is_numeric($rrules['COUNT']) && $rrules['COUNT'] > 1) ? $rrules['COUNT'] : 0;
-
-                    // Increment count by the number of excluded dates
-                    $countOrig += sizeof($exdates);
-
-                    // Remove one to exclude the occurrence that initialises the rule
-                    $count = ($countOrig - 1);
-
-                    if ($interval >= 2) {
-                        $count += ($count > 0) ? ($count * $interval) : 0;
+                    if (is_int($this->defaultSpan)) {
+                        $untilDefault = date_create('now');
+                        $untilDefault->modify($this->defaultSpan . ' year');
+                        $untilDefault->setTime(23, 59, 59); // End of the day
+                    } else {
+                        trigger_error('ICal::defaultSpan: User defined value is not an integer', E_USER_NOTICE);
                     }
 
-                    $countNb = 1;
-                    $offset  = "+{$count} " . $this->frequencyConversion[$frequency];
-                    $until   = strtotime($offset, $startTimestamp);
+                    // Compute EXDATEs
+                    $exdates = $this->parseExdates($anEvent);
 
-                    if (in_array($frequency, array('MONTHLY', 'YEARLY'))
-                        && isset($rrules['BYDAY']) && $rrules['BYDAY'] !== ''
-                    ) {
-                        $dtstart = date_create($anEvent['DTSTART']);
+                    $countOrig = null;
 
-                        if (!$dtstart) {
-                            continue;
+                    if (isset($rrules['UNTIL'])) {
+                        // Get Until
+                        $until = strtotime($rrules['UNTIL']);
+                        if ($until > strtotime('+' . $this->defaultSpan . ' years')) {
+                            $until = strtotime('+' . $this->defaultSpan . ' years');
+                        }
+                    } elseif (isset($rrules['COUNT'])) {
+                        $countOrig = (is_numeric($rrules['COUNT']) && $rrules['COUNT'] > 1) ? $rrules['COUNT'] : 0;
+
+                        // Increment count by the number of excluded dates
+                        $countOrig += sizeof($exdates);
+
+                        // Remove one to exclude the occurrence that initialises the rule
+                        $count = ($countOrig - 1);
+
+                        if ($interval >= 2) {
+                            $count += ($count > 0) ? ($count * $interval) : 0;
                         }
 
-                        for ($i = 1; $i <= $count; $i++) {
-                            $dtstartClone = clone $dtstart;
-                            $dtstartClone->modify('next ' . $this->frequencyConversion[$frequency]);
-                            $offset = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $dtstartClone)} {$this->weekdays[$weekday]} of " . $dtstartClone->format('F Y H:i:01');
-                            $dtstart->modify($offset);
+                        $countNb = 1;
+                        $offset  = "+{$count} " . $this->frequencyConversion[$frequency];
+                        $until   = strtotime($offset, $startTimestamp);
+
+                        if (in_array($frequency, array('MONTHLY', 'YEARLY'))
+                            && isset($rrules['BYDAY']) && $rrules['BYDAY'] !== ''
+                        ) {
+                            $dtstart = date_create($anEvent['DTSTART']);
+
+                            if (!$dtstart) {
+                                continue;
+                            }
+
+                            for ($i = 1; $i <= $count; $i++) {
+                                $dtstartClone = clone $dtstart;
+                                $dtstartClone->modify('next ' . $this->frequencyConversion[$frequency]);
+                                $offset = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $dtstartClone)} {$this->weekdays[$weekday]} " . $dtstartClone->format('F Y H:i:01');
+                                $dtstart->modify($offset);
+                            }
+
+                            // Jumping X months forwards doesn't mean
+                            // the end date will fall on the same day defined in BYDAY
+                            // Use the largest of these to ensure we are going far enough
+                            // in the future to capture our final end day
+                            $until = max($until, $dtstart->format(self::UNIX_FORMAT));
                         }
 
-                        // Jumping X months forwards doesn't mean
-                        // the end date will fall on the same day defined in BYDAY
-                        // Use the largest of these to ensure we are going far enough
-                        // in the future to capture our final end day
-                        $until = max($until, $dtstart->format(self::UNIX_FORMAT));
+                        unset($offset);
+                    } elseif (isset($untilDefault)) {
+                        $until = $untilDefault->getTimestamp();
                     }
 
-                    unset($offset);
-                } else {
-                    $until = $untilDefault->getTimestamp();
-                }
+                    $until = intval($until);
 
-                $until = intval($until);
-
-                // Decide how often to add events and do so
-                switch ($frequency) {
-                    case 'DAILY':
-                        // Simply add a new event each interval of days until UNTIL is reached
-                        $offset = "+{$interval} day";
-                        $recurringTimestamp = strtotime($offset, $startTimestamp);
-
-                        while ($recurringTimestamp <= $until) {
-                            $dayRecurringTimestamp = $recurringTimestamp;
-
-                            // Adjust time zone from initial event
-                            $dayRecurringOffset = 0;
-                            if ($this->useTimeZoneWithRRules) {
-                                $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $dayRecurringTimestamp);
-                                $recurringTimeZone->setTimezone($initialStart->getTimezone());
-                                $dayRecurringOffset = $recurringTimeZone->getOffset();
-                                $dayRecurringTimestamp += $dayRecurringOffset;
-                            }
-
-                            // Add event
-                            $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $dayRecurringTimestamp) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '');
-                            $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
-                            $anEvent['DTSTART_array'][2] = $dayRecurringTimestamp;
-                            $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
-                            $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
-                            $anEvent['DTEND'] = date(
-                                    self::DATE_TIME_FORMAT,
-                                    $anEvent['DTEND_array'][2]
-                                ) . ($isAllDayEvent || ($initialEndTimeZoneName === 'Z') ? 'Z' : '');
-                            $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
-
-                            // Exclusions
-                            $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $dayRecurringOffset) {
-                                return self::isExdateMatch($exdate, $anEvent, $dayRecurringOffset);
-                            });
-
-                            if (isset($anEvent['UID'])) {
-                                $searchDate = $anEvent['DTSTART'];
-                                if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
-                                    $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $anEvent['DTSTART_array'][0]['TZID']) . $searchDate;
-                                }
-
-                                if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                    $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate, true, true);
-                                    if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                        $isExcluded = true;
-                                    }
-                                }
-                            }
-
-                            if (!$isExcluded) {
-                                $anEvent            = $this->processEventIcalDateTime($anEvent);
-                                $recurrenceEvents[] = $anEvent;
-                                $this->eventCount++;
-
-                                // If RRULE[COUNT] is reached then break
-                                if (isset($rrules['COUNT'])) {
-                                    $countNb++;
-
-                                    if ($countNb >= $countOrig) {
-                                        break;
-                                    }
-                                }
-                            }
-
-                            // Move forwards
-                            $recurringTimestamp = strtotime($offset, $recurringTimestamp);
-                        }
-
-                        $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
-                        $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
-                        $recurrenceEvents    = array(); // Reset
-                    break;
-
-                    case 'WEEKLY':
-                        // Create offset
-                        $offset = "+{$interval} week";
-
-                        $wkst  = (isset($rrules['WKST']) && in_array($rrules['WKST'], array('SA', 'SU', 'MO'))) ? $rrules['WKST'] : $this->defaultWeekStart;
-                        $aWeek = $this->weeks[$wkst];
-                        $days  = array('SA' => 'Saturday', 'SU' => 'Sunday', 'MO' => 'Monday');
-
-                        // Build list of days of week to add events
-                        $weekdays = $aWeek;
-
-                        if (isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
-                            $byDays = explode(',', $rrules['BYDAY']);
-                        } else {
-                            // A textual representation of a day, two letters (e.g. SU)
-                            $byDays = array(mb_substr(strtoupper($initialStart->format('D')), 0, 2));
-                        }
-
-                        // Get timestamp of first day of start week
-                        $weekRecurringTimestamp = (strcasecmp($initialStart->format('l'), $this->weekdays[$wkst]) === 0)
-                            ? $startTimestamp
-                            : strtotime("last {$days[$wkst]} " . $initialStart->format('H:i:s'), $startTimestamp);
-
-                        // Step through weeks
-                        while ($weekRecurringTimestamp <= $until) {
-                            $dayRecurringTimestamp = $weekRecurringTimestamp;
-
-                            // Adjust time zone from initial event
-                            $dayRecurringOffset = 0;
-                            if ($this->useTimeZoneWithRRules) {
-                                $dayRecurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $dayRecurringTimestamp);
-                                $dayRecurringTimeZone->setTimezone($initialStart->getTimezone());
-                                $dayRecurringOffset = $dayRecurringTimeZone->getOffset();
-                                $dayRecurringTimestamp += $dayRecurringOffset;
-                            }
-
-                            foreach ($weekdays as $day) {
-                                // Check if day should be added
-                                if (in_array($day, $byDays) && $dayRecurringTimestamp > $startTimestamp
-                                    && $dayRecurringTimestamp <= $until
-                                ) {
-                                    // Add event
-                                    $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $dayRecurringTimestamp) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '');
-                                    $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
-                                    $anEvent['DTSTART_array'][2] = $dayRecurringTimestamp;
-                                    $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
-                                    $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
-                                    $anEvent['DTEND'] = date(
-                                            self::DATE_TIME_FORMAT,
-                                            $anEvent['DTEND_array'][2]
-                                        ) . ($isAllDayEvent || ($initialEndTimeZoneName === 'Z') ? 'Z' : '');
-                                    $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
-
-                                    // Exclusions
-                                    $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $dayRecurringOffset) {
-                                        return self::isExdateMatch($exdate, $anEvent, $dayRecurringOffset);
-                                    });
-
-                                    if (isset($anEvent['UID'])) {
-                                        $searchDate = $anEvent['DTSTART'];
-                                        if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
-                                            $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $anEvent['DTSTART_array'][0]['TZID']) . $searchDate;
-                                        }
-
-                                        if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                            $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate, true, true);
-                                            if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                                $isExcluded = true;
-                                            }
-                                        }
-                                    }
-
-                                    if (!$isExcluded) {
-                                        $anEvent            = $this->processEventIcalDateTime($anEvent);
-                                        $recurrenceEvents[] = $anEvent;
-                                        $this->eventCount++;
-
-                                        // If RRULE[COUNT] is reached then break
-                                        if (isset($rrules['COUNT'])) {
-                                            $countNb++;
-
-                                            if ($countNb >= $countOrig) {
-                                                break 2;
-                                            }
-                                        }
-                                    }
-                                }
-
-                                // Move forwards a day
-                                $dayRecurringTimestamp = strtotime('+1 day', $dayRecurringTimestamp);
-                            }
-
-                            // Move forwards $interval weeks
-                            $weekRecurringTimestamp = strtotime($offset, $weekRecurringTimestamp);
-                        }
-
-                        $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
-                        $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
-                        $recurrenceEvents    = array(); // Reset
-                    break;
-
-                    case 'MONTHLY':
-                        // Create offset
-                        $recurringTimestamp = $startTimestamp;
-                        $offset = "+{$interval} month";
-
-                        if (isset($rrules['BYMONTHDAY']) && $rrules['BYMONTHDAY'] !== '') {
-                            // Deal with BYMONTHDAY
-                            $monthdays = explode(',', $rrules['BYMONTHDAY']);
+                    // phpcs:ignore Squiz.ControlStructures.SwitchDeclaration.MissingDefault
+                    switch ($frequency) {
+                        case 'DAILY':
+                            // Simply add a new event each interval of days until UNTIL is reached
+                            $offset = "+{$interval} day";
+                            $recurringTimestamp = strtotime($offset, $startTimestamp);
 
                             while ($recurringTimestamp <= $until) {
-                                foreach ($monthdays as $key => $monthday) {
-                                    if ($key === 0) {
-                                        // Ensure original event conforms to monthday rule
-                                        $anEvent['DTSTART'] = gmdate(
-                                                'Ym' . sprintf('%02d', $monthday) . '\T' . self::TIME_FORMAT,
-                                                strtotime($anEvent['DTSTART'])
-                                            ) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                                $dayRecurringTimestamp = $recurringTimestamp;
 
-                                        $anEvent['DTEND'] = gmdate(
-                                                'Ym' . sprintf('%02d', $monthday) . '\T' . self::TIME_FORMAT,
-                                                isset($anEvent['DURATION'])
-                                                    ? $this->parseDuration($anEvent['DTSTART'], end($anEvent['DURATION_array']))
-                                                    : strtotime($anEvent['DTEND'])
-                                            ) . ($isAllDayEvent || ($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+                                // Adjust time zone from initial event
+                                $dayRecurringOffset = 0;
+                                if ($this->useTimeZoneWithRRules) {
+                                    $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $dayRecurringTimestamp);
+                                    $recurringTimeZone->setTimezone($initialStart->getTimezone());
+                                    $dayRecurringOffset = $recurringTimeZone->getOffset();
+                                    $dayRecurringTimestamp += $dayRecurringOffset;
+                                }
 
-                                        $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
-                                        $anEvent['DTSTART_array'][2] = $this->iCalDateToUnixTimestamp($anEvent['DTSTART']);
-                                        $anEvent['DTEND_array'][1]   = $anEvent['DTEND'];
-                                        $anEvent['DTEND_array'][2]   = $this->iCalDateToUnixTimestamp($anEvent['DTEND']);
+                                // Add event
+                                $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $dayRecurringTimestamp) . (($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                                $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
+                                $anEvent['DTSTART_array'][2] = $dayRecurringTimestamp;
+                                $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
+                                $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
+                                $anEvent['DTEND'] = date(
+                                    self::DATE_TIME_FORMAT,
+                                    $anEvent['DTEND_array'][2]
+                                ) . (($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+                                $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
 
-                                        // Ensure recurring timestamp confirms to BYMONTHDAY rule
-                                        $monthRecurringTimestamp = $this->iCalDateToUnixTimestamp(
-                                            gmdate(
-                                                'Ym' . sprintf('%02d', $monthday) . '\T' . self::TIME_FORMAT,
-                                                $recurringTimestamp
-                                            ) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '')
-                                        );
+                                // Exclusions
+                                $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $dayRecurringOffset) {
+                                    return self::isExdateMatch($exdate, $anEvent, $dayRecurringOffset);
+                                });
+
+                                if (isset($anEvent['UID'])) {
+                                    $searchDate = $anEvent['DTSTART'];
+                                    if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
+                                        $timeZone = $this->escapeParamText($anEvent['DTSTART_array'][0]['TZID']);
+                                        $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone) . $searchDate;
                                     }
 
-                                    // Adjust time zone from initial event
-                                    $monthRecurringOffset = 0;
-                                    if ($this->useTimeZoneWithRRules) {
-                                        $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $monthRecurringTimestamp);
-                                        $recurringTimeZone->setTimezone($initialStart->getTimezone());
-                                        $monthRecurringOffset = $recurringTimeZone->getOffset();
-                                        $monthRecurringTimestamp += $monthRecurringOffset;
-                                    }
-
-                                    // Add event
-                                    $anEvent['DTSTART'] = date(
-                                            'Ym' . sprintf('%02d', $monthday) . '\T' . self::TIME_FORMAT,
-                                            $monthRecurringTimestamp
-                                        ) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '');
-                                    $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
-                                    $anEvent['DTSTART_array'][2] = $monthRecurringTimestamp;
-                                    $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
-                                    $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
-                                    $anEvent['DTEND'] = date(
-                                            self::DATE_TIME_FORMAT,
-                                            $anEvent['DTEND_array'][2]
-                                        ) . ($isAllDayEvent || ($initialEndTimeZoneName === 'Z') ? 'Z' : '');
-                                    $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
-
-                                    // Exclusions
-                                    $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $monthRecurringOffset) {
-                                        return self::isExdateMatch($exdate, $anEvent, $monthRecurringOffset);
-                                    });
-
-                                    if (isset($anEvent['UID'])) {
-                                        $searchDate = $anEvent['DTSTART'];
-                                        if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
-                                            $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $anEvent['DTSTART_array'][0]['TZID']) . $searchDate;
-                                        }
-
-                                        if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                            $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate, true, true);
-                                            if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                                $isExcluded = true;
-                                            }
+                                    if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                        $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate);
+                                        if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                            $isExcluded = true;
                                         }
                                     }
+                                }
 
-                                    if (!$isExcluded) {
-                                        $anEvent            = $this->processEventIcalDateTime($anEvent);
-                                        $recurrenceEvents[] = $anEvent;
-                                        $this->eventCount++;
+                                if (!$isExcluded) {
+                                    $anEvent            = $this->processEventIcalDateTime($anEvent);
+                                    $recurrenceEvents[] = $anEvent;
+                                    $this->eventCount++;
 
-                                        // If RRULE[COUNT] is reached then break
-                                        if (isset($rrules['COUNT'])) {
-                                            $countNb++;
+                                    // If RRULE[COUNT] is reached then break
+                                    if (isset($rrules['COUNT'])) {
+                                        $countNb++;
 
-                                            if ($countNb >= $countOrig) {
-                                                break 2;
-                                            }
+                                        if ($countNb >= $countOrig) {
+                                            break;
                                         }
                                     }
                                 }
@@ -1562,71 +1483,79 @@ class ICal
                                 // Move forwards
                                 $recurringTimestamp = strtotime($offset, $recurringTimestamp);
                             }
-                        } elseif (isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
-                            while ($recurringTimestamp <= $until) {
-                                $monthRecurringTimestamp = $recurringTimestamp;
+
+                            $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
+                            $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
+                            $recurrenceEvents    = array(); // Reset
+                            break;
+
+                        case 'WEEKLY':
+                            // Create offset
+                            $offset = "+{$interval} week";
+
+                            $wkst  = (isset($rrules['WKST']) && in_array($rrules['WKST'], array('SA', 'SU', 'MO'))) ? $rrules['WKST'] : $this->defaultWeekStart;
+                            $aWeek = $this->weeks[$wkst];
+                            $days  = array('SA' => 'Saturday', 'SU' => 'Sunday', 'MO' => 'Monday');
+
+                            // Build list of days of week to add events
+                            $weekdays = $aWeek;
+
+                            if (isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
+                                $byDays = explode(',', $rrules['BYDAY']);
+                            } else {
+                                // A textual representation of a day, two letters (e.g. SU)
+                                $byDays = array(mb_substr(strtoupper($initialStart->format('D')), 0, 2));
+                            }
+
+                            // Get timestamp of first day of start week
+                            $weekRecurringTimestamp = (strcasecmp($initialStart->format('l'), explode(' ', $this->weekdays[$wkst])[0]) === 0)
+                                ? $startTimestamp
+                                : strtotime("last {$days[$wkst]} " . $initialStart->format('H:i:s'), $startTimestamp);
+
+                            // Step through weeks
+                            while ($weekRecurringTimestamp <= $until) {
+                                $dayRecurringTimestamp = $weekRecurringTimestamp;
 
                                 // Adjust time zone from initial event
-                                $monthRecurringOffset = 0;
-
+                                $dayRecurringOffset = 0;
                                 if ($this->useTimeZoneWithRRules) {
-                                    $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $monthRecurringTimestamp);
-                                    $recurringTimeZone->setTimezone($initialStart->getTimezone());
-                                    $monthRecurringOffset = $recurringTimeZone->getOffset();
-                                    $monthRecurringTimestamp += $monthRecurringOffset;
+                                    $dayRecurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $dayRecurringTimestamp);
+                                    $dayRecurringTimeZone->setTimezone($initialStart->getTimezone());
+                                    $dayRecurringOffset = $dayRecurringTimeZone->getOffset();
+                                    $dayRecurringTimestamp += $dayRecurringOffset;
                                 }
 
-                                $eventStartDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $monthRecurringTimestamp)} {$this->weekdays[$weekday]} of "
-                                    . date(self::DATE_TIME_FORMAT_PRETTY, $monthRecurringTimestamp);
-                                $eventStartTimestamp = strtotime($eventStartDesc);
-
-                                if (intval($rrules['BYDAY']) === 0) {
-                                    $lastDayDesc = "last {$this->weekdays[$weekday]} of "
-                                        . date(self::DATE_TIME_FORMAT_PRETTY, $monthRecurringTimestamp);
-                                } else {
-                                    $lastDayDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $monthRecurringTimestamp)} {$this->weekdays[$weekday]} of "
-                                        . date(self::DATE_TIME_FORMAT_PRETTY, $monthRecurringTimestamp);
-                                }
-
-                                $lastDayTimestamp = strtotime($lastDayDesc);
-
-                                do {
-                                    // Prevent 5th day of a month from showing up on the next month
-                                    // If BYDAY and the event falls outside the current month, skip the event
-
-                                    $compareCurrentMonth = date('F', $monthRecurringTimestamp);
-                                    $compareEventMonth   = date('F', $eventStartTimestamp);
-
-                                    if ($compareCurrentMonth !== $compareEventMonth) {
-                                        $monthRecurringTimestamp = strtotime($offset, $monthRecurringTimestamp);
-                                        continue;
-                                    }
-
-                                    if ($eventStartTimestamp > $startTimestamp && $eventStartTimestamp <= $until) {
-                                        $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $eventStartTimestamp) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                                foreach ($weekdays as $day) {
+                                    // Check if day should be added
+                                    if (in_array($day, $byDays) && $dayRecurringTimestamp > $startTimestamp
+                                        && $dayRecurringTimestamp <= $until
+                                    ) {
+                                        // Add event
+                                        $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $dayRecurringTimestamp) . (($initialStartTimeZoneName === 'Z') ? 'Z' : '');
                                         $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
-                                        $anEvent['DTSTART_array'][2] = $eventStartTimestamp;
+                                        $anEvent['DTSTART_array'][2] = $dayRecurringTimestamp;
                                         $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
                                         $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
                                         $anEvent['DTEND'] = date(
-                                                self::DATE_TIME_FORMAT,
-                                                $anEvent['DTEND_array'][2]
-                                            ) . ($isAllDayEvent || ($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+                                            self::DATE_TIME_FORMAT,
+                                            $anEvent['DTEND_array'][2]
+                                        ) . (($initialEndTimeZoneName === 'Z') ? 'Z' : '');
                                         $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
 
                                         // Exclusions
-                                        $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $monthRecurringOffset) {
-                                            return self::isExdateMatch($exdate, $anEvent, $monthRecurringOffset);
+                                        $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $dayRecurringOffset) {
+                                            return self::isExdateMatch($exdate, $anEvent, $dayRecurringOffset);
                                         });
 
                                         if (isset($anEvent['UID'])) {
                                             $searchDate = $anEvent['DTSTART'];
                                             if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
-                                                $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $anEvent['DTSTART_array'][0]['TZID']) . $searchDate;
+                                                $timeZone = $this->escapeParamText($anEvent['DTSTART_array'][0]['TZID']);
+                                                $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone) . $searchDate;
                                             }
 
                                             if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                                $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate, true, true);
+                                                $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate);
                                                 if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
                                                     $isExcluded = true;
                                                 }
@@ -1649,94 +1578,192 @@ class ICal
                                         }
                                     }
 
-                                    if (isset($rrules['BYSETPOS'])) {
-                                        // BYSETPOS is defined so skip
-                                        // looping through each week
-                                        $lastDayTimestamp = $eventStartTimestamp;
-                                    }
-
-                                    $eventStartTimestamp += self::SECONDS_IN_A_WEEK;
-                                } while ($eventStartTimestamp <= $lastDayTimestamp);
-
-                                // Move forwards
-                                $recurringTimestamp = strtotime($offset, $recurringTimestamp);
-                            }
-                        }
-
-                        $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
-                        $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
-                        $recurrenceEvents    = array(); // Reset
-                    break;
-
-                    case 'YEARLY':
-                        // Create offset
-                        $recurringTimestamp = $startTimestamp;
-                        $offset = "+{$interval} year";
-
-                        // Deal with BYMONTH
-                        if (isset($rrules['BYMONTH']) && $rrules['BYMONTH'] !== '') {
-                            $bymonths = explode(',', $rrules['BYMONTH']);
-                        }
-
-                        // Check if BYDAY rule exists
-                        if (isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
-                            while ($recurringTimestamp <= $until) {
-                                $yearRecurringTimestamp = $recurringTimestamp;
-
-                                // Adjust time zone from initial event
-                                $yearRecurringOffset = 0;
-
-                                if ($this->useTimeZoneWithRRules) {
-                                    $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $yearRecurringTimestamp);
-                                    $recurringTimeZone->setTimezone($initialStart->getTimezone());
-                                    $yearRecurringOffset = $recurringTimeZone->getOffset();
-                                    $yearRecurringTimestamp += $yearRecurringOffset;
+                                    // Move forwards a day
+                                    $dayRecurringTimestamp = strtotime('+1 day', $dayRecurringTimestamp);
                                 }
 
-                                foreach ($bymonths as $bymonth) {
-                                    $eventStartDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $yearRecurringTimestamp)} {$this->weekdays[$weekday]}"
-                                        . " of {$this->monthNames[$bymonth]} "
-                                        . gmdate('Y H:i:s', $yearRecurringTimestamp);
-                                    $eventStartTimestamp = strtotime($eventStartDesc);
+                                // Move forwards $interval weeks
+                                $weekRecurringTimestamp = strtotime($offset, $weekRecurringTimestamp);
+                            }
 
-                                    if (intval($rrules['BYDAY']) === 0) {
-                                        $lastDayDesc = "last {$this->weekdays[$weekday]}"
-                                            . " of {$this->monthNames[$bymonth]} "
-                                            . gmdate('Y H:i:s', $yearRecurringTimestamp);
-                                    } else {
-                                        $lastDayDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $yearRecurringTimestamp)} {$this->weekdays[$weekday]}"
-                                            . " of {$this->monthNames[$bymonth]} "
-                                            . gmdate('Y H:i:s', $yearRecurringTimestamp);
-                                    }
+                            $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
+                            $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
+                            $recurrenceEvents    = array(); // Reset
+                            break;
 
-                                    $lastDayTimestamp = strtotime($lastDayDesc);
+                        case 'MONTHLY':
+                            // Create offset
+                            $recurringTimestamp = $startTimestamp;
+                            $offset = "+{$interval} month";
 
-                                    do {
-                                        if ($eventStartTimestamp > $startTimestamp && $eventStartTimestamp <= $until) {
-                                            $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $eventStartTimestamp) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                            if (isset($rrules['BYMONTHDAY']) && $rrules['BYMONTHDAY'] !== '') {
+                                // Deal with BYMONTHDAY
+                                $monthdays = explode(',', $rrules['BYMONTHDAY']);
+
+                                while ($recurringTimestamp <= $until) {
+                                    foreach ($monthdays as $key => $monthday) {
+                                        $monthRecurringTimestamp = null;
+
+                                        if ($key === 0) {
+                                            // Ensure original event conforms to monthday rule
+                                            $anEvent['DTSTART'] = gmdate(
+                                                'Ym' . sprintf('%02d', $monthday) . '\T' . self::TIME_FORMAT,
+                                                strtotime($anEvent['DTSTART'])
+                                            ) . (($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+
+                                            $anEvent['DTEND'] = gmdate(
+                                                'Ym' . sprintf('%02d', $monthday) . '\T' . self::TIME_FORMAT,
+                                                isset($anEvent['DURATION'])
+                                                        ? $this->parseDuration($anEvent['DTSTART'], end($anEvent['DURATION_array']))
+                                                        : strtotime($anEvent['DTEND'])
+                                            ) . (($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+
                                             $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
-                                            $anEvent['DTSTART_array'][2] = $eventStartTimestamp;
+                                            $anEvent['DTSTART_array'][2] = $this->iCalDateToUnixTimestamp($anEvent['DTSTART']);
+                                            $anEvent['DTEND_array'][1]   = $anEvent['DTEND'];
+                                            $anEvent['DTEND_array'][2]   = $this->iCalDateToUnixTimestamp($anEvent['DTEND']);
+
+                                            // Ensure recurring timestamp confirms to BYMONTHDAY rule
+                                            $monthRecurringDateTime = new \DateTime('@' . $recurringTimestamp);
+                                            $monthRecurringDateTime->setDate(
+                                                $monthRecurringDateTime->format('Y'),
+                                                $monthRecurringDateTime->format('m'),
+                                                $monthday
+                                            );
+                                            $monthRecurringTimestamp = $monthRecurringDateTime->getTimestamp();
+                                        }
+
+                                        // Adjust time zone from initial event
+                                        $monthRecurringOffset = 0;
+                                        if ($this->useTimeZoneWithRRules) {
+                                            $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $monthRecurringTimestamp);
+                                            $recurringTimeZone->setTimezone($initialStart->getTimezone());
+                                            $monthRecurringOffset = $recurringTimeZone->getOffset();
+                                            $monthRecurringTimestamp += $monthRecurringOffset;
+                                        }
+
+                                        if (($monthRecurringTimestamp > $startTimestamp) && ($monthRecurringTimestamp <= $until)) {
+                                            // Add event
+                                            $anEvent['DTSTART'] = date(
+                                                'Ym' . sprintf('%02d', $monthday) . '\T' . self::TIME_FORMAT,
+                                                $monthRecurringTimestamp
+                                            ) . (($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                                            $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
+                                            $anEvent['DTSTART_array'][2] = $monthRecurringTimestamp;
                                             $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
                                             $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
                                             $anEvent['DTEND'] = date(
-                                                    self::DATE_TIME_FORMAT,
-                                                    $anEvent['DTEND_array'][2]
-                                                ) . ($isAllDayEvent || ($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+                                                self::DATE_TIME_FORMAT,
+                                                $anEvent['DTEND_array'][2]
+                                            ) . (($initialEndTimeZoneName === 'Z') ? 'Z' : '');
                                             $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
 
                                             // Exclusions
-                                            $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $yearRecurringOffset) {
-                                                return self::isExdateMatch($exdate, $anEvent, $yearRecurringOffset);
+                                            $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $monthRecurringOffset) {
+                                                return self::isExdateMatch($exdate, $anEvent, $monthRecurringOffset);
                                             });
 
                                             if (isset($anEvent['UID'])) {
                                                 $searchDate = $anEvent['DTSTART'];
                                                 if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
-                                                    $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $anEvent['DTSTART_array'][0]['TZID']) . $searchDate;
+                                                    $timeZone = $this->escapeParamText($anEvent['DTSTART_array'][0]['TZID']);
+                                                    $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone) . $searchDate;
                                                 }
 
                                                 if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                                    $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate, true, true);
+                                                    $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate);
+                                                    if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                                        $isExcluded = true;
+                                                    }
+                                                }
+                                            }
+
+                                            if (!$isExcluded) {
+                                                $anEvent = $this->processEventIcalDateTime($anEvent);
+                                                $recurrenceEvents[] = $anEvent;
+                                                $this->eventCount++;
+
+                                                // If RRULE[COUNT] is reached then break
+                                                if (isset($rrules['COUNT'])) {
+                                                    $countNb++;
+
+                                                    if ($countNb >= $countOrig) {
+                                                        break 2;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+
+                                    // Move forwards
+                                    $recurringTimestamp = strtotime($offset, $recurringTimestamp);
+                                }
+                            } elseif (isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
+                                while ($recurringTimestamp <= $until) {
+                                    $monthRecurringTimestamp = $recurringTimestamp;
+
+                                    // Adjust time zone from initial event
+                                    $monthRecurringOffset = 0;
+
+                                    if ($this->useTimeZoneWithRRules) {
+                                        $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $monthRecurringTimestamp);
+                                        $recurringTimeZone->setTimezone($initialStart->getTimezone());
+                                        $monthRecurringOffset = $recurringTimeZone->getOffset();
+                                        $monthRecurringTimestamp += $monthRecurringOffset;
+                                    }
+
+                                    $eventStartDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $monthRecurringTimestamp)} {$this->weekdays[$weekday]} "
+                                        . date(self::DATE_TIME_FORMAT_PRETTY, $monthRecurringTimestamp);
+                                    $eventStartTimestamp = strtotime($eventStartDesc);
+
+                                    if (intval($rrules['BYDAY']) === 0) {
+                                        $lastDayDesc = "last {$this->weekdays[$weekday]} "
+                                            . date(self::DATE_TIME_FORMAT_PRETTY, $monthRecurringTimestamp);
+                                    } else {
+                                        $lastDayDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $monthRecurringTimestamp)} {$this->weekdays[$weekday]} "
+                                            . date(self::DATE_TIME_FORMAT_PRETTY, $monthRecurringTimestamp);
+                                    }
+
+                                    $lastDayTimestamp = strtotime($lastDayDesc);
+
+                                    do {
+                                        // Prevent 5th day of a month from showing up on the next month
+                                        // If BYDAY and the event falls outside the current month, skip the event
+
+                                        $compareCurrentMonth = date('F', $monthRecurringTimestamp);
+                                        $compareEventMonth   = date('F', $eventStartTimestamp);
+
+                                        if ($compareCurrentMonth !== $compareEventMonth) {
+                                            $monthRecurringTimestamp = strtotime($offset, $monthRecurringTimestamp);
+                                            continue;
+                                        }
+
+                                        if ($eventStartTimestamp > $startTimestamp && $eventStartTimestamp <= $until) {
+                                            $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $eventStartTimestamp) . (($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                                            $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
+                                            $anEvent['DTSTART_array'][2] = $eventStartTimestamp;
+                                            $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
+                                            $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
+                                            $anEvent['DTEND'] = date(
+                                                self::DATE_TIME_FORMAT,
+                                                $anEvent['DTEND_array'][2]
+                                            ) . (($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+                                            $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
+
+                                            // Exclusions
+                                            $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $monthRecurringOffset) {
+                                                return self::isExdateMatch($exdate, $anEvent, $monthRecurringOffset);
+                                            });
+
+                                            if (isset($anEvent['UID'])) {
+                                                $searchDate = $anEvent['DTSTART'];
+                                                if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
+                                                    $timeZone = $this->escapeParamText($anEvent['DTSTART_array'][0]['TZID']);
+                                                    $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone) . $searchDate;
+                                                }
+
+                                                if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                                    $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate);
                                                     if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
                                                         $isExcluded = true;
                                                     }
@@ -1753,111 +1780,226 @@ class ICal
                                                     $countNb++;
 
                                                     if ($countNb >= $countOrig) {
-                                                        break 3;
+                                                        break 2;
                                                     }
                                                 }
                                             }
                                         }
 
+                                        if (isset($rrules['BYSETPOS'])) {
+                                            // BYSETPOS is defined so skip
+                                            // looping through each week
+                                            $lastDayTimestamp = $eventStartTimestamp;
+                                        }
+
                                         $eventStartTimestamp += self::SECONDS_IN_A_WEEK;
                                     } while ($eventStartTimestamp <= $lastDayTimestamp);
-                                }
 
-                                // Move forwards
-                                $recurringTimestamp = strtotime($offset, $recurringTimestamp);
+                                    // Move forwards
+                                    $recurringTimestamp = strtotime($offset, Carbon::createFromTimestamp($recurringTimestamp)->day(1)->timestamp);
+                                }
                             }
-                        } else {
-                            $day = $initialStart->format('d');
 
-                            // Step through years
-                            while ($recurringTimestamp <= $until) {
-                                $yearRecurringTimestamp = $recurringTimestamp;
+                            $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
+                            $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
+                            $recurrenceEvents    = array(); // Reset
+                            break;
 
-                                // Adjust time zone from initial event
-                                $yearRecurringOffset = 0;
-                                if ($this->useTimeZoneWithRRules) {
-                                    $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $yearRecurringTimestamp);
-                                    $recurringTimeZone->setTimezone($initialStart->getTimezone());
-                                    $yearRecurringOffset = $recurringTimeZone->getOffset();
-                                    $yearRecurringTimestamp += $yearRecurringOffset;
-                                }
+                        case 'YEARLY':
+                            // Create offset
+                            $recurringTimestamp = $startTimestamp;
+                            $offset = "+{$interval} year";
 
-                                $eventStartDescs = array();
-                                if (isset($rrules['BYMONTH']) && $rrules['BYMONTH'] !== '') {
-                                    foreach ($bymonths as $bymonth) {
-                                        array_push($eventStartDescs, "{$day} {$this->monthNames[$bymonth]} " . gmdate('Y H:i:s', $yearRecurringTimestamp));
+                            // Deal with BYMONTH
+                            if (isset($rrules['BYMONTH']) && $rrules['BYMONTH'] !== '') {
+                                $bymonths = explode(',', $rrules['BYMONTH']);
+                            } else {
+                                $bymonths = array();
+                            }
+
+                            // Check if BYDAY rule exists
+                            if (isset($rrules['BYDAY']) && $rrules['BYDAY'] !== '') {
+                                while ($recurringTimestamp <= $until) {
+                                    $yearRecurringTimestamp = $recurringTimestamp;
+
+                                    // Adjust time zone from initial event
+                                    $yearRecurringOffset = 0;
+
+                                    if ($this->useTimeZoneWithRRules) {
+                                        $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $yearRecurringTimestamp);
+                                        $recurringTimeZone->setTimezone($initialStart->getTimezone());
+                                        $yearRecurringOffset = $recurringTimeZone->getOffset();
+                                        $yearRecurringTimestamp += $yearRecurringOffset;
                                     }
-                                } else {
-                                    array_push($eventStartDescs, $day . gmdate(self::DATE_TIME_FORMAT_PRETTY, $yearRecurringTimestamp));
+
+                                    foreach ($bymonths as $bymonth) {
+                                        $eventStartDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $yearRecurringTimestamp)} {$this->weekdays[$weekday]}"
+                                            . " {$this->monthNames[$bymonth]} "
+                                            . gmdate('Y H:i:s', $yearRecurringTimestamp);
+                                        $eventStartTimestamp = strtotime($eventStartDesc);
+
+                                        if (intval($rrules['BYDAY']) === 0) {
+                                            $lastDayDesc = "last {$this->weekdays[$weekday]}"
+                                                . " {$this->monthNames[$bymonth]} "
+                                                . gmdate('Y H:i:s', $yearRecurringTimestamp);
+                                        } else {
+                                            $lastDayDesc = "{$this->convertDayOrdinalToPositive($dayNumber, $weekday, $yearRecurringTimestamp)} {$this->weekdays[$weekday]}"
+                                                . " {$this->monthNames[$bymonth]} "
+                                                . gmdate('Y H:i:s', $yearRecurringTimestamp);
+                                        }
+
+                                        $lastDayTimestamp = strtotime($lastDayDesc);
+
+                                        do {
+                                            if ($eventStartTimestamp > $startTimestamp && $eventStartTimestamp <= $until) {
+                                                $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $eventStartTimestamp) . (($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                                                $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
+                                                $anEvent['DTSTART_array'][2] = $eventStartTimestamp;
+                                                $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
+                                                $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
+                                                $anEvent['DTEND'] = date(
+                                                    self::DATE_TIME_FORMAT,
+                                                    $anEvent['DTEND_array'][2]
+                                                ) . (($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+                                                $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
+
+                                                // Exclusions
+                                                $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $yearRecurringOffset) {
+                                                    return self::isExdateMatch($exdate, $anEvent, $yearRecurringOffset);
+                                                });
+
+                                                if (isset($anEvent['UID'])) {
+                                                    $searchDate = $anEvent['DTSTART'];
+                                                    if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
+                                                        $timeZone = $this->escapeParamText($anEvent['DTSTART_array'][0]['TZID']);
+                                                        $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone) . $searchDate;
+                                                    }
+
+                                                    if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                                        $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate);
+                                                        if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                                            $isExcluded = true;
+                                                        }
+                                                    }
+                                                }
+
+                                                if (!$isExcluded) {
+                                                    $anEvent            = $this->processEventIcalDateTime($anEvent);
+                                                    $recurrenceEvents[] = $anEvent;
+                                                    $this->eventCount++;
+
+                                                    // If RRULE[COUNT] is reached then break
+                                                    if (isset($rrules['COUNT'])) {
+                                                        $countNb++;
+
+                                                        if ($countNb >= $countOrig) {
+                                                            break 3;
+                                                        }
+                                                    }
+                                                }
+                                            }
+
+                                            $eventStartTimestamp += self::SECONDS_IN_A_WEEK;
+                                        } while ($eventStartTimestamp <= $lastDayTimestamp);
+                                    }
+
+                                    // Move forwards
+                                    $recurringTimestamp = strtotime($offset, $recurringTimestamp);
                                 }
+                            } else {
+                                $day = $initialStart->format('d');
 
-                                foreach ($eventStartDescs as $eventStartDesc) {
-                                    $eventStartTimestamp = strtotime($eventStartDesc);
+                                // Step through years
+                                while ($recurringTimestamp <= $until) {
+                                    $yearRecurringTimestamp = $recurringTimestamp;
 
-                                    if ($eventStartTimestamp > $startTimestamp && $eventStartTimestamp <= $until) {
-                                        $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $eventStartTimestamp) . ($isAllDayEvent || ($initialStartTimeZoneName === 'Z') ? 'Z' : '');
-                                        $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
-                                        $anEvent['DTSTART_array'][2] = $eventStartTimestamp;
-                                        $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
-                                        $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
-                                        $anEvent['DTEND'] = date(
+                                    // Adjust time zone from initial event
+                                    $yearRecurringOffset = 0;
+                                    if ($this->useTimeZoneWithRRules) {
+                                        $recurringTimeZone = \DateTime::createFromFormat(self::UNIX_FORMAT, $yearRecurringTimestamp);
+                                        $recurringTimeZone->setTimezone($initialStart->getTimezone());
+                                        $yearRecurringOffset = $recurringTimeZone->getOffset();
+                                        $yearRecurringTimestamp += $yearRecurringOffset;
+                                    }
+
+                                    $eventStartDescs = array();
+                                    if (isset($rrules['BYMONTH']) && $rrules['BYMONTH'] !== '') {
+                                        foreach ($bymonths as $bymonth) {
+                                            array_push($eventStartDescs, "{$day} {$this->monthNames[$bymonth]} " . gmdate('Y H:i:s', $yearRecurringTimestamp));
+                                        }
+                                    } else {
+                                        array_push($eventStartDescs, $day . gmdate(self::DATE_TIME_FORMAT_PRETTY, $yearRecurringTimestamp));
+                                    }
+
+                                    foreach ($eventStartDescs as $eventStartDesc) {
+                                        $eventStartTimestamp = strtotime($eventStartDesc);
+
+                                        if ($eventStartTimestamp > $startTimestamp && $eventStartTimestamp <= $until) {
+                                            $anEvent['DTSTART'] = date(self::DATE_TIME_FORMAT, $eventStartTimestamp) . (($initialStartTimeZoneName === 'Z') ? 'Z' : '');
+                                            $anEvent['DTSTART_array'][1] = $anEvent['DTSTART'];
+                                            $anEvent['DTSTART_array'][2] = $eventStartTimestamp;
+                                            $anEvent['DTEND_array']      = $anEvent['DTSTART_array'];
+                                            $anEvent['DTEND_array'][2]  += $eventTimestampOffset;
+                                            $anEvent['DTEND'] = date(
                                                 self::DATE_TIME_FORMAT,
                                                 $anEvent['DTEND_array'][2]
-                                            ) . ($isAllDayEvent || ($initialEndTimeZoneName === 'Z') ? 'Z' : '');
-                                        $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
+                                            ) . (($initialEndTimeZoneName === 'Z') ? 'Z' : '');
+                                            $anEvent['DTEND_array'][1] = $anEvent['DTEND'];
 
-                                        // Exclusions
-                                        $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $yearRecurringOffset) {
-                                            return self::isExdateMatch($exdate, $anEvent, $yearRecurringOffset);
-                                        });
+                                            // Exclusions
+                                            $isExcluded = array_filter($exdates, function ($exdate) use ($anEvent, $yearRecurringOffset) {
+                                                return self::isExdateMatch($exdate, $anEvent, $yearRecurringOffset);
+                                            });
 
-                                        if (isset($anEvent['UID'])) {
-                                            $searchDate = $anEvent['DTSTART'];
-                                            if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
-                                                $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $anEvent['DTSTART_array'][0]['TZID']) . $searchDate;
-                                            }
+                                            if (isset($anEvent['UID'])) {
+                                                $searchDate = $anEvent['DTSTART'];
+                                                if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
+                                                    $timeZone = $this->escapeParamText($anEvent['DTSTART_array'][0]['TZID']);
+                                                    $searchDate = sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone) . $searchDate;
+                                                }
 
-                                            if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                                $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate, true, true);
-                                                if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
-                                                    $isExcluded = true;
+                                                if (isset($this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                                    $searchDateUtc = $this->iCalDateToUnixTimestamp($searchDate);
+                                                    if (in_array($searchDateUtc, $this->alteredRecurrenceInstances[$anEvent['UID']])) {
+                                                        $isExcluded = true;
+                                                    }
                                                 }
                                             }
-                                        }
 
-                                        if (!$isExcluded) {
-                                            $anEvent            = $this->processEventIcalDateTime($anEvent);
-                                            $recurrenceEvents[] = $anEvent;
-                                            $this->eventCount++;
+                                            if (!$isExcluded) {
+                                                $anEvent            = $this->processEventIcalDateTime($anEvent);
+                                                $recurrenceEvents[] = $anEvent;
+                                                $this->eventCount++;
 
-                                            // If RRULE[COUNT] is reached then break
-                                            if (isset($rrules['COUNT'])) {
-                                                $countNb++;
+                                                // If RRULE[COUNT] is reached then break
+                                                if (isset($rrules['COUNT'])) {
+                                                    $countNb++;
 
-                                                if ($countNb >= $countOrig) {
-                                                    break 2;
+                                                    if ($countNb >= $countOrig) {
+                                                        break 2;
+                                                    }
                                                 }
                                             }
                                         }
                                     }
+
+                                    // Move forwards
+                                    $recurringTimestamp = strtotime($offset, $recurringTimestamp);
                                 }
-
-                                // Move forwards
-                                $recurringTimestamp = strtotime($offset, $recurringTimestamp);
                             }
-                        }
 
-                        $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
-                        $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
-                        $recurrenceEvents    = array(); // Reset
-                    break;
+                            $recurrenceEvents    = $this->trimToRecurrenceCount($rrules, $recurrenceEvents);
+                            $allRecurrenceEvents = array_merge($allRecurrenceEvents, $recurrenceEvents);
+                            $recurrenceEvents    = array(); // Reset
+                            break;
+                    }
                 }
             }
+
+            $events = array_merge($events, $allRecurrenceEvents);
+
+            $this->cal['VEVENT'] = $events;
         }
-
-        $events = array_merge($events, $allRecurrenceEvents);
-
-        $this->cal['VEVENT'] = $events;
     }
 
     /**
@@ -1867,41 +2009,39 @@ class ICal
      * These keys contain dates adapted to the calendar
      * time zone depending on the event `TZID`.
      *
-     * @return boolean|void
+     * @return void
      */
     protected function processDateConversions()
     {
         $events = (isset($this->cal['VEVENT'])) ? $this->cal['VEVENT'] : array();
 
-        if (empty($events)) {
-            return false;
-        }
+        if (!empty($events)) {
+            foreach ($events as $key => $anEvent) {
+                if (!$this->isValidDate($anEvent['DTSTART'])) {
+                    unset($events[$key]);
+                    $this->eventCount--;
 
-        foreach ($events as $key => $anEvent) {
-            if (!$this->isValidDate($anEvent['DTSTART'])) {
-                unset($events[$key]);
-                $this->eventCount--;
+                    continue;
+                }
 
-                continue;
-            }
+                if ($this->useTimeZoneWithRRules && isset($anEvent['RRULE_array'][2]) && $anEvent['RRULE_array'][2] === self::RECURRENCE_EVENT) {
+                    $events[$key]['DTSTART_tz'] = $anEvent['DTSTART'];
+                    $events[$key]['DTEND_tz']   = isset($anEvent['DTEND']) ? $anEvent['DTEND'] : $anEvent['DTSTART'];
+                } else {
+                    $events[$key]['DTSTART_tz'] = $this->iCalDateWithTimeZone($anEvent, 'DTSTART');
 
-            if ($this->useTimeZoneWithRRules && isset($anEvent['RRULE_array'][2]) && $anEvent['RRULE_array'][2] === self::RECURRENCE_EVENT) {
-                $events[$key]['DTSTART_tz'] = $anEvent['DTSTART'];
-                $events[$key]['DTEND_tz']   = isset($anEvent['DTEND']) ? $anEvent['DTEND'] : $anEvent['DTSTART'];
-            } else {
-                $events[$key]['DTSTART_tz'] = $this->iCalDateWithTimeZone($anEvent, 'DTSTART');
-
-                if ($this->iCalDateWithTimeZone($anEvent, 'DTEND')) {
-                    $events[$key]['DTEND_tz'] = $this->iCalDateWithTimeZone($anEvent, 'DTEND');
-                } elseif ($this->iCalDateWithTimeZone($anEvent, 'DURATION')) {
-                    $events[$key]['DTEND_tz'] = $this->iCalDateWithTimeZone($anEvent, 'DURATION');
-                } elseif ($this->iCalDateWithTimeZone($anEvent, 'DTSTART')) {
-                    $events[$key]['DTEND_tz'] = $this->iCalDateWithTimeZone($anEvent, 'DTSTART');
+                    if ($this->iCalDateWithTimeZone($anEvent, 'DTEND')) {
+                        $events[$key]['DTEND_tz'] = $this->iCalDateWithTimeZone($anEvent, 'DTEND');
+                    } elseif ($this->iCalDateWithTimeZone($anEvent, 'DURATION')) {
+                        $events[$key]['DTEND_tz'] = $this->iCalDateWithTimeZone($anEvent, 'DURATION');
+                    } else {
+                        $events[$key]['DTEND_tz'] = $events[$key]['DTSTART_tz'];
+                    }
                 }
             }
-        }
 
-        $this->cal['VEVENT'] = $events;
+            $this->cal['VEVENT'] = $events;
+        }
     }
 
     /**
@@ -1920,7 +2060,9 @@ class ICal
         foreach (array('DTSTART', 'DTEND', 'RECURRENCE-ID') as $type) {
             if (isset($event["{$type}_array"])) {
                 $timeZone = (isset($event["{$type}_array"][0]['TZID'])) ? $event["{$type}_array"][0]['TZID'] : $calendarTimeZone;
+                $timeZone = $this->escapeParamText($timeZone);
                 $event["{$type}_array"][$index] = ((is_null($timeZone)) ? '' : sprintf(self::ICAL_DATE_TIME_TEMPLATE, $timeZone)) . $event["{$type}_array"][1];
+                $event["{$type}_array"][2] = $this->iCalDateToUnixTimestamp($event["{$type}_array"][3]);
             }
         }
 
@@ -1985,13 +2127,8 @@ class ICal
             $timeZone = $this->defaultTimeZone;
         }
 
-        // Use default time zone if the calendar's is invalid
-        if ($this->isValidIanaTimeZoneId($timeZone) === false) {
-            // phpcs:ignore CustomPHPCS.ControlStructures.AssignmentInCondition.Warning
-            if (($timeZone = $this->isValidCldrTimeZoneId($timeZone, true)) === false) {
-                $timeZone = $this->defaultTimeZone;
-            }
-        }
+        // Validate the time zone, falling back to the time zone set in the PHP environment.
+        $timeZone = $this->timeZoneStringToDateTimeZone($timeZone)->getName();
 
         if ($ignoreUtc && strtoupper($timeZone) === self::TIME_ZONE_UTC) {
             return null;
@@ -2011,7 +2148,7 @@ class ICal
     {
         $array = $this->cal;
 
-        return isset($array['VFREEBUSY']) ? $array['VFREEBUSY'] : '';
+        return isset($array['VFREEBUSY']) ? $array['VFREEBUSY'] : [];
     }
 
     /**
@@ -2043,12 +2180,12 @@ class ICal
      * problem for events on, during, or after 29 Jan 2038.
      * See https://en.wikipedia.org/wiki/Unix_time#Representing_the_number
      *
-     * @param  string $rangeStart
-     * @param  string $rangeEnd
+     * @param  string|null $rangeStart
+     * @param  string|null $rangeEnd
      * @return array
      * @throws \Exception
      */
-    public function eventsFromRange($rangeStart = false, $rangeEnd = false)
+    public function eventsFromRange($rangeStart = null, $rangeEnd = null)
     {
         // Sort events before processing range
         $events = $this->sortEventsWithOrder($this->events(), SORT_ASC);
@@ -2059,7 +2196,7 @@ class ICal
 
         $extendedEvents = array();
 
-        if ($rangeStart) {
+        if (!is_null($rangeStart)) {
             try {
                 $rangeStart = new \DateTime($rangeStart, new \DateTimeZone($this->defaultTimeZone));
             } catch (\Exception $e) {
@@ -2070,7 +2207,7 @@ class ICal
             $rangeStart = new \DateTime('now', new \DateTimeZone($this->defaultTimeZone));
         }
 
-        if ($rangeEnd) {
+        if (!is_null($rangeEnd)) {
             try {
                 $rangeEnd = new \DateTime($rangeEnd, new \DateTimeZone($this->defaultTimeZone));
             } catch (\Exception $e) {
@@ -2154,14 +2291,16 @@ class ICal
     }
 
     /**
-     * Checks if a time zone is valid (IANA or CLDR)
+     * Checks if a time zone is valid (IANA, CLDR, or Windows)
      *
      * @param  string $timeZone
      * @return boolean
      */
     protected function isValidTimeZoneId($timeZone)
     {
-        return ($this->isValidIanaTimeZoneId($timeZone) !== false || $this->isValidCldrTimeZoneId($timeZone) !== false);
+        return ($this->isValidIanaTimeZoneId($timeZone) !== false
+            || $this->isValidCldrTimeZoneId($timeZone) !== false
+            || $this->isValidWindowsTimeZoneId($timeZone) !== false);
     }
 
     /**
@@ -2172,7 +2311,7 @@ class ICal
      */
     protected function isValidIanaTimeZoneId($timeZone)
     {
-        if (in_array($timeZone, $this->validTimeZones)) {
+        if (in_array($timeZone, $this->validIanaTimeZones)) {
             return true;
         }
 
@@ -2188,7 +2327,7 @@ class ICal
         unset($valid['']);
 
         if (isset($valid[$timeZone]) || in_array($timeZone, timezone_identifiers_list(\DateTimeZone::ALL_WITH_BC))) {
-            $this->validTimeZones[] = $timeZone;
+            $this->validIanaTimeZones[] = $timeZone;
 
             return true;
         }
@@ -2199,132 +2338,23 @@ class ICal
     /**
      * Checks if a time zone is a valid CLDR time zone
      *
-     * @param  string  $timeZone
-     * @param  boolean $doConversion
-     * @return boolean|string
+     * @param  string $timeZone
+     * @return boolean
      */
-    public function isValidCldrTimeZoneId($timeZone, $doConversion = false)
+    public function isValidCldrTimeZoneId($timeZone)
     {
-        $timeZone = html_entity_decode($timeZone);
+        return array_key_exists(html_entity_decode($timeZone), self::$cldrTimeZonesMap);
+    }
 
-        $cldrTimeZones = array(
-            '(UTC-12:00) International Date Line West'                      => 'Etc/GMT+12',
-            '(UTC-11:00) Coordinated Universal Time-11'                     => 'Etc/GMT+11',
-            '(UTC-10:00) Hawaii'                                            => 'Pacific/Honolulu',
-            '(UTC-09:00) Alaska'                                            => 'America/Anchorage',
-            '(UTC-08:00) Pacific Time (US & Canada)'                        => 'America/Los_Angeles',
-            '(UTC-07:00) Arizona'                                           => 'America/Phoenix',
-            '(UTC-07:00) Chihuahua, La Paz, Mazatlan'                       => 'America/Chihuahua',
-            '(UTC-07:00) Mountain Time (US & Canada)'                       => 'America/Denver',
-            '(UTC-06:00) Central America'                                   => 'America/Guatemala',
-            '(UTC-06:00) Central Time (US & Canada)'                        => 'America/Chicago',
-            '(UTC-06:00) Guadalajara, Mexico City, Monterrey'               => 'America/Mexico_City',
-            '(UTC-06:00) Saskatchewan'                                      => 'America/Regina',
-            '(UTC-05:00) Bogota, Lima, Quito, Rio Branco'                   => 'America/Bogota',
-            '(UTC-05:00) Chetumal'                                          => 'America/Cancun',
-            '(UTC-05:00) Eastern Time (US & Canada)'                        => 'America/New_York',
-            '(UTC-05:00) Indiana (East)'                                    => 'America/Indianapolis',
-            '(UTC-04:00) Asuncion'                                          => 'America/Asuncion',
-            '(UTC-04:00) Atlantic Time (Canada)'                            => 'America/Halifax',
-            '(UTC-04:00) Caracas'                                           => 'America/Caracas',
-            '(UTC-04:00) Cuiaba'                                            => 'America/Cuiaba',
-            '(UTC-04:00) Georgetown, La Paz, Manaus, San Juan'              => 'America/La_Paz',
-            '(UTC-04:00) Santiago'                                          => 'America/Santiago',
-            '(UTC-03:30) Newfoundland'                                      => 'America/St_Johns',
-            '(UTC-03:00) Brasilia'                                          => 'America/Sao_Paulo',
-            '(UTC-03:00) Cayenne, Fortaleza'                                => 'America/Cayenne',
-            '(UTC-03:00) City of Buenos Aires'                              => 'America/Buenos_Aires',
-            '(UTC-03:00) Greenland'                                         => 'America/Godthab',
-            '(UTC-03:00) Montevideo'                                        => 'America/Montevideo',
-            '(UTC-03:00) Salvador'                                          => 'America/Bahia',
-            '(UTC-02:00) Coordinated Universal Time-02'                     => 'Etc/GMT+2',
-            '(UTC-01:00) Azores'                                            => 'Atlantic/Azores',
-            '(UTC-01:00) Cabo Verde Is.'                                    => 'Atlantic/Cape_Verde',
-            '(UTC) Coordinated Universal Time'                              => 'Etc/GMT',
-            '(UTC+00:00) Casablanca'                                        => 'Africa/Casablanca',
-            '(UTC+00:00) Dublin, Edinburgh, Lisbon, London'                 => 'Europe/London',
-            '(UTC+00:00) Monrovia, Reykjavik'                               => 'Atlantic/Reykjavik',
-            '(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna'  => 'Europe/Berlin',
-            '(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague' => 'Europe/Budapest',
-            '(UTC+01:00) Brussels, Copenhagen, Madrid, Paris'               => 'Europe/Paris',
-            '(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb'                  => 'Europe/Warsaw',
-            '(UTC+01:00) West Central Africa'                               => 'Africa/Lagos',
-            '(UTC+02:00) Amman'                                             => 'Asia/Amman',
-            '(UTC+02:00) Athens, Bucharest'                                 => 'Europe/Bucharest',
-            '(UTC+02:00) Beirut'                                            => 'Asia/Beirut',
-            '(UTC+02:00) Cairo'                                             => 'Africa/Cairo',
-            '(UTC+02:00) Chisinau'                                          => 'Europe/Chisinau',
-            '(UTC+02:00) Damascus'                                          => 'Asia/Damascus',
-            '(UTC+02:00) Harare, Pretoria'                                  => 'Africa/Johannesburg',
-            '(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius'     => 'Europe/Kiev',
-            '(UTC+02:00) Jerusalem'                                         => 'Asia/Jerusalem',
-            '(UTC+02:00) Kaliningrad'                                       => 'Europe/Kaliningrad',
-            '(UTC+02:00) Tripoli'                                           => 'Africa/Tripoli',
-            '(UTC+02:00) Windhoek'                                          => 'Africa/Windhoek',
-            '(UTC+03:00) Baghdad'                                           => 'Asia/Baghdad',
-            '(UTC+03:00) Istanbul'                                          => 'Europe/Istanbul',
-            '(UTC+03:00) Kuwait, Riyadh'                                    => 'Asia/Riyadh',
-            '(UTC+03:00) Minsk'                                             => 'Europe/Minsk',
-            '(UTC+03:00) Moscow, St. Petersburg, Volgograd'                 => 'Europe/Moscow',
-            '(UTC+03:00) Nairobi'                                           => 'Africa/Nairobi',
-            '(UTC+03:30) Tehran'                                            => 'Asia/Tehran',
-            '(UTC+04:00) Abu Dhabi, Muscat'                                 => 'Asia/Dubai',
-            '(UTC+04:00) Baku'                                              => 'Asia/Baku',
-            '(UTC+04:00) Izhevsk, Samara'                                   => 'Europe/Samara',
-            '(UTC+04:00) Port Louis'                                        => 'Indian/Mauritius',
-            '(UTC+04:00) Tbilisi'                                           => 'Asia/Tbilisi',
-            '(UTC+04:00) Yerevan'                                           => 'Asia/Yerevan',
-            '(UTC+04:30) Kabul'                                             => 'Asia/Kabul',
-            '(UTC+05:00) Ashgabat, Tashkent'                                => 'Asia/Tashkent',
-            '(UTC+05:00) Ekaterinburg'                                      => 'Asia/Yekaterinburg',
-            '(UTC+05:00) Islamabad, Karachi'                                => 'Asia/Karachi',
-            '(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi'               => 'Asia/Calcutta',
-            '(UTC+05:30) Sri Jayawardenepura'                               => 'Asia/Colombo',
-            '(UTC+05:45) Kathmandu'                                         => 'Asia/Katmandu',
-            '(UTC+06:00) Astana'                                            => 'Asia/Almaty',
-            '(UTC+06:00) Dhaka'                                             => 'Asia/Dhaka',
-            '(UTC+06:30) Yangon (Rangoon)'                                  => 'Asia/Rangoon',
-            '(UTC+07:00) Bangkok, Hanoi, Jakarta'                           => 'Asia/Bangkok',
-            '(UTC+07:00) Krasnoyarsk'                                       => 'Asia/Krasnoyarsk',
-            '(UTC+07:00) Novosibirsk'                                       => 'Asia/Novosibirsk',
-            '(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi'             => 'Asia/Shanghai',
-            '(UTC+08:00) Irkutsk'                                           => 'Asia/Irkutsk',
-            '(UTC+08:00) Kuala Lumpur, Singapore'                           => 'Asia/Singapore',
-            '(UTC+08:00) Perth'                                             => 'Australia/Perth',
-            '(UTC+08:00) Taipei'                                            => 'Asia/Taipei',
-            '(UTC+08:00) Ulaanbaatar'                                       => 'Asia/Ulaanbaatar',
-            '(UTC+09:00) Osaka, Sapporo, Tokyo'                             => 'Asia/Tokyo',
-            '(UTC+09:00) Pyongyang'                                         => 'Asia/Pyongyang',
-            '(UTC+09:00) Seoul'                                             => 'Asia/Seoul',
-            '(UTC+09:00) Yakutsk'                                           => 'Asia/Yakutsk',
-            '(UTC+09:30) Adelaide'                                          => 'Australia/Adelaide',
-            '(UTC+09:30) Darwin'                                            => 'Australia/Darwin',
-            '(UTC+10:00) Brisbane'                                          => 'Australia/Brisbane',
-            '(UTC+10:00) Canberra, Melbourne, Sydney'                       => 'Australia/Sydney',
-            '(UTC+10:00) Guam, Port Moresby'                                => 'Pacific/Port_Moresby',
-            '(UTC+10:00) Hobart'                                            => 'Australia/Hobart',
-            '(UTC+10:00) Vladivostok'                                       => 'Asia/Vladivostok',
-            '(UTC+11:00) Chokurdakh'                                        => 'Asia/Srednekolymsk',
-            '(UTC+11:00) Magadan'                                           => 'Asia/Magadan',
-            '(UTC+11:00) Solomon Is., New Caledonia'                        => 'Pacific/Guadalcanal',
-            '(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky'                  => 'Asia/Kamchatka',
-            '(UTC+12:00) Auckland, Wellington'                              => 'Pacific/Auckland',
-            '(UTC+12:00) Coordinated Universal Time+12'                     => 'Etc/GMT-12',
-            '(UTC+12:00) Fiji'                                              => 'Pacific/Fiji',
-            "(UTC+13:00) Nuku'alofa"                                        => 'Pacific/Tongatapu',
-            '(UTC+13:00) Samoa'                                             => 'Pacific/Apia',
-            '(UTC+14:00) Kiritimati Island'                                 => 'Pacific/Kiritimati',
-        );
-
-        if (array_key_exists($timeZone, $cldrTimeZones)) {
-            if ($doConversion) {
-                return $cldrTimeZones[$timeZone];
-            } else {
-                return true;
-            }
-        }
-
-        return false;
+    /**
+     * Checks if a time zone is a recognised Windows (non-CLDR) time zone
+     *
+     * @param  string $timeZone
+     * @return boolean
+     */
+    public function isValidWindowsTimeZoneId($timeZone)
+    {
+        return array_key_exists(html_entity_decode($timeZone), self::$windowsTimeZonesMap);
     }
 
     /**
@@ -2333,7 +2363,7 @@ class ICal
      * @param  string $date
      * @param  string $duration
      * @param  string $format
-     * @return integer|DateTime
+     * @return integer|\DateTime
      */
     protected function parseDuration($date, $duration, $format = self::UNIX_FORMAT)
     {
@@ -2368,14 +2398,13 @@ class ICal
      */
     protected function numberOfDays($days, $start, $end)
     {
-        $w       = array(date('w', $start), date('w', $end));
-        $oneWeek = self::SECONDS_IN_A_WEEK;
-        $x       = floor(($end - $start) / $oneWeek);
-        $sum     = 0;
+        $w    = array(date('w', $start), date('w', $end));
+        $base = floor(($end - $start) / self::SECONDS_IN_A_WEEK);
+        $sum  = 0;
 
         for ($day = 0; $day < 7; ++$day) {
             if ($days & pow(2, $day)) {
-                $sum += $x + (($w[0] > $w[1]) ? $w[0] <= $day || $day <= $w[1] : $w[0] <= $day && $day <= $w[1]);
+                $sum += $base + (($w[0] > $w[1]) ? $w[0] <= $day || $day <= $w[1] : $w[0] <= $day && $day <= $w[1]);
             }
         }
 
@@ -2386,20 +2415,26 @@ class ICal
      * Converts a negative day ordinal to
      * its equivalent positive form
      *
-     * @param  integer $dayNumber
-     * @param  integer $weekday
-     * @param  integer $timestamp
+     * @param  integer           $dayNumber
+     * @param  integer           $weekday
+     * @param  integer|\DateTime $timestamp
      * @return string
      */
     protected function convertDayOrdinalToPositive($dayNumber, $weekday, $timestamp)
     {
-        $dayNumber = empty($dayNumber) ? 1 : $dayNumber; // Returns 0 when no number defined in BYDAY
+        // 0 when no number is defined for BYDAY
+        $dayNumber = empty($dayNumber) ? 1 : intval($dayNumber);
 
         $dayOrdinals = $this->dayOrdinals;
 
-        // We only care about negative BYDAY values
-        if ($dayNumber >= 1) {
-            return $dayOrdinals[$dayNumber];
+        if ($dayNumber >= -1) {
+            $dayOrdinal = ($dayNumber === -1) ? 'last' : $dayOrdinals[$dayNumber];
+
+            if ($weekday === 'weekday') {
+                $dayOrdinal = "-1 day {$dayOrdinal}";
+            }
+
+            return $dayOrdinal;
         }
 
         $timestamp = (is_object($timestamp)) ? $timestamp : \DateTime::createFromFormat(self::UNIX_FORMAT, $timestamp);
@@ -2468,10 +2503,10 @@ class ICal
      * @param  integer      $count
      * @return array|string
      */
-    protected static function mb_str_replace($search, $replace, $subject, $encoding = 'auto', &$count = 0)
+    protected static function mb_str_replace($search, $replace, $subject, $encoding = null, &$count = 0)
     {
         if (is_array($subject)) {
-            // Call `mb_str_replace` for each subject in array, recursively
+            // Call `mb_str_replace()` for each subject in the array, recursively
             foreach ($subject as $key => $value) {
                 $subject[$key] = self::mb_str_replace($search, $replace, $value, $encoding, $count);
             }
@@ -2482,6 +2517,10 @@ class ICal
             $replacements = array_pad($replacements, count($searches), '');
 
             foreach ($searches as $key => $search) {
+                if (is_null($encoding)) {
+                    $encoding = mb_detect_encoding($search, 'UTF-8', true);
+                }
+
                 $replace   = $replacements[$key];
                 $searchLen = mb_strlen($search, $encoding);
 
@@ -2498,6 +2537,22 @@ class ICal
         }
 
         return $subject;
+    }
+
+    /**
+     * Places double-quotes around texts that have characters not permitted
+     * in parameter-texts, but are permitted in quoted-texts.
+     *
+     * @param  string $candidateText
+     * @return string
+     */
+    protected function escapeParamText($candidateText)
+    {
+        if (strpbrk($candidateText, ':;,') !== false) {
+            return '"' . $candidateText . '"';
+        }
+
+        return $candidateText;
     }
 
     /**
@@ -2559,15 +2614,7 @@ class ICal
 
             foreach ($subArray as $key => $value) {
                 if ($key === 'TZID') {
-                    $checkTimeZone = $subArray[$key];
-
-                    if ($this->isValidIanaTimeZoneId($checkTimeZone)) {
-                        $currentTimeZone = $checkTimeZone;
-                    } elseif ($this->isValidCldrTimeZoneId($checkTimeZone)) {
-                        $currentTimeZone = $this->isValidCldrTimeZoneId($checkTimeZone, true);
-                    } else {
-                        $currentTimeZone = $this->defaultTimeZone;
-                    }
+                    $currentTimeZone = $this->timeZoneStringToDateTimeZone($subArray[$key]);
                 } elseif (is_numeric($key)) {
                     $icalDate = $subArray[$key];
 
@@ -2631,23 +2678,61 @@ class ICal
     protected function fileOrUrl($filename)
     {
         $options = array();
-        if (!empty($this->httpBasicAuth)) {
+        if (!empty($this->httpBasicAuth) || !empty($this->httpUserAgent)) {
             $options['http'] = array();
+            $options['http']['header'] = array();
 
-            $username  = $this->httpBasicAuth['username'];
-            $password  = $this->httpBasicAuth['password'];
-            $basicAuth = base64_encode("{$username}:{$password}");
+            if (!empty($this->httpBasicAuth)) {
+                $username  = $this->httpBasicAuth['username'];
+                $password  = $this->httpBasicAuth['password'];
+                $basicAuth = base64_encode("{$username}:{$password}");
 
-            $options['http']['header'] = "Authorization: Basic {$basicAuth}";
+                array_push($options['http']['header'], "Authorization: Basic {$basicAuth}");
+            }
+
+            if (!empty($this->httpUserAgent)) {
+                array_push($options['http']['header'], "User-Agent: {$this->httpUserAgent}");
+            }
         }
 
         $context = stream_context_create($options);
 
+        // phpcs:ignore CustomPHPCS.ControlStructures.AssignmentInCondition
         if (($lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES, $context)) === false) {
             throw new \Exception("The file path or URL '{$filename}' does not exist.");
         }
 
         return $lines;
+    }
+
+    /**
+     * Returns a `DateTimeZone` object based on a string containing a time zone name.
+     * Falls back to the default time zone if string passed not a recognised time zone.
+     *
+     * @param  string $timeZoneString
+     * @return \DateTimeZone
+     */
+    public function timeZoneStringToDateTimeZone($timeZoneString)
+    {
+        // Some time zones contain characters that are not permitted in param-texts,
+        // but are within quoted texts. We need to remove the quotes as they're not
+        // actually part of the time zone.
+        $timeZoneString = trim($timeZoneString, '"');
+        $timeZoneString = html_entity_decode($timeZoneString);
+
+        if ($this->isValidIanaTimeZoneId($timeZoneString)) {
+            return new \DateTimeZone($timeZoneString);
+        }
+
+        if ($this->isValidCldrTimeZoneId($timeZoneString)) {
+            return new \DateTimeZone(self::$cldrTimeZonesMap[$timeZoneString]);
+        }
+
+        if ($this->isValidWindowsTimeZoneId($timeZoneString)) {
+            return new \DateTimeZone(self::$windowsTimeZonesMap[$timeZoneString]);
+        }
+
+        return new \DateTimeZone($this->defaultTimeZone);
     }
 
     /**
@@ -2675,7 +2760,7 @@ class ICal
     /**
      * Checks if an excluded date matches a given date by reconciling time zones.
      *
-     * @param  integer $exdate
+     * @param  Carbon  $exdate
      * @param  array   $anEvent
      * @param  integer $recurringOffset
      * @return boolean
@@ -2686,36 +2771,15 @@ class ICal
 
         if (substr($searchDate, -1) === 'Z') {
             $timeZone = self::TIME_ZONE_UTC;
+        } elseif (isset($anEvent['DTSTART_array'][0]['TZID'])) {
+            $timeZone = $this->timeZoneStringToDateTimeZone($anEvent['DTSTART_array'][0]['TZID']);
         } else {
-            if (isset($anEvent['DTSTART_array'][0]['TZID'])) {
-                $checkTimeZone = $anEvent['DTSTART_array'][0]['TZID'];
-
-                if ($this->isValidIanaTimeZoneId($checkTimeZone)) {
-                    $timeZone = $checkTimeZone;
-                } elseif ($this->isValidCldrTimeZoneId($checkTimeZone)) {
-                    $timeZone = $this->isValidCldrTimeZoneId($checkTimeZone, true);
-                } else {
-                    $timeZone = $this->defaultTimeZone;
-                }
-            } else {
-                $timeZone = $this->defaultTimeZone;
-            }
+            $timeZone = $this->defaultTimeZone;
         }
 
         $a = new Carbon($searchDate, $timeZone);
         $b = $exdate->addSeconds($recurringOffset);
 
         return $a->eq($b);
-    }
-
-    /**
-     * Replaces non-CLDR Windows time zone ID like 'W. Europe Standard Time' with its IANA equivalent.
-     *
-     * @param  string $lineWithTzid
-     * @return string
-     */
-    protected function replaceWindowsTimeZoneId($lineWithTzid)
-    {
-        return str_replace($this->windowsTimeZones, $this->windowsTimeZonesIana, $lineWithTzid);
     }
 }

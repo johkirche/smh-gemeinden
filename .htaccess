@@ -2,6 +2,8 @@
 
 RewriteEngine On
 
+Redirect temp /helfer-kitawo https://docs.google.com/document/d/1iSezHbILXig41oevZ2QGGva7n2_Ia97DQpL1SwIXRuU/edit
+
 ## Begin RewriteBase
 # If you are getting 500 or 404 errors on subpages, you may have to uncomment the RewriteBase entry
 # You should change the '/' to your appropriate subfolder. For example if you have

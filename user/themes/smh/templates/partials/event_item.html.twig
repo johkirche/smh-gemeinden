@@ -36,13 +36,7 @@
                 {% endfor %}
             </span>
         {% endif %}
-        {% if page.taxonomy.category %}
-            <span class="event-tags">
-                {% for category in page.taxonomy.category %}
-                <a href="{{ event.url|rtrim('/') }}/category{{ config.system.param_sep }}{{ category }}" class="label label-rounded label-secondary">{{ category }}</a>
-                {% endfor %}
-            </span>
-        {% endif %}
+        
         <div class="back-button">
             <a href="{{ page.parent.url }}" class="event-button">{{ 'PLUGIN_EVENTS.EVENTS.BACK'|t }}</a>
         </div>

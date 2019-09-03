@@ -14,8 +14,12 @@ class ComposerStaticInit6dd1fb77778e6b8f3040c059cad9359c
         'S' => 
         array (
             'Symfony\\Polyfill\\Mbstring\\' => 26,
-            'Symfony\\Contracts\\' => 18,
+            'Symfony\\Contracts\\Translation\\' => 30,
             'Symfony\\Component\\Translation\\' => 30,
+        ),
+        'C' => 
+        array (
+            'Carbon\\' => 7,
         ),
     );
 
@@ -24,18 +28,18 @@ class ComposerStaticInit6dd1fb77778e6b8f3040c059cad9359c
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-mbstring',
         ),
-        'Symfony\\Contracts\\' => 
+        'Symfony\\Contracts\\Translation\\' => 
         array (
-            0 => __DIR__ . '/..' . '/symfony/contracts',
+            0 => __DIR__ . '/..' . '/symfony/translation-contracts',
         ),
         'Symfony\\Component\\Translation\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/translation',
         ),
-    );
-
-    public static $fallbackDirsPsr4 = array (
-        0 => __DIR__ . '/..' . '/nesbot/carbon/src',
+        'Carbon\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
+        ),
     );
 
     public static $prefixesPsr0 = array (
@@ -53,7 +57,6 @@ class ComposerStaticInit6dd1fb77778e6b8f3040c059cad9359c
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInit6dd1fb77778e6b8f3040c059cad9359c::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInit6dd1fb77778e6b8f3040c059cad9359c::$prefixDirsPsr4;
-            $loader->fallbackDirsPsr4 = ComposerStaticInit6dd1fb77778e6b8f3040c059cad9359c::$fallbackDirsPsr4;
             $loader->prefixesPsr0 = ComposerStaticInit6dd1fb77778e6b8f3040c059cad9359c::$prefixesPsr0;
 
         }, null, ClassLoader::class);
