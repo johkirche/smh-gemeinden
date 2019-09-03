@@ -1,6 +1,7 @@
 title: 'SMH Gemeinden'
 default_lang: de
 author:
+  name: 'John Appleseed'
   email: mail@samuelstein.de
 taxonomies:
   - category
