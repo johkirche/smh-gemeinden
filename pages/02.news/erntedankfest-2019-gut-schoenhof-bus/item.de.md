@@ -1,6 +1,5 @@
 ---
 title: 'Erntedankfest 2019 - Mit dem Bus zum Gut Schönhof'
-published: true
 date: '28-08-2019 15:18'
 publish_date: '28-08-2019 15:18'
 unpublish_date: '30-09-2019 00:00'
