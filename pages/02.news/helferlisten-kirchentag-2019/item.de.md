@@ -1,6 +1,5 @@
 ---
 title: 'Helferlisten Kirchentag 2019'
-published: true
 date: '03-08-2019 23:53'
 unpublish_date: '26-08-2019 00:00'
 visible: true
