@@ -1,6 +1,5 @@
 ---
 title: 'Aufruf zur Kirchentagsspende 2019'
-published: true
 date: '01-06-2019 21:13'
 unpublish_date: '26-08-2019 00:00'
 visible: true
