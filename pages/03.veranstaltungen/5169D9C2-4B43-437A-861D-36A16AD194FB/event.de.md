@@ -14,7 +14,7 @@ taxonomy:
 	tag: 
 
 ---
-
+Am heiligen Abend laden die Gemeinden der Johannisches Kirche alle Geschwister, Freunde und Gäste zu einem Weihnachtsgottesdienst ein. Sollten in der Kirche nicht ausreichend Plätze zur Verfügung stehen wird der Weihnachtsgottesdienst in die Kinderkirche übertragen. Wir wünschen allen ein gesegnetes Weihnachtsfest!
 
 
 **Veranstaltungsort:** Kirche St.-Michaels-Heim

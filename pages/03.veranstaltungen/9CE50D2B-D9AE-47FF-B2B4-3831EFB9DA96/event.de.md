@@ -14,7 +14,7 @@ taxonomy:
 	tag: 
 
 ---
-
+Die St.-Michaels-Heim Gemeinden der Johannisches Kirche laden gemeinsam zum Herbstarbeitseinsatz ein. Gemeinsam werden alle Geschwister und Freunde das Haus und das Grundstück für unseren Weihnachtsmarkt vorbereiten.
 
 
 **Veranstaltungsort:** 

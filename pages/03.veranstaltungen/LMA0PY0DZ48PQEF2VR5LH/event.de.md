@@ -14,7 +14,7 @@ taxonomy:
 	tag: 
 
 ---
-
+Zum Jahreswechsel laden die St.-Michaels-Heim Gemeinden der Johannischen Kirche alle Geschwister, Freunde und Gäste zu einem gemeinsamen Gottesdienst ein, der uns dankbar an das vergangene Jahr erinnert und uns auf ein neues Jahr an der Hand Gottes einstimmen möchte.
 
 
 **Veranstaltungsort:** Kirche St.-Michaels-Heim

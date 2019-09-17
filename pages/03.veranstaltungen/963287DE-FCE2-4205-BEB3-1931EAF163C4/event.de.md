@@ -14,7 +14,7 @@ taxonomy:
 	tag: 
 
 ---
-
+Am heiligen Abend laden die Gemeinden der Johannisches Kirche alle Geschwister, Freunde und Gäste zu einem Weihnachtsgottesdienst in die Kirche im St.-Michaels-Heim ein. Wir wünschen euch allen von ganzen Herzen ein gesegnetes Weihnachtsfest!
 
 
 **Veranstaltungsort:** Kirche St.-Michaels-Heim

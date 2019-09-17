@@ -14,7 +14,7 @@ taxonomy:
 	tag: 
 
 ---
-
+Die Missionshelfer der Gemeinden der  Johannes in Kirche Neukölln, Tempelhof, Spandau und Steglitz sowie die Missionshelfer der Hauptgemeinde, die am Frühjahrsseminar nicht teilnehmen konnten, sind herzlich zum Missionshelferseminar einladen. Um eine Anmeldung beim jeweiligen Gemeindeführer bis zum Erntedankgottesdienst wird gebeten.
 
 
 **Veranstaltungsort:** St.-Michaels-Heim 
