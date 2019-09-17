@@ -10,6 +10,6 @@ show_sidebar: false
 
 Liebe Geschwister und Freunde,
 
-unser Bruder **Fritz Hartrampf** aus der Gemeinde Berlin-Tempelhof wurde in die ewige Heimat abgerufen,
+unser Bruder **Fritz Hartrampf** aus der **Gemeinde Berlin-Tempelhof** wurde in die ewige Heimat abgerufen,
 
 Der Termin der Abschiedsfeier wird noch bekanntgegeben.
