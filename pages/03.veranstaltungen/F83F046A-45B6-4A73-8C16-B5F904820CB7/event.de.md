@@ -4,21 +4,18 @@ visible: true
 cache_enable: true
 ics: 
 date: 28-09-19
-rule: 
+#rule: 
 event:
 	start: 28-09-2019 11:00
 	end: 28-09-2019 12:00
-	location: 'Festhalle Gut Schönhofs Schönhof 10a/11a 91344 Waischenfeld Deutschland'
+	location: 'Festhalle Gut SchönhofsSchönhof 10a/11a91344 WaischenfeldDeutschland'
 taxonomy:
-	category: 
+	category: Amtsträger
 	tag: 
 
 ---
+#Amtsträger
 
 
-
-**Veranstaltungsort:** Festhalle Gut Schönhofs
-Schönhof 10a/11a
-91344 Waischenfeld
-Deutschland
+**Veranstaltungsort:** Festhalle Gut SchönhofsSchönhof 10a/11a91344 WaischenfeldDeutschland
 

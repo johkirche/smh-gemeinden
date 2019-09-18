@@ -4,7 +4,7 @@ visible: true
 cache_enable: true
 ics: 
 date: 02-11-19
-rule: 
+#rule: 
 event:
 	start: 02-11-2019 09:00
 	end: 02-11-2019 18:00

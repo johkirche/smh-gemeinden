@@ -10,7 +10,7 @@
       },
       'dateRange': {
         'start': datetools.today|date('m/d/Y'),
-        'end': datetools.endOfYear|date('m/d/Y')
+        'end': "now + 1 year"|date('m/d/Y')
       },
       'order': {
         'by': 'date',
