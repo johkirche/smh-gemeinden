@@ -12,4 +12,4 @@ Liebe Geschwister und Freunde,
 
 unser Bruder **Fritz Hartrampf** aus der **Gemeinde Berlin-Tempelhof** wurde in die ewige Heimat abgerufen,
 
-Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+Die Urnenbeisetzung findet am 22. Oktober 2019 um 11 Uhr auf dem „Neuer St. Michael-Friedhof“ in der Gottlieb-Dunkel-Straße 29 in 12099 Berlin-Tempelhof statt.
