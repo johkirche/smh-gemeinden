@@ -2,7 +2,7 @@
 title: Gemeindeführertagung SMH-Gemeinden
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-11-19
 #rule: 
 event:
@@ -14,7 +14,7 @@ taxonomy:
 	tag: 
 
 ---
-#Amtsträger
+
 
 
 **Veranstaltungsort:** St.-Michaels-Heim115 BismarckzimmerBismarkallee 2314193 BerlinDeutschland

@@ -2,7 +2,7 @@
 title: Missionshelferseminar Steglitz und optional Neuköln, Tempelhof und Spandau
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 27-10-19
 #rule: 
 event:

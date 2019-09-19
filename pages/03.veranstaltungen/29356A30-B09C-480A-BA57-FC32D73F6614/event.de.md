@@ -2,7 +2,7 @@
 title: Weihnachtsmarkt im St.-Michaels-Heim
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 01-12-19
 #rule: 
 event:

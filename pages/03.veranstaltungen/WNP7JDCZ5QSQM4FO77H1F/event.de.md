@@ -2,7 +2,7 @@
 title: Gemeindeführertagung SMH-Gemeidnen
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 09-10-19
 #rule: 
 event:

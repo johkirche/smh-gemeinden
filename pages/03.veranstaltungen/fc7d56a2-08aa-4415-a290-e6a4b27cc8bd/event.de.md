@@ -2,7 +2,7 @@
 title: Gospelworkshop mit Kirk Smith
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 04-10-19
 #rule: 
 event:

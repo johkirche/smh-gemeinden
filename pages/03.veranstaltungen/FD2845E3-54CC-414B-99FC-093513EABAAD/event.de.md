@@ -2,7 +2,7 @@
 title: Vorbereitung Gemeinschaftssonntag
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 19-10-19
 #rule: 
 event:

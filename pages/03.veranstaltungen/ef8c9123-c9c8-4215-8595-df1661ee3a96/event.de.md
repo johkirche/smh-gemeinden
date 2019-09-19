@@ -2,7 +2,7 @@
 title: Auf Kapernfahrt: "Königsberger Klopse"-Abend mit Markus
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 11-10-19
 #rule: 
 event:

@@ -2,7 +2,7 @@
 title: Kindergottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 03-11-19
 #rule: 
 event:

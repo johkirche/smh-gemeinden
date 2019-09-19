@@ -25,7 +25,6 @@
 
   <div class="events-container">
 
-    <h1 class="center">ljl{{page.title}}</h1>
     <header>
       <p class="center">vom {{datetools.today|date('d.m.Y')}} bis {{"now + 1 year"|date("d.m.Y")}}</p>
       <p class="warning"><strong>Diese Seite befindet sich im Aufbau. Deshalb kann es bei den Terminen noch zu Abweichungen kommen.</strong></p>

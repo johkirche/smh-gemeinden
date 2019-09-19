@@ -2,7 +2,7 @@
 title: Gemeinschaftsabend (Weihnachtsfeier)
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 11-12-19
 #rule: 
 event:

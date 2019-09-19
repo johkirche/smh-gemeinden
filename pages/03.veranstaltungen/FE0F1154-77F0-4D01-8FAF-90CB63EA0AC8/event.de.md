@@ -2,7 +2,7 @@
 title: Erntedankkindergottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-10-19
 #rule: 
 event:

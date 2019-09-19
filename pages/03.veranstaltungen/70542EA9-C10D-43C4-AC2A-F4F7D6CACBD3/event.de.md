@@ -2,7 +2,7 @@
 title: Abendgebet
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 02-10-19
 #rule: 
 event:

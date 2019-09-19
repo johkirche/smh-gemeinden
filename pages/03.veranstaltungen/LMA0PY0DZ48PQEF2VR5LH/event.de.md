@@ -2,7 +2,7 @@
 title: Gottesdienst zum Jahreswechsel
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 31-12-19
 #rule: 
 event:

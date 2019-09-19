@@ -2,7 +2,7 @@
 title: Gemeinschaftssonntag
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 20-10-19
 #rule: 
 event:

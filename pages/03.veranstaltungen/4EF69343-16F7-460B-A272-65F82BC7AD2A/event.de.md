@@ -2,7 +2,7 @@
 title: Gemeindeführertagung
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 16-11-19
 #rule: 
 event:

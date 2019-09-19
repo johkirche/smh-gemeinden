@@ -2,7 +2,7 @@
 title: Herbstarbeitseinsatz
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 09-11-19
 #rule: 
 event:

@@ -2,7 +2,7 @@
 title: Erntedankvorbereitung
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 05-10-19
 #rule: 
 event:

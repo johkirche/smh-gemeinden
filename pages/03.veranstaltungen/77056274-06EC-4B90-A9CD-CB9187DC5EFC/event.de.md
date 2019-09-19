@@ -2,7 +2,7 @@
 title: 2. Frühstück
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 24-11-19
 #rule: 
 event:

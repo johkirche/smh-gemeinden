@@ -2,7 +2,7 @@
 title: Gottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 30-10-19
 #rule: 
 event:

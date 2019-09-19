@@ -2,7 +2,7 @@
 title: Seminar für Kindergottesdienstleiter, Kinderbetreuer, Konfirmandenlehrer und Religionslehrer
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 02-11-19
 #rule: 
 event:

@@ -2,7 +2,7 @@
 title: GH-Tagung Steglitz
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 10-11-19
 #rule: 
 event:

@@ -2,7 +2,7 @@
 title: Weihnachtsgottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 24-12-19
 #rule: 
 event:

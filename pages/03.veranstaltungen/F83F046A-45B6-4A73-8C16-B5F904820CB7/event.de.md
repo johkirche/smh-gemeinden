@@ -2,7 +2,7 @@
 title: Öffentliche Schule für Geisteswissenschaft
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 28-09-19
 #rule: 
 event:
@@ -14,7 +14,7 @@ taxonomy:
 	tag: 
 
 ---
-#Amtsträger
+
 
 
 **Veranstaltungsort:** Festhalle Gut SchönhofsSchönhof 10a/11a91344 WaischenfeldDeutschland
