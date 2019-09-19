@@ -3,6 +3,7 @@ title: 'Heimgang von Marianne Rakow'
 date: '19-09-2019 14:11'
 publish_date: '19-09-2019 14:11'
 unpublish_date: '01-10-2019 23:00'
+show_sidebar: false
 ---
 
 Liebe Geschwister und liebe Freunde,
