@@ -2,6 +2,7 @@
 title: 'Indian Summer 2019'
 publish_date: '17-09-2019 10:22'
 unpublish_date: '30-09-2019 00:00'
+visible: true
 show_sidebar: false
 ---
 
