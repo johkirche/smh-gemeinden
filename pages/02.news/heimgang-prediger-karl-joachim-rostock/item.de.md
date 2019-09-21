@@ -4,6 +4,7 @@ date: '22-09-2019 00:44'
 publish_date: '22-09-2019 00:44'
 unpublish_date: '02-10-2019 23:58'
 visible: true
+show_sidebar: false
 ---
 
 Liebe Geschwister und Freunde,
