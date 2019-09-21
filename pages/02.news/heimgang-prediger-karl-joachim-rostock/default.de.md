@@ -1,6 +1,5 @@
 ---
 title: 'Heimgang Prediger Karl-Joachim Rostock'
-published: false
 date: '22-09-2019 00:44'
 publish_date: '22-09-2019 00:44'
 unpublish_date: '02-10-2019 23:58'
