@@ -11,7 +11,7 @@ event:
 	location: 'Kirche St.-MichaelsheimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
 	category: Amtsträger
-	tag: 
+	tag: ['November']
 
 ---
 

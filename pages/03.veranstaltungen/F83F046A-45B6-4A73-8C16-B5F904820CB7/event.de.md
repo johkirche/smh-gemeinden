@@ -10,8 +10,8 @@ event:
 	end: 28-09-2019 12:00
 	location: 'Festhalle Gut Schönhof, Schönhof 10a/11a91344 Waischenfeld, Deutschland'
 taxonomy:
-	category: Amtsträger
-	tag: 
+	category: ['Amtsträger']
+	tag: ['September']
 
 ---
 

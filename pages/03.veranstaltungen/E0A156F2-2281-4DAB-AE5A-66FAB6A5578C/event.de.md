@@ -10,8 +10,8 @@ event:
 	end: 05-10-2019 16:00
 	location: ''
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Oktober']
 
 ---
 Wir bereiten gemeinsam unseren Erntedankgottesdienst vor.

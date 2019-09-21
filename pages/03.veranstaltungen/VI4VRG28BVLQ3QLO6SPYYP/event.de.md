@@ -10,8 +10,8 @@ event:
 	end: 06-11-2019 20:00
 	location: 'St.-Michaels-Heim115 BismarckzimmerBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
-	category: Amtsträger
-	tag: 
+	category: ['Amtsträger']
+	tag: ['November']
 
 ---
 

@@ -11,7 +11,7 @@ event:
 	location: 'Nach Vereinbahrung'
 taxonomy:
 	category: Amtsträger
-	tag: 
+	tag: ['Dezember']
 
 ---
 Monatlich, immer am 2. Montag im Monat, treffen sich die Gemeindehelfer der St.-Michaels-Heim-Gemeinde Berlin Steglitz, um vielfältige Themen in der Gemeindearbeit gemeinsam zu besprechen und liebevoll zu organisieren. Wünsche, Anregungen usw. aller Geschwister und Freunde können jederzeit den Gemeindehelfern oder dem Gemeindeführer mitgeteilt werden. Geschwister, Freunde, Gäste und Interessierte sind abhängig vom Thema und nach vorhergehender Absprache herzlich willkommen.

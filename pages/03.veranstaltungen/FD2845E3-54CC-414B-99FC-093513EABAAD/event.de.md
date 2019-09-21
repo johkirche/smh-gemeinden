@@ -10,11 +10,12 @@ event:
 	end: 19-10-2019 16:00
 	location: ''
 taxonomy:
-	category: 
-	tag: 
+	category: ['Amtsträger']
+	tag: ['Oktober']
 
 ---
 Alle Geschwister und Freunde der St.-Michaels-Heim-Gemeinden treffen sich zur gemeinsamen Vorbereitung unseres Gemeinschaftssonntags morgen.
+
 
 
 **Veranstaltungsort:** 

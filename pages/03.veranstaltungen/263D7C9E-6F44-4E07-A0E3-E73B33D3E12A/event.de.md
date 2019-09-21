@@ -10,8 +10,8 @@ event:
 	end: 13-11-2019 19:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['November']
 
 ---
 
