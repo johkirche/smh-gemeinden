@@ -1,6 +1,10 @@
 ---
 title: 'Heimgang Prediger Karl-Joachim Rostock'
-visible: false
+published: false
+date: '22-09-2019 00:44'
+publish_date: '22-09-2019 00:44'
+unpublish_date: '02-10-2019 23:58'
+visible: true
 ---
 
 Liebe Geschwister und Freunde,
