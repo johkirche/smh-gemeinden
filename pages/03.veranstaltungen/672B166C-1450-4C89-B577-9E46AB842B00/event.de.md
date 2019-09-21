@@ -4,7 +4,7 @@ visible: true
 cache_enable: true
 #ics: 
 date: 09-12-19
-#rule: FREQ=MONTHLY;BYDAY=2MO
+rule: FREQ=MONTHLY;BYDAY=2MO
 event:
 	start: 09-12-2019 18:30
 	end: 09-12-2019 20:00
