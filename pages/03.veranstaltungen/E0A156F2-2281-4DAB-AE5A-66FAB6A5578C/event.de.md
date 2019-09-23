@@ -11,7 +11,7 @@ event:
 	location: ''
 taxonomy:
 	category: ['']
-	tag: ['Oktober']
+	tag: ['Oktober 2019']
 
 ---
 Wir bereiten gemeinsam unseren Erntedankgottesdienst vor.

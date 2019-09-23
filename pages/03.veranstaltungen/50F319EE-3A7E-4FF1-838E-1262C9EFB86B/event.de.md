@@ -11,7 +11,7 @@ event:
 	location: 'St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	category: ['']
-	tag: ['November']
+	tag: ['November 2019']
 
 ---
 Liebe Gäste und Besucher/innen!

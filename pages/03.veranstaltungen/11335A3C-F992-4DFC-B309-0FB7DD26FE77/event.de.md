@@ -11,7 +11,7 @@ event:
 	location: ''
 taxonomy:
 	category: ['']
-	tag: ['November']
+	tag: ['November 2019']
 
 ---
 Im Anschluss an das zweite Frühstück am Ewigkeitssonntag laden die St.-Michaels-Heim gemeinden der Johannes in Kirche ihre Geschwister, Gäste und Freunde zu einem kleinen Arbeitseinsatz ein. Wir werden im Anschluss an das zweite Frühstück aufräumen und erste Aufbauarbeiten für unseren Adventsmarkt am kommenden Wochenende vorbereiten. Wir freuen uns auf viele fleißige Unterstützerinnen und Unterstützer.

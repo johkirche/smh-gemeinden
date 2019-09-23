@@ -11,7 +11,7 @@ event:
 	location: 'St.-Michaels-Heim Giebelsaal Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	category: ['']
-	tag: ['Oktober']
+	tag: ['Oktober 2019']
 
 ---
 Gemeinschaftssonntag im St.-Michaels-Heim:

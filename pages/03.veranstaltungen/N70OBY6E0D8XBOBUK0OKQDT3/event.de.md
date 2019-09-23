@@ -11,7 +11,7 @@ event:
 	location: ''
 taxonomy:
 	category: ['']
-	tag: ['Dezember']
+	tag: ['Dezember 2019']
 
 ---
 

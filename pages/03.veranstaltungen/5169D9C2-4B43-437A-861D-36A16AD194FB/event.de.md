@@ -11,7 +11,7 @@ event:
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	category: ['']
-	tag: ['Dezember']
+	tag: ['Dezember 2019']
 
 ---
 Am heiligen Abend laden die Gemeinden der Johannisches Kirche alle Geschwister, Freunde und Gäste zu einem Weihnachtsgottesdienst ein. Sollten in der Kirche nicht ausreichend Plätze zur Verfügung stehen wird der Weihnachtsgottesdienst in die Kinderkirche übertragen. Wir wünschen allen ein gesegnetes Weihnachtsfest!

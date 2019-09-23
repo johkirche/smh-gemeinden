@@ -11,7 +11,7 @@ event:
 	location: ''
 taxonomy:
 	category: ['Amtsträger']
-	tag: ['Oktober']
+	tag: ['Oktober 2019']
 
 ---
 Alle Geschwister und Freunde der St.-Michaels-Heim-Gemeinden treffen sich zur gemeinsamen Vorbereitung unseres Gemeinschaftssonntags morgen.

@@ -11,7 +11,7 @@ event:
 	location: 'St.-Michaels-Heim 115 Bismarckzimmer Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	category: ['']
-	tag: ['Dezember']
+	tag: ['Dezember 2019']
 
 ---
 

@@ -11,7 +11,7 @@ event:
 	location: 'St.-Michaels-Heim Jugendgästehaus &amp; Hotel'
 taxonomy:
 	category: ['']
-	tag: ['Oktober']
+	tag: ['Oktober 2019']
 
 ---
 Abschlusskonzert des Gospelworkshops 4.-6. Oktober. Eintritt frei!

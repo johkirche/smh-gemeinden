@@ -11,7 +11,7 @@ event:
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	category: ['']
-	tag: ['Dezember']
+	tag: ['Dezember 2019']
 
 ---
 Zum Jahreswechsel laden die St.-Michaels-Heim Gemeinden der Johannischen Kirche alle Geschwister, Freunde und Gäste zu einem gemeinsamen Gottesdienst ein, der uns dankbar an das vergangene Jahr erinnert und uns auf ein neues Jahr an der Hand Gottes einstimmen möchte.

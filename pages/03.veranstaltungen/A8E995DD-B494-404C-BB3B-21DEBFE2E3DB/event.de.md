@@ -11,7 +11,7 @@ event:
 	location: 'Turnhalle oder 220 Musikraum'
 taxonomy:
 	category: ['']
-	tag: ['November']
+	tag: ['November 2019']
 
 ---
 Lustiges bewegen für alle noch nicht Religionskinder. Knabbereien und essen bitte selber mitbringen. Trinken und ggf. Turnschuhe nicht vergessen.

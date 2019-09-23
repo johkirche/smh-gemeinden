@@ -11,7 +11,7 @@ event:
 	location: 'Bismarckallee 23, Bismarckallee 23, 14193 Berlin, Deutschland'
 taxonomy:
 	category: ['']
-	tag: ['Oktober']
+	tag: ['Oktober 2019']
 
 ---
 

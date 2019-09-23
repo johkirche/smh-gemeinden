@@ -11,7 +11,7 @@ event:
 	location: ''
 taxonomy:
 	category: ['']
-	tag: ['November']
+	tag: ['November 2019']
 
 ---
 Die St.-Michaels-Heim Gemeinden der Johannisches Kirche laden gemeinsam zum Herbstarbeitseinsatz ein. Gemeinsam werden alle Geschwister und Freunde das Haus und das Grundstück für unseren Weihnachtsmarkt vorbereiten.

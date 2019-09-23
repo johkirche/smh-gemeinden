@@ -11,7 +11,7 @@ event:
 	location: ''
 taxonomy:
 	category: ['Gruppen']
-	tag: ['Oktober']
+	tag: ['Oktober 2019']
 
 ---
 In der Kirchentagswoche fand ein Vortrag mit Workshop zum Thema "Es ist 10 Minuten nach Zwölf" statt, in dem das Thema Gesundheit, Boden und gesunde Ernährung angesprochen wurden. Des Weiteren wurden Beispiele aufgezeigt, wie man Lebensmittel einfach in Salzlake durch Fermentation haltbar machen kann.
