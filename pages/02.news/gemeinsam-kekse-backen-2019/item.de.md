@@ -2,6 +2,8 @@
 title: 'Gemeinsam Kekse Backen 2019'
 publish_date: '23-09-2019 14:10'
 unpublish_date: '28-11-2019 02:00'
+visible: true
+show_sidebar: false
 ---
 
 # Gemeinsam statt einsam Kekse backen
