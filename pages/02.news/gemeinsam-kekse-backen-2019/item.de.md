@@ -16,4 +16,4 @@ Dann schließ Dich uns gerne ab dem 8. Oktober an; am besten mit eigener Küchen
 Wir freuen und auf Dich!
 
 Infotelefon, auch für die Daheimbäcker: 030/ 49 20 67 50
-Alle Termine inklusive Plan, welche Kekse gebacken werden, findet ihr auch im Bereich Veranstaltungen.
+**Alle Termine** inklusive Plan, welche Kekse gebacken werden, **findet ihr auch im Bereich Veranstaltungen**.
