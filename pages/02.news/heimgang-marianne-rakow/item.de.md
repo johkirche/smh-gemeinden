@@ -9,6 +9,8 @@ visible: true
 show_sidebar: false
 ---
 
+# Heimgang von Marianne Rakow
+
 Liebe Geschwister und liebe Freunde,
 
 am **31. August 2019** wurde unsere Glaubensfreundin **Marianne Rakow** aus der **Gemeinde Schwedt/Oder** in die ewige Heimat abgerufen. 
