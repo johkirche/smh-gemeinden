@@ -7,6 +7,8 @@ visible: true
 show_sidebar: false
 ---
 
+# Heimgang von unserem Prediger Karl-Joachim Rostock
+
 Liebe Geschwister und Freunde,
 
 am **21. September 2019** hat unser Meister seinen **Prediger Karl-Joachim Rostock** aus der **Gemeinde Düsseldorf** in seine ewige Heimat abgerufen. Wir wünschen ihm und den seinen Trost und Kraft des Meisters in diesen Stunden.
