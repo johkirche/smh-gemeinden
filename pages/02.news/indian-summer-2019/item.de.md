@@ -1,5 +1,6 @@
 ---
 title: 'Indian Summer 2019'
+date: '17-09-2019 10:22'
 publish_date: '17-09-2019 10:22'
 unpublish_date: '30-09-2019 00:00'
 visible: true
