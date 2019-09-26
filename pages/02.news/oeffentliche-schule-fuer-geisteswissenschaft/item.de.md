@@ -1,6 +1,10 @@
 ---
 title: 'Öffentliche Schule für Geisteswissenschaft'
+date: '26-09-2019 16:34'
+publish_date: '26-09-2019 16:34'
+unpublish_date: '30-09-2019 11:00'
 visible: true
+show_sidebar: false
 ---
 
 # Öffentliche Schule für Gesiteswissenschaft auf Gut Schönhof
