@@ -6,8 +6,8 @@ cache_enable: true
 date: 28-09-19
 rule: 
 event:
-	start: 28-09-2019 11:00
-	end: 28-09-2019 12:00
+	start: 28-09-2019 10:00
+	end: 28-09-2019 11:00
 	location: 'Festhalle Gut Schönhof, Schönhof 10a/11a91344 Waischenfeld, Deutschland'
 taxonomy:
 	category: ['Amtsträger']
