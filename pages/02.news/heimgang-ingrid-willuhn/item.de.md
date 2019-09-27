@@ -7,7 +7,7 @@ visible: true
 show_sidebar: false
 ---
 
-# Heimgang von unserer Schwester Ingrid Willuhn
+# Heimgang von Schwester Ingrid Willuhn
 
 Liebe Geschwister und Freunde,
 
