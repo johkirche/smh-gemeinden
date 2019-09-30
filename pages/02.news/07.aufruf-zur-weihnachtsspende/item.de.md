@@ -20,4 +20,4 @@ Mögen diese Gedanken uns leiten, wenn heute die Johannische Kirche und ihr Sozi
 
 Mit herzlichem Gott zum Gruß!
 
-Johannische Kirche · Johannisches Sozialwerk e.V.
+Johannische Kirche KdöR & Johannisches Sozialwerk e.V.
