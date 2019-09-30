@@ -7,7 +7,7 @@ visible: true
 show_sidebar: false
 ---
 
-Liebe Geschwister, liebe Freunde und Förderer,
+# Liebe Geschwister, liebe Freunde und Förderer,
 
 dankbar dürfen wir die gesegneten Früchte vom Altar des Herrn entgegennehmen, und dankbar dürfen wir an jedem Tag sein, an dem der himmlische Vater uns seine geistigen und materiellen Gaben schenkt.
 Die Zeit lehrt uns: Nichts ist selbstverständlich, nicht der Regen und nicht der Sonnenschein. Saat und Ernte wollen immer wieder erbeten sein. Nur mit Gottes Segen und Hilfe gibt es irdisches und geistiges Wachstum.
