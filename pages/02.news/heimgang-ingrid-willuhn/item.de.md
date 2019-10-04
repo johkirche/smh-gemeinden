@@ -11,6 +11,6 @@ show_sidebar: false
 
 Liebe Geschwister und Freunde,
 
-am **26. September 2019** wurde unsere Schwester **Ingrid Willuhn** aus der **Gemeinde Lausitz** in die ewige Heimat abgerufen.
+am **25. September 2019** wurde unsere Schwester **Ingrid Willuhn** aus der **Gemeinde Lausitz** in die ewige Heimat abgerufen.
 
-Die Abschiedsfeier findet am **Freitag, dem 9. Oktober 2019 um 11:30 Uhr** auf dem **Friedhof in Forst (Lausitz)** statt.
+Die Abschiedsfeier findet am **Mittwoch, dem 9. Oktober 2019 um 11:30 Uhr** auf dem **Friedhof in Forst (Lausitz)** statt.
