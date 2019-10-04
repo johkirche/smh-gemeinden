@@ -13,4 +13,4 @@ Liebe Geschwister und Freunde,
 
 am **Dienstag, den 1. Oktober 2019** wurde unser Bruder **Lothar Röper** aus der **Urgemeinde** in die ewige Heimat abgerufen.
 
-Die Abschiedsfeier wird voraussichtlich zum Ende der 40. Kalenderwoche und auf unserem Johannischen Friedhof in Glau stattfinden. 
+Die Abschiedsfeier findet am **Freitag, den 11. Oktober 2019** auf unserem Johannischen Friedhof in Glau statt. 
