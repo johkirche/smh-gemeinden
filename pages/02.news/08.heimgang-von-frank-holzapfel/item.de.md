@@ -13,4 +13,4 @@ Liebe Geschwister und Freunde,
 
 Am **02.10.2019** wurde unser Bruder **Frank Holzapfel** aus der **Gemeinde Wiesbaden** in die ewige Heimat abgerufen.
 
-Die Abschiedsfeier findet statt am Samstag, den 12.10.2019 um 14
+Die Abschiedsfeier findet am Samstag, den 12.10.2019 um 14 Uhr auf unserem Johannischen Friedhof in Glau statt.
