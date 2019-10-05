@@ -6,8 +6,10 @@ unpublish_date: '16-10-2019 23:59'
 show_sidebar: false
 ---
 
-# Heimgang von unserer Schwester Hukda Edith Gorke
+# Heimgang von Hukda Edith Gorke
 
 Liebe Geschwister und Freunde,
 
-Am 03. Oktober 2019 wurde unsere Glaubensfreundin Hulda Edith Gorke aus der Gemeinde Dresden in die ewige Heimat abgerufen.
+Am **03. Oktober 2019** wurde unsere Glaubensfreundin **Hulda Edith Gorke** aus der **Gemeinde Dresden** in die ewige Heimat abgerufen.
+
+Der Termin und der Ort der Abschiedsfeier wird nich bekannt gegeben.
