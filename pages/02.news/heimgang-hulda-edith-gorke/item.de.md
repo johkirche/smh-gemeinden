@@ -12,4 +12,4 @@ Liebe Geschwister und Freunde,
 
 Am **03. Oktober 2019** wurde unsere Glaubensfreundin **Hulda Edith Gorke** aus der **Gemeinde Dresden** in die ewige Heimat abgerufen.
 
-Der Termin und der Ort der Abschiedsfeier wird nich bekannt gegeben.
+Der Termin und der Ort der Abschiedsfeier werden noch bekannt gegeben.
