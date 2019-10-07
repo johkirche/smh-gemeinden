@@ -1,5 +1,7 @@
 ---
 title: 'Erntedank im St.-Michaels-Heim'
+external_links:
+    process: true
 visible: true
 show_sidebar: false
 ---
