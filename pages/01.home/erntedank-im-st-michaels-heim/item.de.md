@@ -1,5 +1,8 @@
 ---
 title: 'Erntedank im St.-Michaels-Heim'
+date: '07-10-2019 14:18'
+publish_date: '07-10-2019 14:18'
+unpublish_date: '01-12-2019 23:59'
 external_links:
     process: true
 visible: true
