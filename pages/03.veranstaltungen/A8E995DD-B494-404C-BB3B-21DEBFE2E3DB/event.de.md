@@ -1,5 +1,5 @@
 ---
-title: InteresSMH Kinderdisco
+title: InteresSMH: Kinderdisco
 visible: true
 cache_enable: true
 #ics: 
@@ -10,11 +10,12 @@ event:
 	end: 17-11-2019 13:00
 	location: 'Turnhalle oder 220 Musikraum'
 taxonomy:
-	category: ['']
+	category: ['Kinder']
 	tag: ['November 2019']
 
 ---
 Lustiges bewegen für alle noch nicht Religionskinder. Knabbereien und essen bitte selber mitbringen. Trinken und ggf. Turnschuhe nicht vergessen.
+
 
 
 **Veranstaltungsort:** Turnhalle oder 220 Musikraum

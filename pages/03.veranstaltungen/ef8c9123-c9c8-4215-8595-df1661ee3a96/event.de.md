@@ -1,5 +1,5 @@
 ---
-title: Auf Kapernfahrt: "Königsberger Klopse"-Abend mit Markus
+title: InteresSMH auf Kapernfahrt: "Königsberger Klopse"-Abend mit Markus
 visible: true
 cache_enable: true
 #ics: 

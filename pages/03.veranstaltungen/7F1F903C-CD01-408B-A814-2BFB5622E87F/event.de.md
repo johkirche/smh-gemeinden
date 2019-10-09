@@ -10,7 +10,7 @@ event:
 	end: 29-10-2019 21:00
 	location: 'Kalte Küche im Untergeschoss des St.-Michaels-Heims'
 taxonomy:
-	category: ['']
+	category: ['Gruppen']
 	tag: ['Oktober 2019']
 
 ---
@@ -21,6 +21,7 @@ Helfer sind ab 18 Uhr herzich zur Vorbereitung willkommen. Ab 19 Uhr beginnt das
 Heute backen wir Sane-Nussplätzchen und Ingwerherzen.
 
 Wir freuen und auf Dich!
+
 
 
 **Veranstaltungsort:** Kalte Küche im Untergeschoss des St.-Michaels-Heims

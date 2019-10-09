@@ -10,7 +10,7 @@ event:
 	end: 20-10-2019 16:00
 	location: 'St.-Michaels-Heim Giebelsaal Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['']
+	category: ['Gruppen']
 	tag: ['Oktober 2019']
 
 ---
@@ -22,6 +22,7 @@ Nach dem Mittagessen wird die Jugend ein Theaterstück vorführen, Vorträge und
 Der Religionsunterricht findet an diesem Tag verkürzt im Anschluss an das Mittagessen statt. Anschließend wird ein Programm im Rahmen des Kindernachmittages angeboten.
 
 Der Gemeinschaftssonntag wird voraussichtlich gegen 16 Uhr enden. Anschließend räumen wir gemeinsam auf und bieten ein gemeinsames Abendgebet in der Kirche an.
+
 
 
 **Veranstaltungsort:** St.-Michaels-Heim

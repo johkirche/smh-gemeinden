@@ -10,7 +10,7 @@ event:
 	end: 19-10-2019 16:00
 	location: ''
 taxonomy:
-	category: ['Amtsträger']
+	category: ['Gruppen']
 	tag: ['Oktober 2019']
 
 ---

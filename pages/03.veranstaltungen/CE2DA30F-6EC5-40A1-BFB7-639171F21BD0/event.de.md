@@ -4,7 +4,7 @@ visible: true
 cache_enable: true
 #ics: 
 date: 06-03-19
-rule: FREQ=YEARLY;INTERVAL=1
+rule: FREQ=YEARLY
 event:
 	start: 06-03-2019 11:00
 	end: 06-03-2019 11:30

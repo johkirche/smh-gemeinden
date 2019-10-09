@@ -6,8 +6,8 @@ cache_enable: true
 date: 09-10-19
 rule: 
 event:
-	start: 09-10-2019 18:30
-	end: 09-10-2019 20:00
+	start: 09-10-2019 18:00
+	end: 09-10-2019 19:30
 	location: 'St.-Michaels-Heim 115 Bismarckzimmer Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	category: ['']

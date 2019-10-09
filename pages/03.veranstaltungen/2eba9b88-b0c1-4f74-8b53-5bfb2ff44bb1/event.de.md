@@ -1,5 +1,5 @@
 ---
-title: Workshop zum Thema Fermentation
+title: InteresSMH: Workshop zum Thema Fermentation
 visible: true
 cache_enable: true
 #ics: 
@@ -8,7 +8,7 @@ rule:
 event:
 	start: 18-10-2019 19:00
 	end: 18-10-2019 22:00
-	location: ''
+	location: 'Jugendraum'
 taxonomy:
 	category: ['Gruppen']
 	tag: ['Oktober 2019']
@@ -22,5 +22,5 @@ Anmeldungen bitte bis Sonntag, den 6.10. an Daniel Stolpe. Weitere Details, Reze
 
 
 
-**Veranstaltungsort:** 
+**Veranstaltungsort:** Jugendraum
 
