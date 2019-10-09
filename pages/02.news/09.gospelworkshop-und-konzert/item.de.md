@@ -5,7 +5,6 @@ date: '07-10-2019 14:41'
 publish_date: '07-10-2019 14:41'
 unpublish_date: '02-12-2019 23:59'
 show_sidebar: false
-header_image: '0'
 ---
 
 # Gospelworkshop und Konzert
