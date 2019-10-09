@@ -1,5 +1,6 @@
 ---
 title: 'Gemeinsam Kekse Backen 2019'
+media_order: IMG_8261.JPG
 publish_date: '23-09-2019 14:10'
 unpublish_date: '28-11-2019 02:00'
 visible: true
@@ -35,3 +36,5 @@ Infotelefon, auch für die Daheimbäcker: 030/ 49 20 67 50
 * Do, 14.11.	Zitronentaler Orangensterne mit Vollkorn?
 * Di, 19.11.	Florentiner
 * Do, 21.11.	Mandelsterne und Vanillekipferl
+
+![](https://smh-gemeinden.de/user/pages/02.news/gemeinsam-kekse-backen-2019/IMG_8261.JPG)
