@@ -1,5 +1,6 @@
 ---
 title: 'Erntedank im St.-Michaels-Heim'
+media_order: Erntedank.png
 date: '07-10-2019 14:18'
 publish_date: '07-10-2019 14:18'
 unpublish_date: '01-12-2019 23:59'
