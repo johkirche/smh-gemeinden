@@ -1,6 +1,6 @@
 ---
 title: 'Porzellan und Glas bemalen'
-media_order: 'Bildschirmfoto 2019-10-09 um 23.53.16.png'
+media_order: 'Bildschirmfoto 2019-10-09 um 23.56.25.png,Bildschirmfoto 2019-10-09 um 23.53.16.png'
 date: '09-10-2019 23:53'
 publish_date: '09-10-2019 23:53'
 unpublish_date: '10-11-2019 23:59'
