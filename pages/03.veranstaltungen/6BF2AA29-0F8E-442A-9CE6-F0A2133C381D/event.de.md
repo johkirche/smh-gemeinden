@@ -8,7 +8,7 @@ rule:
 event:
 	start: 13-11-2019 17:45
 	end: 13-11-2019 18:45
-	location: 'Salon Medelssohn'
+	location: 'Bismarckzimmer'
 taxonomy:
 	category: ['Sakrament']
 	tag: ['November 2019']
@@ -21,5 +21,5 @@ https://www.johannische-kirche.org/de/03_lebenshilfe/02_sakramente/sakrament_gei
 
 
 
-**Veranstaltungsort:** Salon Medelssohn
+**Veranstaltungsort:** Bismarckzimmer
 
