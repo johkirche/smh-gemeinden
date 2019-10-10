@@ -4,6 +4,7 @@ media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '05-10-2019 16:20'
 publish_date: '05-10-2019 16:21'
 unpublish_date: '16-10-2019 23:59'
+visible: true
 show_sidebar: false
 ---
 
