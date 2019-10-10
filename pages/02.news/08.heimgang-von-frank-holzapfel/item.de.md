@@ -8,7 +8,7 @@ visible: true
 show_sidebar: false
 ---
 
-![](friedhof_friedensstadt_grabsteine.jpg)#  Heimgang von Bruder Frank Holzapfel
+#  Heimgang von Bruder Frank Holzapfel
 
 Liebe Geschwister und Freunde,
 
