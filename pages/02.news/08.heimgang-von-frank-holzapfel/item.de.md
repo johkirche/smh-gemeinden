@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Frank Holzapfel'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '02-10-2019 23:37'
 publish_date: '02-10-2019 23:37'
 unpublish_date: '16-10-2019 23:59'
@@ -7,7 +8,7 @@ visible: true
 show_sidebar: false
 ---
 
-#  Heimgang von Bruder Frank Holzapfel
+![](friedhof_friedensstadt_grabsteine.jpg)#  Heimgang von Bruder Frank Holzapfel
 
 Liebe Geschwister und Freunde,
 
