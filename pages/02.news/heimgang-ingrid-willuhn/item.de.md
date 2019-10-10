@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Ingrid Willuhn'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '27-09-2019 10:55'
 publish_date: '27-09-2019 10:55'
 unpublish_date: '13-10-2019 23:59'
