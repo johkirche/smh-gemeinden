@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Wolfgang Andree'
+media_order: 9c1596c6c077085fe7dfd68afed8ec2f1a5ceb27-friedhoffriedensstadtgrabsteine.jpeg
 date: '12-10-2019 10:26'
 publish_date: '12-10-2019 10:26'
 unpublish_date: '27-10-2019 10:00'
