@@ -14,4 +14,4 @@ Liebe Geschwister und Freunde,
 
 Am **03. Oktober 2019** wurde unsere Glaubensfreundin **Hulda Edith Gorke** aus der **Gemeinde Dresden** in die ewige Heimat abgerufen.
 
-Der Termin und der Ort der Abschiedsfeier werden noch bekannt gegeben.
+Die Abschiedsfeier findet statt am Montag, 21. Oktober 2019, 11.00 Uhr auf dem Friedhof Weinböhla, Friedensstraße 12, 01689 Weinböhla
