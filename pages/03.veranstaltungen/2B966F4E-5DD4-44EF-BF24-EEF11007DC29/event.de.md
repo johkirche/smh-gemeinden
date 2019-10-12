@@ -6,7 +6,7 @@ cache_enable: true
 date: 27-10-19
 rule: 
 event:
-	start: 27-10-2019 12:00
+	start: 27-10-2019 13:00
 	end: 27-10-2019 18:00
 	location: 'St.-Michaels-Heim  114 Salon Medelssohn  Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
