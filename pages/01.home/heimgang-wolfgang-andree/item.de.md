@@ -8,6 +8,6 @@ visible: true
 
 # Heimgang von Wolfgang Andree
 
-Am11.10.2019 wurde unser Glaubensfreund Wolfgang Andree aus der Hauptgemeinde Berlin in die ewige Heimat abgerufen.
+Am **11.10.2019** wurde unser Glaubensfreund **Wolfgang Andree** aus der **Hauptgemeinde** Berlin in die ewige Heimat abgerufen.
 
-Die Abschiedsfeier findet statt am Donnerstag, den 17. Oktober, um 14.00 Uhr auf dem Friedhof der Johannischen Kirche in Glau.
+Die Abschiedsfeier findet statt am Donnerstag, den **17. Oktober, um 14.00 Uhr** auf dem Friedhof der Johannischen Kirche in Glau.
