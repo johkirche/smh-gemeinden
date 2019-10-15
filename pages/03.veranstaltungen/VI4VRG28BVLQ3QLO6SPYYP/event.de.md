@@ -1,25 +1,21 @@
 ---
-title: Gemeindeführertagung SMH-Gemeidnen
+title: Gemeindeführertagung SMH-Gemeinden
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-11-19
 rule: 
 event:
 	start: 06-11-2019 18:30
 	end: 06-11-2019 20:00
-	location: 'St.-Michaels-Heim 115 Bismarckzimmer Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'St.-Michaels-Heim115 BismarckzimmerBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['Amtsträger']
+	tag: ['November 2019']
 
 ---
 
 
 
-**Veranstaltungsort:** St.-Michaels-Heim
-115 Bismarckzimmer
-Bismarkallee 23
-14193 Berlin
-Deutschland
+**Veranstaltungsort:** St.-Michaels-Heim115 BismarckzimmerBismarkallee 2314193 BerlinDeutschland
 

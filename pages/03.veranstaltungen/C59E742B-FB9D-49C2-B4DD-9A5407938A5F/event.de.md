@@ -2,7 +2,7 @@
 title: Gottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 20-01-19
 rule: FREQ=WEEKLY;INTERVAL=1;COUNT=3
 event:
@@ -10,8 +10,8 @@ event:
 	end: 20-01-2019 11:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Januar 2019']
 
 ---
 

@@ -2,7 +2,7 @@
 title: SMH-Gemeindebrunch im Jugendraum
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 07-07-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 07-07-2019 14:00
 	location: ''
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Juli 2019']
 
 ---
 

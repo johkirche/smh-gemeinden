@@ -2,7 +2,7 @@
 title: Schule für Geisteswissenschaft
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 16-11-19
 rule: 
 event:
@@ -11,9 +11,10 @@ event:
 	location: 'Kirche St.-MichaelsheimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
 	category: Amtsträger
-	tag: 
+	tag: ['November 2019']
 
 ---
+Monatlich findet im Rahmen der Schule für Geisteswissenschaft eine Fortbildung nur für Amtsträger der Johannischen Kirche statt.
 
 
 

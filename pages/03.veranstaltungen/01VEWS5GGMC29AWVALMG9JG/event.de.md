@@ -2,7 +2,7 @@
 title: Planungstreffen Gemeinschaftssonntag
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 14-01-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 14-01-2019 20:30
 	location: 'SMH Bismarckzimmer'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Januar 2019']
 
 ---
 Planung für den 27.01.

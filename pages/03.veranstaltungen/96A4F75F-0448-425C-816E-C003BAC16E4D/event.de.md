@@ -2,7 +2,7 @@
 title: Missionshelfergeistfreundrede
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 23-02-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 23-02-2019 12:00
 	location: 'Kirche SMH - Arbeit Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Februar 2019']
 
 ---
 

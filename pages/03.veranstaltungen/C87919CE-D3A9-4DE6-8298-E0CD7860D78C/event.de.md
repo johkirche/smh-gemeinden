@@ -2,7 +2,7 @@
 title: InteresSMH Salsa
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 04-03-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 04-03-2019 20:00
 	location: 'Salon Mendessohn'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['März 2019']
 
 ---
 Wir tanzen zusammen Salsa. Anfänger und Fortgeschrittene sind herzlich willkommen.

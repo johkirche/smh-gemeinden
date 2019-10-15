@@ -2,7 +2,7 @@
 title: Entfällt - Gastronomiekonzept KiTaWo 2019
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 10-04-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 10-04-2019 20:30
 	location: 'SMH'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['April 2019']
 
 ---
 Interessierte und Freunde breiten die gastronomische Versorgung unserer Geschwister, Freunde und Gäste in der kommenden Kirchentagswoche am Standort St.-Michaels-Heim vor. Interessierte, die an dem Treffen teilnehmen möchen, wenden sich bitte im Vorfeld an einen Gemeindeführer der St.-Michaels-Heim-Gemeinden.

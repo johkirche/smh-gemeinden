@@ -2,7 +2,7 @@
 title: Kindergottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 07-04-19
 rule: 
 event:
@@ -11,7 +11,7 @@ event:
 	location: 'Kinderkirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
 	category: Gottesdienst
-	tag: 
+	tag: ['April 2019']
 
 ---
 Vierzehntägig findet am Sonntag um 11 Uhr ein Kindergottesdienst statt. Ergänzend lädt die Johannische Kirche jeden Sonntag um 11 Uhr zu einem Gottesdienst für Menschen jeden Alters ein. Geschwister, Freunde und Gäste sind immer herzlich willkommen. Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gottesdienstes: https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php

@@ -2,7 +2,7 @@
 title: Gemeinschaftsabend
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-02-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 06-02-2019 21:00
 	location: 'St.-Michaels-Heim Jugendraum Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Februar 2019']
 
 ---
 Am Mi, 6.2.2019 Gemeinschaftsabend: Begegnungen mit Schwester Friedchen: Film und Gesprächskreis mit Christine Werner mit Mitbringbüfett.

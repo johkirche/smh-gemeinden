@@ -2,7 +2,7 @@
 title: Weihnachtsmarkt im St.-Michaels-Heim
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 01-12-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 01-12-2019 18:00
 	location: 'St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Dezember 2019']
 
 ---
 Liebe Gäste und Besucher/innen!

@@ -2,7 +2,7 @@
 title: Schule für Geisteswissenschaft
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-04-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 06-04-2019 19:00
 	location: 'Kirche St.-Michaelsheim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['April 2019']
 
 ---
 

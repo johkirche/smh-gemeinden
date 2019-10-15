@@ -2,7 +2,7 @@
 title: Gottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 24-07-19
 rule: 
 event:
@@ -11,7 +11,7 @@ event:
 	location: 'Kirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
 	category: Gottesdienst
-	tag: 
+	tag: ['Juli 2019']
 
 ---
 

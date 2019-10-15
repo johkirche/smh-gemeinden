@@ -2,7 +2,7 @@
 title: Weihnachtsmarkt-Nachbesprechung
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 17-01-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 17-01-2019 21:00
 	location: 'St.-Michaels-Heim Salon Mendelssohn Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Januar 2019']
 
 ---
 Weihnachtsmarktnachbesprechung (SMH)

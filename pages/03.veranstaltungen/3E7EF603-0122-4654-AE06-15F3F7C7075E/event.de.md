@@ -2,7 +2,7 @@
 title: Secondhand-Verkauf KiTa
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 16-03-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 16-03-2019 16:00
 	location: 'SMH Kindertagesstätte Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['März 2019']
 
 ---
 Secondhand-Verkauf

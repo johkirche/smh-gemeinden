@@ -2,16 +2,16 @@
 title: Bekenntnisgottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-03-19
-rule: FREQ=YEARLY;INTERVAL=1
+rule: FREQ=YEARLY
 event:
 	start: 06-03-2019 11:00
 	end: 06-03-2019 11:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['März 2019']
 
 ---
 Am 6. März, dem Tag des Heimganges Joseph Weißenbergs - dem Gründer der Johannischen Kirche - im Jahre 1941, begehen die johannischen Christen ihren Bekenntnistag. Sie werden in den Gottesdiensten ihrer Gemeinden gemeinsam das johannische Glaubensbekenntnis sprechen.

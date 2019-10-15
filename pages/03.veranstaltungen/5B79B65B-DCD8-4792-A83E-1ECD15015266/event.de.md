@@ -2,7 +2,7 @@
 title: Kindernachmittag
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 24-02-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 24-02-2019 15:00
 	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Februar 2019']
 
 ---
 Einmal im Monat findet für Kinder im Anschluss an den Kindergottesdienst und den Religionsunterricht im St.-Michaels-Heim ein Freizeitangebot, der Kindernachmittag, statt. Am 24.02. dreht sich beim Kindernachmittag alles um Zauberei.

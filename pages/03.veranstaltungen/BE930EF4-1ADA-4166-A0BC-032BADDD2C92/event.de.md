@@ -2,7 +2,7 @@
 title: Gottesdienst mit Jugendchor
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 15-05-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 15-05-2019 19:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Mai 2019']
 
 ---
 

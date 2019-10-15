@@ -2,7 +2,7 @@
 title: Gottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 03-04-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 03-04-2019 19:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['April 2019']
 
 ---
 

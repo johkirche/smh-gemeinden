@@ -2,7 +2,7 @@
 title: Gottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 10-03-19
 rule: FREQ=WEEKLY;COUNT=7
 event:
@@ -11,7 +11,7 @@ event:
 	location: 'Kirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
 	category: Gottesdienst
-	tag: 
+	tag: ['März 2019']
 
 ---
 Jeden Sonntag findet in unserer Kirche im St.-Michaels-Heim um 11 Uhr ein Johannischer Gottesdienst statt. Vierzentägig lädt die Johannische Kirche außerdem zu einem parallel stattfindenden Kindergottesdiesnt ein. Geschwister, Freunde und Gäste sind immer herzlich eingeladen. Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gottesdienstes: https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php

@@ -2,7 +2,7 @@
 title: Gemeindehelfer- und Gemeindeführertagung SMH-Gemeinden
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 11-09-19
 rule: 
 event:
@@ -11,7 +11,7 @@ event:
 	location: 'St.-Michaels-Heim Salon Mendelssohn Bismarckallee 23 14193 Berlin'
 taxonomy:
 	category: Amtsträger
-	tag: 
+	tag: ['September 2019']
 
 ---
 Monatlich treffen sich die Gemeindeführer der St.-Michaels-Heim-Gemeinden, um vielfältige Themen in der Gemeindearbeit gemeinsam zu organisieren. Wünsche, Anregungen usw. können jederzeit Gemeindehelfern und Gemeindeführern mitgeteilt werden. Gäste und Interessierte sind abhängig vom Thema und vorhergehender Absprache herzlich willkommen.

@@ -7,6 +7,8 @@ visible: true
 show_sidebar: false
 ---
 
+# Gemeindenews Steglitz August-September
+
 Liebe Freunde und liebe Geschwister,
 
 *Trommelwirbel* hier kommt der aktuelle Gemeindenewsletter der Gemeinde Steglitz!

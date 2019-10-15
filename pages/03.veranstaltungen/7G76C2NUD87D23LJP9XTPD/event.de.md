@@ -2,7 +2,7 @@
 title: Abendmahls- und Bekenntnisgottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 23-08-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 23-08-2019 10:30
 	location: ''
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['August 2019']
 
 ---
 

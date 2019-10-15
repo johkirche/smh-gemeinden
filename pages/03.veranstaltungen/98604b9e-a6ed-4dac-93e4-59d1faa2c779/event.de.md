@@ -2,7 +2,7 @@
 title: Pfingstvorbesprechung Nr. 2
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 12-04-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 12-04-2019 20:00
 	location: ''
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['April 2019']
 
 ---
 

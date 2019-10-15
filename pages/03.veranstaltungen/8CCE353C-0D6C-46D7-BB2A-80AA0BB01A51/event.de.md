@@ -2,7 +2,7 @@
 title: JuLei und GH SMH Pizzabacken
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 09-02-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 09-02-2019 21:00
 	location: 'SMH - Arbeit Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Februar 2019']
 
 ---
 

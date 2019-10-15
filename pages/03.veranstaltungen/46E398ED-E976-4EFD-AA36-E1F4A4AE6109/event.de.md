@@ -2,7 +2,7 @@
 title: Gemütliche Filmbesprechung zu "Papst Franziskus - Ein Mann seines Wortes"
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 15-03-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 15-03-2019 22:00
 	location: 'Jugendraum'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['März 2019']
 
 ---
 Start der Diskussionsrunde zum Pabst-Film ist um 19 Uhr.

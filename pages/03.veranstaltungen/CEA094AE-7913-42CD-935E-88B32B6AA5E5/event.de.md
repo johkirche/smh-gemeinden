@@ -2,7 +2,7 @@
 title: Gemeinschaftschorprobe
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-04-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 06-04-2019 20:15
 	location: 'St.-Michaels-Heim'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['April 2019']
 
 ---
 Im Rahmen der Kirchentagswoche 2019 wollen wir mit allen Chören (Gemeinde-/Kinderchöre, Johannischer Chor Berlin, Jugendchor) &amp; Sängern ein Gemeinschaftskonzert auf die Beine stellen.

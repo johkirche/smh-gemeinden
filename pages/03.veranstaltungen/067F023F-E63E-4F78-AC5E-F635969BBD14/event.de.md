@@ -2,7 +2,7 @@
 title: Aufbau Neujahrsempfang
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 06-01-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 06-01-2019 10:15
 	location: 'SMH - Arbeit Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Januar 2019']
 
 ---
 

@@ -2,7 +2,7 @@
 title: Gemeindekegeln Neukölln und Tempelhof
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 10-09-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 10-09-2019 21:00
 	location: 'Ristorante Gatto Nero, Attilastr. 20, 12105'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['September 2019']
 
 ---
 Liebe Geschwister und Freunde der Gemeinden Neukölln und Tempelhof,

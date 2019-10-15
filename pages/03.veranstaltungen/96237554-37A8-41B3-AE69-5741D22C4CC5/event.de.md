@@ -2,7 +2,7 @@
 title: Gemeinschaftsabend
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 15-05-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 15-05-2019 21:00
 	location: 'St.-Michaels-Heim Gemeinderaum Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Mai 2019']
 
 ---
 Thema: "Ausgewählte Stationen auf dem Weg zur Erlösung"

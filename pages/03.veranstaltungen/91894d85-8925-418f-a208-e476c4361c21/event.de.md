@@ -2,7 +2,7 @@
 title: Gemeindebrief Redaktionstreffen Ausgabe Mai-Juli
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 17-04-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 17-04-2019 20:30
 	location: ''
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['April 2019']
 
 ---
 

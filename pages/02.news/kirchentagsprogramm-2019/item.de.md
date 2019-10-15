@@ -1,6 +1,5 @@
 ---
 title: 'Kirchentagsprogramm 2019'
-published: true
 date: '29-07-2019 20:58'
 unpublish_date: '26-08-2019 00:00'
 visible: true

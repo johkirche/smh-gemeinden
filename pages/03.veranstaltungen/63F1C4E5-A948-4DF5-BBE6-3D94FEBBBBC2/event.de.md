@@ -2,23 +2,20 @@
 title: Gottesdienst
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 18-09-19
 rule: 
 event:
 	start: 18-09-2019 19:00
 	end: 18-09-2019 19:30
-	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'Kirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['Gottesdienst']
+	tag: ['September 2019']
 
 ---
 
 
 
-**Veranstaltungsort:** Kirche St.-Michaels-Heim
-Bismarkallee 23
-14193 Berlin
-Deutschland
+**Veranstaltungsort:** Kirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland
 

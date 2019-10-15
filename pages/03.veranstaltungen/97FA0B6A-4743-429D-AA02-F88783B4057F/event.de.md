@@ -2,7 +2,7 @@
 title: Schule für Geisteswissenschaft
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 08-06-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 08-06-2019 16:00
 	location: 'Kirche im Waldfrieden 52, 14959 Blankensee'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Juni 2019']
 
 ---
 Die Schule für Geisteswissenschaft findet Pfingsten nicht im St.-Michaels-Heim, sondern in der Kirche im Waldfrieden in der Näche der Friedensstadt statt.

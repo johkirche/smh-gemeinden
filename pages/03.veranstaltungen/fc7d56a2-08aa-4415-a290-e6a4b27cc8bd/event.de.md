@@ -2,7 +2,7 @@
 title: Gospelworkshop mit Kirk Smith
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 04-10-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 07-10-2019 00:00
 	location: 'Bismarckallee 23, Bismarckallee 23, 14193 Berlin, Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Oktober 2019']
 
 ---
 

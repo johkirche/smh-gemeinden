@@ -2,7 +2,7 @@
 title: Gemeinschaftssonntag
 visible: true
 cache_enable: true
-ics: 
+#ics: 
 date: 27-01-19
 rule: 
 event:
@@ -10,8 +10,8 @@ event:
 	end: 27-01-2019 16:00
 	location: 'St.-Michaels-Heim, Gemeinderaum, Bismarkallee 23, 14193 Berlin, Deutschland'
 taxonomy:
-	category: 
-	tag: 
+	category: ['']
+	tag: ['Januar 2019']
 
 ---
 Gemeinschaftssonntag im St.-Michaels-Heim:
