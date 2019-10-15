@@ -1,5 +1,5 @@
 ---
-title: 'Heimgang von Lothar Röper'
+title: 'Heimgang von Bruder Lothar Röper'
 media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '01-10-2019 23:39'
 publish_date: '01-10-2019 23:39'
@@ -7,8 +7,6 @@ unpublish_date: '16-10-2019 23:59'
 visible: true
 show_sidebar: false
 ---
-
-# Heimgang von Bruder Lothar Röper
 
 Liebe Geschwister und Freunde,
 
