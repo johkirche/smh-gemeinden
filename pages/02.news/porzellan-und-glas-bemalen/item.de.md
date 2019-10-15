@@ -1,5 +1,5 @@
 ---
-title: 'Porzellan und Glas bemalen'
+title: 'InteresSMH: Porzellan und Glas bemalen für Jung bis Alt'
 media_order: 'Bildschirmfoto 2019-10-09 um 23.56.25.png,Bildschirmfoto 2019-10-09 um 23.53.16.png'
 date: '09-10-2019 23:53'
 publish_date: '09-10-2019 23:53'
@@ -7,8 +7,6 @@ unpublish_date: '10-11-2019 23:59'
 visible: true
 show_sidebar: false
 ---
-
-# InteresSMH: Porzellan und Glas bemalen für Jung bis Alt
 
 Wir wollen uns am Sonntag, den 10.11. nach dem Gottesdienst im Jugendraum treffen, um gemeinsam kreativ zu werden. Ob eine individuelle Tasse für ein Geschenk, Teelichtgläser für die Deko oder einfach das einfarbige Geschirr aufpeppen, bleibt jeden selbst überlassen.
 
