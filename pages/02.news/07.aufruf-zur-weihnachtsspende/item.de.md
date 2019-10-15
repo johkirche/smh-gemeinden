@@ -8,7 +8,6 @@ visible: true
 show_sidebar: false
 ---
 
-# Aufruf zur Weihnachtsspende 2019
 Liebe Geschwister, liebe Freunde und Förderer,
 
 dankbar dürfen wir die gesegneten Früchte vom Altar des Herrn entgegennehmen, und dankbar dürfen wir an jedem Tag sein, an dem der himmlische Vater uns seine geistigen und materiellen Gaben schenkt.
