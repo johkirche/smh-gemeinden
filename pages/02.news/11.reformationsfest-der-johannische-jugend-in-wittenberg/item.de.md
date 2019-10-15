@@ -4,6 +4,7 @@ media_order: gemeinde_wittenberg_altar.jpg
 date: '15-10-2019 15:47'
 publish_date: '15-10-2019 15:47'
 unpublish_date: '28-10-2019 15:47'
+visible: true
 show_sidebar: false
 ---
 
