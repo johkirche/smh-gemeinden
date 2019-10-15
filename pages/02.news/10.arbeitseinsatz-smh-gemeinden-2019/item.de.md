@@ -1,13 +1,11 @@
 ---
-title: 'Arbeitseinsatz SMH Gemeinden 2019'
+title: 'Herbstarbeitseinsatz SMH Gemeinden 2019'
 media_order: Arbeitseinsatz.png
 date: '13-10-2019 13:22'
 publish_date: '13-10-2019 13:22'
 unpublish_date: '10-11-2019 23:59'
 show_sidebar: false
 ---
-
-# Herbstarbeitseinsatz der SMH-Gemeinden
 
 Am **Samstag, den 09.11.2019** findet unser gemeinsamer **Arbeitseinsatz** der Berliner-SMH-Gemeinden mit der Gartengruppe statt. Wir beginnen um **10.00 Uhr** mit einem Gebet in der **Kirche**.
 
