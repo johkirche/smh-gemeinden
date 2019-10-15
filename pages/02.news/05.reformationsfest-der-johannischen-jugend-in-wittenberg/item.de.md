@@ -1,5 +1,5 @@
 ---
-title: 'Reformationsfest der Johannische Jugend in Wittenberg'
+title: 'Reformationsfest der Johannischen Jugend in Wittenberg'
 media_order: gemeinde_wittenberg_altar.jpg
 date: '15-10-2019 15:47'
 publish_date: '15-10-2019 15:47'
@@ -8,7 +8,7 @@ visible: true
 show_sidebar: false
 ---
 
-# Reformationsfest der Johannische Jugend in Wittenberg
+# Reformationsfest der Johannischen Jugend in Wittenberg
 
 Liebe begeisterte Jugendliche!
 
