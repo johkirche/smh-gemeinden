@@ -23,18 +23,15 @@
 
 {% block content %}
 
-  <div class="events-container">
-
-    <h1 class="center">{{page.title}}</h1>
-    <header>
-      <p class="center">vom {{datetools.today|date('d.m.Y')}} bis {{"now + 1 year"|date("d.m.Y")}}</p>
-      <p class="warning"><strong>Diese Seite befindet sich im Aufbau. Deshalb kann es bei den Terminen noch zu Abweichungen kommen.</strong></p>
-    </header>
-
-    <section class="featured-events">
-    Filtern nach Kategorien
-    {% include 'partials/taxonomylist.html.twig' with {base_url: page.url, taxonomy: 'category' } %}
+  <header>
+    <section class="categories">
+        {% include 'partials/taxonomylistManual.html.twig' with {base_url: page.url, taxonomy: 'category' } %}
     </section>
+    {#% include 'partials/taxonomylist.html.twig' with {base_url: page.url, taxonomy: 'tag' } %#}
+  </header>
+  <div class="events-container">
+      <p class="center">Zeitraum: {{datetools.today|date('d.m.Y')}} bis {{"now + 1 year"|date("d.m.Y")}}</p>
+      <p class="warning"><strong>Alle Angaben ohne Gewähr</strong></p>
 
     <section class="events-listing">
       {% for item in events %}

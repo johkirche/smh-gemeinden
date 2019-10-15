@@ -1,3 +1,16 @@
+# v1.9.10
+## 09/19/2019
+
+1. [](#bugfix)
+    * Fixed `Badly encoded JSON data` warning when uploading files [grav#2663](https://github.com/getgrav/grav/issues/2663)
+
+# v1.9.9
+## 08/21/2019
+
+1. [](#bugfix)
+    * Fixed regression with files in admin not allowing types other than images [#1737](https://github.com/getgrav/grav-plugin-admin/issues/1737)
+    * Fixed preview link for non-images files in **Page Media** [#1727](https://github.com/getgrav/grav-plugin-admin/issues/1727)
+
 # v1.9.8
 ## 08/11/2019
 

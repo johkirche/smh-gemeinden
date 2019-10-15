@@ -25,9 +25,8 @@
             </span>
         {% endif %}
 
-        <span class="event-tags">
-          <a class="label label-rounded label-secondary" href="{{ page.parent.url }}/tag{{ config.system.param_sep }}{{ config.plugins.events.date_format.translate ? 'MONTHS_OF_THE_YEAR'|ta(page.header.event.start|date('n') - 1) : page.header.event.start|date('M') }}">{{ config.plugins.events.date_format.translate ? 'MONTHS_OF_THE_YEAR'|ta(page.header.event.start|date('n') - 1) : page.header.event.start|date('M') }}</a>
-        </span>
+        <!--span class="event-tags">
+        </span-->
 
         {% if page.taxonomy.tag %}
             <span class="event-tags">

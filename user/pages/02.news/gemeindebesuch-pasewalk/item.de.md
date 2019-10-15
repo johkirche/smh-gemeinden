@@ -1,6 +1,5 @@
 ---
 title: 'Gemeindebesuch Pasewalk'
-published: true
 date: '04-08-2019 16:14'
 unpublish_date: '15-09-2019 23:59'
 external_links:
