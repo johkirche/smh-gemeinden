@@ -8,8 +8,6 @@ visible: true
 show_sidebar: false
 ---
 
-# Heimgang von Hukda Edith Gorke
-
 Liebe Geschwister und Freunde,
 
 Am **03. Oktober 2019** wurde unsere Glaubensfreundin **Hulda Edith Gorke** aus der **Gemeinde Dresden** in die ewige Heimat abgerufen.
