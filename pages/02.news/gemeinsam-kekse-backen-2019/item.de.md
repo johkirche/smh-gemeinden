@@ -7,8 +7,6 @@ visible: true
 show_sidebar: false
 ---
 
-# Gemeinsam statt einsam Kekse backen
-
 Wie jedes Jahr fangen wir wieder an
 kaufen Mehl, Eier und Marzipan,
 Vanillezucker, Schokolade,
