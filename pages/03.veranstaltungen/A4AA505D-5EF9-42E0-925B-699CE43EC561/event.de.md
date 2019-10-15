@@ -14,6 +14,7 @@ taxonomy:
 	tag: ['November 2019']
 
 ---
+Monatlich findet im Rahmen der Schule für Geisteswissenschaft eine Fortbildung nur für Amtsträger der Johannischen Kirche statt.
 
 
 
