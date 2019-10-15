@@ -3,15 +3,15 @@ title: Geburtstagsgottesdienst Joseph Weißenberg
 visible: true
 cache_enable: true
 #ics: 
-date: 24-08-19
+date: 24-08-20
 rule: FREQ=YEARLY;INTERVAL=1
 event:
-	start: 24-08-2019 11:00
-	end: 24-08-2019 11:30
+	start: 24-08-2020 09:00
+	end: 24-08-2020 09:30
 	location: 'Waldfrieden 52 14959 Blankensee, Deutschland'
 taxonomy:
 	category: ['']
-	tag: ['August 2019']
+	tag: ['August 2020']
 
 ---
 

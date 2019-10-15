@@ -8,9 +8,9 @@ rule:
 event:
 	start: 20-10-2019 11:00
 	end: 20-10-2019 11:30
-	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'Kinderkirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland'
 taxonomy:
-	category: ['Gottesdienst']
+	category: ['Gottesdienst','Kinder']
 	tag: ['Oktober 2019']
 
 ---
@@ -18,8 +18,5 @@ Vierzehntägig findet am Sonntag um 11 Uhr ein Kindergottesdienst statt. Ergänz
 
 
 
-**Veranstaltungsort:** Kinderkirche St.-Michaels-Heim
-Bismarkallee 23
-14193 Berlin
-Deutschland
+**Veranstaltungsort:** Kinderkirche St.-Michaels-HeimBismarkallee 2314193 BerlinDeutschland
 
