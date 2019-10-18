@@ -14,5 +14,7 @@ summary:
   format: short
   size: 300
   delimiter: '==='
+routes:
+  /veranstaltuneng/gottesdienst: '/veranstaltungen/category:gottesdienst'
 blog:
   route: /blog

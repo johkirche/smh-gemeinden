@@ -8,21 +8,26 @@
     font-style:normal;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans Light', sans-serif;
+    margin-top: 2rem;
+    color: #3a414e;
+    /*text-transform: uppercase;*/
+    color: #085191;
+}
+
 h1 {
     font-size: 1.8rem;
     margin-top: 1rem;
-    text-transform: uppercase;
-    color: #085191;
-    font-family: 'Open Sans Light', sans-serif;
 }
 
 h2 {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     margin-top: 1rem;
 }
 
 h3 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 body{
@@ -36,7 +41,7 @@ body{
 }
 
 a, .a, a:visited, a:active, a:hover{
-    color: #085191;
+    color: #085191 !important;
     text-decoration: none;
 }
 
@@ -70,6 +75,10 @@ a, .a, a:visited, a:active, a:hover{
     position: relative !important;
 }
 
+.events-container .events-listing .event-item {
+    border-bottom: 2px solid #efefef;
+}
+
 .event-button{
     padding: 0.2rem 0.5rem !important;
     color: #085191 !important;
@@ -90,7 +99,7 @@ a, .a, a:visited, a:active, a:hover{
 }
 
 .label.label-secondary {
-    color: #fff;
+    color: #ffffff !important;
     background: #085191;
 }
 
@@ -107,10 +116,32 @@ a, .a, a:visited, a:active, a:hover{
 }
 
 .treemenu li a {
-    color: #ffffff;
-    font-size: 1.5rem;
+    color: #ffffff !important;
+    font-size: 1.8rem;
     padding-top: 1rem;
+    line-height: 1.8rem;
 }
+
+.treemenu li a.active {
+    color: #085191 !important;
+}
+
+.treemenu li {
+    background: none;
+}
+
+.navbar-brand mr-10 {
+    color: #ffffff !important;
+}
+
+.overlay-menu>.tree {
+    text-align: center;
+}
+
+/*.mobile-menu {
+    margin-left: 2rem;
+    margin-top: 1rem;
+}*/
 
 .mobile-menu .button_container span{
     background: #085191;
@@ -122,6 +153,10 @@ a, .a, a:visited, a:active, a:hover{
 
 .treemenu .toggler {
     display: none;
+}
+
+.dropmenu ul li a.active{
+    font-style: italic;
 }
 
 body.header-fixed.header-animated #header.scrolled {
@@ -177,4 +212,15 @@ img.center {
 
 #footer{
     border-top: 1px solid rgba(172,179,194,.2);
+}
+
+.categories{
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    padding-right: .5rem;
+    /*text-transform: uppercase;*/
+}
+
+.active-category{
+    font-style: italic;
 }

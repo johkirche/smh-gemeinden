@@ -46,44 +46,6 @@ class CalDAVImportPlugin extends Plugin {
 
         $uri = $this->grav['uri'];
         $route = $this->config->get('plugins.cal-dav-import.route');
-
-        if ($route && $route == $uri->path()) {
-            $this->enable([
-                'onPageInitialized' => ['onPageInitialized', 0]
-            ]);
-        }
-
-        // Enable the main event we are interested in
-        //$this->enable(['onPageContentRaw' => ['onPageContentRaw', 0]]);
-    }
-
-    /**
-     * Do some work for this event, full details of events can be found
-     * on the learn site: http://learn.getgrav.org/plugins/event-hooks
-     *
-     * @param Event $e
-     */
-    public function onPageContentRaw(Event $e) {
-        // Get a variable from the plugin configuration
-        //$text = $this->grav['config']->get('plugins.cal-dav-import.caldav-url');
-
-        // Get the current raw content
-        //$content = $e['page']->getRawContent();
-
-        // Prepend the output with the custom text and set back on the page
-        //$e['page']->setRawContent($text . "\n\n" . $content);
-    }
-
-    /**
-    * Send user to a random page
-    */
-    public function onPageInitialized()
-    {
-        // Initialize plugin
-        /*if($this->needsEventRefresh()){
-        	$this->removeEvents();
-          $this->importEvents();
-        }*/
     }
 
     /**
@@ -122,9 +84,7 @@ class CalDAVImportPlugin extends Plugin {
 
       $importLogFile = $locator->findResource('user://pages/'.$this->grav['config']->get('plugins.cal-dav-import.folder-name'), true) . DS . ".importlog";
       if(file_exists($importLogFile)){
-        //if(strtotime(filemtime($importLogFile)) >= strtotime("-".$this->grav['config']->get('plugins.cal-dav-import.caldav-refresh-interval')." minutes")){
         if(time() - filemtime($importLogFile) >= $this->grav['config']->get('plugins.cal-dav-import.caldav-refresh-interval')*60){
-          //var_dump("too old");
           return true;
         }
       }
@@ -133,14 +93,12 @@ class CalDAVImportPlugin extends Plugin {
 
     public static function removeEvents($grav){
       $path = $grav['locator']->findResource('user://pages/'.$grav['config']->get('plugins.cal-dav-import.folder-name'), true);
-      //var_dump($path);
       static::rrmdir($path);
     }
 
     public static function rrmdir($dir) { 
 	   if (is_dir($dir)) { 
 	     $objects = scandir($dir); 
-	     //var_dump($objects);
 	     foreach ($objects as $object) { 
 	       if ($object != "." && $object != "..") { 
 	         if (is_dir($dir."/".$object))
@@ -191,7 +149,10 @@ class CalDAVImportPlugin extends Plugin {
             if($ical->hasEvents()){
                 //$events = $ical->events();
                 $currentYear = date("Y");
-                $events = $ical->eventsFromRange($currentYear.'-01-01 00:00:00', $currentYear.'-12-31 23:59:59');
+                $today = date("Y-m-d");
+                $futureDate = date('Y-m-d', strtotime('+1 year'));
+                $events = $ical->eventsFromRange($today. ' 00:00:00', $futureDate.' 23:59:59');
+                //$events = $ical->eventsFromRange($currentYear. '-01-01 00:00:00', $currentYear.'-12-31 23:59:59');
 
                 foreach($events as $event) {
                     // Dump every event
@@ -201,17 +162,14 @@ class CalDAVImportPlugin extends Plugin {
                     $parsedStartDate = $dtstart->format('d-m-y');
                     $parsedStartDateTime = $dtstart->format('d-m-Y H:i');
                     $parsedEndDateTime = $dtend->format('d-m-Y H:i');
-                    $month = $grav['language']->translateArray('MONTHS_OF_THE_YEAR', $dtstart->format('n') - 1, 'de');
+                    $month = "['".$grav['language']->translateArray('MONTHS_OF_THE_YEAR', $dtstart->format('n') - 1, 'de') ." ". $dtstart->format('Y') ."']";
                     $year = $dtstart->format('Y');
-                    $category = $event->categories;
+                    $categories = static::parseCategories($event);
                     $frequency = "";
+                    $description = static::createDescription($event->description);
                     //$eventIcsFile = $event->printData();
                     //$eventIcsFile = substr($this->grav['config']->get('plugins.cal-dav-import.caldav-url'), 0, -7) . "/". $event->uid . ".ics";
-
-                    /*if (strpos($event->summary, 'gottesdienst')) {
-                      $category = "Gottesdienst";
-                    }*/
-
+                    
                     if(!empty($event->rrule)){
                       $frequencySplitted = explode(";", $event->rrule);
                       if(sizeof($frequencySplitted) > 0){
@@ -225,7 +183,7 @@ class CalDAVImportPlugin extends Plugin {
 title: $event->summary
 visible: true
 cache_enable: true
-ics: $eventIcsFile
+#ics: $eventIcsFile
 date: $parsedStartDate
 rule: $event->rrule
 event:
@@ -233,11 +191,11 @@ event:
 \tend: $parsedEndDateTime
 \tlocation: '$cleanedLocation'
 taxonomy:
-\tcategory: $category
-\ttag: 
+\tcategory: $categories
+\ttag: $month
 
 ---
-$event->description
+$description
 
 
 **Veranstaltungsort:** $event->location
@@ -332,6 +290,24 @@ EOT;
   }
 
   return $text;
+}
+
+public static function parseCategories($event){
+  if(empty($event->categories)){
+    preg_match_all("/(#\w+)/u", $event->description, $matches, PREG_PATTERN_ORDER);
+ 
+    if(count($matches) > 0){
+      return str_replace("#", "", "['".implode("','",$matches[0])."']");
+    }
+  }
+  return $event->categories;
+}
+
+public static function createDescription($description){
+  if(strpos($description, "#") === false){
+    return $description;
+  }
+  return substr($description, 0, strpos($description, "#"));
 }
 
 public static function writeImportLog($grav, $count){
