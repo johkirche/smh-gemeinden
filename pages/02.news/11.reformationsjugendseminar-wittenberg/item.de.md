@@ -1,5 +1,6 @@
 ---
 title: 'Reformationsjugendseminar Wittenberg'
+media_order: gemeinde_wittenberg_altar.jpg
 date: '20-10-2019 18:45'
 publish_date: '20-10-2019 18:45'
 unpublish_date: '28-10-2019 07:00'
