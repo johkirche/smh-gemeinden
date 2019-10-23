@@ -1,5 +1,5 @@
 ---
-title: 2. Frühstück
+title: 2. Frühstück der SMH-Gemeinden
 visible: true
 cache_enable: true
 #ics: 

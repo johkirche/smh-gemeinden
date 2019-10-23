@@ -10,7 +10,7 @@ event:
 	end: 17-11-2019 11:30
 	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['Gottesdienst']
+	category: ['Gottesdienst','Kinder']
 	tag: ['November 2019']
 
 ---

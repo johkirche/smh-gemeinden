@@ -14,7 +14,8 @@ taxonomy:
 	tag: ['Oktober 2019']
 
 ---
-Im Anschluss an unseren Mittwochsgottesdienst laden die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein in den Jugendraum ein. Mit Predigerin Christine Werner behandeln wir ein Thema aus dem Konfirmandenunterricht. Kleine Beiträge zum Mitbringbüfett sind herzlich willkommen.
+Im Anschluss an unseren Mittwochsgottesdienst laden die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein in den Jugendraum ein. Mit Predigerin Christine Werner wird das Thema vom vergangenen Gemeinschaftsabend fortgeführt. Wir tauschen uns weiter zum Sakrament des Sterbens aus und konzentrieren uns auf 
+das Fortleben mit seinen Sphären. Kleine Beiträge zum Mitbringbüfett sind herzlich willkommen.
 
 
 

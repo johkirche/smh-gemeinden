@@ -1,5 +1,5 @@
 ---
-title: Anmeldeschluss KoKiWa 2020
+title: Anmeldeschluss JoKiWa 2020
 visible: true
 cache_enable: true
 #ics: 

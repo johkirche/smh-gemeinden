@@ -1,5 +1,5 @@
 ---
-title: KoKiWa - Johannische Kinderwanderung
+title: JoKiWa - Johannische Kinderwanderung
 visible: true
 cache_enable: true
 #ics: 
