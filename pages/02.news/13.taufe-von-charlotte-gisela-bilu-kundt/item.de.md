@@ -6,5 +6,4 @@ unpublish_date: '13-11-2019 23:59'
 show_sidebar: false
 ---
 
-Am Sonntag, dem **03. November 2019** wird im Kindergottesdienst im St.-Michaels-Heim **Charlotte Gisela Bilu Kundt** getauft.
-Wir wollen den Lebensweg des Täuflings mit in unsere Gebete einschließen.
+Am Sonntag, dem **03. November 2019** wird im Kindergottesdienst im St.-Michaels-Heim **Charlotte Gisela Bilu Kundt** getauft. Wir wollen den Lebensweg des Täuflings mit in unsere Gebete einschließen.
