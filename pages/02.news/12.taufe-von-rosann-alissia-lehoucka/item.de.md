@@ -1,6 +1,6 @@
 ---
 title: 'Taufe von Rosann Alissia Lehoucka'
-media_order: Logo-Kirche-schmal.jpg
+media_order: gemeinde_bremen_altar.jpg
 date: '23-10-2019 17:23'
 publish_date: '23-10-2019 17:23'
 unpublish_date: '13-11-2019 23:59'
