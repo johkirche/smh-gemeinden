@@ -7,4 +7,4 @@ unpublish_date: '30-10-2019 23:59'
 show_sidebar: false
 ---
 
-Am **25. Oktober 2019** wurde unsere Schwester **Christel Kraaz** aus der Gemeinde **Kaulsdorf** in die ewige Heimat abgerufen. Der Termin sowie der Ort der Abschiedsfeier werden noch bekanntgegeben.
+Am **25. Oktober 2019** wurde unsere Schwester **Christel Kraaz** aus der Gemeinde **Kaulsdorf** in die ewige Heimat abgerufen. Die Abschiedsfeier findet am Sonntag, den 3. November um 14 Uhr im Abschiedsraum bei Reverti statt. Die Urnenbeisetzung erfolgt später im Kreis der Familie.

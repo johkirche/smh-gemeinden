@@ -8,7 +8,7 @@ rule:
 event:
 	start: 16-11-2019 15:30
 	end: 16-11-2019 18:00
-	location: 'St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'Kuppelsaal'
 taxonomy:
 	category: ['Amtsträger']
 	tag: ['November 2019']
@@ -18,8 +18,5 @@ Monatlich findet im St.-Michaels-Heim ein Arbeitstreffen aller Gemeindeführer d
 
 
 
-**Veranstaltungsort:** St.-Michaels-Heim
-Bismarkallee 23
-14193 Berlin
-Deutschland
+**Veranstaltungsort:** Kuppelsaal
 
