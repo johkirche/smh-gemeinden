@@ -1,5 +1,6 @@
 ---
 title: 'Weihnachtskonzerte des Johannischen Chores'
+media_order: IMG_6832.jpeg
 date: '02-11-2019 11:21'
 publish_date: '02-11-2019 11:21'
 unpublish_date: '02-01-2020 12:00'
@@ -13,3 +14,5 @@ der Johannische Chor Berlin lädt Sie und euch herzlich zu seinen diesjärigen W
 Karten erhales Sie auf unseren Weihnachtsmärkten und in der Rezeption im St.-Michaels-Heim.
 
 Es freuen sich auf Sie und euch die Johannische Kirche, ihr Sozialwerk und der Johannische Chor Berlin
+
+![](https://smh-gemeinden.de/user/pages/02.news/17.weihnachtskonzerte-des-johannischen-chores/IMG_6832.jpeg)
