@@ -1,5 +1,5 @@
 ---
-title: 2. Frühstück der SMH-Gemeinden
+title: 2. Frühstück aller St.-Michaels-Heim Gemeinden
 visible: true
 cache_enable: true
 #ics: 

@@ -1,5 +1,5 @@
 ---
-title: Planungstreffen 100 Jahre Friedensstadt für alle
+title: Planungstreffen 100 Jahre Friedensstadt für alle (Friedensstadt, nicht im St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 

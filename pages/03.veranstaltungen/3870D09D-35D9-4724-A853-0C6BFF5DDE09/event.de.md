@@ -1,5 +1,5 @@
 ---
-title: Seminar für Kinderbetreuer, Konfirmandenlehrer und Religionslehrer
+title: Seminar für Kinderbetreuer, Konfirmandenlehrer und Religionslehrer (nicht im St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 

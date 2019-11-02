@@ -1,5 +1,5 @@
 ---
-title: AKR Gesprächsforum: Pflichterfüllung - Freiheit oder Zwang?
+title: AKR Gesprächsforum: Pflichterfüllung - Freiheit oder Zwang? (nicht im St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 

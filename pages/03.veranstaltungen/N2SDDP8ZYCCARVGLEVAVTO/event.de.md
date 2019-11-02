@@ -1,5 +1,5 @@
 ---
-title: Fahrradtour Potsdamer Seen (Alternativtermin)
+title: InteresSMH: Fahrradtour Potsdamer Seen (Alternativtermin)
 visible: true
 cache_enable: true
 #ics: 
@@ -15,7 +15,6 @@ taxonomy:
 
 ---
 Dies ist der Schlechtwetter-Alternativtermin für die geplante Fahrradtour vom 25. April.
-
 
 
 

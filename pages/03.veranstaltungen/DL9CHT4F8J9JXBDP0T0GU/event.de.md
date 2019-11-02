@@ -1,5 +1,5 @@
 ---
-title: Fahrradtour Potsdamer Seen
+title: InteresSMH: Fahrradtour Potsdamer Seen
 visible: true
 cache_enable: true
 #ics: 
@@ -14,8 +14,7 @@ taxonomy:
 	tag: ['April 2020']
 
 ---
-Auf die Fahrräder und los geht's! Geplante Tour: Umfahrung des Templiner Sees. Start und Ziel ist der Potsdamer Hauptbahnhof. Ca. 35 km. Anmeldungen an Christoph Sch.-B.. Bei Schlechtwetter ist der 25.7. als Alternative eingeplant.
-
+Auf die Fahrräder und los geht's! Geplante Tour: Umfahrung des Templiner Sees. Start und Ziel ist der Potsdamer Hauptbahnhof. Die Gesamtstrecke ist ca. 35 km. Anmeldungen an Christoph Schaal-Breite. Bei Schlechtwetter ist der 25.7. als Alternative eingeplant.
 
 
 

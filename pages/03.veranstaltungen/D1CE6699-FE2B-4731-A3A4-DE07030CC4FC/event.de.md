@@ -1,5 +1,5 @@
 ---
-title: Gmeinschaftssonntag der St.-Michaels-Heim Gemeinden
+title: Gmeinschaftssonntag aller St.-Michaels-Heim Gemeinden
 visible: true
 cache_enable: true
 #ics: 

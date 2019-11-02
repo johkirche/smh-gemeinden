@@ -1,5 +1,5 @@
 ---
-title: Gottesdienst
+title: Gottesdienst am 4. Advent
 visible: true
 cache_enable: true
 #ics: 

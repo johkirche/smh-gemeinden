@@ -1,5 +1,5 @@
 ---
-title: Öffentliche Schule für Geisteswissenschaft
+title: Öffentliche Schule für Geisteswissenschaft (Gut Schönhof, nicht im St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 

@@ -1,5 +1,5 @@
 ---
-title: Weihnachtskonzert des Johannische Kirches Berlin im Waldfrieden (nicht St.-Michaels-Heim)
+title: Weihnachtskonzert des Johannischen Chors Berlin im Waldfrieden (nicht St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 

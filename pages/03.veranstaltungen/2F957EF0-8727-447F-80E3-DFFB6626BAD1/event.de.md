@@ -1,5 +1,5 @@
 ---
-title: Neujahrsempfang der St.-Michaels-Heim Gemeinden
+title: Neujahrsempfang aller St.-Michaels-Heim Gemeinden
 visible: true
 cache_enable: true
 #ics: 

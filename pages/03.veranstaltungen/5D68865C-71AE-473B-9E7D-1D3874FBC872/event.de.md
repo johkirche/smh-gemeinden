@@ -1,5 +1,5 @@
 ---
-title: Arbeitseinsatz Gedänkstätte
+title: Arbeitseinsatz an der Gedänkstätte
 visible: true
 cache_enable: true
 #ics: 
@@ -8,7 +8,7 @@ rule:
 event:
 	start: 29-02-2020 10:00
 	end: 29-02-2020 14:00
-	location: ''
+	location: 'Gedängstätte'
 taxonomy:
 	category: ['Gruppen']
 	tag: ['Februar 2020']
@@ -18,5 +18,5 @@ Die Gemeinden der Johannischen Kirche im St.-Michaels-Heim machen einen kleinen 
 
 
 
-**Veranstaltungsort:** 
+**Veranstaltungsort:** Gedängstätte
 

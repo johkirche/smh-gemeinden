@@ -1,5 +1,5 @@
 ---
-title: Gottesdienst
+title: Gottesdienst am 1. Advent
 visible: true
 cache_enable: true
 #ics: 

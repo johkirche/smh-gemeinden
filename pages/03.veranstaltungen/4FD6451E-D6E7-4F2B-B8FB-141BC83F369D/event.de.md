@@ -1,5 +1,5 @@
 ---
-title: Weihnachtsmarkt im Waldfrieden
+title: Weihnachtsmarkt im Waldfrieden (nicht im St.Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 

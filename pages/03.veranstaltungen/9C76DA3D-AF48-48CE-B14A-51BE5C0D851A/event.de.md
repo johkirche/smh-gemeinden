@@ -1,5 +1,5 @@
 ---
-title: Weihnachtskonzert des Johannische Kirches Berlin in St.-Michaels-Heim
+title: Weihnachtskonzert des Johannischen Chors Berlin im St.-Michaels-Heim
 visible: true
 cache_enable: true
 #ics: 
