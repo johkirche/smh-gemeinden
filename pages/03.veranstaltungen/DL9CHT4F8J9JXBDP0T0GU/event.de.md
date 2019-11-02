@@ -6,8 +6,8 @@ cache_enable: true
 date: 25-04-20
 rule: 
 event:
-	start: 25-04-2020 00:00
-	end: 26-04-2020 00:00
+	start: 25-04-2020 11:00
+	end: 25-04-2020 16:00
 	location: 'Potsdam'
 taxonomy:
 	category: ['Gruppen']

@@ -1,5 +1,5 @@
 ---
-title: Seminar für Kindergottesdienstleiter, Kinderbetreuer, Konfirmandenlehrer und Religionslehrer
+title: Seminar für Kinderbetreuer, Konfirmandenlehrer und Religionslehrer
 visible: true
 cache_enable: true
 #ics: 
