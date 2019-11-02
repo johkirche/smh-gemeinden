@@ -1,6 +1,6 @@
 ---
 title: 'Weihnachtskonzerte des Johannischen Chores'
-media_order: '4F54F1C2-0B72-4C89-A8B1-A2722A303EC8.jpeg,IMG_6832.jpeg'
+media_order: '0AB6E0F3-1323-4941-9DFD-1330129BC172.jpeg,IMG_6832.jpeg'
 date: '02-11-2019 11:21'
 publish_date: '02-11-2019 11:21'
 unpublish_date: '02-01-2020 12:00'
