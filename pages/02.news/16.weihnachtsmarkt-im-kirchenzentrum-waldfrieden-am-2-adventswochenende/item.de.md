@@ -1,6 +1,6 @@
 ---
 title: 'Weihnachtsmarkt im Kirchenzentrum Waldfrieden am 2. Adventswochenende'
-media_order: IMG_6831.jpeg
+media_order: '77AA9F48-28EB-4FE9-937B-5DAC996A5E83.jpeg,IMG_6831.jpeg'
 date: '02-11-2019 11:00'
 publish_date: '02-11-2019 11:00'
 unpublish_date: '09-12-2019 11:00'
