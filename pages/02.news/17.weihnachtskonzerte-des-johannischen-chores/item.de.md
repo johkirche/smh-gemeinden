@@ -7,7 +7,7 @@ unpublish_date: '02-01-2020 12:00'
 show_sidebar: false
 ---
 
-liebe Gäste, Freunde und Geschwister,
+Liebe Gäste, Freunde und Geschwister,
 
 der Johannische Chor Berlin lädt Sie und euch herzlich zu seinen diesjärigen Weihnachtskonzerten in das Kirchenzentrum Waldfrieden und in das St.-Michaels-Heim ein. Unter der Leitung von Jens Lehmann möchten Chor und Instrumentalensemble Sie mit Weihnachtsliedern aus aller Welt in die der liebevollen Weihnachtszeit begleiten.
 
