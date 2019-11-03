@@ -14,7 +14,7 @@ der Johannische Chor Berlin lädt Sie und euch herzlich zu seinen diesjärigen W
 * Das Konzert in der Kiche im **Kirchenzentrum Waldfrieden** findet am **Samstag, den 14. Dezember um 17 Uhr** statt.
 * Das Konzert in der **Kirche im St.-Michaels-Heim** findet am **Sonntag, dem 15. Dezember (3. Advent) um 16 Uhr** statt.
 
-Eintrittskarten erhales Sie auf unseren Weihnachtsmärkten und in der Rezeption im St.-Michaels-Heim.
+Eintrittskarten erhales Sie auf unseren Weihnachtsmärkten und  an der Abendkasse (nach Verfügbarkeit).
 
 Es freuen sich auf Sie und euch die Johannische Kirche, ihr Sozialwerk und der Johannische Chor Berlin
 
