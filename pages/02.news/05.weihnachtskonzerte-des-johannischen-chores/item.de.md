@@ -18,4 +18,4 @@ Eintrittskarten erhales Sie auf unseren Weihnachtsmärkten und  an der Abendkass
 
 Es freuen sich auf Sie und euch die Johannische Kirche, ihr Sozialwerk und der Johannische Chor Berlin
 
-![](https://smh-gemeinden.de/user/pages/02.news/17.weihnachtskonzerte-des-johannischen-chores/IMG_6832.jpeg)
+![](https://smh-gemeinden.de/user/pages/02.news/05.weihnachtskonzerte-des-johannischen-chores/IMG_6832.jpeg)
