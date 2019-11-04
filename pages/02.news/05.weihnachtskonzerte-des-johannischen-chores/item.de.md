@@ -1,6 +1,6 @@
 ---
 title: 'Weihnachtskonzerte des Johannischen Chores'
-media_order: '0AB6E0F3-1323-4941-9DFD-1330129BC172.jpeg,IMG_6832.jpeg'
+media_order: '0AB6E0F3-1323-4941-9DFD-1330129BC172.jpeg,Plakat-smh_wf_DIN-A4.jpg'
 date: '02-11-2019 11:21'
 publish_date: '02-11-2019 11:21'
 unpublish_date: '02-01-2020 12:00'
@@ -18,4 +18,4 @@ Eintrittskarten erhales Sie auf unseren Weihnachtsmärkten und  an der Abendkass
 
 Es freuen sich auf Sie und euch die Johannische Kirche, ihr Sozialwerk und der Johannische Chor Berlin
 
-![](https://smh-gemeinden.de/user/pages/02.news/05.weihnachtskonzerte-des-johannischen-chores/IMG_6832.jpeg)
+![](https://smh-gemeinden.de/user/pages/02.news/05.weihnachtskonzerte-des-johannischen-chores/Plakat-smh_wf_DIN-A4.jpg)
