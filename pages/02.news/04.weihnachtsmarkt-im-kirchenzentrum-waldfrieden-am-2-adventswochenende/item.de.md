@@ -20,4 +20,4 @@ Wir wünschen Ihnen einen fröhlichen Aufenthalt bei uns im Waldfrieden und eine
 Johannische Kirche, Johannisches Sozialwerk e.V.
 für alle Mitarbeiter und Helfer
 
-![](https://smh-gemeinden.de/user/pages/02.news/16.weihnachtsmarkt-im-kirchenzentrum-waldfrieden-am-2-adventswochenende/IMG_6831.jpeg)
+![](https://smh-gemeinden.de/user/pages/02.news/04.weihnachtsmarkt-im-kirchenzentrum-waldfrieden-am-2-adventswochenende/IMG_6831.jpeg)
