@@ -1,8 +1,9 @@
 ---
-title: 'Weihnachtsmarkt am 2. Advent im Kirchenzentrum Kaulsdorf'
+title: 'Weihnachtsmarkt im Kirchenzentrum Kaulsdorf am 2. Adventswochenende'
 date: '04-11-2019 23:16'
 publish_date: '04-11-2019 23:16'
 unpublish_date: '02-12-2019 12:00'
+show_sidebar: false
 ---
 
 Liebe Geschwister, Freunde und Gäste,
