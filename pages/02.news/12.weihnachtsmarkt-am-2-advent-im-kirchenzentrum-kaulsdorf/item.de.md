@@ -1,5 +1,6 @@
 ---
 title: 'Weihnachtsmarkt im Kirchenzentrum Kaulsdorf am 2. Adventswochenende'
+media_order: Kaulsdorf.jpg
 date: '04-11-2019 23:16'
 publish_date: '04-11-2019 23:16'
 unpublish_date: '02-12-2019 12:00'
@@ -16,5 +17,7 @@ Weiterhin laden wir dann am Samstag, dem 21. Dezember, um 14.30 Uhr, zum Advents
 Allen eine gesegnete Weihnachtszeit!
 
 Axel Glank
+
+![](https://smh-gemeinden.de/user/pages/02.news/12.weihnachtsmarkt-am-2-advent-im-kirchenzentrum-kaulsdorf/Kaulsdorf.jpg)
 
 
