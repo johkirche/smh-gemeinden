@@ -1,6 +1,6 @@
 ---
 title: 'Weihnachtsmarkt im Kirchenzentrum Düsseldorf am 1. Adventswochenende'
-media_order: 'Bildschirmfoto 2019-11-04 um 23.34.50.png'
+media_order: 'Bildschirmfoto 2019-11-04 um 23.43.18.png,Bildschirmfoto 2019-11-04 um 23.34.50.png'
 date: '04-11-2019 23:33'
 publish_date: '04-11-2019 23:33'
 unpublish_date: '02-12-2019 12:00'
