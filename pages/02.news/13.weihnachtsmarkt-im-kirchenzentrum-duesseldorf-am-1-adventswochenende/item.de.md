@@ -1,6 +1,6 @@
 ---
 title: 'Weihnachtsmarkt im Kirchenzentrum Düsseldorf am 1. Adventswochenende'
-media_order: 'Bildschirmfoto 2019-11-04 um 23.45.41.png,Basar-Handzettel-2019-A5-1.png,Bildschirmfoto 2019-11-05 um 13.23.21.png'
+media_order: 'Bildschirmfoto 2019-11-04 um 23.45.41.png,Basar-Handzettel-2019-A5-1.png,Bildschirmfoto 2019-11-05 um 13.23.21.png,Basar Handzettel 2019 A5.pdf'
 date: '04-11-2019 23:33'
 publish_date: '04-11-2019 23:33'
 unpublish_date: '02-12-2019 12:00'
@@ -14,3 +14,5 @@ parallel zu unserem Weihnachtsmarkt im St.-Michaels-Heim lädt auch die Gemeinde
 ![](https://smh-gemeinden.de/user/pages/02.news/13.weihnachtsmarkt-im-kirchenzentrum-duesseldorf-am-1-adventswochenende/Basar-Handzettel-2019-A5-1.png)
 
 ![](https://smh-gemeinden.de/user/pages/02.news/13.weihnachtsmarkt-im-kirchenzentrum-duesseldorf-am-1-adventswochenende/Bildschirmfoto%202019-11-05%20um%2013.23.21.png)
+
+Bitte klicken Sie [https://smh-gemeinden.de/user/pages/02.news/13.weihnachtsmarkt-im-kirchenzentrum-duesseldorf-am-1-adventswochenende/Basar%20Handzettel%202019%20A5.pdf](hier) um den Fleyer downzuloaden.
