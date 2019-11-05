@@ -8,7 +8,7 @@ rule:
 event:
 	start: 06-11-2019 18:30
 	end: 06-11-2019 20:00
-	location: 'St.-Michaels-Heim115 BismarckzimmerBismarkallee 2314193 BerlinDeutschland'
+	location: 'St.-Michaels-Heim, Bismarckzimmer, Bismarkallee 2314193 BerlinDeutschland'
 taxonomy:
 	category: ['Amtsträger']
 	tag: ['November 2019']
@@ -17,5 +17,5 @@ taxonomy:
 
 
 
-**Veranstaltungsort:** St.-Michaels-Heim115 BismarckzimmerBismarkallee 2314193 BerlinDeutschland
+**Veranstaltungsort:** St.-Michaels-Heim, Bismarckzimmer, Bismarkallee 2314193 BerlinDeutschland
 

@@ -10,13 +10,14 @@ event:
 	end: 13-02-2020 21:00
 	location: ''
 taxonomy:
-	category: ['']
+	category: ['Gruppen','Kinder']
 	tag: ['Februar 2020']
 
 ---
 In diesem Jahr wird erstmals ein Wochenende für Kinder im SMH unter dem Titel "Bärenlager" angeboten, die noch nicht zur JoKiWa fahren können.
 Termin: 19.6.-21.6.
 Zum ersten Planungstreffen sind alle Interessierten eingeladen, die dieses Wochenende mit Ideen und Inhalt füllen möchten.
+
 
 
 **Veranstaltungsort:** 
