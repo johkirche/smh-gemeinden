@@ -15,4 +15,4 @@ parallel zu unserem Weihnachtsmarkt im St.-Michaels-Heim lädt auch die Gemeinde
 
 ![](https://smh-gemeinden.de/user/pages/02.news/13.weihnachtsmarkt-im-kirchenzentrum-duesseldorf-am-1-adventswochenende/Bildschirmfoto%202019-11-05%20um%2013.23.21.png)
 
-Bitte klicken Sie [https://smh-gemeinden.de/user/pages/02.news/13.weihnachtsmarkt-im-kirchenzentrum-duesseldorf-am-1-adventswochenende/Basar%20Handzettel%202019%20A5.pdf](hier) um den Fleyer downzuloaden.
+Bitte klicken Sie [hier](https://smh-gemeinden.de/user/pages/02.news/13.weihnachtsmarkt-im-kirchenzentrum-duesseldorf-am-1-adventswochenende/Basar%20Handzettel%202019%20A5.pdf), um den Fleyer downzuloaden.
