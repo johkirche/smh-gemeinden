@@ -27,5 +27,3 @@ Für unseren Weihnachtsmarkt suchen wir noch Unterstützung. Bitte tragt euch in
 
 ## Herbstarbeitseinsatz
 Herzlichen Dank für all eure Unterstützung beim Herbstarbeitseinsatz.
-
-_Eure Gemeindeführer der St.-Michaels-Heim-Gemeinden_
