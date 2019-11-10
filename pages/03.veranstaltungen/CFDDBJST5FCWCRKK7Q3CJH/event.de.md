@@ -10,11 +10,12 @@ event:
 	end: 21-12-2019 17:00
 	location: 'SMH/Großer Saal'
 taxonomy:
-	category: ['']
+	category: ['Gruppen']
 	tag: ['Dezember 2019']
 
 ---
 Gemütliche Weihnachtsfeier für alle mit Gesang und Gebäck.
+
 
 
 **Veranstaltungsort:** SMH/Großer Saal

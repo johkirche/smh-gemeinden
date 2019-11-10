@@ -3,15 +3,15 @@ title: Sakrament der geistigen Heilung
 visible: true
 cache_enable: true
 #ics: 
-date: 08-11-19
+date: 10-11-20
 rule: 
 event:
-	start: 08-11-2019 17:30
-	end: 08-11-2019 18:30
+	start: 10-11-2020 17:30
+	end: 10-11-2020 18:30
 	location: 'Oberhauptszimmer (1. OG)'
 taxonomy:
 	category: ['Sakrament']
-	tag: ['November 2019']
+	tag: ['November 2020']
 
 ---
 Das Sakrament der geistigen Heilung oder auch Heilung durch Handauflegen ist ein Sakrament der Johannischen Kirche und wird als Kraftquelle für Körper, Seele und Geist gespendet. Es basiert auf der Lehre Jesu Christi. Das Sakrament der geistigen Heilung kann von der Johannischen Kirche allen Menschen gespendet werden, die darum bitten.

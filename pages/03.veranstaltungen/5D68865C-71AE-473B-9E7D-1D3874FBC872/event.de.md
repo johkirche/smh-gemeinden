@@ -1,5 +1,5 @@
 ---
-title: Arbeitseinsatz an der Gedänkstätte
+title: Arbeitseinsatz an der Gedenkstätte
 visible: true
 cache_enable: true
 #ics: 

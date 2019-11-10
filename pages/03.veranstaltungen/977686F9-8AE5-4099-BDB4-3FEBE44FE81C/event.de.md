@@ -14,7 +14,7 @@ taxonomy:
 	tag: ['November 2019']
 
 ---
-Einmal im Monat findet für Kinder im Anschluss an den Kindergottesdienst und den Religionsunterricht im St.-Michaels-Heim ein Freizeitangebot, der Kindernachmittag, statt. Am 17.11. backen wir Kekse und machen Winterbasteleien, z.B. Marmorieren wir Gefäße.
+Einmal im Monat findet für Kinder im Anschluss an den Kindergottesdienst und den Religionsunterricht im St.-Michaels-Heim ein Freizeitangebot, der Kindernachmittag, statt. Am 17.11. backen wir Kekse und machen Winterbasteleien, z.B. Marmorieren.
 
 
 
