@@ -5,8 +5,7 @@ publish_date: '10-11-2019 20:39'
 unpublish_date: '17-11-2019 11:00'
 ---
 
-## Abkündigung zum Gottesdienst am 10.11.2019
-##
+Abkündigung zum Sonntagsgottesdienst am 10.11.2019 und am Mittwochgottesdienst am 13.11.2019
 ## Neuberufungen
 Zum 1. November 2019 wurden der Gemeindeführer der Hauptgemeinde Berlin, Daniel Stolpe sowie Prediger Stefan Tzschentke von Oberhaupt Schwester Josephine in den Kirchenvorstand berufen. Wir wünschen beiden Gottes Segen für ihre Aufgaben.
 
