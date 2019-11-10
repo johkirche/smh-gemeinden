@@ -1,5 +1,6 @@
 ---
 title: 'Gottesdienst Ankündigungen'
+media_order: Logo-Kirche-breit.jpg
 date: '10-11-2019 20:39'
 publish_date: '10-11-2019 20:39'
 unpublish_date: '17-11-2019 11:00'
