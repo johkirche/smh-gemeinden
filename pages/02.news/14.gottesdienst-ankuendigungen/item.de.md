@@ -4,6 +4,7 @@ media_order: Logo.png
 date: '10-11-2019 20:39'
 publish_date: '10-11-2019 20:39'
 unpublish_date: '17-11-2019 11:00'
+show_sidebar: false
 ---
 
 **Abkündigung zum Sonntagsgottesdienst am 10.11.2019 und am Mittwochgottesdienst am 13.11.2019**
