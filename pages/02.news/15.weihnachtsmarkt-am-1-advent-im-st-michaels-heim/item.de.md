@@ -11,4 +11,4 @@ Die Johannische Kirche und das Johannsche Sozialwerk e.V. laden herzlich zum Wei
 
 ![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Bildschirmfoto%202019-11-11%20um%2020.15.55.png)
 
-Den Fleyer finden Sie für Ihren persönlichen Ausdruck [https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Plakat_Weihnachtsmarkt_2019.pdf](hier).
+Den Fleyer finden Sie für Ihren persönlichen Ausdruck [hier](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Plakat_Weihnachtsmarkt_2019.pdf).
