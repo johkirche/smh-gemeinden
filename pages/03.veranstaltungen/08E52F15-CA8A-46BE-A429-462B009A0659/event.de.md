@@ -8,7 +8,7 @@ rule:
 event:
 	start: 15-11-2019 17:30
 	end: 15-11-2019 18:30
-	location: 'Oberhauptszimmer (1. OG)'
+	location: '232 Oberhauptszimmer (2. OG)'
 taxonomy:
 	category: ['Sakrament']
 	tag: ['November 2019']
@@ -21,5 +21,5 @@ https://www.johannische-kirche.org/de/03_lebenshilfe/02_sakramente/sakrament_gei
 
 
 
-**Veranstaltungsort:** Oberhauptszimmer (1. OG)
+**Veranstaltungsort:** 232 Oberhauptszimmer (2. OG)
 

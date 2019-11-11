@@ -3,11 +3,11 @@ title: Sakrament der geistigen Heilung
 visible: true
 cache_enable: true
 #ics: 
-date: 12-11-19
+date: 22-11-19
 rule: 
 event:
-	start: 12-11-2019 17:30
-	end: 12-11-2019 18:30
+	start: 22-11-2019 17:30
+	end: 22-11-2019 18:30
 	location: '232 Oberhauptszimmer (2. OG)'
 taxonomy:
 	category: ['Sakrament']

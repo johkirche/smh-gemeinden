@@ -8,7 +8,7 @@ rule:
 event:
 	start: 16-11-2019 18:00
 	end: 16-11-2019 19:00
-	location: 'Kirche St.-MichaelsheimBismarkallee 23, 14193 Berlin Deutschland'
+	location: 'Kirche St.-Michaels-Heim, Bismarckallee 23, 14193 Berlin Deutschland'
 taxonomy:
 	category: Amtsträger
 	tag: ['November 2019']
@@ -18,5 +18,5 @@ Monatlich findet im Rahmen der Schule für Geisteswissenschaft eine Fortbildung 
 
 
 
-**Veranstaltungsort:** Kirche St.-MichaelsheimBismarkallee 23, 14193 Berlin Deutschland
+**Veranstaltungsort:** Kirche St.-Michaels-Heim, Bismarckallee 23, 14193 Berlin Deutschland
 
