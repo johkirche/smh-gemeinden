@@ -12,7 +12,7 @@ Wir spielten dann eine Art Parteienspiel, bei dem klar wurde, dass wir mehr erre
 Im Gemeindehaus in Elster hörten wir anschließend drei Re- ferate von Jugendleitern, die mir persönlich sehr nahe gingen und auch die eine oder andere Träne zum Fließen brachten. Vor allem die Worte: „In unserer Kirche entstehen immer mehr kleine Streitigkeiten, welche unsere Kirche und somit unser Zuhause zerstören“, blieben mir lange Zeit im Kopf, und meine Ge- danken schwirrten um Verbes- serungsmöglichkeiten für dieses Problem. Anschließend haben wir fröhliche Lieder mit Instru- mentalteilen gesungen, was un- sere Stimmung wieder hob.
 Am Abend gab es dann eine kleine Party mit Gesang, Tanz und Spiel, was uns alle ein wenig mehr zusammenschweißte.
 „Wenn wir jetzt nichts tun, wann dann, was, wenn es dann schon zu spät ist?“, mit dieser Frage in meinen Gedanken saß ich im Jugendgottesdienst am Sonntag, der sehr fröhlich und aktiv aufgebaut war. Der Chor war so freudig und motiviert, dass er allen ein Lächeln auf das Gesicht zauberte.
-„Vorwärts musst du wandern“, so heißt es in dem Lied, das wir zum Abschluss sangen. In die- sem Sinne möchte ich mich auch verabschieden und alle schon einmal zum Refofest im nächs- ten Jahr einladen!
+„Vorwärts musst du wandern“, so heißt es in dem Lied, das wir zum Abschluss sangen. In die- sem Sinne möchte ich mich auch verabschieden und alle schon einmal zum Refofest im nächsten Jahr einladen!
 
 Rund 60 johannische Jugendliche feierten das diesjährige Reformationsfest in Wittenberg.
 (Foto: mk)
