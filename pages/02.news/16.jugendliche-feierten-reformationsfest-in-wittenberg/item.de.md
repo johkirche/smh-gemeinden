@@ -28,6 +28,7 @@ Am Abend gab es dann eine kleine Party mit Gesang, Tanz und Spiel, was uns alle 
 „Vorwärts musst du wandern“, so heißt es in dem Lied, das wir zum Abschluss sangen. In die- sem Sinne möchte ich mich auch verabschieden und alle schon einmal zum Refofest im nächsten Jahr einladen!
 
 ![](https://smh-gemeinden.de/user/pages/02.news/16.jugendliche-feierten-reformationsfest-in-wittenberg/Bildschirmfoto%202019-11-12%20um%2014.10.17.png)
+
 Rund 60 johannische Jugendliche feierten das diesjährige Reformationsfest in Wittenberg.
 (Foto: mk)
 
