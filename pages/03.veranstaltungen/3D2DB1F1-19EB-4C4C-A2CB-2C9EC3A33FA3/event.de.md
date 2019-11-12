@@ -21,6 +21,8 @@ Nun heißen wir Sie alle Herzlich willkommen!
 Wir freuen uns und hoffen, dass Sie bei uns finden, was Ihnen gut tut: vielleicht etwas Schmuck für den Tannenbaum, Weihnachtsgebäck wie zu Großmutters Zeiten, kulturelle und kulinarische Genüsse, einen schönen Weihnachtsstern, Weihnachtsstimmung bei Gesang und Bläserklang...
 Wir danken Ihnen für Ihr Kommen und das, was Sie uns an Freude und Zeit schenken. Der Reinerlös dieses Weihnachtsmarktes kommt, wie in jedem Jahr, der Arbeit des Johannischen Sozialwerks e.V. und damit Kindern und Jugendlichen, kranken, behinderten und hilfsbedürftigen Menschen zugute.
 
+Weitere Informationen finden Sie unter https://smh-gemeinden.de/news/weihnachtsmarkt-am-1-advent-im-st-michaels-heim
+
 
 **Veranstaltungsort:** St.-Michaels-Heim
 Bismarkallee 23
