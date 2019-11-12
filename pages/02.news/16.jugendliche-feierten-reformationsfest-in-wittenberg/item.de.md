@@ -1,6 +1,9 @@
 ---
 title: 'Jugendliche feierten Reformationsfest in Wittenberg'
 media_order: 'Bildschirmfoto 2019-11-12 um 14.10.17.png'
+date: '12-11-2019 14:13'
+publish_date: '12-11-2019 14:13'
+unpublish_date: '02-12-2019 14:15'
 ---
 
 Am Freitag, dem 25. Oktober, war es wieder so weit: Etwa 60 johannische Jugendliche aus allen Ecken Deutschlands trafen sich in Wittenberg, um die Reformation als ein dreitägiges Seminar zu feiern.
