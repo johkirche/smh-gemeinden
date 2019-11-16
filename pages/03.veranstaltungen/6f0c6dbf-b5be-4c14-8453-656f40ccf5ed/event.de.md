@@ -10,10 +10,13 @@ event:
 	end: 12-12-2019 20:00
 	location: ''
 taxonomy:
-	category: ['']
+	category: ['Gruppen']
 	tag: ['Dezember 2019']
 
 ---
+Liebe Geschwister und Freunde,
+
+am Donnerstag, den 12. Dezember treffen wir uns, um gemeinsam unsere Weihnachtsfeier am Samstag vor dem 4. Advent zu planen. Jeder wird gebraucht! Bitte nehmt zahlreich an dem Treffen teil und wenn ihr nicht dabei sein könnt, leitet bitte eure Ideen im Vorfeld an eure Gemeindeleitung weiter.
 
 
 
