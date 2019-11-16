@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Bruder Günther Rakow'
+media_order: Webseitelogo.png
 date: '16-11-2019 20:43'
 publish_date: '16-11-2019 20:43'
 unpublish_date: '27-11-2019 23:59'
