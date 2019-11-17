@@ -15,6 +15,8 @@ Das Johannische Sozialwerk e.V. lädt, wie jedes Jahr, am 1. Adventswochenende z
 
 ![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/weihnachtsmarkt_smh_gemeinden.jpg)
 
+Programm:
+
 ![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Bildschirmfoto%202019-11-17%20um%2018.02.56.png)
 
 ![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Bildschirmfoto%202019-11-17%20um%2018.03.09.png)
