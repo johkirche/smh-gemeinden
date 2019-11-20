@@ -3,7 +3,7 @@ title: 'Weihnachtsmarkt im Kirchenzentrum Velten am 1. Advent'
 media_order: '319B041E-8DBB-458B-AB09-CAE962C44567.jpeg,IMG_6929.png,IMG_6930.png'
 date: '20-11-2019 19:25'
 publish_date: '20-11-2019 19:25'
-unpublish_date: '20-11-2019 12:00'
+unpublish_date: '02-01-2020 12:00'
 show_sidebar: false
 content:
     items:
