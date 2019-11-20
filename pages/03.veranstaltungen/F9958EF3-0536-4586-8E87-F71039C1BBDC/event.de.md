@@ -3,15 +3,15 @@ title: Morgengebet
 visible: true
 cache_enable: true
 #ics: 
-date: 18-11-19
+date: 20-11-20
 rule: 
 event:
-	start: 18-11-2019 08:00
-	end: 18-11-2019 08:15
+	start: 20-11-2020 08:00
+	end: 20-11-2020 08:15
 	location: 'Kirche'
 taxonomy:
 	category: ['Gottesdienst']
-	tag: ['November 2019']
+	tag: ['November 2020']
 
 ---
 Die Johannische Kirche lädt von Montag bis Freitag täglich um 8 Uhr zum gemeinsam gesprochenen Morgengebet in ihre Kirche im St.-Michaels-Heim ein. Wir sprechen gemeinsam das Vaterunser. Alle Geschwister, Freunde und Gäste sind immer herzlich willkommen.
