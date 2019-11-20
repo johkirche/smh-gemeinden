@@ -25,4 +25,4 @@ mit einem herzlichen Gott zum Gruß!
 
 ![](https://smh-gemeinden.de/user/pages/02.news/20.weihnachtsmarkt-im-kirchenzentrum-velten-am-1-advent/IMG_6930.png)
 
-Das Programm ist online und kann [hier](https://smh-gemeinden.de/user/pages/02.news/20.weihnachtsmarkt-im-kirchenzentrum-velten-am-1-advent/Velten_WM2019.pdf)heruntergeladen werden.
+Das Programm ist online und kann [hier](https://smh-gemeinden.de/user/pages/02.news/20.weihnachtsmarkt-im-kirchenzentrum-velten-am-1-advent/Velten_WM2019.pdf) heruntergeladen werden.
