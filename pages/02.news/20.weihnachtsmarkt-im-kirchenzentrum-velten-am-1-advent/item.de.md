@@ -21,7 +21,7 @@ am 1. advent findet parallel zu unserem Weihnachtsmarkt im St.-Michaels-Heim am 
 
 mit einem herzlichen Gott zum Gruß!
 
-![](http://https://smh-gemeinden.de/user/pages/02.news/20.weihnachtsmarkt-im-kirchenzentrum-velten-am-1-advent/IMG_6929.png)
+![](http://smh-gemeinden.de/user/pages/02.news/20.weihnachtsmarkt-im-kirchenzentrum-velten-am-1-advent/IMG_6929.png)
 
 ![](https://smh-gemeinden.de/user/pages/02.news/20.weihnachtsmarkt-im-kirchenzentrum-velten-am-1-advent/IMG_6930.png)
 
