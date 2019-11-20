@@ -6,14 +6,13 @@ publish_date: '20-11-2019 19:25'
 unpublish_date: '02-01-2020 12:00'
 show_sidebar: false
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 Liebe Geschwister, liebe freunde und liebe Gäste,
