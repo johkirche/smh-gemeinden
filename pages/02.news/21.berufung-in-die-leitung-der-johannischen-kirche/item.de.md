@@ -1,5 +1,6 @@
 ---
 title: 'Berufung in die Leitung der Johannischen Kirche'
+media_order: Webseitelogo.png
 published: true
 date: '23-11-2019 01:04'
 publish_date: '23-11-2019 01:04'
