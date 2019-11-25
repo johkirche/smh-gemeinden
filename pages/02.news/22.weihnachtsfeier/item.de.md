@@ -16,6 +16,7 @@ Alle, die gerne die Vorbereitung der Weihnachtsfeier unterstützen möchten wend
 Damit wir nicht zu viel oder zu wenig Tee usw. besorgen, möchten bitte alle, die teilnehmen möchten, bitte bis zum zweiten Advent (08.12.) ihren Gemeindeführer oder einen Gemeindehelfer informieren oder sich in die aushängende Liste im St.-Michaels-Heim eintragen. Sehr gerhe unterstützen wir auch z.B. bei der Organisation einer Mitfahrgelegenheit.
 
 Eine gesegnete Vorweihnachtszeit!
-Eure St.-Michaels-Heim Gemeinden
+
+Eurer Weihnachtsfeiervorbereitungsteam
 
 ![](https://smh-gemeinden.de/user/pages/02.news/22.weihnachtsfeier/Bildschirmfoto%202019-11-24%20um%2000.32.59.png)
