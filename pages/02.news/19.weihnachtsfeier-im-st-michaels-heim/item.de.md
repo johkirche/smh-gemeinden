@@ -1,6 +1,7 @@
 ---
 title: 'Weihnachtsfeier im St-Michaels-Heim'
 media_order: F465CA31-CD03-467D-BFD8-1B800100604A.jpeg
+published: false
 show_sidebar: false
 ---
 
