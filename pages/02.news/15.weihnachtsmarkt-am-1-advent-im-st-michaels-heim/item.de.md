@@ -1,6 +1,6 @@
 ---
 title: 'Weihnachtsmarkt im St.-Michaels-Heim am 1. Adventswochenende'
-media_order: 'weihnachtsmarkt_smh_gemeinden.jpg,Bildschirmfoto 2019-11-11 um 20.15.55.png,Plakat_Weihnachtsmarkt_2019.pdf,programm_2019.pdf,Bildschirmfoto 2019-11-17 um 18.02.56.png,Bildschirmfoto 2019-11-17 um 18.03.09.png'
+media_order: 'weihnachtsmarkt_smh_gemeinden.jpg,Bildschirmfoto 2019-11-11 um 20.15.55.png,Plakat_Weihnachtsmarkt_2019.pdf,programm_2019_web.pdf,Bildschirmfoto 2019-11-25 um 12.59.58.png,Bildschirmfoto 2019-11-25 um 13.00.17.png'
 date: '11-11-2019 20:11'
 publish_date: '11-11-2019 20:11'
 unpublish_date: '02-01-2020 12:00'
@@ -17,10 +17,10 @@ Das Johannische Sozialwerk e.V. lädt, wie jedes Jahr, am 1. Adventswochenende z
 
 Programm:
 
-![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Bildschirmfoto%202019-11-17%20um%2018.02.56.png)
+![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Bildschirmfoto%202019-11-25%20um%2012.59.58.png)
 
-![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Bildschirmfoto%202019-11-17%20um%2018.03.09.png)
+![](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Bildschirmfoto%202019-11-25%20um%2013.00.17.png)
 
 Den Flyer finden Sie für Ihren persönlichen Ausdruck [hier](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/Plakat_Weihnachtsmarkt_2019.pdf).
 
-Das Programm finden Sie [hier](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/programm_2019.pdf).
+Das Programm finden Sie [hier](https://smh-gemeinden.de/user/pages/02.news/15.weihnachtsmarkt-am-1-advent-im-st-michaels-heim/programm_2019_web.pdf).
