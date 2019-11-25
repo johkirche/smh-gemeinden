@@ -17,6 +17,6 @@ Damit wir nicht zu viel oder zu wenig Tee usw. besorgen, möchten bitte alle, di
 
 Eine gesegnete Vorweihnachtszeit!
 
-Eurer Weihnachtsfeiervorbereitungsteam
+Euer Weihnachtsfeiervorbereitungsteam
 
 ![](https://smh-gemeinden.de/user/pages/02.news/22.weihnachtsfeier/Bildschirmfoto%202019-11-24%20um%2000.32.59.png)
