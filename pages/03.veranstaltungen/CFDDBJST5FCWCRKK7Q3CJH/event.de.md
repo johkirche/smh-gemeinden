@@ -14,7 +14,7 @@ taxonomy:
 	tag: ['Dezember 2019']
 
 ---
-Gemütliche Weihnachtsfeier für alle mit Gesang und Gebäck.
+Gemütliche Weihnachtsfeier für alle mit Gesang und Gebäck. Weitere Informationen unter https://smh-gemeinden.de/news/weihnachtsfeier
 
 
 
