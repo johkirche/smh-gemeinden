@@ -1,9 +1,6 @@
 ---
 title: 'Weihnachtsfeier im St-Michaels-Heim'
 media_order: F465CA31-CD03-467D-BFD8-1B800100604A.jpeg
-date: '18-11-2019 14:17'
-publish_date: '18-11-2019 14:17'
-unpublish_date: '02-12-2019 23:59'
 show_sidebar: false
 ---
 
