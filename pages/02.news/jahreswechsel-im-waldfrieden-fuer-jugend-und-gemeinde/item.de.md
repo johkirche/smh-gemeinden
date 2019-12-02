@@ -7,4 +7,8 @@ unpublish_date: '01-01-2020 22:32'
 show_sidebar: false
 ---
 
-Die Joannische Jugend und mehrere Gemeinden laden gemeinsamen zu einen gemeinsamen Jahreswechsel mit Silvesterparty in den Waldfrieden ein. Weitere Informationen folgen.
+Liebe Gemeinde,
+
+zum diesjährigen Jahreswechsel lädt die Johannische Jugend alle Geschwister recht herzlich zu einer fröhlichen Party in die Kirche im Waldfrieden ein. Beginn ist um 19 Uhr. Wir möchten ein Buffet anbieten, weshalb wir alle bitten einen Buffetbeitrag mitzubringen. Getränke wird es vor Ort käuflich zu erwerben geben. Also packt gute Laune und euer Tanzbein ein! Wir sehen uns Silvester.
+
+Eure Jugend
