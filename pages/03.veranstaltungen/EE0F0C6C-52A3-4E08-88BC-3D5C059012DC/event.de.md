@@ -10,8 +10,8 @@ event:
 	end: 01-04-2020 00:00
 	location: ''
 taxonomy:
-	category: ['Kinder']
-	tag: ['März 2020']
+	kategorie: ['Kinder']
+	monat: ['März 2020']
 
 ---
 Die Fahrt der Johannischen Kinderwanderung findet vom 20.07. bis 31.07.2020 nach Wyk auf Föhr statt. Der Anmeldeschluss ist der 31. März 2020. Anmeldeformulare können unter www.johannisches-sozialwerk.de/kinder-und-jugend/johannische-kinderwanderung/ heruntergeladen werden.

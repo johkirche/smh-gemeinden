@@ -10,8 +10,8 @@ event:
 	end: 08-02-2020 19:00
 	location: 'Kirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['Amtsträger']
-	tag: ['Februar 2020']
+	kategorie: ['Amtsträger']
+	monat: ['Februar 2020']
 
 ---
 Monatlich findet im Rahmen der Schule für Geisteswissenschaft eine Fortbildung nur für Amtsträger der Johannischen Kirche statt.

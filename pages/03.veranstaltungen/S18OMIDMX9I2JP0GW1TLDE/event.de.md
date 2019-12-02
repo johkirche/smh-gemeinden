@@ -10,8 +10,8 @@ event:
 	end: 10-03-2020 20:00
 	location: 'SMH'
 taxonomy:
-	category: ['Amtsträger']
-	tag: ['März 2020']
+	kategorie: ['Amtsträger']
+	monat: ['März 2020']
 
 ---
 Die Amtsträger der Hauptgemeinde treffen sich zum regelmäßigen Austausch über Themen der Gemeindearbeit.

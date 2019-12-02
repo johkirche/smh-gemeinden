@@ -10,8 +10,8 @@ event:
 	end: 10-02-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Februar 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['Februar 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

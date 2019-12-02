@@ -10,8 +10,8 @@ event:
 	end: 16-02-2020 16:00
 	location: ''
 taxonomy:
-	category: ['Gruppen']
-	tag: ['Februar 2020']
+	kategorie: ['Gruppen']
+	monat: ['Februar 2020']
 
 ---
 Gemeinschaftssonntag im St.-Michaels-Heim:

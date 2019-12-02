@@ -10,8 +10,8 @@ event:
 	end: 22-08-2020 18:00
 	location: 'St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['Amtsträger']
-	tag: ['August 2020']
+	kategorie: ['Amtsträger']
+	monat: ['August 2020']
 
 ---
 Monatlich findet im St.-Michaels-Heim ein Arbeitstreffen aller Gemeindeführer der Johannischen Kirche statt.

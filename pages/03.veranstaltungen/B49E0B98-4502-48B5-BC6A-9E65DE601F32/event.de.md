@@ -10,8 +10,8 @@ event:
 	end: 27-01-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Januar 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['Januar 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

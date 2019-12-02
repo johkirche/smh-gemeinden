@@ -10,8 +10,8 @@ event:
 	end: 21-06-2020 11:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Juni 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['Juni 2020']
 
 ---
 Jeden Sonntag findet in unserer Kirche im St.-Michaels-Heim um 11 Uhr ein Gottesdienst statt. Vierzentägig lädt die Johannische Kirche außerdem zu einem parallel stattfindenden Kindergottesdiesnt ein. Geschwister, Freunde und Gäste sind immer herzlich eingeladen. 

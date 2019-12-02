@@ -10,8 +10,8 @@ event:
 	end: 30-03-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['März 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['März 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

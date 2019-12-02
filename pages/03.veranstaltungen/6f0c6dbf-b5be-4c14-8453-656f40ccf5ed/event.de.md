@@ -10,8 +10,8 @@ event:
 	end: 12-12-2019 20:00
 	location: ''
 taxonomy:
-	category: ['Gruppen']
-	tag: ['Dezember 2019']
+	kategorie: ['Gruppen']
+	monat: ['Dezember 2019']
 
 ---
 Liebe Geschwister und Freunde,

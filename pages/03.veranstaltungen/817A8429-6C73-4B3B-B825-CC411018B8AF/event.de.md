@@ -10,8 +10,8 @@ event:
 	end: 23-11-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['November 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['November 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

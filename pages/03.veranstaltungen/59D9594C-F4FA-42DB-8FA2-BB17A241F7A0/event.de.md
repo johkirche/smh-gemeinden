@@ -10,8 +10,8 @@ event:
 	end: 04-05-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Mai 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['Mai 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

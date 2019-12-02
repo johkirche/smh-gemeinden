@@ -10,8 +10,8 @@ event:
 	end: 07-06-2020 18:30
 	location: 'Bismarckallee 23, 14193 Berlin'
 taxonomy:
-	category: ['Gruppen','Konzerte']
-	tag: ['Juni 2020']
+	kategorie: ['Gruppen','Konzerte']
+	monat: ['Juni 2020']
 
 ---
 Rock - Pop - Weltmusik - und Klassik unter der Leitung von Shaul Bustan. Eintritt frei!

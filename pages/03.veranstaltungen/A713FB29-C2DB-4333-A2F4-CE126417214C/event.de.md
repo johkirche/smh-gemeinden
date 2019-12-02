@@ -10,8 +10,8 @@ event:
 	end: 04-10-2020 11:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Oktober 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['Oktober 2020']
 
 ---
 Im Rahmen des Gottesdienstes feiern wir heute Erntedank. Im Rahmen des Gottesdienstes werden gesegnete Feldfrüchte an die Gemeinde verteilt. Der Erntedankgottesdienst findet im Rahmen des regelmäßigen Sonntagsgottesdienst statt.

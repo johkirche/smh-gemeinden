@@ -10,8 +10,8 @@ event:
 	end: 07-12-2019 19:00
 	location: 'Johannes Kirchenzentrum Waldfrieden, Waldfrieden 52, 14959 Blankensee (nicht St,-Michaels-Heim)'
 taxonomy:
-	category: ['']
-	tag: ['Dezember 2019']
+	kategorie: ['']
+	monat: ['Dezember 2019']
 
 ---
 Herzlich willkommen, liebe Gäste und Besucher!

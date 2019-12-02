@@ -10,8 +10,8 @@ event:
 	end: 19-12-2019 20:30
 	location: 'Garagenhaus Friedensstadt'
 taxonomy:
-	category: ['Gruppen']
-	tag: ['Dezember 2019']
+	kategorie: ['Gruppen']
+	monat: ['Dezember 2019']
 
 ---
 Liebe Geschwister und liebe Freunde

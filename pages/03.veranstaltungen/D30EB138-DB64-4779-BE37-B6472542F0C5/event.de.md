@@ -10,8 +10,8 @@ event:
 	end: 04-10-2020 11:30
 	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['Gottesdienst','Kinder']
-	tag: ['Oktober 2020']
+	kategorie: ['Gottesdienst','Kinder']
+	monat: ['Oktober 2020']
 
 ---
 Im Rahmen des Kindergottesdienstes feiern wir heute Erntedank. Im Rahmen des Gottesdienstes werden gesegnete Feldfrüchte an die Gemeinde verteilt. Der Erntedankkindergottesdienst findet im Rahmen des regelmäßigen Kindergottesdienstes statt.

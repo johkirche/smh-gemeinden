@@ -10,8 +10,8 @@ event:
 	end: 01-06-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Juni 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['Juni 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

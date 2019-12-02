@@ -10,8 +10,8 @@ event:
 	end: 31-10-2020 18:00
 	location: 'Waldfrieden 52, 14959 Blankensee, Deutschland'
 taxonomy:
-	category: ['Amtsträger']
-	tag: ['Oktober 2020']
+	kategorie: ['Amtsträger']
+	monat: ['Oktober 2020']
 
 ---
 In diesem Jahr findet das Seminar für Religions- und Konfirmandenlehrer sowie den Erzieherkreis nicht im St.-Michaels-Heim, sondern in der Friedensstadt bzw. im Kirchenzentrum Waldfrieden statt. Wir wünschen euch von Herzen gesegnete Stunden in der Gemeinschaft und fruchtbringende Arbeitsergebnisse.

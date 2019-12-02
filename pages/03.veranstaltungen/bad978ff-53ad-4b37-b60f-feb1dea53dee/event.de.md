@@ -10,8 +10,8 @@ event:
 	end: 16-05-2020 17:00
 	location: ''
 taxonomy:
-	category: ['']
-	tag: ['Mai 2020']
+	kategorie: ['']
+	monat: ['Mai 2020']
 
 ---
 

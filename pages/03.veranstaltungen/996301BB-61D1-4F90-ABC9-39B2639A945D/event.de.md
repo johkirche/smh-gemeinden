@@ -10,8 +10,8 @@ event:
 	end: 29-08-2020 01:30
 	location: 'Jugendraum in der Sonne (Friedensstadt, nicht im St.-Michaels-Heim)'
 taxonomy:
-	category: ['Jugend']
-	tag: ['August 2020']
+	kategorie: ['Jugend']
+	monat: ['August 2020']
 
 ---
 Im Anschluss an den Jugendgottesdienst feiert die Jugend im Jugendraum in der Friedensstadt.

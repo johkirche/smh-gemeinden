@@ -10,8 +10,8 @@ event:
 	end: 23-12-2019 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Dezember 2019']
+	kategorie: ['Gottesdienst']
+	monat: ['Dezember 2019']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

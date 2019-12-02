@@ -10,8 +10,8 @@ event:
 	end: 15-12-2019 17:00
 	location: 'Kirche'
 taxonomy:
-	category: ['']
-	tag: ['Dezember 2019']
+	kategorie: ['']
+	monat: ['Dezember 2019']
 
 ---
 Liebe Gäste, Freunde und Geschwister,

@@ -10,8 +10,8 @@ event:
 	end: 26-10-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['Oktober 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['Oktober 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

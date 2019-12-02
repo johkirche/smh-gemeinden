@@ -10,8 +10,8 @@ event:
 	end: 24-08-2020 09:30
 	location: 'Waldfrieden 52 14959 Blankensee, Deutschland'
 taxonomy:
-	category: ['']
-	tag: ['August 2020']
+	kategorie: ['']
+	monat: ['August 2020']
 
 ---
 

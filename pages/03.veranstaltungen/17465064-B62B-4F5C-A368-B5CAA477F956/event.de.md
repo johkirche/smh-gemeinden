@@ -10,8 +10,8 @@ event:
 	end: 14-12-2019 18:00
 	location: 'Johannische Kirche, Waldfrieden 52, 14959 Blankensee'
 taxonomy:
-	category: ['']
-	tag: ['Dezember 2019']
+	kategorie: ['']
+	monat: ['Dezember 2019']
 
 ---
 Liebe Gäste, Freunde und Geschwister,

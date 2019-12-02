@@ -10,8 +10,8 @@ event:
 	end: 22-06-2020 00:00
 	location: ''
 taxonomy:
-	category: ['Kinder']
-	tag: ['Juni 2020']
+	kategorie: ['Kinder']
+	monat: ['Juni 2020']
 
 ---
 In diesem Jahr wird erstmals ein Wochenende für Kinder im SMH, die noch nicht zur JoKiWa fahren können, unter dem Titel "Bärenlager" angeboten.

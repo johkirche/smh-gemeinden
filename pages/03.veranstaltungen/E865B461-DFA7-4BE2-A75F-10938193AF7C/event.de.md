@@ -10,8 +10,8 @@ event:
 	end: 06-03-2020 18:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	category: ['']
-	tag: ['März 2020']
+	kategorie: ['']
+	monat: ['März 2020']
 
 ---
 

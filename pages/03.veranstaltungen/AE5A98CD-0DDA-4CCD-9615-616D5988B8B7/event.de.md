@@ -10,8 +10,8 @@ event:
 	end: 03-08-2020 13:15
 	location: ''
 taxonomy:
-	category: ['Gottesdienst']
-	tag: ['August 2020']
+	kategorie: ['Gottesdienst']
+	monat: ['August 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

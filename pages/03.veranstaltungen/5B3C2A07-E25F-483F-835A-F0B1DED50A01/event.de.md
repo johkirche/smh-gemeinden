@@ -10,8 +10,8 @@ event:
 	end: 07-12-2019 19:00
 	location: 'Kirchenzentrum Kaulsdorf, Dorfstraße 2, 12621 Berlin'
 taxonomy:
-	category: ['']
-	tag: ['Dezember 2019']
+	kategorie: ['']
+	monat: ['Dezember 2019']
 
 ---
 Liebe Geschwister, Freunde und Gäste,
