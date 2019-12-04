@@ -20,3 +20,4 @@ Mit einem herzlichen Gott zum Gruß!
 Vorstand der Johannischen Kirche
 
 ![](https://smh-gemeinden.de/user/pages/02.news/21.berufung-in-die-leitung-der-johannischen-kirche/Bildschirmfoto%202019-12-04%20um%2014.48.27.png)
+Daniel Stolpe (links) und Stefan Tzschentke (rechts)

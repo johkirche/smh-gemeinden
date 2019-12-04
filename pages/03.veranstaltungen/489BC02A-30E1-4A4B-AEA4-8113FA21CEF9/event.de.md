@@ -1,5 +1,5 @@
 ---
-title: Schwedenurlaub der Jugend
+title: Schwedenurlaub der Jugend (nicht St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 
@@ -8,7 +8,7 @@ rule:
 event:
 	start: 17-05-2020 11:00
 	end: 24-05-2020 20:00
-	location: 'Linneryd (nicht St.-Michaels-Heim)'
+	location: 'Linneryd'
 taxonomy:
 	kategorie: ['pdfviewer','Jugend']
 	monat: ['Mai 2020']
@@ -19,5 +19,5 @@ Du willst mit der Jugend endlich mal Urlaub im Ausland machen? Im Mai 2020 hast 
 Weitere Informationen auf https://cloud.johannische-kirche.org/index.php/s/g5rZ856FAX8DydR
 
 
-**Veranstaltungsort:** Linneryd (nicht St.-Michaels-Heim)
+**Veranstaltungsort:** Linneryd
 
