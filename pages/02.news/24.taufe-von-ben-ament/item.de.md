@@ -7,5 +7,5 @@ unpublish_date: '24-12-2019 23:59'
 show_sidebar: false
 ---
 
-Am **Sonntag, dem **15. Dezember 2019** wird in der **Gemeinde Gößweinstein Ben Ament** getauft.
+Am **Sonntag, dem 15. Dezember 2019** wird in der **Gemeinde Gößweinstein Ben Ament** getauft.
 Wir wollen den Lebensweg des Täuflings mit in unsere Gebete einschließen.
