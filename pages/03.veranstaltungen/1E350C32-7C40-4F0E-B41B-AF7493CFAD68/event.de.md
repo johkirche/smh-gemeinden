@@ -3,15 +3,15 @@ title: Friedensgebet
 visible: true
 cache_enable: true
 #ics: 
-date: 09-12-19
+date: 07-12-20
 rule: 
 event:
-	start: 09-12-2019 13:00
-	end: 09-12-2019 13:15
+	start: 07-12-2020 13:00
+	end: 07-12-2020 13:15
 	location: ''
 taxonomy:
 	kategorie: ['Gottesdienst']
-	monat: ['Dezember 2019']
+	monat: ['Dezember 2020']
 
 ---
 Liebe Geschwister, Freunde und Gäste,

@@ -1,5 +1,5 @@
 ---
-title: Gemeinschaftsabend (Weihnachtsfeier)
+title: Weihnachtlicher Gemeinschaftsabend
 visible: true
 cache_enable: true
 #ics: 

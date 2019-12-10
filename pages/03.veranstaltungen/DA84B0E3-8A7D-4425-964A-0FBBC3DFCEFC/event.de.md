@@ -3,15 +3,15 @@ title: Gottesdienst am 2. Advent
 visible: true
 cache_enable: true
 #ics: 
-date: 08-12-19
+date: 06-12-20
 rule: 
 event:
-	start: 08-12-2019 11:00
-	end: 08-12-2019 11:30
+	start: 06-12-2020 11:00
+	end: 06-12-2020 11:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gottesdienst']
-	monat: ['Dezember 2019']
+	monat: ['Dezember 2020']
 
 ---
 Jeden Sonntag findet in unserer Kirche im St.-Michaels-Heim um 11 Uhr ein Gottesdienst statt. Vierzentägig lädt die Johannische Kirche außerdem zu einem parallel stattfindenden Kindergottesdiesnt ein. Geschwister, Freunde und Gäste sind immer herzlich eingeladen. 
