@@ -2,6 +2,7 @@
 title: 'Heimgang von Kirchenoberhaupt Schwester Josephine Müller'
 publish_date: '31-12-2019 13:42'
 unpublish_date: '12-01-2020 23:00'
+show_sidebar: false
 ---
 
 Liebe Geschwister und Freunde!
