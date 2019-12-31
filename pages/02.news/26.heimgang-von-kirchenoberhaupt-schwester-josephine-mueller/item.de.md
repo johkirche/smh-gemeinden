@@ -14,5 +14,7 @@ Die **Abschiedsfeier** wird stattfinden am **Samstag, dem 11. Januar 2020, um 12
 Lasst uns Schwester Josephine innig in unsere Gebete einschließen.
 
 Mit einem herzlichen Gott zum Gruß!
+
 Daniel Stolpe, Stefan Tzschentke
+
 Leitung der Johannischen Kirche
