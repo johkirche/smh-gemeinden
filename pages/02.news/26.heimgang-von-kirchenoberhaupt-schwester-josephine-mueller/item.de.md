@@ -15,6 +15,4 @@ Lasst uns Schwester Josephine innig in unsere Gebete einschließen.
 
 Mit einem herzlichen Gott zum Gruß!
 
-Daniel Stolpe, Stefan Tzschentke
-
-Leitung der Johannischen Kirche
+Daniel Stolpe & Stefan Tzschentke (Leitung der Johannischen Kirche KdöR)
