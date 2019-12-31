@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Schwester Edith Gäsert'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 publish_date: '31-12-2019 13:27'
 unpublish_date: '08-01-2020 23:59'
 show_sidebar: false
