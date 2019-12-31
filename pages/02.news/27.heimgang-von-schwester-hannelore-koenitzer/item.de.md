@@ -1,0 +1,9 @@
+---
+title: 'Heimgang von Schwester Hannelore Könitzer'
+publish_date: '31-12-2019 16:50'
+unpublish_date: '08-01-2020 23:59'
+show_sidebar: false
+---
+
+Am **31. Dezember 2019** wurde unsere Schwester **Hannelore Könitzer** aus der **Gemeinde Jena** in die ewige Heimat abgerufen.
+Ort und Termin der Abschiedsfeier werden noch bekannt gegeben.
