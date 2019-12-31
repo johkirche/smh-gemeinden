@@ -7,11 +7,13 @@ show_sidebar: false
 
 Liebe Geschwister und Freunde!
 
+
 am **Montagabend, dem 30. Dezember 2019**, ist unser liebes **Oberhaupt Schwester Josephine Müler** vom Herrn in die Ewigkeit heimgerufen worden.
 
 Die **Abschiedsfeier** wird stattfinden am **Samstag, dem 11. Januar 2020, um 12 Uhr im Kirchenzentrum Waldfrieden**.
 
 Lasst uns Schwester Josephine innig in unsere Gebete einschließen.
+
 
 Mit einem herzlichen Gott zum Gruß!
 
