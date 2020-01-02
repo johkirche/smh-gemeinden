@@ -12,3 +12,4 @@ Um 17 Uhr findet für die Teilnehmer der Schule für Geisteswissenschaft eine Ge
 
  
 Mit einem herzlichen Gott zum Gruß!
+Johannische Kirche
