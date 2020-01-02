@@ -1,6 +1,6 @@
 ---
 title: 'Weihnachten in der Paketzentrale'
-media_order: 'Weihnachten in der Paketzentrale.pdf'
+media_order: 'Weihnachten in der Paketzentrale.pdf,Bildschirmfoto 2020-01-02 um 17.19.05.png'
 publish_date: '02-01-2020 17:16'
 unpublish_date: '05-01-2020 23:59'
 show_sidebar: false
