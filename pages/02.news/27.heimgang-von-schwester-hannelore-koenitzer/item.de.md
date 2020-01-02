@@ -7,4 +7,4 @@ show_sidebar: false
 ---
 
 Am **31. Dezember 2019** wurde unsere Schwester **Hannelore Könitzer** aus der **Gemeinde Jena** in die ewige Heimat abgerufen.
-Ort und Termin der Abschiedsfeier werden noch bekannt gegeben.
+Die Abschiedsfeier findet am Donnerstag, dem 9. Januar 2020 um 13:00 Uhr in **Daumitsch** statt.
