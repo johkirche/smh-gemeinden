@@ -8,7 +8,7 @@ rule:
 event:
 	start: 11-01-2020 14:30
 	end: 11-01-2020 17:00
-	location: 'Schule Friedensstadt'
+	location: 'Kinderkirche in der Schule in der Friedensstadt'
 taxonomy:
 	kategorie: ['Amtsträger']
 	monat: ['Januar 2020']
@@ -18,5 +18,5 @@ Monatlich findet im St.-Michaels-Heim ein Arbeitstreffen aller Gemeindeführer d
 
 
 
-**Veranstaltungsort:** Schule Friedensstadt
+**Veranstaltungsort:** Kinderkirche in der Schule in der Friedensstadt
 
