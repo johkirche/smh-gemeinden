@@ -1,5 +1,6 @@
 ---
 title: 'Unser Kirchenoberhaupt Schwester Josephine Müller ist heimgegangen'
+media_order: 'Webseitelogo.png,Josephine_Mueller_f.jpg'
 publish_date: '12-01-2020 12:43'
 unpublish_date: '27-01-2020 23:00'
 show_sidebar: false
