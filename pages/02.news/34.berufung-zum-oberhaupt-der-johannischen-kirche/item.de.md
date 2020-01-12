@@ -7,7 +7,6 @@ show_sidebar: false
 ---
 
 ![](https://smh-gemeinden.de/user/pages/02.news/21.berufung-in-die-leitung-der-johannischen-kirche/Bildschirmfoto%202019-12-04%20um%2014.48.27.png)
-
 Daniel Stople (links) & Stefan Tzschentke (rechts)
 
 _Liebe Geschwister und Freunde!_
