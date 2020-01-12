@@ -35,3 +35,7 @@ und Tat begleiten.
 _Mit einem herzlichen Gott zum Gruß!_
 
 _Vorstand der Johannischen Kirche_
+
+![](https://smh-gemeinden.de/user/pages/02.news/21.berufung-in-die-leitung-der-johannischen-kirche/Bildschirmfoto%202019-12-04%20um%2014.48.27.png)
+
+Daniel Stople (links) & Stefan Tzschentke (rechts)
