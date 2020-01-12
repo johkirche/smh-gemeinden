@@ -6,6 +6,10 @@ unpublish_date: '27-01-2020 23:59'
 show_sidebar: false
 ---
 
+![](https://smh-gemeinden.de/user/pages/02.news/21.berufung-in-die-leitung-der-johannischen-kirche/Bildschirmfoto%202019-12-04%20um%2014.48.27.png)
+
+Daniel Stople (links) & Stefan Tzschentke (rechts)
+
 _Liebe Geschwister und Freunde!_
 
 Am 13. Dezember 2019 wurde Bruder Stefan Tzschentke von
@@ -35,7 +39,3 @@ und Tat begleiten.
 _Mit einem herzlichen Gott zum Gruß!_
 
 _Vorstand der Johannischen Kirche_
-
-![](https://smh-gemeinden.de/user/pages/02.news/21.berufung-in-die-leitung-der-johannischen-kirche/Bildschirmfoto%202019-12-04%20um%2014.48.27.png)
-
-Daniel Stople (links) & Stefan Tzschentke (rechts)
