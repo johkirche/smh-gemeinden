@@ -32,6 +32,6 @@ ihr Amt. Möchten wir alle vertrauensvoll zu ihnen stehen und ihre
 Aufgaben im Werk unseres Meisters Joseph Weißenberg mit Gebet
 und Tat begleiten.
 
-Mit einem herzlichen Gott zum Gruß!
+_Mit einem herzlichen Gott zum Gruß!_
 
 _Vorstand der Johannischen Kirche_
