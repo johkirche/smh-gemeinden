@@ -1,5 +1,6 @@
 ---
 title: 'Berufung zum Oberhaupt der Johannischen Kirche'
+media_order: Webseitelogo.png
 publish_date: '12-01-2020 12:34'
 unpublish_date: '27-01-2020 23:59'
 show_sidebar: false
