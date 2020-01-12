@@ -32,4 +32,5 @@ Aufgaben im Werk unseres Meisters Joseph Weißenberg mit Gebet
 und Tat begleiten.
 
 Mit einem herzlichen Gott zum Gruß!
+
 Vorstand der Johannischen Kirche
