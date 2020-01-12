@@ -5,7 +5,7 @@ unpublish_date: '27-01-2020 23:59'
 show_sidebar: false
 ---
 
-Liebe Geschwister und Freunde!
+_Liebe Geschwister und Freunde!_
 
 Am 13. Dezember 2019 wurde Bruder Stefan Tzschentke von
 Schwester Josephine Müller entsprechend unserer Kirchenverfassung
@@ -33,4 +33,4 @@ und Tat begleiten.
 
 Mit einem herzlichen Gott zum Gruß!
 
-Vorstand der Johannischen Kirche
+_Vorstand der Johannischen Kirche_
