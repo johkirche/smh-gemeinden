@@ -16,6 +16,10 @@ taxonomy:
 ---
 Einmal im Monat findet für Kinder im Anschluss an den Kindergottesdienst und den Religionsunterricht im St.-Michaels-Heim ein Freizeitangebot, der Kindernachmittag, statt. Alle Kinder sind herzlich eingeladen.
 
+Am 26.1. werden zwei kreative Aktionen angeboten:
+1. Zinnfiguren giessen und
+2. Plastisches Malen mit 3D Effekten.
+
 
 
 **Veranstaltungsort:** Kinderkirche St.-Michaels-Heim
