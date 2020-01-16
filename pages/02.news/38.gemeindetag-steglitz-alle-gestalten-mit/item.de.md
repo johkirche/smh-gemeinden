@@ -7,8 +7,9 @@ show_sidebar: false
 ---
 
 Liebe Steglitzer und Freunde,
-wir möchten Euch gerne zu einem Treffen am
-Montag, den 10. Februar um 19 Uhr im Salon Mendelssohn
-einladen, um unseren kommenden Gemeindetag gemeinsam zu planen! Eure Gemeindehelfer/innen Steglitz
+
+wir möchten Euch gerne zu einem Treffen am **Montag, den 10. Februar um 19 Uhr** im **Salon Mendelssohn** einladen, um unseren kommenden Gemeindetag gemeinsam zu planen!
+
+Eure Gemeindehelfer/innen Steglitz
 
 ![](https://smh-gemeinden.de/user/pages/02.news/38.gemeindetag-steglitz-alle-gestalten-mit/Bildschirmfoto%202020-01-16%20um%2015.46.42.png)
