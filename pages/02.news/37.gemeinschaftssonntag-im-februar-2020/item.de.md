@@ -1,6 +1,5 @@
 ---
 title: 'Gemeinschaftssonntag im Februar 2020'
-media_order: st_michaels_heim.jpg
 publish_date: '16-01-2020 15:40'
 unpublish_date: '16-02-2020 23:59'
 show_sidebar: false
