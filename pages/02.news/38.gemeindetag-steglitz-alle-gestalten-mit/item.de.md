@@ -1,6 +1,6 @@
 ---
 title: 'Gemeindetag Steglitz: Alle gestalten mit'
-media_order: 'Bildschirmfoto 2020-01-16 um 15.50.44.png,Bildschirmfoto 2020-01-16 um 15.46.42.png'
+media_order: 'Bildschirmfoto 2020-01-16 um 15.46.42.png'
 publish_date: '16-01-2020 15:48'
 unpublish_date: '10-02-2020 23:59'
 show_sidebar: false
