@@ -1,6 +1,6 @@
 ---
 title: 'Bärenlager: Wer macht mit?'
-media_order: 'Bildschirmfoto 2020-01-16 um 15.56.32.png'
+media_order: 'Bildschirmfoto 2020-01-16 um 15.52.14.png,Bildschirmfoto 2020-01-16 um 15.56.32.png'
 publish_date: '16-01-2020 15:57'
 unpublish_date: '13-02-2020 23:59'
 show_sidebar: false
