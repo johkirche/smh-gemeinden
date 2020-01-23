@@ -3,15 +3,15 @@ title: Planungstreffen 100 Jahre Friedensstadt für alle (Friedensstadt, nicht i
 visible: true
 cache_enable: true
 #ics: 
-date: 22-01-20
+date: 14-02-20
 rule: 
 event:
-	start: 22-01-2020 19:00
-	end: 22-01-2020 20:30
-	location: 'Garagenhaus Friedensstadt'
+	start: 14-02-2020 19:00
+	end: 14-02-2020 20:30
+	location: 'Gemeinderaum Friedensstadt'
 taxonomy:
 	kategorie: ['Gruppen']
-	monat: ['Januar 2020']
+	monat: ['Februar 2020']
 
 ---
 Liebe Geschwister und liebe Freunde
@@ -27,5 +27,5 @@ Wer aus Zeitgründen oder auf Grund der Entfernung nicht dabei sein kann, aber I
 
 
 
-**Veranstaltungsort:** Garagenhaus Friedensstadt
+**Veranstaltungsort:** Gemeinderaum Friedensstadt
 

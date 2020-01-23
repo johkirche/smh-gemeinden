@@ -10,7 +10,7 @@ event:
 	end: 10-02-2020 20:30
 	location: 'SMH - Arbeit Bismarckallee 23 14193‎ Berlin Deutschland'
 taxonomy:
-	kategorie: ['']
+	kategorie: ['Gruppen']
 	monat: ['Februar 2020']
 
 ---
@@ -21,6 +21,7 @@ Am 14.6. ist der Gemeindetag der Gemeinde Steglitz. Diesen wunderschönen Tag m�
 Wir freuen uns auf euch!
 
 Eure Steglitzer Gemeindehelferinnen und Gemeindehelfer
+
 
 
 **Veranstaltungsort:** SMH - Arbeit
