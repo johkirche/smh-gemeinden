@@ -6,4 +6,4 @@ unpublish_date: '09-02-2020 23:45'
 show_sidebar: false
 ---
 
-Am **Sonntag, dem 2. Februar 2020** werden **Alma und Ina Tzschacksch** in der **Urgemeinde** getauft. Wir wollen den Lebensweg des Täuflinge mit in unsere Gebete einschließen.
+Am **Sonntag, dem 2. Februar 2020** werden **Alma und Ina Tzschacksch** in der **Urgemeinde** getauft. Wir wollen die Lebenswege der Täuflinge mit in unsere Gebete einschließen.
