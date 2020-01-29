@@ -1,5 +1,6 @@
 ---
 title: 'Taufe von Alma und Ina Tzschacksch'
+media_order: urgemeinde_kirchentag.jpg
 publish_date: '29-01-2020 09:51'
 unpublish_date: '09-02-2020 23:45'
 show_sidebar: false
