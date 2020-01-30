@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Hans-Joachim Vogel'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '30-01-2020 12:19'
 publish_date: '30-01-2020 12:19'
 unpublish_date: '09-02-2020 23:59'
