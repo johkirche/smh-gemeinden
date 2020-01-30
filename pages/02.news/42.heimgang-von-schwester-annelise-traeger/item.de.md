@@ -6,4 +6,4 @@ unpublish_date: '09-02-2020 23:59'
 show_sidebar: false
 ---
 
-Am **24. Januar 2020** wurde unsere Schwester **Anneliese Träger** aus der **Urgemeinde** in die ewige Heimat abgerufen. Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+Am **24. Januar 2020** wurde unsere Schwester **Anneliese Träger** aus der **Urgemeinde** in die ewige Heimat abgerufen. Die Abschiedsfeier findet am **7. Februar um 14 Uhr** auf dem Johannischen Friedhof in Glau statt.
