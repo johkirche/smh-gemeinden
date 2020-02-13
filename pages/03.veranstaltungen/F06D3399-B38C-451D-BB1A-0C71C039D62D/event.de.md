@@ -3,11 +3,11 @@ title: Religionsunterricht
 visible: true
 cache_enable: true
 #ics: 
-date: 14-06-20
+date: 21-06-20
 rule: 
 event:
-	start: 14-06-2020 12:00
-	end: 14-06-2020 12:45
+	start: 21-06-2020 12:00
+	end: 21-06-2020 12:45
 	location: 'KiTa'
 taxonomy:
 	kategorie: ['Kinder']

@@ -3,11 +3,11 @@ title: Kindernachmittag
 visible: true
 cache_enable: true
 #ics: 
-date: 14-06-20
+date: 21-06-20
 rule: 
 event:
-	start: 14-06-2020 13:00
-	end: 14-06-2020 15:00
+	start: 21-06-2020 13:00
+	end: 21-06-2020 15:00
 	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Kinder']
