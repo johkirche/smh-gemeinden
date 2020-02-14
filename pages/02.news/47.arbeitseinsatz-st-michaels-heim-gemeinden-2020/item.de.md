@@ -3,7 +3,6 @@ title: 'Arbeitseinsatz St.-Michaels-Heim-Gemeinden 2020'
 date: '14-02-2020 12:31'
 publish_date: '14-02-2020 12:31'
 unpublish_date: '29-02-2020 23:59'
-show_sidebar: false
 ---
 
 Frühjahrsputz tut not – nicht nur im Haus, sondern auch im Garten ...
