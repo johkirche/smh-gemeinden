@@ -3,20 +3,20 @@ title: Planungstreffen 100 Jahre Friedensstadt für alle (Friedensstadt, nicht i
 visible: true
 cache_enable: true
 #ics: 
-date: 14-02-20
+date: 25-03-20
 rule: 
 event:
-	start: 14-02-2020 19:00
-	end: 14-02-2020 20:30
-	location: 'Gemeinderaum Friedensstadt'
+	start: 25-03-2020 19:00
+	end: 25-03-2020 20:00
+	location: 'Mehrzweckraum in der Schule in der Friedensstadt'
 taxonomy:
 	kategorie: ['Gruppen']
-	monat: ['Februar 2020']
+	monat: ['März 2020']
 
 ---
 Liebe Geschwister und liebe Freunde
  
-wir laden euch herzlich zu einem weiteren Planungstreffen zum Thema "100 Jahre Friedensstadt" am Mittwoch, den 22.01., ein.
+wir laden euch herzlich zu einem weiteren Planungstreffen zum Thema "100 Jahre Friedensstadt" am Mittwoch, den 25.03., ein.
 Wir treffen uns um 19 Uhr (bis ca. 20:30 Uhr) im Besprechungsraum im Garagenhaus der Friedensstadt (nicht im St.-Michaels-Him).
  
 Ziel des Treffens ist die Sammlung und die gemeinsame Umsetzung von Ideen, wie dieses Jubiläum in der Kirchentagswoche und im restlichen Jahr 2020 ausgestaltet werden könnte.
@@ -27,5 +27,5 @@ Wer aus Zeitgründen oder auf Grund der Entfernung nicht dabei sein kann, aber I
 
 
 
-**Veranstaltungsort:** Gemeinderaum Friedensstadt
+**Veranstaltungsort:** Mehrzweckraum in der Schule in der Friedensstadt
 
