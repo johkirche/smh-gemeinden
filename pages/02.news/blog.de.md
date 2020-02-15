@@ -1,5 +1,4 @@
 ---
-show_sidebar: true
 content:
     items:
         - '@self.children'
