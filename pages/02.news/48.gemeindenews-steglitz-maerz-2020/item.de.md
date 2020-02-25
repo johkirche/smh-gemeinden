@@ -1,6 +1,6 @@
 ---
 title: 'Gemeindenews Steglitz März 2020'
-media_order: Webseitelogo.png
+media_order: 'Webseitelogo.png,Bildschirmfoto 2020-02-25 um 23.07.57.png'
 date: '25-02-2020 23:06'
 publish_date: '25-02-2020 23:06'
 unpublish_date: '01-04-2020 23:59'
@@ -19,3 +19,5 @@ Euch allen viel Freude beim Lesen!
 Mit einem herzlichen Gott zum Gruß,
 
 Eure Steglitzer Gemeindehelfer
+
+![](https://smh-gemeinden.de/user/pages/02.news/48.gemeindenews-steglitz-maerz-2020/Bildschirmfoto%202020-02-25%20um%2023.07.57.png)
