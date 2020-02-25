@@ -20,4 +20,4 @@ Mit einem herzlichen Gott zum Gruß,
 
 Eure Steglitzer Gemeindehelfer
 
-![](https://smh-gemeinden.de/user/pages/02.news/48.gemeindenews-steglitz-maerz-2020/Bildschirmfoto%202020-02-25%20um%2023.07.57.png)
+Link: [![](https://smh-gemeinden.de/user/pages/02.news/48.gemeindenews-steglitz-maerz-2020/Bildschirmfoto%202020-02-25%20um%2023.07.57.png)](https://cloud.johannische-kirche.org/index.php/s/ge9sM29KepsB9SQ)
