@@ -1,9 +1,9 @@
 ---
 title: 'Gemeindenews Steglitz März 2020'
+media_order: Webseitelogo.png
 date: '25-02-2020 23:06'
 publish_date: '25-02-2020 23:06'
 unpublish_date: '01-04-2020 23:59'
-show_sidebar: false
 ---
 
 Liebe Freunde und liebe Geschwister,
