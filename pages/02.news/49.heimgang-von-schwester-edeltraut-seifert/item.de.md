@@ -3,6 +3,7 @@ title: 'Heimgang von Schwester Edeltraut Seifert'
 date: '05-03-2020 12:48'
 publish_date: '05-03-2020 12:48'
 unpublish_date: '18-03-2020 23:59'
+show_sidebar: false
 ---
 
 Liebe Geschwister und Freunde,
