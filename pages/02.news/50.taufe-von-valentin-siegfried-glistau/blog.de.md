@@ -15,5 +15,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-Am **Sonntag, dem 29. März 2020** um 11 Uhr wird **Valentin Siegfried Glistau** in der **Gemeinde Quedlinburg** getauft.
-Wir wollen den Lebensweg des Täuflings in unsere Gebete mit einschließen.
+Test
