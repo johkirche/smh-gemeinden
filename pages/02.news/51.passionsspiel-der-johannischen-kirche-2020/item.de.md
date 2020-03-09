@@ -1,6 +1,6 @@
 ---
 title: 'Passionsspiel der Johannischen Kirche 2020'
-show_sidebar: false
+media_order: Passion_Titelbild.jpg
 ---
 
 **"So nehmt ihn hin!"** ist der Titel des Passionsspiels der Johannischen Kirche, welches zum kommenden Osterfest nach fünfjähriger Pause wieder auf die Büne kommt. Der Vorverkauf der Karten für das Passionspiel 2020 hat begonnen. Karten sind in den Gemeinden – so auch im St.-Michaels-Heim – nach dem Gottesdiesnten erhältlich oder können [online](https://pretix.eu/jk/passion/) gekauft werden.
