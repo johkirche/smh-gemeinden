@@ -21,5 +21,5 @@ Die Adresse lautet: **Waldfrieden 52, in 14969 Blankensee**
 
 Die Laienspieler, die sich seit Monaten mit ihren Proben vorbereiten, bringen sehr lebendig und eindrucksvoll das menschlich schwer fassbare Ostergeschehen in guten zwei Stunden nahe. Jesus wird nicht dargestellt, sein Schicksal wird in Dialogen, die auf Bibeltexten basieren, wiedergegeben. Das wird durch eine auf den Inhalt der Szene einfühlsam abgestimmte Beleuchtung unterstrichen, aber vor allem durch die stimmungsvolle, beeindruckende Musik von Willy Stutte – vom johannischen Chor mit Gemeindechören, der Orgel und dem Orchester umgesetzt. Auf diese Weise kann der Zuschauer berührt werden, um nachzuvollziehen, was sich an menschlichen Empfindungen und inneren Auseinandersetzungen in diesem Geschehen um Jesu Leidensweg und Liebestat abgespielt hat.
 
-![](http://)
+![](https://smh-gemeinden.de/user/pages/02.news/51.passionsspiel-der-johannischen-kirche-2020/Passion_Titelbild.jpg)
 
