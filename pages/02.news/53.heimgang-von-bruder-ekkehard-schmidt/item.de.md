@@ -1,5 +1,5 @@
 ---
-title: 'Heimgang von Bruder Ekkehard Schmidt'
+title: 'Heimgang von Ekkehard Schmidt'
 media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '11-03-2020 15:02'
 publish_date: '11-03-2020 15:02'
