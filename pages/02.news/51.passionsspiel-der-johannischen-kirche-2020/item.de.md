@@ -1,10 +1,9 @@
 ---
 title: 'So nehmt ihn hin! Passionsspiel der Johannischen Kirche, Ostern 2020'
-media_order: Passion_Titelbild.jpg
+media_order: 'Passion_Titelbild.jpg,A4_Plakat_passion2020_verteilung.pdf,Bildschirmfoto 2020-03-11 um 09.42.18.png'
 date: '09-03-2020 22:42'
 publish_date: '09-03-2020 22:42'
 unpublish_date: '14-04-2020 00:00'
-show_sidebar: false
 ---
 
 Fünf Jahre nach der letzten Aufführung zeigt die Johannische Kirche in der diesjährigen Karwoche wieder ihr **Passionsspiel „So nehmt ihn hin!“**, das den Leidensweg Jesu Christi als Bühnenstück darstellt. Es hat seine eigene, unverwechselbare Handschrift. Sechs Teile umfasst das Zwei-Stunden-Werk aus der Feder von Gerhard Moll und Willy Stutte (1898-1973), der auch die Musik – ein meisterhaft komponiertes Werk für Doppelchor, Bläser und Orgel – schrieb. 
@@ -25,4 +24,6 @@ Die Laienspieler, die sich seit Monaten mit ihren Proben vorbereiten, bringen se
 Der Vorverkauf der Karten für das Passionspiel 2020 hat begonnen. Karten sind in den Gemeinden der Johannischen Kirche – so auch im St.-Michaels-Heim – nach dem Gottesdiesnten erhältlich oder können [online](https://pretix.eu/jk/passion/) gekauft werden.
 
 ![](https://smh-gemeinden.de/user/pages/02.news/51.passionsspiel-der-johannischen-kirche-2020/Passion_Titelbild.jpg)
+
+![](https://smh-gemeinden.de/user/pages/02.news/51.passionsspiel-der-johannischen-kirche-2020/Bildschirmfoto%202020-03-11%20um%2009.42.18.png)
 
