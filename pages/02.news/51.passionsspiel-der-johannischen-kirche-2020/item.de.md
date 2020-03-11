@@ -4,6 +4,7 @@ media_order: 'Passion_Titelbild.jpg,A4_Plakat_passion2020_verteilung.pdf,Bildsch
 date: '09-03-2020 22:42'
 publish_date: '09-03-2020 22:42'
 unpublish_date: '14-04-2020 00:00'
+show_sidebar: false
 ---
 
 Fünf Jahre nach der letzten Aufführung zeigt die Johannische Kirche in der diesjährigen Karwoche wieder ihr **Passionsspiel „So nehmt ihn hin!“**, das den Leidensweg Jesu Christi als Bühnenstück darstellt. Es hat seine eigene, unverwechselbare Handschrift. Sechs Teile umfasst das Zwei-Stunden-Werk aus der Feder von Gerhard Moll und Willy Stutte (1898-1973), der auch die Musik – ein meisterhaft komponiertes Werk für Doppelchor, Bläser und Orgel – schrieb. 
