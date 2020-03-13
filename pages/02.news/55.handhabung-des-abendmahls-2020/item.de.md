@@ -4,6 +4,7 @@ media_order: 'worship-2964803_1920.jpg,Webseitelogo.png'
 date: '13-03-2020 14:10'
 publish_date: '13-03-2020 14:11'
 unpublish_date: '10-04-2020 23:59'
+show_sidebar: false
 ---
 
 ## Worte als Ausrichtung hin zum Abendmahl
@@ -20,7 +21,3 @@ Wir wünschen allen Geschwistern eine gesegnete Passionszeit, in der wir mutig, 
 Mit einem herzlichen Gott zum Gruß!
 
 Eure Geschwister des Kirchenvorstandes
-
-![](http://smh-gemeinden.de/user/pages/02.news/55.handhabung-des-abendmahls-2020/Webseitelogo.png)
-
-![](https://smh-gemeinden.de/user/pages/02.news/55.handhabung-des-abendmahls-2020/worship-2964803_1920.jpg)
