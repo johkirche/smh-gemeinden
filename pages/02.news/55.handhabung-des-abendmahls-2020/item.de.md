@@ -1,9 +1,12 @@
 ---
 title: 'Handhabung des Abendmahls 2020'
+media_order: 'worship-2964803_1920.jpg,Webseitelogo.png'
 date: '13-03-2020 14:10'
 publish_date: '13-03-2020 14:11'
 unpublish_date: '10-04-2020 23:59'
 ---
+
+![](https://smh-gemeinden.de/user/pages/02.news/55.handhabung-des-abendmahls-2020/Webseitelogo.png)
 
 ## Worte als Ausrichtung hin zum Abendmahl
 Das heilige Abendmahl richtet in euch eine Verbrüderung, ein Sinnbild der ewigen Liebe auf. Indem ihr miteinander das Abendmahl genießt, sollen die Schatten der Finsternis weichen. Das Abendmahl rüttelt euch auf und zeigt euch, was noch vergänglich und schädlich ist und wie ihr werden müsst, um frei zu sein für die Tat. Das Wort Liebe ist keine Liebe. Eine stille Tat, ein Händedruck werden zur leuchtenden Liebe. Ein freier Blick für den anderen führt über Golgatha hinweg und baut Brücken. (Drittes Testament)
@@ -19,3 +22,5 @@ Wir wünschen allen Geschwistern eine gesegnete Passionszeit, in der wir mutig, 
 Mit einem herzlichen Gott zum Gruß!
 
 Eure Geschwister des Kirchenvorstandes
+
+![](http://https://smh-gemeinden.de/user/pages/02.news/55.handhabung-des-abendmahls-2020/worship-2964803_1920.jpg)
