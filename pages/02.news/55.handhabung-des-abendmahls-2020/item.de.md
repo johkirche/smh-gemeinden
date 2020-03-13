@@ -21,4 +21,6 @@ Mit einem herzlichen Gott zum Gruß!
 
 Eure Geschwister des Kirchenvorstandes
 
+![](http://smh-gemeinden.de/user/pages/02.news/55.handhabung-des-abendmahls-2020/Webseitelogo.png)
+
 ![](https://smh-gemeinden.de/user/pages/02.news/55.handhabung-des-abendmahls-2020/worship-2964803_1920.jpg)
