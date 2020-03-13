@@ -3,7 +3,6 @@ title: 'Handhabung des Abendmahls 2020'
 date: '13-03-2020 14:10'
 publish_date: '13-03-2020 14:11'
 unpublish_date: '10-04-2020 23:59'
-show_sidebar: false
 ---
 
 ## Worte als Ausrichtung hin zum Abendmahl
@@ -18,4 +17,5 @@ Wer sich darüber hinaus gesundheitlich nicht in der Lage sieht am Abend- mahl t
 Wir wünschen allen Geschwistern eine gesegnete Passionszeit, in der wir mutig, vertrauensvoll und zuversichtlich auf den Heiland zugehen wollen.
 
 Mit einem herzlichen Gott zum Gruß!
+
 Eure Geschwister des Kirchenvorstandes
