@@ -1,5 +1,6 @@
 ---
 title: 'Eingeschränkter Gottesdienst am Sonntag in Berlin'
+published: true
 date: '14-03-2020 15:39'
 publish_date: '14-03-2020 15:39'
 unpublish_date: '07-06-2020 18:00'
