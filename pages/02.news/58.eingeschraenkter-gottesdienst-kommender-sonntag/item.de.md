@@ -23,6 +23,8 @@ Waldfrieden: Konferenznummer: 92885# – PIN: 24081855#
 
 Das Sakrament der geistigen Heilung wird von einigen Missionshelfern für alle Geschwister, die das Bedürfnis nach einem Sakrament verspüren, angeboten und stehen als Seelsorger für Gespräche zur Verfügung.
 
+**Diese Regelung gilt vorerst nur für den kommenden Sonntagsgottesdienst. Weitere Informationen folgen in der nächsten Woche.**
+
 Bitte schließt weiterhin alle Kranken sowie alle Helfende mit in eure Gebete ein.
 
 Ein herzliches Gott zum Gruß!
