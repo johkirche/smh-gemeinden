@@ -1,5 +1,5 @@
 ---
-title: 'Bitte um die Frühjahrsspende 2021'
+title: 'Eingeschränkter Gottesdienst am kommenden Sonntag'
 media_order: Webseitelogo.png
 date: '14-03-2020 15:39'
 publish_date: '14-03-2020 15:39'
@@ -7,20 +7,18 @@ unpublish_date: '07-06-2020 18:00'
 show_sidebar: false
 ---
 
-Liebe Geschwister und liebe Freunde,
+Liebe Berliner,   
+auf Grund der Verordnung des Senats von Berlin von heute dürfen keine Veranstaltungen über 50 Personen mehr durchgeführt werden: [https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/pressemitteilung.906892.php](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/pressemitteilung.906892.php)
 
-überall in unserer Umgebung sehen wir, wie Kraft Gottes die Natur auch in diesem Jahr weiter wachsen lässt. So können wir darauf vertrauen und hoffen, dass seine Kraft und Liebe uns berührt und ebenso wachsen lässt. Wir sehen in unseren Gemeinden, wie hier Neubeginn und Aufbruchsstimmung weiter zunehmen dürfen.
-
-Mit diesem Schwung lasst uns gemeinsam erfühlen, wohin uns  Gottes Wege führen möchten und was wir selber dazutun können in Gebet und Arbeit. Auf diesen Wegen wollen wir unseren Nächsten mitnehmen und Bestehendes in dem uns schon Anvertrauten bewahren, erneuern und bei seiner Entwicklung unterstützen:
-
-Wir feiern in diesem Jahr gemeinsam 100 Jahre Friedensstadt unter dem Leitwort „Zur Ehre Gottes“. Deshalb möchten wir uns unter anderem intensiv um Instandhaltungs- und Erneuerungsarbeiten im Waldfrieden, beispielsweise an der WC-Anlage kümmern. Weiterhin möchten wir im St.-Michaels-Heim die Stühle in der Kirche „aufpolieren“.  Auf Gut Schönhof möchten wir, aufbauend auf dem Bestehenden, zum Beispiel mit dem neuen Vorstand von „Natürlich Lernen e.V.“ Bewährtes aufnehmen und Neues ausprobieren. Auch die Arbeit in den anderen Gemeindezentren wird viele von uns in dieser Aufbruchzeit fordern, aber fröhlich zueinander führen.
-
-Neben aller Arbeit in Tat und Gebet hilft so mancher Euro beim Bewahren, Erneuern und Wachsen. Deshalb ruft die Johannische Kirche euch, liebe Geschwister und Freunde, zur diesjährigen Frühjahrsspende auf. Möchten das Gebet, die Arbeit  und die mit Liebe gegebenen Spenden im liebevollen Sinn wirksam eingesetzt und zum Wachstum beitragen dürfen.
-
-Vielen Dank und ein herzlich Gott zum Gruß!
-
-JOHANNISCHE KIRCHE
-
-*********************************************************************************
-
-Die Spende kann bis zum Pfingstfest 2020 auf das Spendenkonto der Kirche IBAN: DE61 1002 0500 0003 0144 01 mit dem Stichwort „Frühjahrsspende 2020“ überwiesen oder bei den Gemeindekassierern eingezahlt werden.
+_„Der Berliner Senat hat heute beschlossen, dass in Berlin ab sofort alle öffentlichen und nichtöffentlichen Veranstaltungen ab 50 Teilnehmern untersagt sind.
+Für öffentliche und nichtöffentliche Veranstaltungen bis 50 Personen muss der Veranstalter eine Anwesenheitsliste führen, die Name, Adresse, Anschrift und Telefonnummer enthält. Diese Liste muss mindestens vier Wochen aufbewahrt werden und auf Verlangen des Gesundheitsamtes vollständig ausgehändigt werden.“_   
+   
+Aus diesem Grund kann der Gottesdienst im SMH (und Kaulsdorf) nicht wie gewohnt stattfinden.   
+Stefan und ich empfehlen, dass der Gottesdienst im SMH nur mit Gemeindeführer, Prediger, Organist und einigen wenigen Teilnehmern (die nicht rechtzeitig informiert werden konnten und ins SMH gefahren sind) durchgeführt wird, um eine Telefonübertragung zu ermöglichen. Somit können alle anderen Geschwister sich einwählen und den Gottesdienst zu Hause, in der Familie oder in Kleingruppen am Telefon erleben.   
+Sakrament der geistigen Heilung sollte von einigen Missionshelfern angeboten werden für alle Geschwister, die das Bedürfnis nach einem Sakrament verspüren und deshalb ins SMH gekommen sind. Auch damit Seelsorger für Gespräche vor Ort sind.   
+   
+Bitte informiert eure Gemeinden (per Mail, WhatsApp, Telefon) über diese neue Situation. Die Gemeindeführer sind für die Koordination verantwortlich.   
+   
+Mit einem herzlichen Gott zum Gruß aus dem Zug nach Hannover!   
+   
+Stefan und Daniel
