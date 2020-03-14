@@ -17,7 +17,7 @@ Aus diesem Grund kann der Gottesdienst im SMH (und Kaulsdorf) nicht wie gewohnt 
 Stefan und ich empfehlen, dass der Gottesdienst im SMH nur mit Gemeindeführer, Prediger, Organist und einigen wenigen Teilnehmern (die nicht rechtzeitig informiert werden konnten und ins SMH gefahren sind) durchgeführt wird, um eine Telefonübertragung zu ermöglichen. Somit können alle anderen Geschwister sich einwählen und den Gottesdienst zu Hause, in der Familie oder in Kleingruppen am Telefon erleben.   
 Sakrament der geistigen Heilung sollte von einigen Missionshelfern angeboten werden für alle Geschwister, die das Bedürfnis nach einem Sakrament verspüren und deshalb ins SMH gekommen sind. Auch damit Seelsorger für Gespräche vor Ort sind.   
    
-Bitte informiert eure Gemeinden (per Mail, WhatsApp, Telefon) über diese neue Situation. Die Gemeindeführer sind für die Koordination verantwortlich.   
+**Diese Regelung gilt vorerst nur für den kommenden Sonntagsgottesdienst. Weitere Informationen folgen in der nächsten Woche.**   
    
 Mit einem herzlichen Gott zum Gruß aus dem Zug nach Hannover!   
    
