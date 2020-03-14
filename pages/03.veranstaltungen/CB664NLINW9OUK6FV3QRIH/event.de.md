@@ -16,7 +16,7 @@ taxonomy:
 ---
 Im Anschluss an unseren Mittwochsgottesdienst laden die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein in den Jugendraum ein. 
 
-Das Thema wird noch bekanntgegeben.
+Christine Werner und Karl-heinz Häder bieten an, zu dem Thema "Das Sakrament des Abendmahls" ins Gespräch zu kommen
 
 Kleine Beiträge zum Mitbringbüfett sind herzlich willkommen.
 

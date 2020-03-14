@@ -11,11 +11,11 @@ show_sidebar: false
 Das heilige Abendmahl richtet in euch eine Verbrüderung, ein Sinnbild der ewigen Liebe auf. Indem ihr miteinander das Abendmahl genießt, sollen die Schatten der Finsternis weichen. Das Abendmahl rüttelt euch auf und zeigt euch, was noch vergänglich und schädlich ist und wie ihr werden müsst, um frei zu sein für die Tat. Das Wort Liebe ist keine Liebe. Eine stille Tat, ein Händedruck werden zur leuchtenden Liebe. Ein freier Blick für den anderen führt über Golgatha hinweg und baut Brücken. (Drittes Testament)
 
 
-## Liebe Geschwister!
+## Liebe Geschwister
 
-Mit Blick auf die aktuellen Ereignisse werden wir in diesem Jahr das Abend- mahl in veränderter Form spenden. Die Prediger werden jedem, der das Abendmahl empfängt, die teilweise mit Wein getränkte Hostie zur Hand reichen, so dass keine weitere gemeinschaftliche Berührung mit dem Kelch erfolgt.
+Mit Blick auf die aktuellen Ereignisse werden wir in diesem Jahr das Abendmahl in veränderter Form spenden. Die Prediger werden jedem, der das Abendmahl empfängt, die teilweise mit Wein getränkte Hostie zur Hand reichen, so dass keine weitere gemeinschaftliche Berührung mit dem Kelch erfolgt.
 
-Wer sich darüber hinaus gesundheitlich nicht in der Lage sieht am Abend- mahl teilzunehmen oder diesbezüglich Sorge hat, kann das Abendmahl im August zur Kirchentagswoche einnehmen oder das Gespräch mit der Ge- meindeleitung suchen.
+Wer sich darüber hinaus gesundheitlich nicht in der Lage sieht am Abendmahl teilzunehmen oder diesbezüglich Sorge hat, kann das Abendmahl im August zur Kirchentagswoche einnehmen oder das Gespräch mit der Gemeindeleitung suchen.
 Wir wünschen allen Geschwistern eine gesegnete Passionszeit, in der wir mutig, vertrauensvoll und zuversichtlich auf den Heiland zugehen wollen.
 
 Mit einem herzlichen Gott zum Gruß!
