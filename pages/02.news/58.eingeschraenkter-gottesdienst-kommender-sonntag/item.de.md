@@ -14,7 +14,7 @@ _„Der Berliner Senat hat heute beschlossen, dass in Berlin ab sofort alle öff
 (Quelle: [https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/pressemitteilung.906892.php](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/pressemitteilung.906892.php))
    
 Der Gottesdienst im St.-Michaels-Heim (und auch in Kaulsdorf) wird anders als gewohnt stattfinden.
-Der Gottesdienst im St.-Michaels-Heim wird nur mit einem Gemeindeführer, dem amtierenden Prediger, dem Organist und einigen wenigen Teilnehmenden (die nicht rechtzeitig informiert werden konnten und ins SMH gefahren sind) durchgeführt, um einen Telefongottesdienst zu ermöglichen. Alle Geschwister, die diese nachricht rechtzeitig erreicht, sind herzlich dazu eingeladen, sich in die Telefonübertragung einzuwählen und den Gottesdienst zu Hause, in der Familie oder in Kleingruppen zu erleben.
+Der Gottesdienst im St.-Michaels-Heim wird nur mit einem Gemeindeführer, dem amtierenden Prediger, dem Organist und einigen wenigen Teilnehmenden (die nicht rechtzeitig informiert werden konnten und ins SMH gefahren sind) durchgeführt, um einen Telefongottesdienst zu ermöglichen. Alle Geschwister, die diese Nachricht rechtzeitig erreicht, sind herzlich dazu eingeladen, sich in die Telefonübertragung einzuwählen und den Gottesdienst zu Hause, in der Familie oder in Kleingruppen zu erleben.
 
 **Einwahldaten:**
 Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
@@ -25,4 +25,4 @@ Das Sakrament der geistigen Heilung wird von einigen Missionshelfern für alle G
 
 Bitte schließt weiterhin alle Kranken sowie alle Helfende mit in eure Gebete ein.
 
-Ein herzlches Gott zum Gruß!
+Ein herzliches Gott zum Gruß!
