@@ -8,7 +8,7 @@ show_sidebar: false
 ---
 
 Liebe Berliner,   
-auf Grund der Verordnung des Senats von Berlin von heute dürfen keine Veranstaltungen über 50 Personen mehr durchgeführt werden.   
+auf Grund der Verordnung des Senats von Berlin von heute dürfen keine Veranstaltungen über 50 Personen mehr durchgeführt werden:   
 _„Der Berliner Senat hat heute beschlossen, dass in Berlin ab sofort alle öffentlichen und nichtöffentlichen Veranstaltungen ab 50 Teilnehmern untersagt sind.
 Für öffentliche und nichtöffentliche Veranstaltungen bis 50 Personen muss der Veranstalter eine Anwesenheitsliste führen, die Name, Adresse, Anschrift und Telefonnummer enthält. Diese Liste muss mindestens vier Wochen aufbewahrt werden und auf Verlangen des Gesundheitsamtes vollständig ausgehändigt werden.“_   
    
