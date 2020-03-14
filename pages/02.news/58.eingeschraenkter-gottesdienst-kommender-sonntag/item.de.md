@@ -16,6 +16,11 @@ _„Der Berliner Senat hat heute beschlossen, dass in Berlin ab sofort alle öff
 Der Gottesdienst im St.-Michaels-Heim (und auch in Kaulsdorf) wird anders als gewohnt stattfinden.
 Der Gottesdienst im St.-Michaels-Heim wird nur mit einem Gemeindeführer, dem amtierenden Prediger, dem Organist und einigen wenigen Teilnehmenden (die nicht rechtzeitig informiert werden konnten und ins SMH gefahren sind) durchgeführt, um einen Telefongottesdienst zu ermöglichen. Alle Geschwister, die diese nachricht rechtzeitig erreicht, sind herzlich dazu eingeladen, sich in die Telefonübertragung einzuwählen und den Gottesdienst zu Hause, in der Familie oder in Kleingruppen zu erleben.
 
+**Einwahldaten:**
+Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
+St.-Michaels-Heim: Konferenznummer: 16882# – PIN: 24081855#
+Waldfrieden: Konferenznummer: 92885# – PIN: 24081855#
+
 Das Sakrament der geistigen Heilung wird von einigen Missionshelfern für alle Geschwister, die das Bedürfnis nach einem Sakrament verspüren, angeboten und stehen als Seelsorger für Gespräche zur Verfügung.
 
 Ein herzlches Gott zum Gruß!
