@@ -1,9 +1,8 @@
 ---
 title: 'Telefon- und Videoübertagungen von Gottesdiensten'
 media_order: Webseitelogo.png
-date: '14-03-2020 15:39'
-publish_date: '14-03-2020 15:39'
-unpublish_date: '07-06-2020 18:00'
+date: '20-03-2020 20:37'
+publish_date: '20-03-2020 20:37'
 show_sidebar: false
 ---
 
