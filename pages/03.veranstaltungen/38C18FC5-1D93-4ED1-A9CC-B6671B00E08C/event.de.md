@@ -14,7 +14,7 @@ taxonomy:
 	monat: ['November 2020']
 
 ---
-Jeden Sonntag findet in unserer Kirche im St.-Michaels-Heim um 11 Uhr ein Gottesdienst statt. Vierzentägig lädt die Johannische Kirche außerdem zu einem parallel stattfindenden Kindergottesdiesnt ein. Geschwister, Freunde und Gäste sind immer herzlich eingeladen. 
+Jeden Sonntag findet in unserer Kirche im St.-Michaels-Heim um 11 Uhr ein Gottesdienst statt. Vierzentägig lädt die Johannische Kirche außerdem zu einem parallel stattfindenden Kindergottesdienst ein. Geschwister, Freunde und Gäste sind immer herzlich eingeladen. 
 Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gottesdienstes: https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php
 
 
