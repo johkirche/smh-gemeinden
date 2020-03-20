@@ -1,6 +1,7 @@
 ---
 title: 'So nehmt ihn hin! Passionsspiel der Johannischen Kirche, Ostern 2020'
 media_order: 'Passion_Titelbild.jpg,A4_Plakat_passion2020_verteilung.pdf,Bildschirmfoto 2020-03-11 um 09.42.18.png'
+published: false
 date: '09-03-2020 22:42'
 publish_date: '09-03-2020 22:42'
 unpublish_date: '14-04-2020 00:00'
