@@ -50,7 +50,7 @@ Eure Geschwister des Kirchenvorstandes
 
 ## Übertragungen
 
-Beide Abendmahlsgottesdienste im St.-Michaels-Heim werden telefonisch und per Video über das Internet übertragen. Die telefonischen Einwahldaten lauten:
+Beide Abendmahlsgottesdienste am Karfreitag um 11 Uhr und um 19 Uhr im St.-Michaels-Heim werden telefonisch und per Video über das Internet übertragen. Die telefonischen Einwahldaten lauten:
 * Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
 * Konferenznummer: 16882#
 * PIN: 24081855#
