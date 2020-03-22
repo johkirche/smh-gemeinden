@@ -38,4 +38,5 @@ Bitte startet alle Übertragungsmöglichkeiten ca. 10 Minuten vor Beginn der Pre
 Allen, die diese Arbeit mit unermüdlichem Einsatz, guten Gedanken, Gebeten und Fröhlichkeit unterstützen, sei herzlich gedankt. 
    
 Mit einem herzlichen Gott zum Gruß!
+
 Eure Berliner Gemeindehelferinnen, Gemeindehelfer und Gemeindeführer
