@@ -15,6 +15,7 @@ Die telefonischen Einwahldaten lauten:
 * Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
 * Konferenznummer: 16882#
 * PIN: 24081855#
+
 Die Video-Übertragung kann wie folgt gestartet werden:
 * Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem benutzernamen und einem Passwort anmelden.
