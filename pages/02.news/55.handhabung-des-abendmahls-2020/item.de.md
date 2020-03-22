@@ -47,3 +47,16 @@ Lassen wir uns also durch Äußerlichkeiten nicht einengen, sondern nutzen die M
    
 Mit einem herzlichen Gott zum Gruß!   
 Eure Geschwister des Kirchenvorstandes
+
+## Übertragungen
+
+Beide Abendmahlsgottesdienste im St.-Michaels-Heim werden telefonisch und per Video über das Internet übertragen. Die telefonischen Einwahldaten lauten:
+* Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
+* Konferenznummer: 16882#
+* PIN: 24081855#
+
+Die Video-Übertragung kann wie folgt gestartet werden:
+* Link: https://www.johannische-kirche.org/mediathek/live-gottesdienst.html. Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
+* Benutzername: gottesdienst
+* Passwort: (bitte bei der Gemeindeleitung oder über die Kontaktadresse dieser Webseite erfragen).
+* einloggen und auf der Webseite mit dem Live-Stream auf Play klicken, wenn die nicht Übertragung selbstständig startet.
