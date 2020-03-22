@@ -9,7 +9,7 @@ show_sidebar: false
 
 Liebe Geschwister, liebe Gäste,
 
-das Sakrament der geistigen Heilung wird weiterhin jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen sowie im Heilinstitut der Friedensstadt soll weiterhin – soweit möglich – angeboten werden. Änderungen der Zeiten und Dienste erfahrt ihr bei den Gemeindeführern. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln.
+das Sakrament der geistigen Heilung wird weiterhin jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen sowie im Heilinstitut der Friedensstadt soll weiterhin – soweit möglich – angeboten werden. Änderungen der Zeiten und Dienste erfahrt ihr bei den Gemeindeführern. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den gewohnten Zeiten im St.-Michaels-Heim angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln.
 Somit sind unsere MissionshelferInnen in entsprechende Handlungsweisen eingewiesen worden.
 Im gegenseitigen individuellen Einvernehmen wird das Sakrament mit oder ohne Berührung erteilt werden, aber auch im gemeinsamen Gebet oder am Telefon.
 Im Glauben und Vertrauen auf Gott wird Sein erlösender, heilender Strom fließen. Er ist nicht gebunden an Materie oder äußerliches Handeln.
