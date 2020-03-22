@@ -19,6 +19,8 @@ Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gott
 
 Am Karfreitag besteht zudem die Gelegenheit das heilige Sakrament des Abendmahl zu empfangen. Dieses wird allen gereicht, die bekennen können: "Ich glaube an einen Gott, der Liebe ist".
 
+Weitere Informationen zum Abendmahl finden Sie unter https://smh-gemeinden.de/news/handhabung-des-abendmahls-2020
+
 
 
 **Veranstaltungsort:** Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland
