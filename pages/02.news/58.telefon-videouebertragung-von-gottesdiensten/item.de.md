@@ -9,10 +9,11 @@ show_sidebar: false
 **Liebe Geschwister und Freunde,**   
   
 Zum jetzigen Zeitpunkt sind folgende Übertragungswege möglich:   
-* Die Predigten aus der Kirche im **Waldfrieden** werden **telefonisch** übertragen. An einer zusätzlichen Videoübertragung wird gearbeitet. Die telefonischen Einwahldaten lauten:
-** Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
-** Konferenznummer: 92885#
-** PIN: 24081855#   
+
+Die Predigten aus der Kirche im **Waldfrieden** werden telefonisch übertragen. An einer zusätzlichen Videoübertragung wird gearbeitet. Die telefonischen Einwahldaten lauten:
+* Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
+* Konferenznummer: 92885#
+* PIN: 24081855#   
    
 Die Predigten aus dem St.-Michaels-Heim werden telefonisch und per Video über das Internet übertragen.   
 Die telefonischen Einwahldaten lauten: Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00   
