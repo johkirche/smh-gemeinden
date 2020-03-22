@@ -1,5 +1,6 @@
 ---
 title: 'Informationen zum Sakrament der geistigen Heilung im St.-Michaels-Heim'
+media_order: Webseitelogo.png
 date: '22-03-2020 01:43'
 publish_date: '22-03-2020 01:43'
 unpublish_date: '30-04-2020 23:55'
