@@ -54,7 +54,7 @@ Beide Abendmahlsgottesdienste am Karfreitag um 11 Uhr und um 19 Uhr im St.-Micha
 * PIN: 24081855#
 
 Die Video-Übertragung kann wie folgt gestartet werden:
-* Link: https://www.johannische-kirche.org/mediathek/live-gottesdienst.html. Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
+* Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html). Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
 * Benutzername: gottesdienst
 * Passwort: (bitte bei der Gemeindeleitung oder über die Kontaktadresse dieser Webseite erfragen).
 * einloggen und auf der Webseite mit dem Live-Stream auf Play klicken, wenn die nicht Übertragung selbstständig startet.
