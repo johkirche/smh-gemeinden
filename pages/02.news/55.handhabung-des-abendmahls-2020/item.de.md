@@ -7,11 +7,8 @@ unpublish_date: '10-04-2020 23:59'
 show_sidebar: false
 ---
 
-**Worte als Ausrichtung hin zum Abendmahl**   
-Das heilige Abendmahl richtet in euch eine Verbrüderung, ein Sinnbild der ewigen Liebe auf. Indem ihr miteinander das Abendmahl genießt, sollen die Schatten der Finsternis weichen. Das Abendmahl rüttelt euch auf und zeigt euch, was noch vergänglich und schädlich ist und wie ihr werden müsst, um frei zu sein für die Tat. Das Wort Liebe ist keine Liebe. Eine stille Tat, ein Händedruck werden zur leuchtenden Liebe. Ein freier Blick für den anderen führt über Golgatha hinweg und baut Brücken. (Drittes Testament)
+Liebe Geschwister und Freunde,
 
-
-##Liebe Geschwister und Freunde,   
 gerade in schwierigen Zeiten werden wir Menschen angehalten, zusammenzuhalten und füreinander da zu sein. Deswegen überlegen wir stetig weiter, wie eine Gemeinde- und Erlösungsarbeit im Rahmen von Gottesdiensten stattfinden könnte, je nachdem, wie lange wir in unserer Bewegungsfreiheit von der Krankheit eingeschränkt sind. Wir prüfen deshalb für jeden ursprünglich geplanten Gottesdienst in den Gemeinden, ob eine Telefon- oder Videoübertragung einer Predigt direkt aus einem Gemeindehaus stattfinden kann, in die sich die Mitglieder und Freunde einwählen können. Die Gemeinde wäre so miteinander zur Feier vereint.   
 
 Weiterhin sind die Telefonübertragungen aus dem St.-Michaels-Heim und dem Waldfrieden nutzbar.   
@@ -48,8 +45,9 @@ Lassen wir uns also durch Äußerlichkeiten nicht einengen, sondern nutzen die M
 Mit einem herzlichen Gott zum Gruß!   
 Eure Geschwister des Kirchenvorstandes
 
+## Worte als Ausrichtung hin zum Abendmahl**   
+Das heilige Abendmahl richtet in euch eine Verbrüderung, ein Sinnbild der ewigen Liebe auf. Indem ihr miteinander das Abendmahl genießt, sollen die Schatten der Finsternis weichen. Das Abendmahl rüttelt euch auf und zeigt euch, was noch vergänglich und schädlich ist und wie ihr werden müsst, um frei zu sein für die Tat. Das Wort Liebe ist keine Liebe. Eine stille Tat, ein Händedruck werden zur leuchtenden Liebe. Ein freier Blick für den anderen führt über Golgatha hinweg und baut Brücken. (Drittes Testament)
 ## Übertragungen
-
 Beide Abendmahlsgottesdienste am Karfreitag um 11 Uhr und um 19 Uhr im St.-Michaels-Heim werden telefonisch und per Video über das Internet übertragen. Die telefonischen Einwahldaten lauten:
 * Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
 * Konferenznummer: 16882#
