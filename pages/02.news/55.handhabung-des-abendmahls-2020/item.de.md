@@ -45,7 +45,7 @@ Lassen wir uns also durch Äußerlichkeiten nicht einengen, sondern nutzen die M
 Mit einem herzlichen Gott zum Gruß!   
 Eure Geschwister des Kirchenvorstandes
 
-## Worte als Ausrichtung hin zum Abendmahl**   
+## Worte als Ausrichtung hin zum Abendmahl
 Das heilige Abendmahl richtet in euch eine Verbrüderung, ein Sinnbild der ewigen Liebe auf. Indem ihr miteinander das Abendmahl genießt, sollen die Schatten der Finsternis weichen. Das Abendmahl rüttelt euch auf und zeigt euch, was noch vergänglich und schädlich ist und wie ihr werden müsst, um frei zu sein für die Tat. Das Wort Liebe ist keine Liebe. Eine stille Tat, ein Händedruck werden zur leuchtenden Liebe. Ein freier Blick für den anderen führt über Golgatha hinweg und baut Brücken. (Drittes Testament)
 ## Übertragungen
 Beide Abendmahlsgottesdienste am Karfreitag um 11 Uhr und um 19 Uhr im St.-Michaels-Heim werden telefonisch und per Video über das Internet übertragen. Die telefonischen Einwahldaten lauten:
