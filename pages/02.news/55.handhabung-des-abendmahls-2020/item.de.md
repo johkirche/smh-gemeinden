@@ -14,7 +14,7 @@ gerade in schwierigen Zeiten werden wir Menschen angehalten, zusammenzuhalten un
 Weiterhin sind die Telefonübertragungen aus dem St.-Michaels-Heim und dem Waldfrieden nutzbar.   
 Im St.-Michaels-Heim gibt es zudem ab Sonntag, dem 22.03.2020, die Möglichkeit einer Live-Videoübertragung.   
 Die dazu benötigten Daten: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit Benutzername und Passwort (**Bitte bei der Gemeindeleitung oder der Kontaktadresse erfragen**) einloggen und gelangt dann auf die Seite mit dem Live-Stream Gottesdienst.   
+Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit Benutzername und Passwort (**Bitte bei der Gemeindeleitung oder [hier](/kontakt) erfragen**) einloggen und gelangt dann auf die Seite mit dem Live-Stream Gottesdienst.   
 Für den Karfreitag wurde festgelegt, dass es zwei zentrale Gottesdienste, einer um 11 und einer um 19 Uhr im St.-Michaels-Heim geben wird. Diese können per Telefon oder Video von allen Geschwistern wahrgenommen werden.   
 Die neue Abendmahlsreichung lehnt sich in etwa an das im Buch „Fortleben der Seele nach dem Tode“ dargestellte Abendmahl in der 4. Lichtsphäre an. Unser diesjähriges Abendmahl beinhaltet keinen Wein und keine Hostie. Wir dürfen es als   
 **„Heiliges Abendmahl des Geistes“**   
