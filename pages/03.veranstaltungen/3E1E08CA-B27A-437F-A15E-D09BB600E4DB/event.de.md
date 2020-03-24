@@ -14,8 +14,10 @@ taxonomy:
 	monat: ['März 2020']
 
 ---
+**Der Gottesdienst findet aktuell nur als Telefon- und Videoübertragung statt.** Informationen zur Teilnahme unter: [https://smh-gemeinden.de/news/telefon-videouebertragung-von-gottesdiensten](https://smh-gemeinden.de/news/telefon-videouebertragung-von-gottesdiensten)
+
 Jeden Sonntag findet in unserer Kirche im St.-Michaels-Heim um 11 Uhr ein Gottesdienst statt. Vierzentägig lädt die Johannische Kirche außerdem zu einem parallel stattfindenden Kindergottesdienst ein. Geschwister, Freunde und Gäste sind immer herzlich eingeladen. 
-Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gottesdienstes: https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php
+Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gottesdienstes: [https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php](https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php)
 
 
 
