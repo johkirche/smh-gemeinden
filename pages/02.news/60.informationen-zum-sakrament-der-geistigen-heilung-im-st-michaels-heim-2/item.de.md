@@ -1,20 +1,15 @@
 ---
-title: 'Informationen zum Sakrament der geistigen Heilung im St.-Michaels-Heim 2'
+title: 'Offenes Singen via YouTube'
 media_order: Webseitelogo.png
-date: '22-03-2020 01:43'
-publish_date: '22-03-2020 01:43'
+date: '27-03-2020 20:07'
+publish_date: '27-03-2020 20:07'
+unpublish_date: '09-04-2020 20:07'
 show_sidebar: false
 ---
 
-**Liebe Geschwister, liebe Gäste,**
+**Liebe Geschwister,**   
+da das "Offene Singen" in seiner mir bisher bekannten Form aktuell nicht durchgeführt werden kann, hat sich ein anderer Weg gefunden, gemeinsam zu singen. Jeder, der über ein internetfähiges Gerät verfügt, ist herzlich eingeladen, am kommenden Sonntag (29. März) um 19:30 Uhr live mit allen Gleichgesinnten am offenen Singen teilzunehmen.   
+Hinweis: In der Nacht zu Sonntag werden die Uhren eine Stunde vor gestellt. Wem es nicht möglich ist, live um 19:30 Uhr dabei zu sein, der hat die Gelegenheit, sich das Video auch nachträglich jederzeit anzugucken/-hören.   
+Dauer: 16 min / 3 sek. Die Texte sind dem Video beigefügt.
 
-das Sakrament der geistigen Heilung wird weiterhin jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen sowie im Heilinstitut der Friedensstadt soll weiterhin – soweit möglich – angeboten werden. Änderungen der Zeiten und Dienste erfahrt ihr bei den Gemeindeführern. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den gewohnten Zeiten im St.-Michaels-Heim angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln.   
-Somit sind unsere MissionshelferInnen in entsprechende Handlungsweisen eingewiesen worden.   
-Im gegenseitigen individuellen Einvernehmen wird das Sakrament mit oder ohne Berührung erteilt werden, aber auch im gemeinsamen Gebet oder am Telefon.
-Im Glauben und Vertrauen auf Gott wird Sein erlösender, heilender Strom fließen. Er ist nicht gebunden an Materie oder äußerliches Handeln.
-
-Es ergehen folgende Bitten:
-* die persönliche Sprechstunde bitte nur so oft aufsuchen, wie das Sakrament verordnet ist
-* Den Wartebereich soweit nutzen, dass ein Abstand von mindestens 1,5 Metern von Mensch zu Mensch gewahrt ist
-* auf Handkontakt beim Begrüßen weitestgehend verzichten
-* bei **Symptomen einer möglichen Infizierung** bitte eine telefonische Vereinbarung treffen
+Hier ist der Link zum Video: [https://youtu.be/oYnWWPVvThA](https://youtu.be/oYnWWPVvThA)
