@@ -1,6 +1,5 @@
 ---
 title: 'Offenes Singen via YouTube'
-media_order: Webseitelogo.png
 date: '27-03-2020 20:07'
 publish_date: '27-03-2020 20:07'
 unpublish_date: '09-04-2020 20:07'
