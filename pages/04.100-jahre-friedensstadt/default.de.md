@@ -1,7 +1,7 @@
 ---
 title: '100 Jahre Friedensstadt'
 media_order: 100-jahre-friedensstadt-logo.png
-routable: false
+routable: true
 visible: true
 ---
 
