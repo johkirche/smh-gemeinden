@@ -1,5 +1,6 @@
 ---
 title: 'Taufe von Miriam Isabelle und Jonathan Michael Krausß'
+media_order: Webseitelogo.png
 date: '29-03-2020 22:27'
 publish_date: '29-03-2020 22:27'
 unpublish_date: '29-04-2020 23:59'
