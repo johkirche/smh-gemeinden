@@ -1,5 +1,5 @@
 ---
-title: Religionsunterricht
+title: Religionsunterricht (nach vereinbarung online)
 visible: true
 cache_enable: true
 #ics: 

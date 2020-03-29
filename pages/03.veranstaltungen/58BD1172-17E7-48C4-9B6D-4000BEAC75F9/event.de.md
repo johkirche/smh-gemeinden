@@ -1,5 +1,5 @@
 ---
-title: Friedensgebet
+title: Friedensgebet (Telefon)
 visible: true
 cache_enable: true
 #ics: 
@@ -8,7 +8,7 @@ rule:
 event:
 	start: 30-03-2020 13:00
 	end: 30-03-2020 13:15
-	location: ''
+	location: 'Kirche'
 taxonomy:
 	kategorie: ['Gottesdienst']
 	monat: ['März 2020']
@@ -25,5 +25,5 @@ Jeden Montag lädt die Johannische Kirche um 13 Uhr alle Menschen herzlich zu ei
 
 
 
-**Veranstaltungsort:** 
+**Veranstaltungsort:** Kirche
 

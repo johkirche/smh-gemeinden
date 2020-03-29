@@ -1,5 +1,5 @@
 ---
-title: Gottesdienst
+title: Gottesdienst (Video und Telefon)
 visible: true
 cache_enable: true
 #ics: 

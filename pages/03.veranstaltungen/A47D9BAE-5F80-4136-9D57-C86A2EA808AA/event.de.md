@@ -1,5 +1,5 @@
 ---
-title: Abendmahlsgottesdienst
+title: Abendmahlsgottesdienst (Vodeo und Telefon)
 visible: true
 cache_enable: true
 #ics: 
