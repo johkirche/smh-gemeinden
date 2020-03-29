@@ -10,7 +10,7 @@ event:
 	end: 02-05-2020 19:00
 	location: 'Kirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Amtsträger']
+	kategorie: ['Amtsträger','Telefon']
 	monat: ['Mai 2020']
 
 ---

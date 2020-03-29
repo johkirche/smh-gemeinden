@@ -1,5 +1,5 @@
 ---
-title: Friedensgebet
+title: Friedensgebet (Telefon)
 visible: true
 cache_enable: true
 #ics: 
@@ -10,7 +10,7 @@ event:
 	end: 04-05-2020 13:15
 	location: ''
 taxonomy:
-	kategorie: ['Gottesdienst']
+	kategorie: ['Gottesdienst','Telefon']
 	monat: ['Mai 2020']
 
 ---

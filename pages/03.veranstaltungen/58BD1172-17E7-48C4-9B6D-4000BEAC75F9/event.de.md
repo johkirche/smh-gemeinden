@@ -10,7 +10,7 @@ event:
 	end: 30-03-2020 13:15
 	location: 'Kirche'
 taxonomy:
-	kategorie: ['Gottesdienst']
+	kategorie: ['Gottesdienst','Telefon']
 	monat: ['März 2020']
 
 ---

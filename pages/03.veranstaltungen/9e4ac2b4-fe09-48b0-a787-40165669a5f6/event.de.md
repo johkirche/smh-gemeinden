@@ -10,7 +10,7 @@ event:
 	end: 29-03-2020 20:30
 	location: 'YouTube'
 taxonomy:
-	kategorie: ['Kinder','Jugend','Offene']
+	kategorie: ['Kinder','Jugend','Offene','Online']
 	monat: ['März 2020']
 
 ---

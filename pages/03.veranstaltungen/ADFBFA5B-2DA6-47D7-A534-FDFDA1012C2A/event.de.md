@@ -10,7 +10,7 @@ event:
 	end: 03-04-2020 19:00
 	location: 'Online &amp; Telefon'
 taxonomy:
-	kategorie: ['']
+	kategorie: ['Telefon','Online','Gruppen']
 	monat: ['April 2020']
 
 ---

@@ -10,7 +10,7 @@ event:
 	end: 03-05-2020 11:30
 	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Gottesdienst','Kinder']
+	kategorie: ['Gottesdienst','Kinder','Online','Telefon']
 	monat: ['Mai 2020']
 
 ---

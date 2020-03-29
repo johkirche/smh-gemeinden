@@ -10,7 +10,7 @@ event:
 	end: 22-04-2020 20:00
 	location: 'St.-Michaels-Heim 115 Bismarckzimmer Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Amtsträger']
+	kategorie: ['Amtsträger','Online','Telefon']
 	monat: ['April 2020']
 
 ---

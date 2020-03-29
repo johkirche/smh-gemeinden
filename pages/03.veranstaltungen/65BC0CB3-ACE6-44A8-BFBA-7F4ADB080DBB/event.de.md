@@ -10,7 +10,7 @@ event:
 	end: 19-04-2020 11:30
 	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Gottesdienst','Kinder']
+	kategorie: ['Gottesdienst','Kinder','Online']
 	monat: ['April 2020']
 
 ---

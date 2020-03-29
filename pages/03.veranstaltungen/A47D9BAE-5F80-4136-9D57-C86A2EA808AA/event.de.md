@@ -10,7 +10,7 @@ event:
 	end: 10-04-2020 19:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Gottesdienst']
+	kategorie: ['Gottesdienst','Online','Telefon']
 	monat: ['April 2020']
 
 ---
