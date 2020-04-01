@@ -1,5 +1,5 @@
 ---
-title: Sonderinformation
+title: Sonderinfo
 media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg'
 ---
 
