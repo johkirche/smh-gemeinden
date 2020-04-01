@@ -34,4 +34,4 @@ Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-got
 Alle Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
 
 ## Ergänzende Hinweise 
-_Bitte beachtet, dass wir uns sehr freuen, wenn Geschwister vornehmlich an den Telefongottesdiensten teilnehmen, die in ihrer Gemeinde bzw. in ihrem Bezirk angeboten werden. Darüber hinaus kann selbstverständlich auch an allen Gottesdiensten telfonisch oder via Videoübertragung teilgenommen werden. Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen._
+Alle Geschwister sind besonders herzlich dazu eingeladen, an den Telefongottesdiensten teilzunehmen, die in ihren Gemeinden bzw. in ihrem Bezirk angeboten werden. Darüber hinaus gilt eine ebenso herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
