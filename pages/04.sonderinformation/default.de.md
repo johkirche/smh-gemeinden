@@ -11,7 +11,7 @@ Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt
 
 Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste Statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
 
-Die telefonischen Einwahldaten zu den Gemeindegottesdiensten lauten:
+Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Heim lauten:
 * Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
 * Konferenznummer: 16882#
 * PIN: 24081855#
