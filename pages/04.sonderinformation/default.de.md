@@ -25,7 +25,7 @@ einloggen und auf der Webseite mit dem Live-Stream auf Play klicken, wenn die Ü
 
 Weitere Informationen:
 * [Die nächsten Gottesdiensttermine alle Gemeinden inkl. Telefoneinwahldaten](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
-* [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (Einwahldaten gibt es auf [E-Mailanfrage](https://smh-gemeinden.de/kontakt)
+* [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (Einwahldaten gibt es auf [E-Mailanfrage](https://smh-gemeinden.de/kontakt))
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 
 ## Abendgebete in Telefongemeinschaft
