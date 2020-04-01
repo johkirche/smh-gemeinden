@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Schwester Monika Beier'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '01-04-2020 17:01'
 publish_date: '01-04-2020 17:01'
 unpublish_date: '29-04-2020 23:59'
