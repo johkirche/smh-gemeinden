@@ -1,5 +1,6 @@
 ---
 title: 'Gemeinschaftsabend online und am Telefon'
+media_order: handshake-3382503_1920.jpg
 date: '01-04-2020 19:06'
 publish_date: '01-04-2020 19:06'
 unpublish_date: '19-04-2020 19:06'
