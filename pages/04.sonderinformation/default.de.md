@@ -59,9 +59,9 @@ Das Sakrament der geistigen Heilung wird weiterhin  jedem Menschen gespendet, de
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
 Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
 ### Offenes Singen via YouTube
-
-Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden.
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/orthodoxy-1935163_1920.jpg)
+Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden.
+
 Weitere Inforrmationen:
 * [Einladung zum Offenen Singen via YouTube](https://smh-gemeinden.de/news/offenes-singen-via-youtube)
 * [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
