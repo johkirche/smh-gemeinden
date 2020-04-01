@@ -1,6 +1,6 @@
 ---
 title: Sonderinformation
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,f27ead6b5d7bb25041dd2b28cb8b4ccf2699a942-worship-29648031920.jpeg,orthodoxy-1935163_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -42,6 +42,7 @@ Telefonischen Einwahldaten zu den Abendgebeten:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
 ## Veränderungen beim Sakrament des Abendmahls
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/f27ead6b5d7bb25041dd2b28cb8b4ccf2699a942-worship-29648031920.jpeg)
 Am Karfreitag finden zwei Video- und Telefongottesdienste statt, in denen das Sakrament des Abendmahls gespendet wird. Die Gottesdiesnte werden aus dem St.-Michaels-Heim übertragen und finden um 11 Uhr und um 19 Uhr statt.
 
 Weitere Informationen:
@@ -58,8 +59,9 @@ Das Sakrament der geistigen Heilung wird weiterhin  jedem Menschen gespendet, de
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
 Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
 ### Offenes Singen via YouTube
-Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden.
 
+Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden.
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/orthodoxy-1935163_1920.jpg)
 Weitere Inforrmationen:
 * [Einladung zum Offenen Singen via YouTube](https://smh-gemeinden.de/news/offenes-singen-via-youtube)
 * [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
