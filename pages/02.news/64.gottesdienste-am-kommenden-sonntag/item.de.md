@@ -11,6 +11,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 Die Einwahldaten erhaltet ihr auf Nachfrage bei eurer Gemeindeleitung
 
 
+
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst (Konferenznummer: 16882)
 * 11 Uhr in der Urgemeinde: Gemeindegottesdiest (Konferenznummer: 92885)
@@ -22,9 +23,11 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 * 13 Uhr in der Gemeinde Wittenberg: Gemeindegottesdienst (Konferenznummer: 31909)
 
 
+
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
 * 17 Uhr in der Friedensstadt: Abendgebet (Konferenznummer: 31909)
 * 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet (Konferenznummer: 31909)
+
 
 
 Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** erreichbar.
