@@ -12,9 +12,10 @@ Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt
 Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
 
 Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Heim lauten:
-* Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
+* Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 16882#
 * PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
 Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können wie folgt online besucht werden:
 * Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html). Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
@@ -32,9 +33,10 @@ Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ei
 * 17 Uhr (übertragen aus der Friedensstadt) und
 * 21 Uhr (übertragen von wechselnden Orten Deutschlandweit).
 
-Die Teilnahme am Abendgebet ist unter den Telefonnummern 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz) möglich. Die Übertragung beginnt nach Eingabe der Konferenznummer und des Pins. (Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet)
-* Konferenznummer: 31909
-* Passwort: 24082855
+Die Teilnahme am Abendgebet ist unter den Telefonnummern 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz) möglich. Die Übertragung beginnt nach Eingabe der Konferenznummer und des Pins.
+* Konferenznummer: 31909#
+* Passwort: 24082855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
 ## Veränderungen beim Sakrament des Abendmahls
 Am Karfreitag finden zwei Video- und Telefongottesdienste statt, in denen das Sakrament des Abendmahls gespendet wird. Die Gottesdiesnte werden aus dem St.-Michaels-Heim überstragen und finden um 11 Uhr und um 19 Uhr statt.
