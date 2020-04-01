@@ -33,8 +33,8 @@ Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ei
 * 21 Uhr (übertragen von wechselnden Orten Deutschlandweit).
 
 Die Teilnahme am Abendgebet ist unter den Telefonnummern 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz) möglich. Die Übertragung beginnt nach Eingabe der Konferenznummer und des Pins. (Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet)
-* Konferenznummer: 31909 und das
-* Passwort: 24082855 ein
+* Konferenznummer: 31909
+* Passwort: 24082855
 
 ## Veränderungen beim Sakrament des Abendmahls
 Am Karfreitag finden zwei Video- und Telefongottesdienste statt, in denen das Sakrament des Abendmahls gespendet wird. Die Gottesdiesnte werden aus dem St.-Michaels-Heim überstragen und finden um 11 Uhr und um 19 Uhr statt.
