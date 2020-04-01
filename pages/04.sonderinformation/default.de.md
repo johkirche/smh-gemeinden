@@ -16,8 +16,8 @@ Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Hei
 * Konferenznummer: 16882#
 * PIN: 24081855#
 
-Die Video-Übertragung (für die Gemeinde- und Kindergottesdienste) kann wie folgt gestartet werden:
-* Link: https://www.johannische-kirche.org/mediathek/live-gottesdienst.html. Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
+Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können wie folgt online besucht werden:
+* Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html). Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
 * Benutzername: gottesdienst
 * Passwort: (bitte bei der Gemeindeleitung oder über die [Kontaktadresse](https://smh-gemeinden.de/kontakt) dieser Webseite erfragen)
 einloggen und auf der Webseite mit dem Live-Stream auf Play klicken, wenn die Übertragung nicht selbstständig startet.
