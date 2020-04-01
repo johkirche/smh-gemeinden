@@ -30,5 +30,8 @@ Weitere Informationen:
 * Telefonübertragung: Telefonnummern: 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz); Konferenznummer: 16882; Pin: 24081855
 * Videoübertragung: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
 
+## Veränderungen rund um das Sakrament der geistigen Heilung
+Das Sakrament der geistigen Heilung wird weiterhin  jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen werden weiterhin – soweit möglich – angeboten. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den gewohnten Zeiten im St.-Michaels-Heim angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln. Daher wird beim Spenden des Sakraments sowie in der Sprechstunde ein Abstand von 2m eingehalten. Zudem bitten wir die [weiterführenden Informationen](https://smh-gemeinden.de/news/informationen-zum-sakrament-der-geistigen-heilung-im-st-michaels-heim) zu beachten.
+
 ## Neue Angebote in der Erprobung
 ### 
