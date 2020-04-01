@@ -1,5 +1,5 @@
 ---
-title: Sonderinfo
+title: Sonderinformation
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
