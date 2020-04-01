@@ -13,6 +13,7 @@ Die Einwahldaten erhaltet ihr auf Nachfrage bei eurer Gemeindeleitung
 
 
 
+
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst (Konferenznummer: 16882)
 * 11 Uhr in der Urgemeinde: Gemeindegottesdiest (Konferenznummer: 92885)
@@ -28,6 +29,7 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
 * 17 Uhr in der Friedensstadt: Abendgebet (Konferenznummer: 31909)
 * 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet (Konferenznummer: 31909)
+
 
 
 
