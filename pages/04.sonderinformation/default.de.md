@@ -1,6 +1,6 @@
 ---
 title: Sonderinformation
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,f27ead6b5d7bb25041dd2b28cb8b4ccf2699a942-worship-29648031920.jpeg,orthodoxy-1935163_1920.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,orthodoxy-1935163_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -31,6 +31,7 @@ Weitere Informationen:
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 
 ## Abendgebete in Telefongemeinschaft
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/study-862994_1920.jpg)
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
 * 17 Uhr (übertragen aus der Friedensstadt) und
 * 21 Uhr (übertragen von wechselnden Orten Deutschlandweit)
@@ -42,7 +43,7 @@ Telefonischen Einwahldaten zu den Abendgebeten:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
 ## Veränderungen beim Sakrament des Abendmahls
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/f27ead6b5d7bb25041dd2b28cb8b4ccf2699a942-worship-29648031920.jpeg)
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
 Am Karfreitag finden zwei Video- und Telefongottesdienste statt, in denen das Sakrament des Abendmahls gespendet wird. Die Gottesdiesnte werden aus dem St.-Michaels-Heim übertragen und finden um 11 Uhr und um 19 Uhr statt.
 
 Weitere Informationen:
