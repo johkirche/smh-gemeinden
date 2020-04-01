@@ -1,6 +1,6 @@
 ---
 title: Sonderinformation
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,orthodoxy-1935163_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -60,7 +60,7 @@ Das Sakrament der geistigen Heilung wird weiterhin  jedem Menschen gespendet, de
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
 Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
 ### Offenes Singen via YouTube
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/orthodoxy-1935163_1920.jpg)
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
 Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden.
 
 Weitere Inforrmationen:
