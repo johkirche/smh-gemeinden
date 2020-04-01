@@ -15,6 +15,7 @@ Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Hei
 * Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
 * Konferenznummer: 16882#
 * PIN: 24081855#
+
 Die Video-Übertragung (für die Gemeinde- und Kindergottesdienste) kann wie folgt gestartet werden:
 * Link: https://www.johannische-kirche.org/mediathek/live-gottesdienst.html. Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
 * Benutzername: gottesdienst
