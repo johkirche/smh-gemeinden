@@ -12,6 +12,7 @@ Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt
 Weitere Informationen:
 * [Die nächsten Gottesdiensttermine inkl. Telefoneinwahldaten](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (Einwahldaten gibt es auf [E-Mailanfrage](https://smh-gemeinden.de/kontakt)
+* [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 
 ## Abendgebete in Telefongemeinschaft
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
@@ -34,4 +35,11 @@ Weitere Informationen:
 Das Sakrament der geistigen Heilung wird weiterhin  jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen werden weiterhin – soweit möglich – angeboten. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den gewohnten Zeiten im St.-Michaels-Heim angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln. Daher wird beim Spenden des Sakraments sowie in der Sprechstunde ein Abstand von 2m eingehalten. Zudem bitten wir die [weiterführenden Informationen](https://smh-gemeinden.de/news/informationen-zum-sakrament-der-geistigen-heilung-im-st-michaels-heim) zu beachten.
 
 ## Neue Angebote in der Erprobung
-### 
+### Gemeinschaftsabend mit Telefon- und Videokonferenz
+Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
+### Offenes Singen via YouTube
+Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden.
+
+Weitere Inforrmationen:
+* [Einladung zum Offenen Singen via YouTube](https://smh-gemeinden.de/news/offenes-singen-via-youtube)
+* [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
