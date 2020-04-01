@@ -32,7 +32,7 @@ Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ei
 * 17 Uhr (übertragen aus der Friedensstadt) und
 * 21 Uhr (übertragen von wechselnden Orten Deutschlandweit).
 
-Die Teilnahme am Abendgebet ist unter den Telefonnummern 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz) möglich. Die Übertragung beginnt nach eingabe der Konferenznummer und des Pins. (Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet)
+Die Teilnahme am Abendgebet ist unter den Telefonnummern 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz) möglich. Die Übertragung beginnt nach Eingabe der Konferenznummer und des Pins. (Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet)
 * Konferenznummer: 31909 und das
 * Passwort: 24082855 ein
 
