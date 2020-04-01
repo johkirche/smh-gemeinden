@@ -8,6 +8,7 @@ show_sidebar: false
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst
 * 11 Uhr im St.-Michaels-Heim: Kindergottesdienst
+
 Die Einwahldaten erhaltet ihr auf Nachfrage bei eurer Gemeindeleitung
 
 
