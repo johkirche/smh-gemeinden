@@ -9,6 +9,18 @@ Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehe
 ## Telefon- und Videogottesdienste
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeldaen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
 
+Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste Statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
+
+Die telefonischen Einwahldaten zu den Gemeindegottesdiensten lauten:
+* Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
+* Konferenznummer: 16882#
+* PIN: 24081855#
+Die Video-Übertragung (für die Gemeinde- und Kindergottesdienste) kann wie folgt gestartet werden:
+* Link: https://www.johannische-kirche.org/mediathek/live-gottesdienst.html. Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
+* Benutzername: gottesdienst
+* Passwort: (bitte bei der Gemeindeleitung oder über die [Kontaktadresse](https://smh-gemeinden.de/kontakt) dieser Webseite erfragen)
+einloggen und auf der Webseite mit dem Live-Stream auf Play klicken, wenn die Übertragung nicht selbstständig startet.
+
 Weitere Informationen:
 * [Die nächsten Gottesdiensttermine inkl. Telefoneinwahldaten](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (Einwahldaten gibt es auf [E-Mailanfrage](https://smh-gemeinden.de/kontakt)
