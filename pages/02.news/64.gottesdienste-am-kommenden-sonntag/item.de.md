@@ -25,3 +25,7 @@ Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** ang
 
 Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** erreichbar.
 Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar. Der Benutzername ist "gottesdienst". Das Passwort erhaltet ihr auf Nachbrage bei eurer Gemeindeleitung.
+
+Alle Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
+
+_Bitte beachtet, dass wir uns sehr freuen, wenn Geschwister vornehmlich an den Telefongottesdiensten teilnehmen, die in ihrer Gemeinde bzw. in ihrem Bezirk angeboten werden. Darüber hinaus kann selbstverständlich auch an allen Gottesdiensten telfonisch oder via Videoübertragung teilgenommen werden. Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen._
