@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Schwester Ingrid Gensch'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 ---
 
 Am **2. April 2020** wurde unsere Schwester **Ingrid Gensch** aus der **Urgemeinde** in die ewige Heimat abgerufen. Der Termin der Abschiedsfeier wird noch bekannt gegeben.
