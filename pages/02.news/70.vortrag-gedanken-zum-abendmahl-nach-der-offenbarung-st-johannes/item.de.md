@@ -19,6 +19,7 @@ Wann:
 * Die Einwahldaten für den Telefonvortrag sind: Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz); Konferenznummer: 31909#; Passwort: 24082855#
 
 **Am Mittwoch, den 8. April 2020**
+
 Der Vortrag findet im St.-Michaels-Heim um **18:00 Uhr**statt. Die Einwahldaten entsprechenden denen der Gottesdienste im St.-Michaels-Heim. Zu diesem Termin wird parallel ein Video-Livestream über die Internetseite der Johannischen Kirche angeboten.
 * Die Einwahldaten für den Telefonvortrag sind: Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz); Konferenznummer: 16882#, PIN: 24081855#
 * Die Einwahldaten für den Videolivestream sind: [https://www.johannische-kirche.org/mediathek/live-vortrag.html](https://www.johannische-kirche.org/mediathek/live-vortrag.html). Die Anmeldedaten sind: Benutzername: „gottesdienst“; Passwort: „2408“.
