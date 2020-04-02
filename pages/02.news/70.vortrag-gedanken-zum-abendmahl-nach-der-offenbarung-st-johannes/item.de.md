@@ -15,7 +15,7 @@ In diesem Vortrag wird das Abendmahlsverständnis Joseph Weißenbergs in Beziehu
 Wann:
 
 **Am Samstag, den 4. April 2020**
-* Der Vortrag findet direkt im Anschluss an das telefonische Abendgebet in der Friedensstadt um **17:00 Uhr** statt. Die Teilnehmer des Abendgebetes können dazu einfach eingewählt bleiben.
+Der Vortrag findet direkt im Anschluss an das telefonische Abendgebet in der Friedensstadt um **17:00 Uhr** statt. Die Teilnehmer des Abendgebetes können dazu einfach eingewählt bleiben.
 * Die Einwahldaten für den Telefonvortrag sind: Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz); Konferenznummer: 31909#; Passwort: 24082855#
 
 **Am Mittwoch, den 8. April 2020**
