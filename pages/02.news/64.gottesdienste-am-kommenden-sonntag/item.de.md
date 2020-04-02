@@ -6,9 +6,6 @@ publish_date: '01-04-2020 19:17'
 show_sidebar: false
 ---
 
-   
-===   
-
 ##Gottesdienste via Videolivestream
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst
