@@ -6,12 +6,12 @@ publish_date: '01-04-2020 19:17'
 show_sidebar: false
 ---
 
-## Gottesdienste via Videolivestream
+###Gottesdienste via Videolivestream
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst
 * 11 Uhr im St.-Michaels-Heim: Kindergottesdienst
 
-## Gottesdienste via Telefon
+###Gottesdienste via Telefon
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst (Konferenznummer: 16882)
 * 11 Uhr in der Urgemeinde: Gemeindegottesdiest (Konferenznummer: 92885)
