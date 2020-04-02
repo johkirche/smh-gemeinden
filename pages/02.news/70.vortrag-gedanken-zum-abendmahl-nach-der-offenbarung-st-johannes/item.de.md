@@ -1,5 +1,6 @@
 ---
 title: 'Vortrag: Gedanken zum Abendmahl nach der Offenbarung St. Johannes'
+media_order: the-conference-3248255_1920.jpg
 date: '02-04-2020 18:16'
 publish_date: '02-04-2020 18:16'
 unpublish_date: '14-04-2020 23:59'
