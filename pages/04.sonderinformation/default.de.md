@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg,help-4955863_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -68,6 +68,7 @@ Weitere Inforrmationen:
 * [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
 
 ## Mach mit!
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/help-4955863_1920.jpg)
 Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und Durchführung weiterer Angebote in dieser ganz besonderen Zeit mitzugestalten. Bitte zögert nicht, mit euren Ideen, Wünschen und Vorschlägen euch direkt an eure Gemeindeleitungen und -helfer zu werden. Gerne könnt ihr dafür auch die [Kontaktadresse](https://smh-gemeinden.de/kontakt) auf der Webseite nutzen. Sehr gerne könnt ihr auch bestehende Ideen aufgreifen und bei der Umsetzung unterstützen. Du wirst gebraucht!
 
 Aktuelle Ideen, die noch deine Hilfe brauchen:
