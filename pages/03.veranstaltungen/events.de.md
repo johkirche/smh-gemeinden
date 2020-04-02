@@ -1,5 +1,5 @@
 ---
-title: Kalender
+title: Veranstaltungen
 content:
     items:
         '@taxonomy':
