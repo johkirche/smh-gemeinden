@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg,help-4955863_1920.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_kapelle.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -51,6 +51,13 @@ Weitere Informationen:
 ## Veränderungen rund um das Sakrament der geistigen Heilung
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/csm_sakrament_2-1_07071db1a5.jpg)
 [Das Sakrament der geistigen Heilung](https://www.johannische-kirche.org/lebenshilfe-und-angebote/sakramente/sakrament-der-geistigen-heilung.html) wird weiterhin  jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen werden weiterhin – soweit möglich – angeboten. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den [gewohnten Zeiten im St.-Michaels-Heim](https://smh-gemeinden.de/veranstaltungen/kategorie:Sakrament) angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln. Daher wird beim Spenden des Sakraments sowie in der Sprechstunde ein Abstand von 2m eingehalten. Zudem bitten wir die [weiterführenden Informationen](https://smh-gemeinden.de/news/informationen-zum-sakrament-der-geistigen-heilung-im-st-michaels-heim) zu beachten.
+
+## Telefonübertragung von Abschiedsfeiern
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/friedhof_friedensstadt_kapelle.jpg)
+Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Alle Abschiedsfeiern kann telefonisch beigewohnt werden. Die Einwahldaten lauten:
+* Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
+* Konferenznummer: 92885#
+* PIN: 24081855#
 
 ## Neue Angebote in der Erprobung
 ### Gemeinschaftsabend mit Telefon- und Videokonferenz
