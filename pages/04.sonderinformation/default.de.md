@@ -55,10 +55,11 @@ Weitere Informationen:
 ## Telefonübertragung von Abschiedsfeiern
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/friedhof_friedensstadt_grabsteine.jpg)
 
-Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Alle Abschiedsfeiern kann telefonisch beigewohnt werden. Die Einwahldaten lauten:
+Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abschiedsfeiern kann telefonisch beigewohnt werden. Die Einwahldaten sind:
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
 * Konferenznummer: 92885#
 * PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
 ## Neue Angebote in der Erprobung
 ### Gemeinschaftsabend mit Telefon- und Videokonferenz
