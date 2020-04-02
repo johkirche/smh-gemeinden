@@ -10,7 +10,8 @@ show_sidebar: false
 Besondere Umstände erfordern besondere Maßnahmen!
 Deshalb wollen wir gerne zum ersten Mal einen Telefon- und Online-Gesprächskreis anbieten und mit euch gemeinsam testen und wer weiß, vielleicht wird daraus mehr!
 **Wann? Am Freitag, den 3. April um 17.30 Uhr** (passend nach dem Abendgebet via Telefon in der Friedensstadt).   
-===
+===   
+
 ## In Kürze
 Telefon- und Online-Gesprächskreis
 * Am Freitag, den 3. April um 17.30 Uhr
