@@ -7,4 +7,4 @@ show_sidebar: false
 ---
 
 Am **28. März 2020** wurde unser Bruder **Johannes Vollbrecht** aus **Las Vegas in den USA zugehörig zur Hauptgemeinde Berlin** in die ewige Heimat abgerufen.
-Die Aussegnung findet am Donnerstag, den 2. April 2020 um 18:00 Uhr bei Reverti stattfinden. Es predigt Achim Steffen predigt.
+Die Aussegnung findet am 2. April um 18 Uhr bei Reverti statt. Wir verbinden uns im gemeinsamen Gebet.
