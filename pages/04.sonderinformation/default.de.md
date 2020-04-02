@@ -19,11 +19,8 @@ Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Hei
 * PIN: 24081855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
-Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können wie folgt online besucht werden:
-* Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html). Auf der rechten Seite, bzw. auf mobilen Geräten im unteren Bereich, könnt ihr euch mit einem Benutzernamen und einem Passwort anmelden.
-* Benutzername: gottesdienst
-* Passwort: (bitte bei der Gemeindeleitung oder über die [Kontaktadresse](https://smh-gemeinden.de/kontakt) dieser Webseite erfragen)
-einloggen und auf der Webseite mit dem Live-Stream auf Play klicken, wenn die Übertragung nicht selbstständig startet.
+Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können unter folgenem Link online besucht werden:
+* Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html).
 
 Weitere Informationen:
 * [Die nächsten Gottesdiensttermine alle Gemeinden inkl. Telefoneinwahldaten](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
