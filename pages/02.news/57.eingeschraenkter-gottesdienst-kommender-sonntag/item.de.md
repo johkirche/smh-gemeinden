@@ -3,7 +3,7 @@ title: 'Telefon-Gottesdienst am kommenden Sonntag'
 media_order: Webseitelogo.png
 date: '01-04-2020 19:14'
 publish_date: '01-04-2020 19:14'
-unpublish_date: '14-04-2020 20:51'
+unpublish_date: '02-04-2020 13:00'
 show_sidebar: false
 ---
 
