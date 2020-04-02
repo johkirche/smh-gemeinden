@@ -6,7 +6,7 @@ publish_date: '01-04-2020 19:17'
 show_sidebar: false
 ---
 
-Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann.   
+   
 ===   
 
 ##Gottesdienste via Videolivestream
