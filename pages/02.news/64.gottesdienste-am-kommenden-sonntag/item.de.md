@@ -7,7 +7,7 @@ show_sidebar: false
 ---
 
 ## Gottesdienste via Videolivestream
-Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann (Die Einwahldaten erhaltet ihr auf Nachfrage bei eurer Gemeindeleitung):
+Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst
 * 11 Uhr im St.-Michaels-Heim: Kindergottesdienst
 
@@ -29,10 +29,10 @@ Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** ang
 
 ## Einwahldaten für Telefonübertragungen
 Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** erreichbar.
-Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar. Der Benutzername ist "gottesdienst". Das Passwort erhaltet ihr auf Nachbrage bei eurer Gemeindeleitung.
+Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar.
 
 ## Einwahldaten für Videoübertragungen
-Alle Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
+Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
 
 ## Ergänzende Hinweise 
 Alle Geschwister sind besonders herzlich dazu eingeladen, an den Telefongottesdiensten teilzunehmen, die in ihren Gemeinden bzw. in ihrem Bezirk angeboten werden. Darüber hinaus gilt eine ebenso herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
