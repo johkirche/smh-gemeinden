@@ -7,4 +7,4 @@ unpublish_date: '29-04-2020 23:59'
 show_sidebar: false
 ---
 
-Am **2. April 2020** wurde unser Bruder **Nils Steffen** aus der **Hauptgemeinde** in die ewige Heimat abgerufen. Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+Am **2. April 2020** wurde unser Bruder **Nils Steffen** aus der **Hauptgemeinde** in die ewige Heimat abgerufen. Die Abschiedsfeier findet am **montag, dem 6. April um 14:00 Uhr** auf unserem Friedhof in Glau statt.
