@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Bruder Nils Steffen'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '02-04-2020 09:38'
 publish_date: '02-04-2020 09:38'
 unpublish_date: '29-04-2020 23:59'
