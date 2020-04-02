@@ -13,6 +13,7 @@ show_sidebar: false
 In diesem Vortrag wird das Abendmahlsverständnis Joseph Weißenbergs in Beziehung zu den drei Schilderungen des Abendmahls in der Offenbarung des Johannes gesetzt. Dabei wird erläutert, wie das Abendmahl als Kraft für den Weg in die Stadt Gottes verstanden werden kann. Der Vortrag von dauert ca. 30 Minuten.
 
 Wann:
+
 **Am Samstag, den 4. April 2020**
 
 Der Vortrag findet direkt im Anschluss an das telefonische Abendgebet in der Friedensstadt um **17:00 Uhr** statt. Die Teilnehmer des Abendgebetes können dazu einfach eingewählt bleiben.
