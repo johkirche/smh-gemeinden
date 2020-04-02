@@ -76,3 +76,4 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * Unterstützung weniger digital affiner Geschwister bei der Nutzung der Video- und Telefonübertragungen (z.B. für den Abendmahlsgottesdienst)
 * Unterstüzung der Pfelege dieser Webseite
 * Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
+* ...
