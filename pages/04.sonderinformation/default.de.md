@@ -9,7 +9,7 @@ Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehe
 
 ## Telefon- und Videogottesdienste
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/csm_IMG_1064_aac979a1a7.jpg)
-Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeldaen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
+Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
 
 Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
 
@@ -17,9 +17,9 @@ Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Hei
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 16882#
 * PIN: 24081855#
-* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 
-Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können unter folgenem Link online besucht werden:
+Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können unter folgendem Link online besucht werden:
 * Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html).
 
 Weitere Informationen:
@@ -37,7 +37,7 @@ Telefonischen Einwahldaten zu den Abendgebeten:
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909#
 * Passwort: 24082855#
-* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 
 ## Veränderungen beim Sakrament des Abendmahls
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
@@ -83,6 +83,6 @@ Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und D
 Aktuelle Ideen, die noch deine Hilfe brauchen:
 * Telefonpartnerschaften (Wir möchten auf diese Weise den Kontakt untereinander halten)
 * Unterstützung weniger digital affiner Geschwister bei der Nutzung der Video- und Telefonübertragungen (z.B. für den Abendmahlsgottesdienst)
-* Unterstüzung der Pfelege dieser Webseite
+* Unterstüzung der Pflege dieser Webseite
 * Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
 * ...
