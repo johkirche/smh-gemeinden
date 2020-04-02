@@ -7,6 +7,8 @@ unpublish_date: '14-04-2020 23:59'
 show_sidebar: false
 ---
 
+In diesem Vortrag wird das Abendmahlsverständnis Joseph Weißenbergs in Beziehung zu den drei Schilderungen des Abendmahls in der Offenbarung des Johannes gesetzt. Dabei wird erläutert, wie das Abendmahl als Kraft für den Weg in die Stadt Gottes verstanden werden kann. Der Vortrag von dauert ca. 30 Minuten.
+===
 ## Telefon- und Videovortrag „Gedanken zum Abendmahl nach der Offenbarung St. Johannes“
 
 **Thema: Gedanken zum Abendmahl nach der Offenbarung St. Johannes**
