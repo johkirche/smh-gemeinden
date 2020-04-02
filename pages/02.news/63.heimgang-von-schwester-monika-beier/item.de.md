@@ -7,7 +7,7 @@ unpublish_date: '29-04-2020 23:59'
 show_sidebar: false
 ---
 
-Am **29. März 2020** wurde unsere Schwester **Monia Beier** aus der **Urgemeinde** in die ewige Heimat abgerufen. Die Abschiedsfeier findet am **Mittwoch, dem 8. April 2020 um 14:00 Uhr** auf unserem Friedhof in Glau statt.
+Am **29. März 2020** wurde unsere Schwester **Monika Beier** aus der **Urgemeinde** in die ewige Heimat abgerufen. Die Abschiedsfeier findet am **Mittwoch, dem 8. April 2020 um 14:00 Uhr** auf unserem Friedhof in Glau statt.
 
 Wegen der aktuellen Kontaktsperre dürfen Beerdigungen nur im engsten Familienkreis stattfinden. Die Abschiedsfeier von Monika wird telefonisch übertragen. Die Einwahldaten lauten:
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
