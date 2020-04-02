@@ -66,3 +66,12 @@ Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastia
 Weitere Inforrmationen:
 * [Einladung zum Offenen Singen via YouTube](https://smh-gemeinden.de/news/offenes-singen-via-youtube)
 * [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
+
+## Mach mit!
+Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und Durchführung weiterer Angebote in dieser ganz besonderen Zeit mitzugestalten. Bitte zögert nicht, mit euren Ideen, Wünschen und Vorschlägen euch direkt an eure Gemeindeleitungen und -helfer zu werden. Gerne könnt ihr dafür auch die [Kontaktadresse](https://smh-gemeinden.de/kontakt) auf der Webseite nutzen. Sehr gerne könnt ihr auch bestehende Ideen aufgreifen und bei der Umsetzung unterstützen. Du wirst gebraucht!
+
+Aktuelle Ideen, die noch deine Hilfe brauchen:
+* Telefonpartnerschaften (Wir möchten auf diese Weise den Kontakt untereinander halten)
+* Unterstützung weniger digital affiner Geschwister bei der Nutzung der Video- und Telefonübertragungen (z.B. für den Abendmahlsgottesdienst)
+* Unterstüzung der Pfelege dieser Webseite
+* Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
