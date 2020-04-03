@@ -1,5 +1,5 @@
 ---
-title: 'Gottesdienste am kommenden Sonntag'
+title: 'Gottesdienste am kommenden Palmensonntag'
 media_order: csm_gottesdienst_smh_2_3593d8f892.jpg
 date: '01-04-2020 19:17'
 publish_date: '01-04-2020 19:17'
