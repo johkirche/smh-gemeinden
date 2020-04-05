@@ -86,7 +86,7 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * Unterstüzung der Pflege dieser Webseite
 * Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
 * ...
-## Vergangene Angebote
+## Druchgeführte Sonderaktionen
 ### Gemeinschaftsabend mit Telefon- und Videokonferenz
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
 Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
