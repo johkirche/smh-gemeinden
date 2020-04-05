@@ -7,7 +7,7 @@ unpublish_date: '14-04-2020 23:59'
 show_sidebar: false
 ---
 
-Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!".
+Am **Gründonnerstag, den 9. April**, im Anschluss an das Abendgebet **um 17 Uhr**, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung **"... denn er lebt!"**.
 
 Die Lesung hat ca. eine Dauer von 30 Minuten. Die Teilnehmer des Abendgebetes können dazu einfach eingewählt bleiben.
 
