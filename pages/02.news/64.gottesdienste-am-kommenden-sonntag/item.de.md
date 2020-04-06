@@ -30,6 +30,7 @@ Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** ang
 ## Einwahldaten für Telefonübertragungen
 Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** erreichbar.
 Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar.
+Sollten technische Probleme bei der Videoübertragung auftreten, schaut gerne in die [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp).
 
 ## Einwahldaten für Videoübertragungen
 Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
