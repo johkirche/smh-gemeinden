@@ -7,7 +7,10 @@ unpublish_date: '10-04-2020 23:59'
 show_sidebar: false
 ---
 
-Liebe Geschwister, bitte findet am Ende des Kapitels ein Aktualisierung dieser Meldung. Diese beinhaltet den aktualisierten Ablaufplan, inklusive die Lieder, die die Gemeinde zusammen singt und Hinweise auf die Teilnahme in einer Hausandacht im Fall von technischen Störungen. 
+Liebe Geschwister, bitte findet am Ende des Kapitels ein Aktualisierung dieser Meldung. Diese beinhaltet den aktualisierten Ablaufplan, inklusive die Lieder, die die Gemeinde zusammen singt und Hinweise auf die Teilnahme in einer Hausandacht im Fall von technischen Störungen.
+
+[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
+[Der aktuele Ablauf für eine Hausandacht am Karfreitag bei technischen Problemenist ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
 ===
 
 Liebe Geschwister und Freunde,
@@ -66,38 +69,64 @@ Die Video-Übertragung kann wie folgt gestartet werden:
 # Aktualisierung und Ergänzung der hinweise zum Abendmahl 2020
 Ergänzend zu den Informationen im obenstehenden Schreiben der Kirchenleitung zum Abendmahl 2020 hier weitere, detaillierte Informationen zum geplanten Ablauf des Abendmahls.
  
-Neben eines aktualisierten Ablaufplans, der jetzt beispielsweise auch die zu singenden Lieder enthält, sind jetzt auch Informationen für den Fall beigefügt, dass eine Teilnahme an den Gottesdienstübertragungen aufgrund technischer Störungen nicht möglich ist. Für diesen Fall besteht die Möglichkeit, sich gedanklich mit allen Geschwistern im Rahmen einer Hausandacht zu verbinden und das Abendmahl des Geistes zu empfangen. Die Kirchenleitung empfiehlt dabei den folgenden Ablauf. Dieser kann auch am Ende dieses Artikels als PDF runtergeladen werden.
+Neben eines aktualisierten Ablaufplans, der jetzt beispielsweise auch die zu singenden Lieder enthält, sind jetzt auch Informationen für den Fall beigefügt, dass eine Teilnahme an den Gottesdienstübertragungen aufgrund technischer Störungen nicht möglich ist. Für diesen Fall besteht die Möglichkeit, sich gedanklich mit allen Geschwistern im Rahmen einer Hausandacht zu verbinden und das Abendmahl des Geistes zu empfangen. Die Kirchenleitung empfiehlt dabei den folgenden Ablauf. Beide Leitfäden (für den Gottesdienst mit guter Telefon- oder Videoübertragung und für den Fall einer Hausandacht) können unten heruntergeladen werden. Wir empfeheln, beide Ablaufpläne ausgedruckt zum Gottesdienst zur Hand zu haben und sich mit beiden Dokumenten vertraut zu machen.
  
-Wendet euch mit Rückfragen gerne wie immer an eure Gemeindeleitung.
+**Wendet euch mit Rückfragen gerne wie immer an eure Gemeindeleitung.**
 
-## Aktueller Aauf der Abendmahlsgottesdienste
+## Aktueller Aauf der Abendmahlsgottesdienste (bei guter Telefon- oder Videoverbindung)
 Liebe Geschwister,
 der Ablauf der Gottesdienste am Karfreitag, 10.04.2020 im St.-Michaels-Heim um 11 und 19 Uhr wird wie folgt stattfinden:
 
-• Vorabmusik
-• Abkündigung durch den Gemeindeführer
-• Einleitungsmusik
-• Begrüßung und Eröffnung durch Kirchenleitung mit „Großem Gebet“
-• Aufforderung zum Vaterunser
-• Gemeindelied 270 „Wie sollt ich dich, Herr, unterm Kreuz verehren?“
-• Geistfreundrede
-• Zwischenmusik
-• Prediger bittet: „Wir empfangen nun das heilige Abendmahl des Geistes und erheben
+* Vorabmusik
+* Abkündigung durch den Gemeindeführer
+* Einleitungsmusik
+* Begrüßung und Eröffnung durch Kirchenleitung mit „Großem Gebet“
+* Aufforderung zum Vaterunser
+* Gemeindelied 270 „Wie sollt ich dich, Herr, unterm Kreuz verehren?“
+* Geistfreundrede
+* Zwischenmusik
+* Prediger bittet: „Wir empfangen nun das heilige Abendmahl des Geistes und erheben
 uns nun von unseren Plätzen.“
-• Lesung des 23. Psalms
-• Prediger bittet: „Wir knien nieder und sprechen das Gottesbekenntnis“ – „Wir
+* Lesung des 23. Psalms
+* Prediger bittet: „Wir knien nieder und sprechen das Gottesbekenntnis“ – „Wir
 bekennen: Ich glaube an Gott, der Liebe ist“ (kniend, die es körperlich können)
-• Prediger sagt die Strophen des Gedichts auf: „Sein wahres Wort.... Und was du
+* Prediger sagt die Strophen des Gedichts auf: „Sein wahres Wort.... Und was du
 leichter... das wahre Abendmahl“
-• Durch den Prediger erfolgt die Segnung
-• Prediger bittet: „Ziehet hin im Frieden des Herrn“; alle erheben sich und setzen sich
-• Zwischenmusik
-• Aufforderung zum Vaterunser
-• „Wir verabschieden uns mit einem herzlichen Gott zum Gruß auf Wiedersehen“
-• Ausleitungsmusik
+* Durch den Prediger erfolgt die Segnung
+* Prediger bittet: „Ziehet hin im Frieden des Herrn“; alle erheben sich und setzen sich
+* Zwischenmusik
+* Aufforderung zum Vaterunser
+* „Wir verabschieden uns mit einem herzlichen Gott zum Gruß auf Wiedersehen“
+* Ausleitungsmusik
 
 Ein gesegnetes Wirken und herzliche Grüße,
 
 Daniel und Stefan
 
-[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
+[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
+
+## Aktueller Aauf der Abendmahlsgottesdienste (als Hausandacht am Karfreitag bei technischen Problemen)
+Liebe Geschwister,
+sollte auf Grund von technischen Problemen die Telefon- oder Videoübertragung des Gottesdienstes am Karfreitag nicht wahrgenommen werden können, besteht die Möglichkeit sich gedanklich mit allen Geschwistern im Rahmen einer Hausandacht zu verbinden und das Abendmahl des Geistes zu empfangen. Dazu empfehlen wir den folgenden Ablauf:
+
+* Vaterunser
+* Lied 270 „Wie sollt ich dich, Herr, unterm Kreuz verehren?“
+* Lesung Johannesevangelium, Kapitel 19, Verse 16-30
+* Lesung des 23. Psalms
+* Die Strophen des Gedichts:
+„Sein wahres Wort gelehrt soll werden, das ist sein geistig Fleisch und Blut; gerecht verteilt, was wächst auf Erden, damit niemand Not leiden tut.
+Und was du leichter kannst entbehren: Hilf dem Bedrängten überall!
+Dem Feind verzeih, tu ihn belehren! Das ist das wahre Abendmahl.“
+* Gottesbekenntnis (wenn es körperlich möglich ist kniend): „Ich bekenne: Ich glaube an Gott, der Liebe ist.“
+* Bitte um den Segen: „Gott der Herr segne uns und behüte uns, der Herr lasse sein Angesicht leuchten über uns und sei uns gnädig; der Herr hebe sein Angesicht auf uns und gebe uns Frieden.“
+* Lied 192 „Nimm ihn auf in Herz und Leben“ (wieder im Sitzen)
+* Vaterunser
+
+Als Alternative können alle, die über die technischen Möglichkeiten verfügen, die Gottesdienste kurze Zeit nach deren Abschluss in der Mediathek auf der Webseite der Johannischen Kirche als Audiomitschnitt nachhören.
+Wir wünschen euch eine gesegnete Passionszeit und fühlen uns mit euch verbunden.
+
+Mit einem herzlichen Gott zum Gruß,
+
+Euer Kirchenvorstand
+
+[Der aktuele Ablauf für eine Hausandacht am Karfreitag bei technischen Problemenist ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
