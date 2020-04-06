@@ -9,8 +9,9 @@ show_sidebar: false
 
 Liebe Geschwister, bitte findet am Ende des Kapitels ein Aktualisierung dieser Meldung. Diese beinhaltet den aktualisierten Ablaufplan, inklusive die Lieder, die die Gemeinde zusammen singt und Hinweise auf die Teilnahme in einer Hausandacht im Fall von technischen Störungen.
 
-[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
-[Der aktuele Ablauf für eine Hausandacht am Karfreitag bei technischen Problemenist ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
+**[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)**
+
+**[Der aktuele Ablauf für eine Hausandacht am Karfreitag bei technischen Problemenist ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)**
 
 ===
 
