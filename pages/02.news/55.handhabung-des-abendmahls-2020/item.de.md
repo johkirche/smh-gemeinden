@@ -7,7 +7,7 @@ unpublish_date: '10-04-2020 23:59'
 show_sidebar: false
 ---
 
-Liebe Geschwister, bitte findet am Ende des Kapitels ein Aktualisierung dieser Meldung. Diese beinhaltet den aktualisierten Ablaufplan, inklusive die Lieder, die die Gemeinde zusammen singt und einen weiteren Ablauf für die Teilnahme in einer Hausandacht, der für den Fall von technischen Störungen vorgesehen ist.
+Liebe Geschwister, bitte findet am Ende des Kapitels ein Aktualisierung dieser Meldung. Diese beinhaltet den aktualisierten Ablaufplan, inklusive die Lieder, die die Gemeinde zusammen singt und einen weiteren Ablaufplan für die Teilnahme in einer Hausandacht, der für den Fall von technischen Störungen vorgesehen ist.
 
 **[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)**
 
