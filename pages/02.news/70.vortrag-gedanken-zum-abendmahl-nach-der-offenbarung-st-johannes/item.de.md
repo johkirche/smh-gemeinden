@@ -27,3 +27,4 @@ Der Vortrag findet direkt im Anschluss an das telefonische Abendgebet in der Fri
 Der Vortrag findet im St.-Michaels-Heim um **18:00 Uhr**statt. Die Einwahldaten entsprechenden denen der Gottesdienste im St.-Michaels-Heim. Zu diesem Termin wird parallel ein Video-Livestream über die Internetseite der Johannischen Kirche angeboten.
 * Die Einwahldaten für den Telefonvortrag sind: Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz); Konferenznummer: 16882#, PIN: 24081855#
 * Die Einwahldaten für den Videolivestream sind: [https://www.johannische-kirche.org/mediathek/live-vortrag.html](https://www.johannische-kirche.org/mediathek/live-vortrag.html). Die Anmeldedaten sind: Benutzername: „gottesdienst“; Passwort: „2408“.
+* Bei technischen Problemen helfen hoffentlich die [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp) weiter.
