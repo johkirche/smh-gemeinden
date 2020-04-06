@@ -58,3 +58,4 @@ Die Video-Übertragung kann wie folgt gestartet werden:
 * Benutzername: gottesdienst
 * Passwort: (bitte bei der Gemeindeleitung oder über die Kontaktadresse dieser Webseite erfragen).
 * einloggen und auf der Webseite mit dem Live-Stream auf Play klicken, wenn die nicht Übertragung selbstständig startet.
+* Bei technischen Problemen helfen hoffentlich die [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
