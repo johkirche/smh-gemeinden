@@ -11,6 +11,7 @@ Liebe Geschwister, bitte findet am Ende des Kapitels ein Aktualisierung dieser M
 
 [Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
 [Der aktuele Ablauf für eine Hausandacht am Karfreitag bei technischen Problemenist ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
+
 ===
 
 Liebe Geschwister und Freunde,
