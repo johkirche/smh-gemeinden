@@ -14,7 +14,7 @@ Liebe Geschwister, bitte findet am Ende des Kapitels ein Aktualisierung dieser M
 **[Der aktuele Ablauf für eine Hausandacht am Karfreitag, für den Fall von technischen Problemenist, ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)**
 
 ===
-
+# Handhabung des Abendmahls 2020
 Liebe Geschwister und Freunde,
 
 gerade in schwierigen Zeiten werden wir Menschen angehalten, zusammenzuhalten und füreinander da zu sein. Deswegen überlegen wir stetig weiter, wie eine Gemeinde- und Erlösungsarbeit im Rahmen von Gottesdiensten stattfinden könnte, je nachdem, wie lange wir in unserer Bewegungsfreiheit von der Krankheit eingeschränkt sind. Wir prüfen deshalb für jeden ursprünglich geplanten Gottesdienst in den Gemeinden, ob eine Telefon- oder Videoübertragung einer Predigt direkt aus einem Gemeindehaus stattfinden kann, in die sich die Mitglieder und Freunde einwählen können. Die Gemeinde wäre so miteinander zur Feier vereint.   
