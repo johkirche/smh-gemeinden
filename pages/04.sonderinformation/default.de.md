@@ -25,7 +25,7 @@ Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) könne
 Weitere Informationen:
 * [Die nächsten Gottesdiensttermine alle Gemeinden inkl. Telefoneinwahldaten](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-* [Hilfestellungen bei Problemen mit dem Livestream](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
+* [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 
 ## Abendgebete in Telefongemeinschaft
