@@ -1,7 +1,7 @@
 ---
 title: 'Handhabung des Abendmahls 2020'
 media_order: 'worship-2964803_1920.jpg,Webseitelogo.png'
-date: '06-04-2020 20:26'
+date: '07-04-2020 00:00'
 publish_date: '13-03-2020 14:11'
 unpublish_date: '10-04-2020 23:59'
 show_sidebar: false
@@ -107,7 +107,7 @@ Daniel und Stefan
 
 [Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
 
-## Aktueller Aauf der Abendmahlsgottesdienste (als Hausandacht am Karfreitag bei technischen Problemen)
+## Aktueller Ablauf der Abendmahlsgottesdienste (als Hausandacht am Karfreitag bei technischen Problemen)
 Liebe Geschwister,
 sollte auf Grund von technischen Problemen die Telefon- oder Videoübertragung des Gottesdienstes am Karfreitag nicht wahrgenommen werden können, besteht die Möglichkeit sich gedanklich mit allen Geschwistern im Rahmen einer Hausandacht zu verbinden und das Abendmahl des Geistes zu empfangen. Dazu empfehlen wir den folgenden Ablauf:
 
