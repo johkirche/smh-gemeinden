@@ -75,7 +75,7 @@ Neben eines aktualisierten Ablaufplans, der jetzt beispielsweise auch die zu sin
  
 **Wendet euch mit Rückfragen gerne wie immer an eure Gemeindeleitung.**
 
-## Aktueller Abauf der Abendmahlsgottesdienste (bei guter Telefon- oder Videoverbindung)
+## Aktueller Ablauf der Abendmahlsgottesdienste (bei guter Telefon- oder Videoverbindung)
 Liebe Geschwister,
 der Ablauf der Gottesdienste am Karfreitag, 10.04.2020 im St.-Michaels-Heim um 11 und 19 Uhr wird wie folgt stattfinden:
 
