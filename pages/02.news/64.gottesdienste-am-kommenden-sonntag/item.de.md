@@ -9,7 +9,9 @@ show_sidebar: false
 # Karfreitag
 ## Gottesdienste mit Telefon- und Videobertragung
 Am kommednen Karfreitag finden im St.-Michaels-Heim zwei Gottesdienste mit Abendmahl statt. Die Gottesdienste beginnen um 11 Uhr und um 19 Uhr. Der Link zur Videoübertragung ist: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html). Für eine Telefonübertragung nutzt bitte die Telefonnummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) sowie die Konferenznummer 16882 und das Passwort 24082855. Die Eingaben müssen jeweils mit Raute (#, die Taste links neben der 9) bestätigt werden.
+
 [Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
+
 [Der aktuele Ablauf für eine Hausandacht am Karfreitag, für den Fall von technischen Problemenist, ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
 # Ostersonntag
 ## Gottesdienste via Videolivestream
