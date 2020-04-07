@@ -1,26 +1,34 @@
 ---
-title: 'Gottesdienste am kommenden Palmensonntag'
+title: 'Gottesdienste am kommenden Karfreitag und am Ostersonntag'
 media_order: csm_gottesdienst_smh_2_3593d8f892.jpg
 date: '01-04-2020 19:17'
 publish_date: '01-04-2020 19:17'
 show_sidebar: false
 ---
 
-##Gottesdienste via Videolivestream
+# Karfreitag
+## Gottesdienste mit Telefon- und Videobertragung
+Am kommednen Karfreitag finden im St.-Michaels-Heim zwei Gottesdienste mit Abendmahl statt. Die Gottesdienste beginnen um 11 Uhr und um 19 Uhr. Der Link zur Videoübertragung ist: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html). Für eine Telefonübertragung nutzt bitte die Telefonnummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) sowie die Konferenznummer 16882 und das Passwort 24082855. Die Eingaben müssen jeweils mit Raute (#, die Taste links neben der 9) bestätigt werden.
+[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
+[Der aktuele Ablauf für eine Hausandacht am Karfreitag, für den Fall von technischen Problemenist, ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
+# Ostersonntag
+## Gottesdienste via Videolivestream
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
-* 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst
-* 11 Uhr im St.-Michaels-Heim: Kindergottesdienst
+* 11 Uhr im St.-Michaels-Heim: Ostergottesdienst
+* Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 
-##Gottesdienste via Telefon
+## Gottesdienste via Telefon
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
-* 11 Uhr im St.-Michaels-Heim: Gemeindegottesdienst (Konferenznummer: 16882)
-* 11 Uhr in der Urgemeinde: Gemeindegottesdiest (Konferenznummer: 92885)
-* 11 Uhr in der Gemeinde Velten: Gemeindegottesdienst (Konferenznummer: 31909)
-* 12 Uhr in der Gemeinde Dresden: Gemeindegottesdienst (Konferenznummer: 16882)
-* 12 Uhr in der Gemeinde Gößweinstein: Gemeindegottesdienst (Konferenznummer: 92885)
-* 12 Uhr in der Gemeinde Ahrensburg: Gemeindegottesdienst (Konferenznummer: 31909)
-* 13 Uhr in der Gemeinde Kaulsdorf: Gemeindegottesdienst (Konferenznummer: 92885)
-* 13 Uhr in der Gemeinde Wittenberg: Gemeindegottesdienst (Konferenznummer: 31909)
+* 11 Uhr im St.-Michaels-Heim: Ostergottesdienst (Konferenznummer: 16882)
+* 11 Uhr in der Urgemeinde: Ostergottesdiest (Konferenznummer: 92885)
+* 11 Uhr in der Gemeinde Velten: Ostergottesdienst (Konferenznummer: 31909)
+* 11 Uhr in der Gemeinde Lübs: Ostergottesdienst (Konferenznummer: 55114)
+* 12 Uhr in der Gemeinde Dresden: Ostergottesdienst (Konferenznummer: 16882)
+* 12 Uhr in der Gemeinde Gößweinstein: Ostergottesdienst (Konferenznummer: 92885)
+* 12 Uhr in der Gemeinde Ahrensburg: Ostergottesdienst (Konferenznummer: 31909)
+* 12 Uhr in der Gemeinde Hannover: Ostergottesdienst (Konferenznummer: 55114)
+* 13 Uhr in der Gemeinde Kaulsdorf: Ostergottesdienst (Konferenznummer: 92885)
+* 13 Uhr in der Gemeinde Elster und Wittenberg: Ostergottesdienst (Konferenznummer: 31909)
 
 ## Gemeinsames Abendgebet via Telefon
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
