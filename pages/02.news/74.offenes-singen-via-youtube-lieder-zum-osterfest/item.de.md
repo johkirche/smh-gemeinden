@@ -7,7 +7,7 @@ unpublish_date: '19-04-2020 23:59'
 show_sidebar: false
 ---
 
-Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat gibt es nun eine Osterfortsetzung.
+Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
 
 Wer am **Ostersonntag um 19:30 Uhr** am gemeinsamen Singen zum Thema **„Lieder zum Osterfest“** teilnehmen möchte, gelangt durch das Klicken auf den folgenden Link zum Video: https://youtu.be/wJXCx10lqrM
  
