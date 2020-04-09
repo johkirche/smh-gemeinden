@@ -71,11 +71,11 @@ Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verl
 Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
 ### Offenes Singen via YouTube
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
-Am vergangenen Sonntag fand das erste virtuelle Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden.
+Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
 
-Weitere Inforrmationen:
-* [Einladung zum Offenen Singen via YouTube](https://smh-gemeinden.de/news/offenes-singen-via-youtube)
-* [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
+Wer am **Ostersonntag um 19:30 Uhr** am gemeinsamen Singen zum Thema **„Lieder zum Osterfest“** teilnehmen möchte, gelangt durch das Klicken auf den folgenden Link zum Video: https://youtu.be/wJXCx10lqrM
+
+Weitere Informationen gibt es auch in unseren News unter: [https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest](https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest)
 
 ## Mach mit!
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/help-4955863_1920.jpg)
@@ -91,3 +91,6 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 ### Gemeinschaftsabend mit Telefon- und Videokonferenz
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
 Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
+### Offenes Singen via YouTube
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
+Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden: [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
