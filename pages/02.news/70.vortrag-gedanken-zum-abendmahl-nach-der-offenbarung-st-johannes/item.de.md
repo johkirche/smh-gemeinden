@@ -7,7 +7,16 @@ unpublish_date: '14-04-2020 23:59'
 show_sidebar: false
 ---
 
-In diesem Vortrag wird das Abendmahlsverständnis Joseph Weißenbergs in Beziehung zu den drei Schilderungen des Abendmahls in der Offenbarung des Johannes gesetzt. Dabei wird erläutert, wie das Abendmahl als Kraft für den Weg in die Stadt Gottes verstanden werden kann. Der Vortrag von dauert ca. 30 Minuten.   
+Der per Video aufgezeichnete Vortrag „Gedanken zum Abendmahl nach der Offenbarung St. Johannes“ kann noch bis morgen Abend im Internet angeschaut werden.
+
+Die Einwahldaten lauten:
+* Link: [https://www.johannische-kirche.org/mediathek/live-vortrag.html](https://www.johannische-kirche.org/mediathek/live-vortrag.html)
+* Benutzername: gottesdienst
+* [Das Passwort erfragt mitte bei der Gemeindeleitung](https://smh-gemeinden.de/kontakt)
+
+Euch allen einen gesegneten Karfreitag und ein kraftvolles Abendmahl!
+Mit einem herzlichen Gott zum Gruß!
+Euer Rainer 
 ===   
 
 ## Telefon- und Videovortrag „Gedanken zum Abendmahl nach der Offenbarung St. Johannes“
