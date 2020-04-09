@@ -15,7 +15,8 @@ dieses Video ist für euch. Es geht um das Abendmahl, das wir morgen alle gemein
 * Wie kann ich mich als Kind auf das Abendmahl vorbereiten?   
    
 Das Video ist etwa 9 Minuten lang und vielleicht wollt ihr es euch heute vor dem Abendgebet mit euren Eltern ansehen. Es ist eine kleine Einstimmung auf das, was ihr morgen erleben dürft.   
-Hier der Link zum Video: https://vimeo.com/405845625/4104cb3bf9   
+   
+Hier der Link zum Video: [https://vimeo.com/405845625/4104cb3bf9](https://vimeo.com/405845625/4104cb3bf9)   
    
 Herzliche Grüße an euch und eure Familien,   
 _Eure Relilehrer_
