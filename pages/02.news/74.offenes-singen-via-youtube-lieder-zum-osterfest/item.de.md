@@ -1,5 +1,6 @@
 ---
 title: 'Offenes Singen via YouTube "Lieder zum Osterfest"'
+media_order: easter-bunny-95096_1920.jpg
 date: '09-04-2020 20:08'
 publish_date: '09-04-2020 20:08'
 unpublish_date: '19-04-2020 23:59'
