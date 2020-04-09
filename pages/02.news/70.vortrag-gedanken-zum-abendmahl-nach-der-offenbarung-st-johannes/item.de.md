@@ -14,9 +14,8 @@ Die Einwahldaten lauten:
 * Benutzername: gottesdienst
 * [Das Passwort erfragt mitte bei der Gemeindeleitung](https://smh-gemeinden.de/kontakt)
 
-Euch allen einen gesegneten Karfreitag und ein kraftvolles Abendmahl!
-Mit einem herzlichen Gott zum Gruß!
-Euer Rainer 
+Euch allen einen gesegneten Karfreitag und ein kraftvolles Abendmahl! Mit einem herzlichen Gott zum Gruß!
+
 ===   
 
 ## Telefon- und Videovortrag „Gedanken zum Abendmahl nach der Offenbarung St. Johannes“
