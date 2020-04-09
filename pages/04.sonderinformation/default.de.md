@@ -7,6 +7,9 @@ media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,hands
 
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 
+## Vorbereitung auf das Abendmahl nicht nur für Kinder
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
+Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das eigentlich bisher mit dem Abendmahl? Wie soll das Abendmahl gehen, wenn wir den Wein und das Brot nicht durch den Computer schieben können? Warum knien wir uns hin und sprechen das Gottesbekenntnis? Wie kann ich mich als Kind auf das Abendmahl vorbereiten? Klikt einfach auf diesen Link: https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl
 ## Telefon- und Videogottesdienste
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/csm_IMG_1064_aac979a1a7.jpg)
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
