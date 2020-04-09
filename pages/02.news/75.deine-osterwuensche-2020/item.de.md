@@ -11,4 +11,4 @@ Die Osterzeit lädt uns ein zum Feiern, denn der Herr lebt! Da die Freude beim F
 In diesem Sinne wünschen wir allen ein frohes und gesegnetes Osterfest.
 Eure Jugend
 
-Die Telefo-ster-nnummer: 03020965449
+Die Telef-ostern-nummer: 03020965449
