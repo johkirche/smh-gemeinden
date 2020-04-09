@@ -7,7 +7,7 @@ unpublish_date: '14-04-2020 23:59'
 show_sidebar: false
 ---
 
-Der per Video aufgezeichnete Vortrag „Gedanken zum Abendmahl nach der Offenbarung St. Johannes“ kann noch bis morgen Abend im Internet angeschaut werden.
+Der per Video aufgezeichnete Vortrag „Gedanken zum Abendmahl nach der Offenbarung St. Johannes“ kann noch bis Abend des 10.4. im Internet angeschaut werden.
 
 Die Einwahldaten lauten:
 * Link: [https://www.johannische-kirche.org/mediathek/live-vortrag.html](https://www.johannische-kirche.org/mediathek/live-vortrag.html)
