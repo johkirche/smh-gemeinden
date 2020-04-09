@@ -63,12 +63,9 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
 ## Neue Angebote in der Erprobung
-### Telefonvortrag: "... denn er lebt!"
-![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
-Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!". [Alle weiteren Informationen zu dem Vortrag findet ihr in der Newsmeldung.](https://smh-gemeinden.de/news/vortrag-denn-er-lebt)
-### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
-![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
-Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
+### Deine Osterwünsche
+![](https://smh-gemeinden.de/user/pages/02.news/75.deine-osterwuensche-2020/easter-egg-3257201_1920.jpg)
+[Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
 Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
@@ -94,3 +91,9 @@ Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gespräc
 ### Offenes Singen via YouTube
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
 Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden: [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
+### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
+![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
+Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
+### Telefonvortrag: "... denn er lebt!"
+![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
+Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!". [Alle weiteren Informationen zu dem Vortrag findet ihr in der Newsmeldung.](https://smh-gemeinden.de/news/vortrag-denn-er-lebt)
