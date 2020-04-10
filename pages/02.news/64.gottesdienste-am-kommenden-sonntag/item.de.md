@@ -16,15 +16,15 @@ Am kommednen Karfreitag finden im St.-Michaels-Heim zwei Gottesdienste mit Abend
 # Ostersonntag
 ## Gottesdienste via Videolivestream
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
-* 11 Uhr im St.-Michaels-Heim: Ostergottesdienst
+* 11.15 Uhr im St.-Michaels-Heim: Ostergottesdienst
 * Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 
 ## Gottesdienste via Telefon
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
-* 11 Uhr im St.-Michaels-Heim: Ostergottesdienst (Konferenznummer: 16882)
-* 11 Uhr in der Urgemeinde: Ostergottesdiest (Konferenznummer: 92885)
-* 11 Uhr in der Gemeinde Velten: Ostergottesdienst (Konferenznummer: 31909)
-* 11 Uhr in der Gemeinde Lübs: Ostergottesdienst (Konferenznummer: 55114)
+* 11.15 Uhr im St.-Michaels-Heim: Ostergottesdienst (Konferenznummer: 16882)
+* 11.15 Uhr in der Urgemeinde: Ostergottesdiest (Konferenznummer: 92885)
+* 11.15 Uhr in der Gemeinde Velten: Ostergottesdienst (Konferenznummer: 31909)
+* 11.15 Uhr in der Gemeinde Lübs: Ostergottesdienst (Konferenznummer: 55114)
 * 12 Uhr in der Gemeinde Dresden: Ostergottesdienst (Konferenznummer: 16882)
 * 12 Uhr in der Gemeinde Gößweinstein: Ostergottesdienst (Konferenznummer: 92885)
 * 12 Uhr in der Gemeinde Ahrensburg: Ostergottesdienst (Konferenznummer: 31909)
