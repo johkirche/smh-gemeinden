@@ -25,12 +25,12 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 * 11.15 Uhr in der Urgemeinde: Ostergottesdiest (Konferenznummer: 92885)
 * 11.15 Uhr in der Gemeinde Velten: Ostergottesdienst (Konferenznummer: 31909)
 * 11.15 Uhr in der Gemeinde Lübs: Ostergottesdienst (Konferenznummer: 55114)
-* 12 Uhr in der Gemeinde Dresden: Ostergottesdienst (Konferenznummer: 16882)
-* 12 Uhr in der Gemeinde Gößweinstein: Ostergottesdienst (Konferenznummer: 92885)
-* 12 Uhr in der Gemeinde Ahrensburg: Ostergottesdienst (Konferenznummer: 31909)
-* 12 Uhr in der Gemeinde Hannover: Ostergottesdienst (Konferenznummer: 55114)
-* 13 Uhr in der Gemeinde Kaulsdorf: Ostergottesdienst (Konferenznummer: 92885)
-* 13 Uhr in der Gemeinde Elster und Wittenberg: Ostergottesdienst (Konferenznummer: 31909)
+* 12.15 Uhr in der Gemeinde Dresden: Ostergottesdienst (Konferenznummer: 16882)
+* 12.15 Uhr in der Gemeinde Gößweinstein: Ostergottesdienst (Konferenznummer: 92885)
+* 12.15 Uhr in der Gemeinde Ahrensburg: Ostergottesdienst (Konferenznummer: 31909)
+* 12.15 Uhr in der Gemeinde Hannover: Ostergottesdienst (Konferenznummer: 55114)
+* 13.15 Uhr in der Gemeinde Kaulsdorf: Ostergottesdienst (Konferenznummer: 92885)
+* 13.15 Uhr in der Gemeinde Elster und Wittenberg: Ostergottesdienst (Konferenznummer: 31909)
 
 ## Gemeinsames Abendgebet via Telefon
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
