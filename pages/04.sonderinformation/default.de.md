@@ -14,7 +14,6 @@ Die Erfahrungen des gestrigen Tages haben gezeigt, dass die Kapazitäten unseres
 
 Die Ostergottesdienste aus dem St.-Michaels-Heim und dem Waldfrieden werden um 11.15 Uhr via Videolivestream und Telefon übertragen.
 
-===
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/csm_IMG_1064_aac979a1a7.jpg)
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
 
