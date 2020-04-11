@@ -1,23 +1,24 @@
 ---
-title: 'Gottesdienste am kommenden Karfreitag und am Ostersonntag'
+title: 'Gottesdienste am kommenden Ostersonntag'
 media_order: csm_gottesdienst_smh_2_3593d8f892.jpg
 date: '06-04-2020 19:17'
 publish_date: '01-04-2020 19:17'
 show_sidebar: false
 ---
 
-# Karfreitag
-## Gottesdienste mit Telefon- und Videobertragung
-Am kommednen Karfreitag finden im St.-Michaels-Heim zwei Gottesdienste mit Abendmahl statt. Die Gottesdienste beginnen um 11 Uhr und um 19 Uhr. Der Link zur Videoübertragung ist: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html). Für eine Telefonübertragung nutzt bitte die Telefonnummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) sowie die Konferenznummer 16882 und das Passwort 24082855. Die Eingaben müssen jeweils mit Raute (#, die Taste links neben der 9) bestätigt werden.
+Am gestrigen Karfreitag durften wir uns zum heiligen Abendmahl des Geistes per Telefon- und Videoübertragung verbinden, und diese Verbindung reichte weit über Deutschland hinaus, wurden die Gottesdienste doch auch auf Russisch und Englisch übersetzt.
+In unserem E-Mail-Briefkasten sind viele Dankschreiben angekommen, die sich an alle richten, die diese Übertragungen und Übersetzungen ermöglichen!
+ 
+Die Erfahrungen des gestrigen Tages haben gezeigt, dass die Kapazitäten unseres Telefonanbieters Phonesty um 11 Uhr noch sehr ausgelastet sind, nutzen doch viele religiöse Gemeinschaften in diesen Tagen das Mittel der Telefonübertragungen. Deswegen werden am Ostersonntag ALLE GOTTESDIENSTE 15 MINUTEN SPÄTER beginnen, also 11.15 Uhr statt 11.00 Uhr, 12.15 statt 12.00 Uhr etc.
+ 
+Die Ostergottesdienste aus dem St.-Michaels-Heim und dem Waldfrieden werden also um 11.15 Uhr übertragen.
 
-[Der aktuele Ablauf ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/yELHsXe2cwdZsid)
-
-[Der aktuele Ablauf für eine Hausandacht am Karfreitag, für den Fall von technischen Problemenist, ist hier als PDF zum Download und zum Ausdrucken erreichbar.](https://cloud.johannische-kirche.org/index.php/s/sGo5HPsLANNMWrQ)
+===
 # Ostersonntag
 ## Gottesdienste via Videolivestream
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
-* 11.15 Uhr im St.-Michaels-Heim: Ostergottesdienst
-* Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* 11.15 Uhr im St.-Michaels-Heim: Ostergottesdienst: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
+* 11.15 Uhr im Waldfrieden (Urgemeinde): Ostergottesdienst: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (kein Passwort erforderlich)
 
 ## Gottesdienste via Telefon
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
@@ -38,7 +39,7 @@ Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** ang
 * 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet (Konferenznummer: 31909)
 
 ## Einwahldaten für Telefon- und Videoübertragungen
-Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** erreichbar.
+Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) erreichbar.
 Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar.
 Sollten technische Probleme bei der Videoübertragung auftreten, schaut gerne in die [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp).
 
