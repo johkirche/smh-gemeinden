@@ -62,7 +62,7 @@ Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das e
 [Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
 ### Videopassionsspiel
 ![](https://smh-gemeinden.de/user/pages/02.news/77.videopassionsspiel/8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg)
-In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html
+In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
 Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
