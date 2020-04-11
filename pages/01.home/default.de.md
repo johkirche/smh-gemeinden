@@ -17,4 +17,4 @@ Besucher und Gäste sind herzlich willkommen!
 
 __________
 # Diese Seite bietet:
-![https://smh-gemeinden.de/user/pages/01.home/megaphone-2223049_1280.png](http://) [https://smh-gemeinden.de/news](NEWS - Neuigkeiten für und um das Gemeindeleben)
+![](https://smh-gemeinden.de/user/pages/01.home/megaphone-2223049_1280.png) [https://smh-gemeinden.de/news](NEWS - Neuigkeiten für und um das Gemeindeleben)
