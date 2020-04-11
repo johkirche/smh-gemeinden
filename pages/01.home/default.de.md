@@ -13,9 +13,3 @@ Die Hauptgemeinde, die Gemeinden Steglitz, Neukölln, Tempelhof und Spandau.
 Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich schnell und einfach über neue Veranstaltungen zu informieren.  
 
 Besucher und Gäste sind herzlich willkommen!
-
-
-__________
-# Diese Seite bietet:
-![](https://smh-gemeinden.de/user/pages/01.home/megaphone-2223049_1280.png)
-[https://smh-gemeinden.de/news](NEWS - Neuigkeiten für und um das Gemeindeleben)
