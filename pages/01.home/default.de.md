@@ -1,6 +1,5 @@
 ---
 title: Home
-media_order: megaphone-2223049_1280.png
 published: true
 routable: true
 visible: false
