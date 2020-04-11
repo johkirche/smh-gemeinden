@@ -82,19 +82,11 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
 * ...
 ## Druchgeführte Sonderaktionen
-### Gemeinschaftsabend mit Telefon- und Videokonferenz
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
-Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
 ### Offenes Singen via YouTube
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
 Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden: [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
-### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
-![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
-Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
-### Telefonvortrag: "... denn er lebt!"
-![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
-Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!". [Alle weiteren Informationen zu dem Vortrag findet ihr in der Newsmeldung.](https://smh-gemeinden.de/news/vortrag-denn-er-lebt)
-## Veränderungen beim Sakrament des Abendmahls
+
+### Veränderungen beim Sakrament des Abendmahls
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
 Am Karfreitag finden zwei Video- und Telefongottesdienste statt, in denen das Sakrament des Abendmahls gespendet wird. Die Gottesdiesnte werden aus dem St.-Michaels-Heim übertragen und finden um 11 Uhr und um 19 Uhr statt.
 
@@ -102,3 +94,15 @@ Weitere Informationen:
 * [Ausfürliche Informationen zum Ablauf der Abendmahlsgottesdienste](https://smh-gemeinden.de/news/handhabung-des-abendmahls-2020)
 * Telefonteilnahme: Telefonnummern: 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz); Konferenznummer: 16882; Pin: 24081855
 * Videoteilnahme: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
+
+### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
+![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
+Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
+
+### Telefonvortrag: "... denn er lebt!"
+![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
+Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!". [Alle weiteren Informationen zu dem Vortrag findet ihr in der Newsmeldung.](https://smh-gemeinden.de/news/vortrag-denn-er-lebt)
+
+### Gemeinschaftsabend mit Telefon- und Videokonferenz
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
+Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
