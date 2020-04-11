@@ -8,6 +8,13 @@ media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,hands
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 
 ## Telefon- und Videogottesdienste
+Am Karfreitag durften wir uns zum heiligen Abendmahl des Geistes per Telefon- und Videoübertragung verbinden, und diese Verbindung reichte weit über Deutschland hinaus, wurden die Gottesdienste doch auch auf Russisch und Englisch übersetzt. In unserem E-Mail-Briefkasten sind viele Dankschreiben angekommen, die sich an alle richten, die diese Übertragungen und Übersetzungen ermöglichen!
+
+Die Erfahrungen des gestrigen Tages haben gezeigt, dass die Kapazitäten unseres Telefonanbieters Phonesty um 11 Uhr noch sehr ausgelastet sind, nutzen doch viele religiöse Gemeinschaften in diesen Tagen das Mittel der Telefonübertragungen. Deswegen werden am Ostersonntag ALLE GOTTESDIENSTE 15 MINUTEN SPÄTER beginnen, also 11.15 Uhr statt 11.00 Uhr, 12.15 statt 12.00 Uhr etc.
+
+Die Ostergottesdienste aus dem St.-Michaels-Heim und dem Waldfrieden werden um 11.15 Uhr via Videolivestream und Telefon übertragen.
+
+===
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/csm_IMG_1064_aac979a1a7.jpg)
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
 
