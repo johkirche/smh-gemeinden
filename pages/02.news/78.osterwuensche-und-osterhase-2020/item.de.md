@@ -7,5 +7,5 @@ published: false
 
 ![](https://cloud.johannische-kirche.org/index.php/s/gWTersDgzd8HzfA/download)
 
-[video](https://cloud.johannische-kirche.org/index.php/s/gWTersDgzd8HzfA ':include :type=iframe')
+[video](https://cloud.johannische-kirche.org/index.php/s/gWTersDgzd8HzfA/Ostergrüße und Osterhase 2020.mp4 ':include :type=iframe')
 
