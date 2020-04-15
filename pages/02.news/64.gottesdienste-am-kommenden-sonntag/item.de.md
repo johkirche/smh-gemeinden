@@ -6,14 +6,13 @@ publish_date: '01-04-2020 19:17'
 show_sidebar: false
 ---
 
-# Sonntagsgottesdienste am 19.04.2020
-## Gottesdienste via Videolivestream
+## Gottesdienste via Videolivestream am 19.04.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (kein Passwort erforderlich)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (kein Passwort erforderlich)
 
-## Gottesdienste via Telefon
+## Gottesdienste via Telefon am 19.04.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindeottesdienst (Konferenznummer: 16882)
 * 11 Uhr in der Urgemeinde: Gemeindegottesdiest (Konferenznummer: 92885)
