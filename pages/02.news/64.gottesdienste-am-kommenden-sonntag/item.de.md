@@ -6,13 +6,13 @@ publish_date: '01-04-2020 19:17'
 show_sidebar: false
 ---
 
-## Gottesdienste via Videolivestream am 19.04.2020
+# Gottesdienste via Videolivestream am 19.04.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (kein Passwort erforderlich)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (kein Passwort erforderlich)
 
-## Gottesdienste via Telefon am 19.04.2020
+# Gottesdienste via Telefon am 19.04.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 * 11 Uhr im St.-Michaels-Heim: Gemeindeottesdienst (Konferenznummer: 16882)
 * 11 Uhr in der Urgemeinde: Gemeindegottesdiest (Konferenznummer: 92885)
@@ -25,12 +25,12 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 * 14.30 Uhr in der Gemeinde Lausitz: Gemeindegottesdienst (Konferenzraumnummer (92885)
 * 15.00 Uhr in der Gemeinde Fürstenwalde (mit Frankfurt/Oder): Gemeindegottesdienst (Konferenzraumnummer (31909)
 
-## Gemeinsames Abendgebet via Telefon
+# Gemeinsames Abendgebet via Telefon
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
 * 17 Uhr in der Friedensstadt: Abendgebet (Konferenznummer: 31909)
 * 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet (Konferenznummer: 31909)
 
-## Einwahldaten für Telefon- und Videoübertragungen
+# Einwahldaten für Telefon- und Videoübertragungen
 Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) erreichbar.
 Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar.
 
