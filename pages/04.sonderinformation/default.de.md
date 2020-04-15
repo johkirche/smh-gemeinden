@@ -8,12 +8,6 @@ media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,hands
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 
 ## Telefon- und Videogottesdienste
-Am Karfreitag durften wir uns zum heiligen Abendmahl des Geistes per Telefon- und Videoübertragung verbinden, und diese Verbindung reichte weit über Deutschland hinaus, wurden die Gottesdienste doch auch auf Russisch und Englisch übersetzt. In unserem E-Mail-Briefkasten sind viele Dankschreiben angekommen, die sich an alle richten, die diese Übertragungen und Übersetzungen ermöglichen!
-
-Die Erfahrungen des gestrigen Tages haben gezeigt, dass die Kapazitäten unseres Telefonanbieters Phonesty um 11 Uhr noch sehr ausgelastet sind, nutzen doch viele religiöse Gemeinschaften in diesen Tagen das Mittel der Telefonübertragungen. Deswegen werden am Ostersonntag ALLE GOTTESDIENSTE 15 MINUTEN SPÄTER beginnen, also 11.15 Uhr statt 11.00 Uhr, 12.15 statt 12.00 Uhr etc.
-
-Die Ostergottesdienste aus dem St.-Michaels-Heim und dem Waldfrieden werden um 11.15 Uhr via Videolivestream und Telefon übertragen.
-
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/csm_IMG_1064_aac979a1a7.jpg)
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
 
@@ -60,22 +54,9 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 
 ## Neue Angebote in der Erprobung
-### Vorbereitung auf das Abendmahl nicht nur für Kinder
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
-Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das eigentlich bisher mit dem Abendmahl? Wie soll das Abendmahl gehen, wenn wir den Wein und das Brot nicht durch den Computer schieben können? Warum knien wir uns hin und sprechen das Gottesbekenntnis? Wie kann ich mich als Kind auf das Abendmahl vorbereiten? Klikt einfach auf diesen Link: [https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl](https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl)
-### Deine Osterwünsche
-![](https://smh-gemeinden.de/user/pages/02.news/75.deine-osterwuensche-2020/easter-egg-3257201_1920.jpg)
-[Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
 ### Videopassionsspiel
 ![](https://smh-gemeinden.de/user/pages/02.news/77.videopassionsspiel/8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg)
 In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
-### Offenes Singen via YouTube "Lieder zum Osterfest"
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
-Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
-
-Wer am **Ostersonntag um 19:30 Uhr** am gemeinsamen Singen zum Thema **„Lieder zum Osterfest“** teilnehmen möchte, gelangt durch das Klicken auf den folgenden Link zum Video: https://youtu.be/wJXCx10lqrM
-
-Weitere Informationen gibt es auch in unseren News unter: [https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest](https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest)
 
 ## Mach mit!
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/help-4955863_1920.jpg)
@@ -88,9 +69,21 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
 * ...
 ## Druchgeführte Sonderaktionen
+### Offenes Singen via YouTube "Lieder zum Osterfest"
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
+Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
+
+Wer am **Ostersonntag um 19:30 Uhr** am gemeinsamen Singen zum Thema **„Lieder zum Osterfest“** nicht teilnehmen konnte, gelangt durch das Klicken auf den folgenden Link zum Video: https://youtu.be/wJXCx10lqrM
+
+Weitere Informationen gibt es auch in unseren News unter: [https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest](https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest)
+
 ### Offenes Singen via YouTube
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
 Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden: [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
+
+### Vorbereitung auf das Abendmahl nicht nur für Kinder
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
+Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das eigentlich bisher mit dem Abendmahl? Wie soll das Abendmahl gehen, wenn wir den Wein und das Brot nicht durch den Computer schieben können? Warum knien wir uns hin und sprechen das Gottesbekenntnis? Wie kann ich mich als Kind auf das Abendmahl vorbereiten? Klikt einfach auf diesen Link: [https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl](https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl)
 
 ### Veränderungen beim Sakrament des Abendmahls
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
@@ -100,6 +93,10 @@ Weitere Informationen:
 * [Ausfürliche Informationen zum Ablauf der Abendmahlsgottesdienste](https://smh-gemeinden.de/news/handhabung-des-abendmahls-2020)
 * Telefonteilnahme: Telefonnummern: 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz); Konferenznummer: 16882; Pin: 24081855
 * Videoteilnahme: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
+
+### Deine Osterwünsche
+![](https://smh-gemeinden.de/user/pages/02.news/75.deine-osterwuensche-2020/easter-egg-3257201_1920.jpg)
+[Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
 
 ### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
 ![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
