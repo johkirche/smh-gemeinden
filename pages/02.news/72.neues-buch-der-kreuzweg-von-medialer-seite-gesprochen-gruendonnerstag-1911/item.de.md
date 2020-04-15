@@ -1,6 +1,6 @@
 ---
 title: 'Neues Buch: "Der Kreuzweg. Von medialer Seite. Gesprochen Gründonnerstag 1911"'
-date: '06-04-2020 22:40'
+date: '15-04-2020 09:40'
 publish_date: '06-04-2020 22:40'
 unpublish_date: '02-06-2020 23:59'
 show_sidebar: false
