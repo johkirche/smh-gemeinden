@@ -13,7 +13,7 @@ Die Hauptgemeinde, die Gemeinden Steglitz, Neukölln, Tempelhof und Spandau.
 Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich schnell und einfach über neue Veranstaltungen zu informieren.  
 
 Besucher und Gäste sind herzlich willkommen!
-
+<br><br><br>
 # Hauptmenü
 |  |  |
 | ------ | ----------- |
