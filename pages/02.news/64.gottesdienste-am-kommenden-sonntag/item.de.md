@@ -77,4 +77,4 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
 | <center>12 Uhr</center> | <center>Dresden</center> | <center>Schwedt (Oder)</center> | <center>Ahrensburg</center> | |
 | <center>13 Uhr</center> | <center>Frankfurt (Oder) (mit Fürstenwalde)</center> | <center>Kaulsdorf</center> | <center>Elster (mit Wittenberg)</center> | |
-| ycenter>14.30 Uhr</center) | | <center>Lausitz> | | |
+| <center>14.30 Uhr</center> | | <center>Lausitz</center> | | |
