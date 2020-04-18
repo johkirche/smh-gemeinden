@@ -1,5 +1,5 @@
 ---
-title: Schule für Geisteswissenschaft
+title: Schule für Geisteswissenschaft (Videoübertragung)
 visible: true
 cache_enable: true
 #ics: 
@@ -10,11 +10,13 @@ event:
 	end: 02-05-2020 19:00
 	location: 'Kirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Amtsträger','Telefon']
+	kategorie: ['Amtsträger','Telefon','Video']
 	monat: ['Mai 2020']
 
 ---
 Monatlich findet im Rahmen der Schule für Geisteswissenschaft eine Fortbildung nur für Amtsträger der Johannischen Kirche statt.
+
+Aktuell wird diese Fortbildung nur als Video- und Telefonübertragung angeboten.
 
 
 
