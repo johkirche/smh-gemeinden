@@ -56,6 +56,6 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 
 | Konferenzraumnummer/<br>Uhrzeit | 16882 | 92885 | 31909 | 55114 |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| 11 Uhr | St.-Michaels-Heim<font color="white">.     .</font> | Waldfrieden | Velten | Gößweinstein |
-| 12 Uhr | Hannover |  | Ahrenburg | Lübs |
-| 13 Uhr | Dortmunf | Kaulsdorf | Wittenberg | |
+| 11 Uhr | St.-Michaels-Heim<font color="white">.     .</font> | Waldfrieden<font color="white">.     .</font> | Velten<font color="white">.     .</font> | Gößweinstein<font color="white">.     .</font> |
+| 12 Uhr | Hannover<font color="white">.     .</font> |  | Ahrenburg<font color="white">.     .</font> | Lübs<font color="white">.     .</font> |
+| 13 Uhr | Dortmunf<font color="white">.     .</font> | Kaulsdorf<font color="white">.     .</font> | Wittenberg<font color="white">.     .</font> | |
