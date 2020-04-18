@@ -54,10 +54,7 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 <br><br>
 ## Neue Angebote in der Erprobung
-### Videopassionsspiel
-![](https://smh-gemeinden.de/user/pages/02.news/77.videopassionsspiel/8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg)
-
-In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
+Aktuell keine Einträge. Bitte bringt euch mit Ideen ein.
 <br><br>
 ## Mach mit!
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/help-4955863_1920.jpg)
@@ -95,6 +92,11 @@ Weitere Informationen:
 * [Ausfürliche Informationen zum Ablauf der Abendmahlsgottesdienste](https://smh-gemeinden.de/news/handhabung-des-abendmahls-2020)
 * Telefonteilnahme: Telefonnummern: 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz); Konferenznummer: 16882; Pin: 24081855
 * Videoteilnahme: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
+
+### Videopassionsspiel
+![](https://smh-gemeinden.de/user/pages/02.news/77.videopassionsspiel/8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg)
+
+In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
 
 ### Deine Osterwünsche
 ![](https://smh-gemeinden.de/user/pages/02.news/75.deine-osterwuensche-2020/easter-egg-3257201_1920.jpg)
