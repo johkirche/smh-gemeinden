@@ -55,7 +55,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
 | Konferenzraumnummer/<br>Uhrzeit | 16882 | 92885 | 31909 | 55114 |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | 11 Uhr | St.-Michaels-Heim | Waldfrieden | Velten | Gößweinstein |
 | 12 Uhr | Hannover |  | Ahrenburg | Lübs |
 | 13 Uhr | Dortmunf | Kaulsdorf | Wittenberg | |
