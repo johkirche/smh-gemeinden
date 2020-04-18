@@ -7,6 +7,7 @@ show_sidebar: false
 ---
 
 Am kommenden Sonntag finden vieder zahlreiche Video- und Telefongottesdienste in verschiedenen Gemeinden der Johannischen Kirche statt. In diesem Artikel findet ihr alle Informationen.
+
 ===
 # Gottesdienste via Videolivestream am 19.04.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
