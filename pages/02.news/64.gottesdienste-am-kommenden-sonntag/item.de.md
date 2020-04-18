@@ -58,4 +58,4 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | 11 Uhr | St.-Michaels-Heim | Waldfrieden | Velten | Gößweinstein |
 | 12 Uhr | Hannover | | Ahrenburg | Lübs |
-| < center>13 Uhr | Dortmund | Kaulsdorf | Wittenberg | |</center>
+| <center>13 Uhr | Dortmund | Kaulsdorf | Wittenberg | |</center>
