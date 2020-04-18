@@ -54,8 +54,8 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 # Gottesdienste via Telefon am 26.04.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
-| Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
+<font center>| Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | 11 Uhr | St.-Michaels-Heim | Waldfrieden | Velten | Gößweinstein |
 | 12 Uhr | Hannover | | Ahrenburg | Lübs |
-| 13 Uhr | Dortmund | Kaulsdorf | Wittenberg | |
+| 13 Uhr | Dortmund | Kaulsdorf | Wittenberg | |</font>
