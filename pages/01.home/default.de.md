@@ -20,3 +20,9 @@ Besucher und Gäste sind herzlich willkommen!
 [![](time-1606153_1280.png?cropResize=100,100) Veranstaltungen und Termine](https://smh-gemeinden.de/veranstaltungen)
 
 [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation) [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation)
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
