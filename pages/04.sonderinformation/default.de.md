@@ -3,7 +3,7 @@ title: Sonderinfo
 media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_kapelle.jpg,friedhof_friedensstadt_grabsteine.jpg'
 ---
 
-<br># Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
+# Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
 
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 <br><br>
