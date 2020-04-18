@@ -20,7 +20,7 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news)<font color="white">.     .</font> | [Nachrichten und News](https://smh-gemeinden.de/news) |
 | [![](time-1606153_1280.png?cropResize=100,100)](https://smh-gemeinden.de/veranstaltungen)<font color="white">.     .</font> | [Veranstaltungen und Termine](https://smh-gemeinden.de/veranstaltungen) |
 | [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
-| [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](hhttps://smh-gemeinden.de/ueber-uns) |
+| [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
 # Videogottesdienste
