@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png'
 published: true
 routable: true
 visible: false
@@ -20,6 +20,8 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news)<font color="white">.     .</font> | [Nachrichten und News](https://smh-gemeinden.de/news) |
 | [![](time-1606153_1280.png?cropResize=100,100)](https://smh-gemeinden.de/veranstaltungen)<font color="white">.     .</font> | [Veranstaltungen und Termine](https://smh-gemeinden.de/veranstaltungen) |
 | [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
+| [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](hhttps://smh-gemeinden.de/ueber-uns) |
+| [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
 # Videogottesdienste
 Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
