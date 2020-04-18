@@ -15,7 +15,9 @@ Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich 
 Besucher und Gäste sind herzlich willkommen!
 
 #Hauptmenü
-![](book-1157658_1280.png?cropResize=100,100) Nachrichten und News
+[![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news) [Nachrichten und News](https://smh-gemeinden.de/news)
+
 ![](megaphone-2223049_1280.png?cropResize=100,100) Sonderinformationen
-![](megaphone-2223049_1280.png?cropResize=100,100) Veranstaltungen und Termine
+
+![](time-1606153_1280.png?cropResize=100,100) Veranstaltungen und Termine
 
