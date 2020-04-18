@@ -17,7 +17,7 @@ Besucher und Gäste sind herzlich willkommen!
 #Hauptmenü
 [![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news) [Nachrichten und News](https://smh-gemeinden.de/news)
 
-![](megaphone-2223049_1280.png?cropResize=100,100) Sonderinformationen
+[![](time-1606153_1280.png?cropResize=100,100) Veranstaltungen und Termine](https://smh-gemeinden.de/veranstaltungen)
 
-![](time-1606153_1280.png?cropResize=100,100) Veranstaltungen und Termine
+[![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation) [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation)
 
