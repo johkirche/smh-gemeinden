@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg'
 published: true
 routable: true
 visible: false
@@ -22,3 +22,8 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)    | <font color="white">.     .</font>[Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
 
 # Videogottesdienste
+|  |  |
+| ------ | ----------- |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=100,100)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) | <font color="white">.     .</font>[Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize?cropResize=100,100)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) | <font color="white">.     .</font>[Kindergottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
+| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=100,100)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)    | <font color="white">.     .</font>[Gem)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
