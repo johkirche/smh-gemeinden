@@ -20,7 +20,7 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news) | <font color="white">.     .</font>[Nachrichten und News](https://smh-gemeinden.de/news) |
 | [![](time-1606153_1280.png?cropResize=100,100)](https://smh-gemeinden.de/veranstaltungen) | <font color="white">.     .</font>[Veranstaltungen und Termine](https://smh-gemeinden.de/veranstaltungen) |
 | [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)    | <font color="white">.     .</font>[Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
-
+<br><br><br>
 # Videogottesdienste
 Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 
