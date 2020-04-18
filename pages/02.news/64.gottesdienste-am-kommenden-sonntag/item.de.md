@@ -52,10 +52,10 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (kein Passwort erforderlich)
 
 # Gottesdienste via Telefon am 26.04.2020
-iZudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
+Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
 | Konferenzraumnummer/<br>Uhrzeit | 16882 | 92885 | 31909 | 55114 |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| 11 Uhr | St.-Michaels-Heim<font color="white">.     .</font> | Waldfrieden<font color="white">.     .</font> | Velten<font color="white">.     .</font> | Gößweinstein<font color="white">.     .</font> |
-| 12 Uhr | Hannover<font color="white">.     .</font> |  | Ahrenburg<font color="white">.     .</font> | Lübs<font color="white">.     .</font> |
-| 13 Uhr | Dortmunf<font color="white">.     .</font> | Kaulsdorf<font color="white">.     .</font> | Wittenberg<font color="white">.     .</font> | |
+| 11 Uhr | St.-Michaels-Heim | Waldfrieden | Velten | Gößweinstein |
+| 12 Uhr | Hannover | | Ahrenburg | Lübs |
+| 13 Uhr | Dortmund | Kaulsdorf | Wittenberg | |
