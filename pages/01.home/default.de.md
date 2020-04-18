@@ -26,6 +26,6 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 
 |  |  |
 | ------ | ----------- |
-| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=100,100)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=150,150)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=100,100)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) | [Kindergottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=100,100)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
