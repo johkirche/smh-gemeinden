@@ -56,6 +56,7 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 ## Neue Angebote in der Erprobung
 ### Videopassionsspiel
 ![](https://smh-gemeinden.de/user/pages/02.news/77.videopassionsspiel/8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg)
+
 In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
 <br><br>
 ## Mach mit!
