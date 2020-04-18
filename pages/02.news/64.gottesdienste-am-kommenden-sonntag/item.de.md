@@ -54,7 +54,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 # Gottesdienste via Telefon am 26.04.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
-| Konferenzraumnummer/ Uhrzeit | 16882 | 92885 | 31909 | 55114 |
+| Konferenzraumnummer/<br>Uhrzeit | 16882 | 92885 | 31909 | 55114 |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 11 Uhr | St.-Michaels-Heim | Waldfrieden | Velten | Gößweinstein |
 | 12 Uhr | Hannover |  | Ahrenburg | Lübs |
