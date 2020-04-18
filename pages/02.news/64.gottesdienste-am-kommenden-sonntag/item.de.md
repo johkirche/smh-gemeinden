@@ -44,3 +44,17 @@ Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließ
 
 ## Ergänzende Hinweise 
 Die Gottesdienste, die aus den jeweiligen Gemeinderegionen übertragen werden, sollen ganz besonders die dortige geistige Arbeit kräftigen und die Gemeindemitglieder vor Ort miteinander verbinden, ausrichten und schützen. Es wird versucht, aus möglichst vielen Regionen Gottesdienste übertragen zu können. Darüber hinaus gilt eine herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
+
+# Gottesdienste via Videolivestream am 26.04.2020
+Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (kein Passwort erforderlich)
+* 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
+* 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (kein Passwort erforderlich)
+
+# Gottesdienste via Telefon am 26.04.2020
+Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
+| Konferenzraumnummer/ Uhrzeit | 16882 | 92885 | 31909 | 55114 |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| 11 Uhr | St.-Michaels-Heim | Waldfrieden | Velten | Gößweinstein |
+| 12 Uhr | Hannover |  | Ahrenburg | Lübs |
+| 13 Uhr | Dortmunf | Kaulsdorf | Wittenberg | |
