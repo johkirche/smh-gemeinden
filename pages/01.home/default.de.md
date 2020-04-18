@@ -17,6 +17,6 @@ Besucher und Gäste sind herzlich willkommen!
 #Hauptmenü
 |  |  |
 | ------ | ----------- |
-| [![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news) | <font color="red"> Text </font>.   [Nachrichten und News](https://smh-gemeinden.de/news) |
+| [![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news) | <font color="white">.     </font>[Nachrichten und News](https://smh-gemeinden.de/news) |
 | [![](time-1606153_1280.png?cropResize=100,100)](https://smh-gemeinden.de/veranstaltungen) | [Veranstaltungen und Termine](https://smh-gemeinden.de/veranstaltungen) |
 | [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)    | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
