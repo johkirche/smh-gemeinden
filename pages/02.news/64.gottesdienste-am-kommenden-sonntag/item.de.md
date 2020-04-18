@@ -14,6 +14,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (kein Passwort erforderlich)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (kein Passwort erforderlich)
+* 12.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://livestream-monitor.m-k.dev/69744r34zm/](https://livestream-monitor.m-k.dev/69744r34zm/) (kein Passwort erforderlich)
 
 # Gottesdienste via Telefon am Sonntag, den 19.04.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
