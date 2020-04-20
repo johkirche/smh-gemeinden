@@ -12,7 +12,7 @@ Die Schule für Geisteswissenschaften für Amtsträger der Johannischen Kirche f
 
 Zu der Schule an diesem Tag sind alle Geschwister und Glaubensfreunde herzlich eingeladen. Die Fortbildung ist öffentlich und wird ausschlißlich telefonisch und via Videolivestream übertragen. Der Vortrag, mit dem Thema „Der Kreuzweg“, beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
 
-Eine Teilnahme am Telefon ist über die bekannten Nummern der Gottesdienstübertragung möglich:
+Eine Teilnahme am Telefon ist über die bekannten Einwahldaten der Gottesdienstübertragung möglich:
 * Telefonnummer: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 16882#
 * PIN: 24081855#
