@@ -15,9 +15,9 @@ Zu der Schule an diesem Tag sind alle Geschwister und Glaubensfreunde herzlich e
 Eine Teilnahme am Telefon ist über die bekannten Einwahldaten der Gottesdienstübertragung möglich:
 * Telefonnummer: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 16882#
-* PIN: 24081855#
+* Passwort: 24081855#
 
-Die Videoübertragung erfolgt über die Mediatek auf [www.johannische-kirche.org/mediathek.html](https://www.johannische-kirche.org/mediathek.html).
+Die Videoübertragung erfolgt über die Mediatek auf der Webseite der Johannischen Kirche unter [www.johannische-kirche.org/mediathek.html](https://www.johannische-kirche.org/mediathek.html).
 #Gruppen
 #Amtsträger
 #Telefon
