@@ -1,5 +1,5 @@
 ---
-title: Schule für Geisteswissenschaft (Videoübertragung)
+title: Öffentliche Schule für Geisteswissenschaft (Video- und Telefonübertragung)
 visible: true
 cache_enable: true
 #ics: 
@@ -10,14 +10,13 @@ event:
 	end: 02-05-2020 19:00
 	location: 'Kirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Amtsträger','Telefon','Video']
+	kategorie: ['Gruppen','Amtsträger','Telefon','Video']
 	monat: ['Mai 2020']
 
 ---
-Monatlich findet im Rahmen der Schule für Geisteswissenschaft eine Fortbildung nur für Amtsträger der Johannischen Kirche statt.
+Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) - sind am 2. Mai alle Kirchenmitglieder herzlich eingeladen. Die Fortbildung ist öffentlich und wird ausschlißlich telefonisch und via Videolivestream übertragen. Der offene Vortrag, mit dem Thema "Der Kreuzweg" beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
 
-Aktuell wird diese Fortbildung nur als Video- und Telefonübertragung angeboten.
-
+Eine Teilnahme am Telefon ist über die bekannten Nummern der Gottesdienstübertragung möglich (Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00 SMH: Konferenznummer: 16882
 
 
 **Veranstaltungsort:** Kirche St.-Michaels-Heim
