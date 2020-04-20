@@ -1,7 +1,7 @@
 ---
-title: 'Übertragung der Schule für Geisteswissenschaft'
+title: 'Öffentliche Schule für Geisteswissenschaft am 2. Mai 2020'
 media_order: csm_IMG_1064_aac979a1a7.jpg
-published: false
+published: true
 date: '20-04-2020 22:36'
 publish_date: '20-04-2020 22:36'
 unpublish_date: '02-05-2020 23:59'
