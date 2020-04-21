@@ -1,5 +1,5 @@
 ---
-title: Gemeindeführertagung SMH-Gemeinden
+title: Gemeindeführertagung SMH-Gemeinden (Telefon)
 visible: true
 cache_enable: true
 #ics: 
