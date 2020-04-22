@@ -1,5 +1,6 @@
 ---
 title: 'Aktueller Gemeindebrief der St.-Michaels-Heim-Gemeinden'
+media_order: 707E06D7-58E4-43DE-A037-D40DA6491C38.jpeg
 published: false
 ---
 
