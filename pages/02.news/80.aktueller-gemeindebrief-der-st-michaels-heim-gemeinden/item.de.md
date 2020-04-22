@@ -1,7 +1,7 @@
 ---
 title: 'Aktueller Gemeindebrief der St.-Michaels-Heim-Gemeinden'
 media_order: 707E06D7-58E4-43DE-A037-D40DA6491C38.jpeg
-published: false
+published: true
 ---
 
 Der neue Gemeindebrief für alle Gemeinden im St.-Michaels-Heim ist da! Alle Geschwister und Freunde, die in einem Mailverteiler einer Gemeinde sind, haben den Gemeindebrief als PDF erhalten. Selbstverständlich gibt es den Gemeindebrief auch als gedrucktes Heft.
