@@ -10,11 +10,11 @@ event:
 	end: 13-05-2020 21:00
 	location: 'St.-Michaels-Heim Jugendraum Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Gruppen']
+	kategorie: ['Gruppen','Telefon','Online']
 	monat: ['Mai 2020']
 
 ---
-Im Anschluss an unseren Mittwochsgottesdienst laden die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein in den Jugendraum ein. 
+Im Anschluss an unseren Mittwochsgottesdienst laden die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein virtuell und telefonisch aus dem Jugendraum ein. 
 
 Das Thema wird noch bekanntgegeben.
 
