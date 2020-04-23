@@ -23,22 +23,22 @@ Die Kirchentagswoche wird nicht wie gewohnt stattfinden. Wir planen in diesem Ja
 
 **Taufen, Abschiedsfeiern und weitere Amtshandlungen**<br>
 Auf weiteres gilt:<br>
-Grundsätzlich werden Taufen nur im kleinen Kreise möglich sein. Abschiedsfeiern auf unseren johannischen Friedhöfen werden durchgeführt (auf anderen Friedhöfen, sofern erlaubt), allerdings nur im engeren Kreis der Angehörigen. Eine Telefonübertragung wird wie bisher zur Verfügung stehen.
-Weitere Amtshandlungen wie beispielsweise Trauungen oder Verpflichtungen können ebenfalls nur im kleinen Kreis durchgeführt werden.
+Grundsätzlich werden Taufen nur im kleinen Kreise möglich sein. Abschiedsfeiern auf unseren johannischen Friedhöfen werden durchgeführt (auf anderen Friedhöfen, sofern erlaubt), allerdings nur im engeren Kreis der Angehörigen. Eine Telefonübertragung wird wie bisher zur Verfügung stehen.<br>
+Weitere Amtshandlungen wie beispielsweise Trauungen oder Verpflichtungen können ebenfalls nur im kleinen Kreis durchgeführt werden.<br>
 Für alle Amtshandlungen ist rechtzeitig Rücksprache mit der Gemeindeleitung zu halten.
 
-**Sakrament der geistigen Heilung**
+**Sakrament der geistigen Heilung**<br>
 Das Sakrament der geistigen Heilung wird weiterhin angeboten. Die Hygiene-Leitlinien zum Infektionsschutz sind von jedem zu befolgen. Die Angebote im St.-Michaels-Heim und der Friedensstadt bleiben wie bisher bestehen. Die Organisation in den anderen Gemeinden wird die Gemeindeleitung klären (Angebote vor Ort, Hausbesuche, usw.).
 
-**Gebetsrunden**
+**Gebetsrunden**<br>
 Die öffentlichen Morgen- und Abendgebete in der Friedensstadt entfallen bis auf weiteres. Die telefonischen Abendgebete um 17 Uhr und um 21 Uhr werden wie gewohnt angeboten.
 Das gemeinschaftliche Montags-Friedensgebet im St.-Michaels-Heim und das Freitags- Friedensgebet in der Friedensstadt, jeweils um 13 Uhr, entfallen, werden aber telefonisch angeboten. Dafür bestehen Einwahlmöglichkeiten über die bekannten Konferenznummern für die jeweiligen Gottesdienste.
 
-**Gemeinde-, Kinder- und Jugendarbeit**
+**Gemeinde-, Kinder- und Jugendarbeit**<br>
 Bis auf weiteres wird kein Unterricht vor Ort für Religionskinder und Konfirmanden stattfinden. Weitere Informationen erhalten Eltern und Kinder über ihre Religions- und Konfirmandenlehrer.
 Gesprächskreise, Jugendgruppen und -seminare entfallen vorerst bis auf weiteres.
 
-**Notfälle und Seelsorge**
+**Notfälle und Seelsorge**<br>
 Für Sorgen und Nöte steht euch eure Gemeindeleitung zur Verfügung. In
 dringenden Fällen der Seelsorge oder wenn Fragen unbeantwortet bleiben,
 steht euch der Kirchenvorstand über das Kirchenbüro in Nikolassee unter
