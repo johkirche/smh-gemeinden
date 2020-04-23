@@ -11,11 +11,11 @@ wir alle durften trotz der sich veränderten Lebensbedingungengesegnete Stunden 
 Weiterhin erleben wir, wie wir auf Ideen kommen und zu kreativen Neuerungen geführt werden, damit unsere Verbundenheit nicht durch äußerliche Umstände abreißt. Die aktuellen Leitlinien der Bundesregierung, die landesrechtlichen Verordnungen zur Verlangsamung der Ausbreitung des Corona-Virus’ und unsere gesellschaftliche Verantwortung als Johannische Kirche bedingen weitere Vorsichtsmaßnahmen zum Schutz der Menschen. Deshalb möchten wir euch über die weiterführenden Entscheidungen des Kirchenvorstandes in Bezug auf die Abkündigungen vom 18. und 20. März 2020 informieren.<br>
 Dabei ist zu beachten, dass nicht nur die politischen Entscheidungen unsere Vorgaben sind, sondern unsere eigene Einschätzung zum jeweils einzugehenden Risiko. Wenn das Virus uns weiter begleitet und wir nicht vollumfänglich die Hygienevorschriften bei entsprechenden Veranstaltungen gewährleisten können, handeln wir unverantwortlich. Unsere Geschwister, Nachbarn und Gäste haben einen Anspruch darauf, dass wir stets gewissenhaft handeln und sorgsam miteinander umgehen.
 
-**Gottesdienste, Kindergottesdienste**
-Die gemeinschaftlichen Gottesdienste der Johannischen Kirche entfallen weiterhin bis auf weiteres. Wir werden Predigten wie bisher telefonisch und dort, wo es technisch schon möglich ist, auch per Video-Livestream übertragen. Mittlerweile beteiligen sich schon einige Gemeinden an dieser Art der Gottesdienstmöglichkeit.
+**Gottesdienste, Kindergottesdienste**<br>
+Die gemeinschaftlichen Gottesdienste der Johannischen Kirche entfallen weiterhin bis auf weiteres. Wir werden Predigten wie bisher telefonisch und dort, wo es technisch schon möglich ist, auch per Video-Livestream übertragen. Mittlerweile beteiligen sich schon einige Gemeinden an dieser Art der Gottesdienstmöglichkeit.<br>
 Alle 14 Tage wird ein zentraler Live-Kindergottesdienst per Videoübertragung angeboten.
 
-**Pfingsten**
+**Pfingsten**<br>
 Die Art des von uns gefeierten Pfingstfestes im Waldfrieden wird dieses Jahr entfallen. Trotzdem wird die Kraft und der Geist der Pfingsten für uns alle spürbar sein. Im nächsten Jahr werden wir bestimmt wieder in großer Gemeinschaft dieses Ereignis feiern können. Wir werden einen Festgottesdienst aus dem Waldfrieden per Telefon und Video übertragen. Dadurch können wir alle miteinander an diesem besonderen Tage verbunden sein.
 
 **Kirchentagswoche**
