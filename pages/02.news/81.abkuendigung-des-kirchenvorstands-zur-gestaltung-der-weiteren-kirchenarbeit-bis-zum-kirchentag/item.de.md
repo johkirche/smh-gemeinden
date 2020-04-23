@@ -8,8 +8,7 @@ show_sidebar: false
 Liebe Geschwister und Freunde,
 
 wir alle durften trotz der sich veränderten Lebensbedingungengesegnete Stunden und Tage vor allem zum Abendmahl und zu Ostern erleben. Auch wenn alles irgendwie anders war, kam vielen von uns der Geist des Herrn sehr nahe.<br>
-Weiterhin erleben wir, wie wir auf Ideen kommen und zu kreativen Neuerungen geführt werden, damit unsere Verbundenheit nicht durch äußerliche Umstände abreißt. Die aktuellen Leitlinien der Bundesregierung, die landesrechtlichen Verordnungen zur Verlangsamung der Ausbreitung des Corona-Virus’ und unsere gesellschaftliche Verantwortung als Johannische Kirche bedingen weitere Vorsichtsmaßnahmen zum Schutz der Menschen. Deshalb möchten wir euch über die weiterführenden Entscheidungen des Kirchenvorstandes in Bezug auf die Abkündigungen vom 18. und 20. März 2020 informieren.
-
+Weiterhin erleben wir, wie wir auf Ideen kommen und zu kreativen Neuerungen geführt werden, damit unsere Verbundenheit nicht durch äußerliche Umstände abreißt. Die aktuellen Leitlinien der Bundesregierung, die landesrechtlichen Verordnungen zur Verlangsamung der Ausbreitung des Corona-Virus’ und unsere gesellschaftliche Verantwortung als Johannische Kirche bedingen weitere Vorsichtsmaßnahmen zum Schutz der Menschen. Deshalb möchten wir euch über die weiterführenden Entscheidungen des Kirchenvorstandes in Bezug auf die Abkündigungen vom 18. und 20. März 2020 informieren.<br>
 Dabei ist zu beachten, dass nicht nur die politischen Entscheidungen unsere Vorgaben sind, sondern unsere eigene Einschätzung zum jeweils einzugehenden Risiko. Wenn das Virus uns weiter begleitet und wir nicht vollumfänglich die Hygienevorschriften bei entsprechenden Veranstaltungen gewährleisten können, handeln wir unverantwortlich. Unsere Geschwister, Nachbarn und Gäste haben einen Anspruch darauf, dass wir stets gewissenhaft handeln und sorgsam miteinander umgehen.
 
 **Gottesdienste, Kindergottesdienste**
