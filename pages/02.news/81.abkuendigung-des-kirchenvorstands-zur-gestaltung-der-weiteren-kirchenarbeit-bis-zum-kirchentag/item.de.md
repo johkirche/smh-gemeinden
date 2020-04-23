@@ -52,4 +52,5 @@ Diese Entscheidungen sollen uns allen eine Hilfe sein, uns auf das Wesentliche z
 Lasst uns unsere kostbare Lebenszeit nicht ausschließlich damit verbringen, über Entscheidungen zu diskutieren, sondern lassen wir dem Geist Raum und Zeit, um in uns zu wirken. Wir werden neue Kräfte spüren und erfahren und mit anderen Menschen gute und intensive Gespräche führen.
 
 An dieser Stelle möchten wir allen Geschwistern und Freunden von Herzen danken, die sich um die technische Übertragung der Gottesdienste bemühen. Auch den Musikern, Gemeindeleitungen und Predigern ein herzliches Dankeschön für ihre Unterstützung.
-Alles Liebe und ein herzlich Gott zum Gruß! Euer Kirchenvorstand
+
+Alles Liebe und ein herzlich Gott zum Gruß!<br>Euer Kirchenvorstand
