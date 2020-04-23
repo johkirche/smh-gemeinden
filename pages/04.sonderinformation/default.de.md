@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_kapelle.jpg,friedhof_friedensstadt_grabsteine.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,music-656593_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_kapelle.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -9,6 +9,7 @@ Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehe
 <br><br>
 
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
+![](https://smh-gemeinden.de/user/pages/04.sonderinformation/newspapers-444448_1920.jpg)
 Liebe Geschwister und liebe Freunde, es gibt aktuelle Informationen des Kirchenvorstands zur Gestaltung der Kirchenarbeit in den kommenden Wochen. Die vollständige Abkündigung findet ihr unter: [https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag](https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag)
 <br><br>
 
