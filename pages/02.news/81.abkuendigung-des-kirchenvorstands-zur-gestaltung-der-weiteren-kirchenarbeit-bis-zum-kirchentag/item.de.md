@@ -1,5 +1,6 @@
 ---
 title: 'Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag'
+media_order: Webseitelogo.png
 date: '23-04-2020 19:28'
 publish_date: '23-04-2020 19:28'
 show_sidebar: false
