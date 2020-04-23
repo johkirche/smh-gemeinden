@@ -55,3 +55,6 @@ Lasst uns unsere kostbare Lebenszeit nicht ausschließlich damit verbringen, üb
 An dieser Stelle möchten wir allen Geschwistern und Freunden von Herzen danken, die sich um die technische Übertragung der Gottesdienste bemühen. Auch den Musikern, Gemeindeleitungen und Predigern ein herzliches Dankeschön für ihre Unterstützung.
 
 Alles Liebe und ein herzlich Gott zum Gruß!<br>Euer Kirchenvorstand
+
+
+[Die Abkündigung kann hier als PDF heruntergeladen, ausgedruckt und an Geschwister ohne Internetanschluss weitergegeben werden.](https://cloud.johannische-kirche.org/index.php/s/LPbGHMW3p6BNJYo)
