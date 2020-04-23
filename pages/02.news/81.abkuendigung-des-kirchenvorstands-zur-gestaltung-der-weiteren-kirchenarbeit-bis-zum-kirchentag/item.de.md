@@ -18,11 +18,11 @@ Alle 14 Tage wird ein zentraler Live-Kindergottesdienst per Videoübertragung an
 **Pfingsten**<br>
 Die Art des von uns gefeierten Pfingstfestes im Waldfrieden wird dieses Jahr entfallen. Trotzdem wird die Kraft und der Geist der Pfingsten für uns alle spürbar sein. Im nächsten Jahr werden wir bestimmt wieder in großer Gemeinschaft dieses Ereignis feiern können. Wir werden einen Festgottesdienst aus dem Waldfrieden per Telefon und Video übertragen. Dadurch können wir alle miteinander an diesem besonderen Tage verbunden sein.
 
-**Kirchentagswoche**
+**Kirchentagswoche**<br>
 Die Kirchentagswoche wird nicht wie gewohnt stattfinden. Wir planen in diesem Jahr ersatzweise ein digitales Angebot für die gesamte Woche mit Gottesdiensten, Vorträgen, Gesprächskreisen oder kulturellen Beiträgen. Alle Beiträge können dann per Telefon oder Video wahrgenommen werden, so dass die Woche rund um den Geburtstag unseres Meisters Joseph Weißenberg eine segensreiche und kraftvolle werden kann. Sollte in der Zeit vor der Kirchentagswoche die Gewissheit bestehen, dass der Virus verschwunden ist und damit die Gesundheitsrisiken eingedämmt wurden, werden wir das erarbeitete Angebot für Gemeinschaftsbesuche vor Ort öffnen. Die Entscheidung werden wir zu gegebener Zeit an euch übermitteln.
 
-**Taufen, Abschiedsfeiern und weitere Amtshandlungen**
-Auf weiteres gilt:
+**Taufen, Abschiedsfeiern und weitere Amtshandlungen**<br>
+Auf weiteres gilt:<br>
 Grundsätzlich werden Taufen nur im kleinen Kreise möglich sein. Abschiedsfeiern auf unseren johannischen Friedhöfen werden durchgeführt (auf anderen Friedhöfen, sofern erlaubt), allerdings nur im engeren Kreis der Angehörigen. Eine Telefonübertragung wird wie bisher zur Verfügung stehen.
 Weitere Amtshandlungen wie beispielsweise Trauungen oder Verpflichtungen können ebenfalls nur im kleinen Kreis durchgeführt werden.
 Für alle Amtshandlungen ist rechtzeitig Rücksprache mit der Gemeindeleitung zu halten.
