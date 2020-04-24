@@ -33,4 +33,4 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
 
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<br>
-[Gottesdienst Gemeinde Wittenberg](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg.html)
+[Gottesdienst Gemeinde Wittenberg](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg.html) (Sonntag um 13 Uhr)
