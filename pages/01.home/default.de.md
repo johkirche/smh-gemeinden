@@ -34,3 +34,5 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<br>
 [Gottesdienst Gemeinde Wittenberg](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg.html) (Sonntag um 13 Uhr)
+
+[Gottesdienst Gemeinde Bremen](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (Samstag, 25.04.2020 um 13 uhr)
