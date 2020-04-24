@@ -16,7 +16,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Der Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html) (kein Passwort erforderlich)
 * 13.00 Uhr in Wittenberg: **Gemeindegottesdienst**: Der Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg.html) (kein Passwort erforderlich)
 
-* Samstag, 25.04.2020 um 13.00 Uhr in Bremen: **Gemeindegottesdienst**: Der Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
+* Samstag, 25.04.2020 um 13.00 Uhr in Bremen: **Gemeindegottesdienst**: Der Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html) (kein Passwort erforderlich)
 
 # Gottesdienste via Telefon am Sonntag, den 26.04.2020
 Zudem finden folgende **Gottesdienste** statt, an denen **telefonisch** teilgenommen werden kann:
