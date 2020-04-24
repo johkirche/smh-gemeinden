@@ -13,7 +13,8 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (kein Passwort erforderlich)
-* 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Der Link zur Videoübertragung wird später bekanntgegeben.
+* 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Der Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html) (kein Passwort erforderlich)
+* 13.00 Uhr in Wittenberg: **Gemeindegottesdienst**: Der Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg.html) (kein Passwort erforderlich)
 
 # Gottesdienste via Telefon am Sonntag, den 26.04.2020
 Zudem finden folgende **Gottesdienste** statt, an denen **telefonisch** teilgenommen werden kann:
