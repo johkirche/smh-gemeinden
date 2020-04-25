@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Schwester Brigitte Drohula'
+media_order: friedhof_friedensstadt_grabsteine.jpg
 date: '25-04-2020 20:52'
 publish_date: '25-04-2020 20:52'
 unpublish_date: '10-05-2020 23:59'
