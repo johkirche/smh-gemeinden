@@ -1,5 +1,5 @@
 ---
-title: 'Deine Osterwünsche 2020'
+title: 'Eure Osterwünsche 2020 gemeinsam anhören'
 date: '09-04-2020 20:38'
 publish_date: '09-04-2020 20:38'
 unpublish_date: '04-05-2020 23:59'
