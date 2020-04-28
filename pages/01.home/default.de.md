@@ -41,8 +41,12 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
 <br><br><br>
-# Telefonübertragungen
-Telefonische Einwahldaten:
+# Telefongottesdienste und -abendgebete
+Telefonische Einwahldaten zu Gottesdiensten:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16682 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * Pin: 24081855
+
+Telefonische Einwahldaten zu täglichen Abendgebeten um 17 und um 21 Uhr
+* Telefonnummern und Pin siehe telefonischen Gottesdiensten
+* Konferenznummer: 31909
