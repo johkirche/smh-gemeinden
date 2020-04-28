@@ -40,7 +40,8 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (entfällt aus technischen gründen) |
 
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
-<br>
+
+# Telefonübertragung
 Telefonische Einwahldaten:
 * Festnetznummern 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16682 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
