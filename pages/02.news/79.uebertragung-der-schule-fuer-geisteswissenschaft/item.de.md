@@ -18,7 +18,3 @@ Eine Teilnahme am Telefon ist über die bekannten Einwahldaten der Gottesdienst�
 * Passwort: 24081855#
 
 Die Videoübertragung erfolgt über die Mediatek auf der Webseite der Johannischen Kirche unter [www.johannische-kirche.org/mediathek.html](https://www.johannische-kirche.org/mediathek.html).
-#Gruppen
-#Amtsträger
-#Telefon
-#Video
