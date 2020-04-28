@@ -29,7 +29,7 @@ Der näcshte Video- und Telefongottesdienst findet am Mittowch, den 29.04.2020 u
 |  |  |
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
-<br><br>
+<br>
 
 Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 
@@ -40,3 +40,8 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (entfällt aus technischen gründen) |
 
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
+<br>
+Telefonische Einwahldaten:
+* Festnetznummern 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer St.-Michaels-Heim: 16682 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
+* Pin: 24081855
