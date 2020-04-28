@@ -16,7 +16,10 @@ taxonomy:
 ---
 Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) - sind am 2. Mai alle Kirchenmitglieder herzlich eingeladen. Die Fortbildung ist öffentlich und wird ausschließlich telefonisch und via Videolivestream übertragen. Der offene Vortrag, mit dem Thema "Der Kreuzweg" beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
 
-Eine Teilnahme am Telefon ist über die bekannten Nummern der Gottesdienstübertragung möglich (Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00 SMH: Konferenznummer: 16882
+Eine Teilnahme am Telefon ist über die bekannten Nummern der Gottesdienstübertragung möglich (Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00 SMH: Konferenznummer: 16882 - PIN: 24081855)
+
+Die Videoübertragung erfolgt über die Mediatek auf [www.johannische-kirche.org/mediathek.html](https://www.johannische-kirche.org/mediathek.html).
+
 
 
 **Veranstaltungsort:** Kirche St.-Michaels-Heim
