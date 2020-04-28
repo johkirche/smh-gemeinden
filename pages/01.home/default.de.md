@@ -25,6 +25,8 @@ Besucher und Gäste sind herzlich willkommen!
 <br><br><br>
 # Videogottesdienste
 Der näcshte Video- und Telefongottesdienst findet am Mittowch, den 29.04.2020 um 19 Uhr im St.-Michaels-Heim statt.
+|  |  |
+| ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 
 Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
