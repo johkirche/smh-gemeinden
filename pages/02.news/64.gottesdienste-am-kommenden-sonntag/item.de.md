@@ -9,11 +9,6 @@ show_sidebar: false
 Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in verschiedenen Gemeinden der Johannischen Kirche statt. In diesem Artikel findet ihr alle Informationen.
 
 ===
-# Gottesdienst via Videolivestram und Telefonübertragung am Mittwoch, den 29.04.2020 um 19 Uhr
-Am kommenden Mittwoch findet um 19 Uhr ein Gottesdienst statt, an denen mit einem **Videolivestream oder telefonisch** teilgenommen werden kann:
-* 19.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) (kein Passwort erforderlich)
-* 19.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: 030/ 201 63 49 00** oder 089 / 121 40 59 00 (deutsches Festnetz), Konferenznummer: 16882, Passwort: 24081855.
-
 # Gottesdienste via Videolivestream am Sonntag, den 03.05.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (kein Passwort erforderlich)
@@ -47,3 +42,51 @@ Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließ
 
 ## Ergänzende Hinweise 
 Die Gottesdienste, die aus den jeweiligen Gemeinderegionen übertragen werden, sollen ganz besonders die dortige geistige Arbeit kräftigen und die Gemeindemitglieder vor Ort miteinander verbinden, ausrichten und schützen. Es wird versucht, aus möglichst vielen Regionen Gottesdienste übertragen zu können. Darüber hinaus gilt eine herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
+
+
+# Gottesdienste via Videolivestream am Samstag, den 09.05.2020
+Am Samstag, den 09.05.2020, finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 13.00 Uhr in Bremen: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html)
+
+# Gottesdienste via Telefon am Samstag, den 09.05.2020
+Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
+* 13 Uhr in Bremen: Gemeindegottesdienst (Konferenznummer: 31909)
+* 14 Uhr in Jena: Gemeindegottesdienst (Konferenznummer: 92885)
+* 15 Uhr in Straßfurt/Quedlinburg: Gemeindegottesdienst (Konferenznummer: 31909)
+
+# Gottesdienste via Videolivestream am Sonntag, den 10.05.2020
+Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* 11.00 Uhr im Waldfrieden (Urgemeinde): **Geistfreundrede (95 Jahre Urgemeinde)**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
+* 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
+* 13.00 Uhr in Wittenberg und Elster: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
+* 15.30 Uhr in Düsseldorf und Dortmund: **Geistfreundrede**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund.html)
+
+# Gottesdienste via Telefon am Sonntag, den 17.05.2020
+Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
+
+| Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> |  | <center>Gößweinstein</center> |
+| <center>12 Uhr</center> | <center>Dresden</center> | <center>Hannover</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
+| <center>13 Uhr</center> | | <center>Kaulsdorf</center> | <center>Wittenberg und Elster</center> | |
+| <center>14.00 Uhr</center> | <center>Baden-Baden (in Tiengen)</center> | | | |
+| <center>15.30 Uhr</center> | | <center>Leipzig</center> | <center>14.00 Uhr</center> |
+
+# Gottesdienste via Videolivestream am Sonntag, den 17.05.2020
+Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
+* 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
+* 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
+* 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
+
+# Gottesdienste via Telefon am Sonntag, den 17.05.2020
+Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
+
+| Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> |  | <center>Gößweinstein</center> |
+| <center>12 Uhr</center> | <center>Schwedt, Fürstenwalde, FFO</center> | <center>Güstrow</center> | <center>Ahrensburg</center> | |
+| <center>13 Uhr</center> | | <center>Kaulsdorf</center> | <center>Elster und Wittenberg</center> | |
+| <center>14.30 Uhr</center> | | <center>Lausitz</center> | | |
