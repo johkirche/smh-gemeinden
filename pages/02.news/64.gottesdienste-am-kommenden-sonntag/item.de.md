@@ -86,7 +86,7 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 
 | Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> |  | <center>Gößweinstein</center> |
+| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
 | <center>12 Uhr</center> | <center>Schwedt, Fürstenwalde, FFO</center> | <center>Güstrow</center> | <center>Ahrensburg</center> | |
 | <center>13 Uhr</center> | | <center>Kaulsdorf</center> | <center>Elster und Wittenberg</center> | |
 | <center>14.30 Uhr</center> | | <center>Lausitz</center> | | |
