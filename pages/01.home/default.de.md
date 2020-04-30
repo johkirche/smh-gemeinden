@@ -24,13 +24,6 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
 # Videogottesdienste
-Der näcshte Video- und Telefongottesdienst findet am Mittowch, den 29.04.2020 um 19 Uhr im St.-Michaels-Heim statt.
-
-|  |  |
-| ------ | ----------- |
-| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
-<br>
-
 Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 
 |  |  |
@@ -40,6 +33,12 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (entfällt aus technischen gründen) |
 
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
+<br><br>
+Der näcshte Video- und Telefongottesdienst findet am Mittowch, den 13.05.2020 um 19 Uhr im St.-Michaels-Heim statt.
+
+|  |  |
+| ------ | ----------- |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 <br><br><br>
 # Telefongottesdienste und -abendgebete
 Telefonische Einwahldaten zu Gottesdiensten:
