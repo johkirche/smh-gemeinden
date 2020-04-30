@@ -67,11 +67,11 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 
 | Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> |  | <center>Gößweinstein</center> |
+| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden (Gfr.)</center> |  | <center>Gößweinstein</center> |
 | <center>12 Uhr</center> | <center>Dresden</center> | <center>Hannover</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
 | <center>13 Uhr</center> | | <center>Kaulsdorf</center> | <center>Wittenberg und Elster</center> | |
 | <center>14.00 Uhr</center> | <center>Baden-Baden (in Tiengen)</center> | | | |
-| <center>15.30 Uhr</center> | | <center>Leipzig</center> | <center>14.00 Uhr</center> |
+| <center>15.30 Uhr</center> | | <center>Leipzig</center> | <center>Düsseldorf und Dortmund (Gfr.)</center> |
 
 # Gottesdienste via Videolivestream am Sonntag, den 17.05.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
