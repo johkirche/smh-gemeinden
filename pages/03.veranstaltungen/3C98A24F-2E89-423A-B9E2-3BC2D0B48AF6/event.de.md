@@ -8,9 +8,9 @@ rule:
 event:
 	start: 17-05-2020 11:00
 	end: 17-05-2020 11:30
-	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
+	location: ''
 taxonomy:
-	kategorie: ['Gottesdienst','Telefon','Video']
+	kategorie: ['Gottesdienst','Telefon','Online']
 	monat: ['Mai 2020']
 
 ---
@@ -21,5 +21,5 @@ Aktuell finden alle Gottesdienste als Video- und Telefongottesdienste statt. Der
 
 
 
-**Veranstaltungsort:** Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland
+**Veranstaltungsort:** 
 

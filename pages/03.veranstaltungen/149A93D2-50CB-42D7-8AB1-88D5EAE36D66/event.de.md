@@ -10,7 +10,7 @@ event:
 	end: 24-06-2020 19:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
-	kategorie: ['Gottesdienst','Telefon','Video']
+	kategorie: ['Gottesdienst','Telefon','Online']
 	monat: ['Juni 2020']
 
 ---
