@@ -43,7 +43,7 @@ Der näcshte Video- und Telefongottesdienst an einem Mittowch findet am 13.05.20
 # Telefongottesdienste und -abendgebete
 Telefonische Einwahldaten zu Gottesdiensten:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
-* Konferenznummer St.-Michaels-Heim: 16682 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
+* Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * Pin: 24081855
 
 Telefonische Einwahldaten zu täglichen Abendgebeten um 17 und um 21 Uhr:
