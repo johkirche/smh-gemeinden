@@ -32,8 +32,8 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 | [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden (Gfr.)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (entfällt aus technischen gründen) |
 
-[Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
-[Gottesdienst Gemeinde Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr)
+[Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<br>
+[Gottesdienst Gemeinde Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr)<br>
 [Gottesdienst Gemeinde Düsseldorf (Gfr.)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund.html) (15.30 Uhr)
 <br><br>
 Der näcshte Video- und Telefongottesdienst an einem Mittowch findet am 13.05.2020 um 19 Uhr im St.-Michaels-Heim statt.
