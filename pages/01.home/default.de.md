@@ -36,11 +36,12 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 [Gottesdienst Gemeinde Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr)<br>
 [Gottesdienst Gemeinde Düsseldorf (Gfr.)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund.html) (15.30 Uhr)
 <br><br>
-Der näcshte Video- und Telefongottesdienst an einem Mittowch findet am 13.05.2020 um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 13.05.2020 um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+[plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
 <br><br><br>
 # Telefongottesdienste und -abendgebete
 Telefonische Einwahldaten zu Gottesdiensten:
@@ -52,4 +53,5 @@ Telefonische Einwahldaten zu täglichen Abendgebeten um 17 und um 21 Uhr:
 * Telefonnummern und Pin siehe telefonischen Gottesdiensten
 * Konferenznummer: 31909   
    
-[plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
+
+[plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
