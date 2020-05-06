@@ -41,6 +41,7 @@ Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 13.05.20
 |  |  |
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+Eine Hilfestellung für die Nutzung der Videoübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
 <br><br><br>
 # Telefongottesdienste und -abendgebete
@@ -53,5 +54,5 @@ Telefonische Einwahldaten zu täglichen Abendgebeten um 17 und um 21 Uhr:
 * Telefonnummern und Pin siehe telefonischen Gottesdiensten
 * Konferenznummer: 31909   
    
-
+Eine Hilfestellung für die Nutzung der Telefonübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
