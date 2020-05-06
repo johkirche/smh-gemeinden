@@ -35,7 +35,6 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden (Gfr.)</center> |  | <center>Gößweinstein</center> |
 | <center>12 Uhr</center> | <center>Dresden</center> | <center>Hannover</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
 | <center>13 Uhr</center> | | <center>Kaulsdorf</center> | <center>Wittenberg und Elster</center> | |
-| <center>14.00 Uhr</center> | <center>Baden-Baden (in Tiengen)</center> | | | |
 | <center>15.30 Uhr</center> | | <center>Leipzig</center> | <center>Düsseldorf und Dortmund (Gfr.)</center> |
 
 # Gemeinsames Abendgebet via Telefon (täglich)
