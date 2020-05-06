@@ -73,6 +73,7 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * ...
 <br><br>
 ## Druchgeführte Sonderaktionen
+
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
 ![](music-656593_1920.jpg?cropResize=700,700)<br>
 Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
