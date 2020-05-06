@@ -113,13 +113,13 @@ In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt �
 [Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
 
 ### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
-![](the-conference-3248255_1920.jpg?cropResize=700,700)
+![](the-conference-3248255_1920.jpg?cropResize=700,700)<br>
 Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
 
 ### Telefonvortrag: "... denn er lebt!"
-![](the-conference-3248255_1920.jpg?cropResize=700,700)
+![](the-conference-3248255_1920.jpg?cropResize=700,700)<br>
 Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!". [Alle weiteren Informationen zu dem Vortrag findet ihr in der Newsmeldung.](https://smh-gemeinden.de/news/vortrag-denn-er-lebt)
 
 ### Gemeinschaftsabend mit Telefon- und Videokonferenz
-![](handshake-3382503_1920.jpg?cropResize=700,700)
+![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
 Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
