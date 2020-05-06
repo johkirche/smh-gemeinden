@@ -105,7 +105,7 @@ Weitere Informationen:
 * Videoteilnahme: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
 
 ### Videopassionsspiel
-![](8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg?cropResize=700,700)
+![](https://smh-gemeinden.de/user/pages/02.news/66.so-nehmt-ihn-hin-passionsspiel-der-johannische-kirche-verschoben/csm_DSC02599_76605b73f2.jpg?cropResize=700,700)
 
 In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
 
