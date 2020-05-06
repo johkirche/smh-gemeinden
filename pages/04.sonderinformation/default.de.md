@@ -34,6 +34,7 @@ Weitere Informationen:
 * [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 <br><br>
+
 ## Abendgebete in Telefongemeinschaft
 ![](study-862994_1920.jpg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
@@ -46,10 +47,12 @@ Telefonischen Einwahldaten zu den Abendgebeten:
 * Passwort: 24082855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
+
 ## Veränderungen rund um das Sakrament der geistigen Heilung
 ![](csm_sakrament_2-1_07071db1a5.jpg?cropResize=700,700)<br>
 [Das Sakrament der geistigen Heilung](https://www.johannische-kirche.org/lebenshilfe-und-angebote/sakramente/sakrament-der-geistigen-heilung.html) wird weiterhin  jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen werden weiterhin – soweit möglich – angeboten. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den [gewohnten Zeiten im St.-Michaels-Heim](https://smh-gemeinden.de/veranstaltungen/kategorie:Sakrament) angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln. Daher wird beim Spenden des Sakraments sowie in der Sprechstunde ein Abstand von 2m eingehalten. Zudem bitten wir die [weiterführenden Informationen](https://smh-gemeinden.de/news/informationen-zum-sakrament-der-geistigen-heilung-im-st-michaels-heim) zu beachten.
 <br><br>
+
 ## Telefonübertragung von Abschiedsfeiern
 ![](52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg?cropResize=700,700)<br>
 Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abschiedsfeiern kann telefonisch beigewohnt werden. Die Einwahldaten sind:
@@ -58,9 +61,11 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 * PIN: 24081855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 <br><br>
+
 ## Neue Angebote in der Erprobung
 Aktuell keine Einträge. Bitte bringt euch mit Ideen ein.
 <br><br>
+
 ## Mach mit!
 ![](help-4955863_1920.jpg?cropResize=700,700)<br>
 Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und Durchführung weiterer Angebote in dieser ganz besonderen Zeit mitzugestalten. Bitte zögert nicht, mit euren Ideen, Wünschen und Vorschlägen euch direkt an eure Gemeindeleitungen und -helfer zu werden. Gerne könnt ihr dafür auch die [Kontaktadresse](https://smh-gemeinden.de/kontakt) auf der Webseite nutzen. Sehr gerne könnt ihr auch bestehende Ideen aufgreifen und bei der Umsetzung unterstützen. Du wirst gebraucht!
@@ -72,6 +77,7 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
 * ...
 <br><br>
+
 ## Druchgeführte Sonderaktionen
 
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
