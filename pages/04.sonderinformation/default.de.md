@@ -67,7 +67,7 @@ Aktuell keine Einträge. Bitte bringt euch mit Ideen ein.
 <br><br>
 
 ### Gemeindebrief online und via Post
-![](108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg?forceResize=900,900)<br>
+![](108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg?forceResize=700,700)<br>
 Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig online und auch via Post bezogen werden. Allte weitern Informationen unter: [https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden).
 <br><br>
 
