@@ -9,12 +9,12 @@ Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehe
 <br><br>
 
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
-![](newspapers-444448_1920.jpg?cropResize=700)<br>
+![](newspapers-444448_1920.jpg?cropResize=700,700)<br>
 Liebe Geschwister und liebe Freunde, es gibt aktuelle Informationen des Kirchenvorstands zur Gestaltung der Kirchenarbeit in den kommenden Wochen. Die vollständige Abkündigung findet ihr unter: [https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag](https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag)
 <br><br>
 
 ## Telefon- und Videogottesdienste
-![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)
+![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
 
 Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
@@ -35,7 +35,7 @@ Weitere Informationen:
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 <br><br>
 ## Abendgebete in Telefongemeinschaft
-![](study-862994_1920.jpg?cropResize=700,700)
+![](study-862994_1920.jpg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
 * 17 Uhr (übertragen aus der Friedensstadt) und
 * 21 Uhr (übertragen von wechselnden Orten Deutschlandweit)
