@@ -9,12 +9,12 @@ Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehe
 <br><br>
 
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/newspapers-444448_1920.jpg)
+![](newspapers-444448_1920.jpg?cropResize=700,700)
 Liebe Geschwister und liebe Freunde, es gibt aktuelle Informationen des Kirchenvorstands zur Gestaltung der Kirchenarbeit in den kommenden Wochen. Die vollständige Abkündigung findet ihr unter: [https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag](https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag)
 <br><br>
 
 ## Telefon- und Videogottesdienste
-![](csm_IMG_1064_aac979a1a7.jpg)
+![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
 
 Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
@@ -35,7 +35,7 @@ Weitere Informationen:
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 <br><br>
 ## Abendgebete in Telefongemeinschaft
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/study-862994_1920.jpg)
+![](study-862994_1920.jpg?cropResize=700,700)
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
 * 17 Uhr (übertragen aus der Friedensstadt) und
 * 21 Uhr (übertragen von wechselnden Orten Deutschlandweit)
@@ -47,7 +47,7 @@ Telefonischen Einwahldaten zu den Abendgebeten:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 ## Veränderungen rund um das Sakrament der geistigen Heilung
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/csm_sakrament_2-1_07071db1a5.jpg)
+![](csm_sakrament_2-1_07071db1a5.jpg?cropResize=700,700)
 [Das Sakrament der geistigen Heilung](https://www.johannische-kirche.org/lebenshilfe-und-angebote/sakramente/sakrament-der-geistigen-heilung.html) wird weiterhin  jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen werden weiterhin – soweit möglich – angeboten. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den [gewohnten Zeiten im St.-Michaels-Heim](https://smh-gemeinden.de/veranstaltungen/kategorie:Sakrament) angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln. Daher wird beim Spenden des Sakraments sowie in der Sprechstunde ein Abstand von 2m eingehalten. Zudem bitten wir die [weiterführenden Informationen](https://smh-gemeinden.de/news/informationen-zum-sakrament-der-geistigen-heilung-im-st-michaels-heim) zu beachten.
 <br><br>
 ## Telefonübertragung von Abschiedsfeiern
@@ -63,7 +63,7 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 Aktuell keine Einträge. Bitte bringt euch mit Ideen ein.
 <br><br>
 ## Mach mit!
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/help-4955863_1920.jpg)
+![](help-4955863_1920.jpg?cropResize=700,700)
 Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und Durchführung weiterer Angebote in dieser ganz besonderen Zeit mitzugestalten. Bitte zögert nicht, mit euren Ideen, Wünschen und Vorschlägen euch direkt an eure Gemeindeleitungen und -helfer zu werden. Gerne könnt ihr dafür auch die [Kontaktadresse](https://smh-gemeinden.de/kontakt) auf der Webseite nutzen. Sehr gerne könnt ihr auch bestehende Ideen aufgreifen und bei der Umsetzung unterstützen. Du wirst gebraucht!
 
 Aktuelle Ideen, die noch deine Hilfe brauchen:
@@ -75,7 +75,7 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 <br><br>
 ## Druchgeführte Sonderaktionen
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
+![](music-656593_1920.jpg?cropResize=700,700)
 Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature=youtu.be) so viel Freude gemacht hat, gibt es nun eine Osterfortsetzung.
 
 Wer am **Ostersonntag um 19:30 Uhr** am gemeinsamen Singen zum Thema **„Lieder zum Osterfest“** nicht teilnehmen konnte, gelangt durch das Klicken auf den folgenden Link zum Video: https://youtu.be/wJXCx10lqrM
@@ -83,21 +83,21 @@ Wer am **Ostersonntag um 19:30 Uhr** am gemeinsamen Singen zum Thema **„Lieder
 Weitere Informationen gibt es auch in unseren News unter: [https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest](https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest)
 
 ### Offenes Singen via YouTube
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/music-656593_1920.jpg)
+![](music-656593_1920.jpg?cropResize=700,700)
 Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden: [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
 
 ### Vorbereitung auf das Abendmahl nicht nur für Kinder
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
+![](worship-2964803_1920.jpg?cropResize=700,700)
 Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das eigentlich bisher mit dem Abendmahl? Wie soll das Abendmahl gehen, wenn wir den Wein und das Brot nicht durch den Computer schieben können? Warum knien wir uns hin und sprechen das Gottesbekenntnis? Wie kann ich mich als Kind auf das Abendmahl vorbereiten? Klikt einfach auf diesen Link: [https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl](https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl)
 
 ### Öffentliche Schule für Geisteswissenschaft am 2. Mai 2020
-![](csm_IMG_1064_aac979a1a7.jpg)
+![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)
 Die Schule für Geisteswissenschaften für Amtsträger der Johannischen Kirche findet am Samstag, den 02.05.2020 um 18 Uhr statt.
 
 Zu der Schule an diesem Tag sind alle Geschwister und Glaubensfreunde herzlich eingeladen. Die Fortbildung ist öffentlich und wird ausschließlich telefonisch und via Videolivestream übertragen. Die einwahldaten entsprechen denen der Gottesdienste im St.-Michaels-Heim und sind auf der [Startseite](www.smh-gemeinden.de) zu fidnen. Der Vortrag, mit dem Thema „Der Kreuzweg“, beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
 
 ### Veränderungen beim Sakrament des Abendmahls
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
+![](worship-2964803_1920.jpg?cropResize=700,700)
 Am Karfreitag finden zwei Video- und Telefongottesdienste statt, in denen das Sakrament des Abendmahls gespendet wird. Die Gottesdiesnte werden aus dem St.-Michaels-Heim übertragen und finden um 11 Uhr und um 19 Uhr statt.
 
 Weitere Informationen:
@@ -106,22 +106,22 @@ Weitere Informationen:
 * Videoteilnahme: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
 
 ### Videopassionsspiel
-![](https://smh-gemeinden.de/user/pages/02.news/77.videopassionsspiel/8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg)
+![](8D3F89D5-DD24-45D6-96FB-A1E864200F94.jpeg?cropResize=700,700)
 
 In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
 
 ### Deine Osterwünsche
-![](https://smh-gemeinden.de/user/pages/02.news/75.deine-osterwuensche-2020/easter-egg-3257201_1920.jpg)
+![](easter-egg-3257201_1920.jpg?cropResize=700,700)
 [Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
 
 ### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
-![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
+![](70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg?cropResize=700,700)
 Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
 
 ### Telefonvortrag: "... denn er lebt!"
-![](https://smh-gemeinden.de/user/pages/02.news/70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg)
+![](the-conference-3248255_1920.jpg?cropResize=700,700)
 Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!". [Alle weiteren Informationen zu dem Vortrag findet ihr in der Newsmeldung.](https://smh-gemeinden.de/news/vortrag-denn-er-lebt)
 
 ### Gemeinschaftsabend mit Telefon- und Videokonferenz
-![](https://smh-gemeinden.de/user/pages/04.sonderinformation/handshake-3382503_1920.jpg)
+![](handshake-3382503_1920.jpg?cropResize=700,700)
 Am Freitag, den 3. April erproben wir den ersten Gemeinschaftsabend mit Gesprächskreis, der ausschließlich telefonisch und via Videokonferenz stattfindet. [Weitere Informationen in den News](https://smh-gemeinden.de/news/gemeinschaftsabend-online-und-am-telefon).
