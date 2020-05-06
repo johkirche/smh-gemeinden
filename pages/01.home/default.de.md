@@ -36,7 +36,7 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 [Gottesdienst Gemeinde Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr)<br>
 [Gottesdienst Gemeinde Düsseldorf (Gfr.)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund.html) (15.30 Uhr)
 <br><br>
-Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 13.05.2020 um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 27.05.2020 um 19 Uhr im St.-Michaels-Heim statt. Der Mittwochgottesdienst am 13.05.2020 entfällt.
 
 |  |  |
 | ------ | ----------- |
