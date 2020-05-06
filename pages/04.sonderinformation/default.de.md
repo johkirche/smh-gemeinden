@@ -72,7 +72,7 @@ Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig onl
 <br><br>
 
 ## Mach mit!
-![](help-4955863_1920.jpg?corpResize=700,700)<br>
+![](help-4955863_1920.jpg?forceResize=700,700)<br>
 Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und Durchführung weiterer Angebote in dieser ganz besonderen Zeit mitzugestalten. Bitte zögert nicht, mit euren Ideen, Wünschen und Vorschlägen euch direkt an eure Gemeindeleitungen und -helfer zu werden. Gerne könnt ihr dafür auch die [Kontaktadresse](https://smh-gemeinden.de/kontakt) auf der Webseite nutzen. Sehr gerne könnt ihr auch bestehende Ideen aufgreifen und bei der Umsetzung unterstützen. Du wirst gebraucht!
 
 Aktuelle Ideen, die noch deine Hilfe brauchen:
