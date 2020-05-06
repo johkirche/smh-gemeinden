@@ -6,8 +6,8 @@ cache_enable: true
 date: 13-05-20
 rule: 
 event:
-	start: 13-05-2020 19:30
-	end: 13-05-2020 21:00
+	start: 13-05-2020 19:00
+	end: 13-05-2020 20:30
 	location: 'St.-Michaels-Heim Jugendraum Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gruppen','Telefon','Online']

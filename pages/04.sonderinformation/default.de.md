@@ -90,6 +90,12 @@ Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
 Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das eigentlich bisher mit dem Abendmahl? Wie soll das Abendmahl gehen, wenn wir den Wein und das Brot nicht durch den Computer schieben können? Warum knien wir uns hin und sprechen das Gottesbekenntnis? Wie kann ich mich als Kind auf das Abendmahl vorbereiten? Klikt einfach auf diesen Link: [https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl](https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl)
 
+### Öffentliche Schule für Geisteswissenschaft am 2. Mai 2020
+![](csm_IMG_1064_aac979a1a7.jpg)
+Die Schule für Geisteswissenschaften für Amtsträger der Johannischen Kirche findet am Samstag, den 02.05.2020 um 18 Uhr statt.
+
+Zu der Schule an diesem Tag sind alle Geschwister und Glaubensfreunde herzlich eingeladen. Die Fortbildung ist öffentlich und wird ausschließlich telefonisch und via Videolivestream übertragen. Die einwahldaten entsprechen denen der Gottesdienste im St.-Michaels-Heim und sind auf der [Startseite](smh-gemeinden.de) zu fidnen. Der Vortrag, mit dem Thema „Der Kreuzweg“, beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
+
 ### Veränderungen beim Sakrament des Abendmahls
 ![](https://smh-gemeinden.de/user/pages/04.sonderinformation/worship-2964803_1920.jpg)
 Am Karfreitag finden zwei Video- und Telefongottesdienste statt, in denen das Sakrament des Abendmahls gespendet wird. Die Gottesdiesnte werden aus dem St.-Michaels-Heim übertragen und finden um 11 Uhr und um 19 Uhr statt.
