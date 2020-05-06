@@ -51,7 +51,7 @@ Telefonischen Einwahldaten zu den Abendgebeten:
 [Das Sakrament der geistigen Heilung](https://www.johannische-kirche.org/lebenshilfe-und-angebote/sakramente/sakrament-der-geistigen-heilung.html) wird weiterhin  jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen werden weiterhin – soweit möglich – angeboten. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den [gewohnten Zeiten im St.-Michaels-Heim](https://smh-gemeinden.de/veranstaltungen/kategorie:Sakrament) angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln. Daher wird beim Spenden des Sakraments sowie in der Sprechstunde ein Abstand von 2m eingehalten. Zudem bitten wir die [weiterführenden Informationen](https://smh-gemeinden.de/news/informationen-zum-sakrament-der-geistigen-heilung-im-st-michaels-heim) zu beachten.
 <br><br>
 ## Telefonübertragung von Abschiedsfeiern
-![](52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg?cropResize=900,900)
+![](52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg?cropResize=700,700)
 
 Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abschiedsfeiern kann telefonisch beigewohnt werden. Die Einwahldaten sind:
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
