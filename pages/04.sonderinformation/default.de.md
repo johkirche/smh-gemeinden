@@ -9,7 +9,7 @@ Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehe
 <br><br>
 
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
-![](newspapers-444448_1920.jpg?cropResize=700,700)
+![](newspapers-444448_1920.jpg?cropResize=700)
 Liebe Geschwister und liebe Freunde, es gibt aktuelle Informationen des Kirchenvorstands zur Gestaltung der Kirchenarbeit in den kommenden Wochen. Die vollständige Abkündigung findet ihr unter: [https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag](https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag)
 <br><br>
 
