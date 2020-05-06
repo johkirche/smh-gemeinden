@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -105,8 +105,7 @@ Weitere Informationen:
 * Videoteilnahme: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
 
 ### Videopassionsspiel
-![](csm_DSC02599_76605b73f2.jpg?cropResize=700,700)
-
+![](csm_DSC02599_76605b73f2.jpg?cropResize=700,700)<br>
 In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
 
 ### Deine Osterwünsche
@@ -114,7 +113,7 @@ In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt �
 [Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
 
 ### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
-![](70.vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes/the-conference-3248255_1920.jpg?cropResize=700,700)
+![](the-conference-3248255_1920.jpg?cropResize=700,700)
 Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
 
 ### Telefonvortrag: "... denn er lebt!"
