@@ -54,12 +54,6 @@ Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließ
 ## Ergänzende Hinweise 
 Die Gottesdienste, die aus den jeweiligen Gemeinderegionen übertragen werden, sollen ganz besonders die dortige geistige Arbeit kräftigen und die Gemeindemitglieder vor Ort miteinander verbinden, ausrichten und schützen. Es wird versucht, aus möglichst vielen Regionen Gottesdienste übertragen zu können. Darüber hinaus gilt eine herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
 
-# Gottesdienst via Videolivestream und Telefon am Mittwochm, den 13.05.2020
-Am Mittwoch, den 13.05.2020 findet ein **Gottesdienst** statt, an dem mit einem **Videolivestream** oder via **Telefon** teilgenommen werden kann:
-* 19.00 Uhr im St.-Michaels-Heim:
-* Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-* Telefonübertragung: Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz), Konferenznummer: 16682, Pin: 24081855
-
 # Gottesdienste via Videolivestream am Sonntag, den 17.05.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
@@ -115,3 +109,9 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>12 Uhr</center> | <center>Düsseldorf</center> | <center>Hannover (G-Tag mit Straßfurt)</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
 | <center>13 Uhr</center> | <center>Dortmund</center> | <center>Kaulsdorf</center> | <center>Wittenberg</center> | |
 | <center>15.30 Uhr</center> | | <center>Lausitz</center> | | |
+
+# Gottesdienst via Videolivestream und Telefon am Mittwochm, den 27.05.2020
+Am Mittwoch, den 13.05.2020 findet ein **Gottesdienst** statt, an dem mit einem **Videolivestream** oder via **Telefon** teilgenommen werden kann:
+* 19.00 Uhr im St.-Michaels-Heim:
+* Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* Telefonübertragung: Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz), Konferenznummer: 16682, Pin: 24081855
