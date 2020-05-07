@@ -96,9 +96,9 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
 * 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
-* 12.00 Uhr in Düsseldorf: **Gemeindegottesdienst**: Link zur Videoübertragung
+* 12.00 Uhr in Düsseldorf: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)
 * 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
-* 13.00 Uhr in Dortmund: **Gemeindegottesdienst**: Link zur Videoübertragung
+* 13.00 Uhr in Dortmund: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)
 
 # Gottesdienste via Telefon am Sonntag, den 24.05.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
@@ -108,7 +108,8 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
 | <center>12 Uhr</center> | <center>Düsseldorf</center> | <center>Hannover (G-Tag mit Straßfurt)</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
 | <center>13 Uhr</center> | <center>Dortmund</center> | <center>Kaulsdorf</center> | <center>Wittenberg</center> | |
-| <center>15.30 Uhr</center> | | <center>Lausitz</center> | | |
+| <center>14 Uhr</center> | | | <center>Wiesbaden</center> | |
+| <center>15.30 Uhr</center> | | <center>Leipzig</center> | | |
 
 # Gottesdienst via Videolivestream und Telefon am Mittwochm, den 27.05.2020
 Am Mittwoch, den 13.05.2020 findet ein **Gottesdienst** statt, an dem mit einem **Videolivestream** oder via **Telefon** teilgenommen werden kann:
