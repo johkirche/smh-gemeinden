@@ -77,3 +77,41 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>12 Uhr</center> | <center>Schwedt, Fürstenwalde, FFO</center> | <center>Güstrow</center> | <center>Ahrensburg</center> | |
 | <center>13 Uhr</center> | | <center>Kaulsdorf</center> | <center>Elster und Wittenberg</center> | |
 | <center>14.30 Uhr</center> | | <center>Lausitz</center> | | |
+
+# Gottesdienste an Christi Himmelfahrt am Donnerstag, den 21.05.2020
+Christi Himmelfahrt finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
+
+Zudem finden Gottesdienste Statt, an denen via Telefon teilgenommen werden kann:
+* 11 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst** (Konferenznummer: 16882)
+* 11 Uhr in der Friedensstadt (Urgemeinde): **Gemeindegottesdienst** (Konferenznummer: 92885)
+* 13 Uhr in Kaulsdorf: **Gemeindegottesdienst** (Konferenznummer: 92885)
+
+# Gottesdienste via Telefon am Samstag, den 23.05.2020
+Am Samstag, den 23.05. finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
+
+| Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| <center>13 Uhr</center> | | | <center>Bremen</center> | |
+| <center>14 Uhr</center> | | <center>Jena</center> | | |
+| <center>15 Uhr</center> | | | <center>Straßfurt (mit Quedlinburg)</center> | |
+
+# Gottesdienste via Videolivestream am Sonntag, den 24.05.2020
+Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
+* 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
+* 12.00 Uhr in Düsseldorf: **Gemeindegottesdienst**: Link zur Videoübertragung
+* 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
+* 13.00 Uhr in Dortmund: **Gemeindegottesdienst**: Link zur Videoübertragung
+
+# Gottesdienste via Telefon am Sonntag, den 24.05.2020
+Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
+
+| Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
+| <center>12 Uhr</center> | <center>Düsseldorf</center> | <center>Hannover (G-Tag mit Straßfurt)</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
+| <center>13 Uhr</center> | <center>Dortmund</center> | <center>Kaulsdorf</center> | <center>Wittenberg</center> | |
+| <center>15.30 Uhr</center> | | <center>Lausitz</center> | | |
