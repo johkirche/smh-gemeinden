@@ -16,7 +16,7 @@ taxonomy:
 ---
 Im Anschluss an unseren Mittwochsgottesdienst laden die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein virtuell und telefonisch aus dem Jugendraum ein. 
 
-Wir laden herzlich ein mit Gedankenanregungen  zur Einleitung, mit anschließendem Austausch,
+Wir laden herzlich ein mit Gedankenanregungen zur Einleitung, mit anschließendem Austausch,
 zum Thema: Wie helfe ich der Schöpfung, der Erde, uns Menschen. Das Thema ist "Zeit für Veränderung: In uns selbst und dann in der Welt"
 Gesunder Boden = Gesundes Wasser = Gesunde Pflanze = Gesundes Tier = Gesunder Mensch. Meiko Röper ist zu Gast und moderiert den Gemeinschaftsabend.
 

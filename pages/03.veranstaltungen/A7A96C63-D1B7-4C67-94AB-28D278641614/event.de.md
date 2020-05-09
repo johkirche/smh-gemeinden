@@ -7,18 +7,18 @@ date: 13-05-20
 rule: 
 event:
 	start: 13-05-2020 19:00
-	end: 13-05-2020 20:30
+	end: 13-05-2020 21:00
 	location: 'St.-Michaels-Heim Jugendraum Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gruppen','Telefon','Online']
 	monat: ['Mai 2020']
 
 ---
-Im Anschluss an unseren Mittwochsgottesdienst laden die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein virtuell und telefonisch aus dem Salon Mendelssohn ein. 
+Am Mittwoch laden um 19 Uhr die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein virtuell und telefonisch ein.
 
-Wir interviewen den Vorstand des Johannischen Sozialwerks e.V. und sprechen über das Thema Das Sozialwerk in Coronazeiten. Alle Geschwister und Freunde sind herzlich eingeladen.
+Auf Grundlage der Geistfreundrede vom vergangenen Silvester möchten wir gemeinsam ins Gespräch kommen über Überbrückung von uns zum anderen und auch zu anderen Glaubensgemeinschaften und darüber, wie wir in unserem Gemeindeleben heute, in einer Zeit in der wir angehalten sind, körperlich Abstand zu halten, überbrücken und Liebe schenken können.
 
-Wir übertragen Bild und Ton über den Lifestream des Gottesdienstes unter [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) und bieten eine Telefonübertragung. Für die Telefonübertragung stehen die Rufnummern (030) 201 63 49 00 und (089) 121 40 59 00 zur Verfügung. Anschließend werden die Konferenznummer 16882 und der Pin 24081855 benötigt.
+Wir treffen uns in einer Video- und Telefonkonferenz. Es wäre schön, wenn wir wie zu Gemeinschaftsabende üblich uns mit etwas Essen oder einem Getränk auf diese Weise zusammenfinden und ins Gespräch kommen. Wir enden um 21 Uhr mit einem gemeinsamen Abendgebet. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telefonisch von Fabian
 
 
 
