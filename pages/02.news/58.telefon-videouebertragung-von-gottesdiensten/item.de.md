@@ -21,15 +21,16 @@ Die Video-Übertragung kann wie folgt gestartet werden:
 * Auf der Webseite mit dem Live-Stream auf Play klicken, wenn die nicht Übertragung selbstständig startet.
 * Sollten Probleme auftreten, gibt es hier [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
 
-Im St.-Michaels-Heim wird am kommenden Sonntag eine Kindergottesdienst-Predigt gehalten. Die Religionsprediger bitten die Erwachsenen, sich diese mit ihren Kindern gemeinsam anzuschauen bzw. anzuhören.
+Im St.-Michaels-Heim werden vierzehntägig Sonntag um 11 Uhr Kindergottesdienste angeboten, die per Video übertragen werden. Die Religionsprediger bitten die Erwachsenen, sich diese mit ihren Kindern gemeinsam anzuschauen bzw. anzuhören. Der Link zum Livestram ist: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
 
-Die Predigten aus der Kirche im **Waldfrieden** werden telefonisch übertragen. An einer zusätzlichen Videoübertragung wird gearbeitet.
+Die Predigten aus der Kirche im **Waldfrieden** werden telefonisch und per Video übertragen.
 Die telefonischen Einwahldaten lauten:
 * Tel.: (030) 201 63 49 00 oder (089) 121 40 59 00
 * Konferenznummer: 92885#
-* PIN: 24081855#   
+* PIN: 24081855#
+* Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
 
-In den Gemeinden **Lausitz** und **Elster&Wittenberg** wird am kommenden Sonntag eine Predigt gehalten, die für die jeweiligen Gemeindemitglieder telefonisch übertragen wird. Es wird daran gearbeitet, dies wechselseitig für weitere unserer Gemeinden zu ermöglichen.   
+Auch in vielen anderen Gemeinden finden Gottesdienste statt, die via Telefon und oder per Videoübertragung besucht werden können. Eine Übersicht, die fortlaufend akualisiert wird, findet ihr unter folgendem Link: [https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 
 Bitte startet alle Übertragungsmöglichkeiten ca. 10 Minuten vor Beginn der Predigt. Bei telefonischen Einwahlproblemen bitte wiederholt auf beiden Rufnummern probieren, aktuell sind die Systeme der technischen Dienstleister mitunter überlastet.
 
