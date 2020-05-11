@@ -10,7 +10,7 @@ Am **Mittwoch, den 13. Mai** laden um **19 Uhr** die St.-Michaels-Heim-Gemeinden
 
 **Auf Grundlage der Geistfreundrede vom vergangenen Jahreswechsel möchten wir gemeinsam ins Gespräch kommen über Überbrückung von uns zum anderen und auch zu anderen Glaubensgemeinschaften und darüber, wie wir in unserem Gemeindeleben heute, in einer Zeit, in der wir angehalten sind körperlich Abstand zu halten, überbrücken, füreinander da sein und Liebe schenken können.**
 
-Wir treffen uns in einer Video- und Telefonkonferenz. Es wäre schön, wenn wir wie zu unseren Gemeinschaftsabenden üblich, uns mit etwas Essen oder einem Getränk auf diese Weise zusammenfinden und ins Gespräch kommen. Wir enden spätestens um 21 Uhr mit einem gemeinsamen Abendgebet. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telefonisch von Fabian, Gemeindeleitung Steglitz.
+Wir treffen uns in einer Video- und Telefonkonferenz, das bedeutet die teilnahme ist sowohl mit einem Computer als auch mit einem Smartphone oder normalen Telefefon möglich. Es wäre schön, wenn wir wie zu unseren Gemeinschaftsabenden üblich, uns mit etwas Essen oder einem Getränk auf diese Weise zusammenfinden und ins Gespräch kommen. Wir enden spätestens um 21 Uhr mit einem gemeinsamen Abendgebet. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telefonisch von Fabian, Gemeindeleitung Steglitz.
 
 # Kommende Gemeinschaftsabende
 
