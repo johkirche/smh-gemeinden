@@ -6,4 +6,4 @@ unpublish_date: '27-05-2020 23:59'
 show_sidebar: false
 ---
 
-**Am 10. Mai 2020** wurde unsere Schwester **Margareta Hochheim** aus der **Gemeinde Jena** in die ewige Heimat abgerufen. Der Termin der Abschiedsfeier wird noch bekannt gegeben.
+**Am 10. Mai 2020** wurde unsere Schwester **Margareta Hochheim** aus der **Gemeinde Jena** in die ewige Heimat abgerufen. Die Abschiedsfeier findet statt am **14. Mai 2020 um 14:00 Uhr** auf dem Friedhof der Friedensstadt.
