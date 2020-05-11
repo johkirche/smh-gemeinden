@@ -3,6 +3,9 @@ title: 'Kommender Gemeinschaftsabend'
 date: '09-05-2020 15:31'
 publish_date: '09-05-2020 15:31'
 unpublish_date: '27-05-2020 23:59'
+taxonomy:
+    kategorie:
+        - featured
 show_sidebar: false
 ---
 
