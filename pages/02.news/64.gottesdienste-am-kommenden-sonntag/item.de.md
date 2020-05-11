@@ -3,6 +3,9 @@ title: 'Gottesdienste am kommenden Sonntag'
 media_order: csm_gottesdienst_smh_2_3593d8f892.jpg
 date: '20-04-2020 22:44'
 publish_date: '01-04-2020 19:17'
+taxonomy:
+    kategorie:
+        - featured
 show_sidebar: false
 ---
 
