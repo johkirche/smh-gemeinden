@@ -91,7 +91,7 @@ Wir treffen uns in einer Video- und Telefonkonferenz. Die Einwahldaten erhaltet 
 
 ### InteresSMH: Spieleabend (Online)
 ![](sketch-3047721_1920.jpg?cropResize=700,700)<br>
-Am Donnerstag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
+Am Freitag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
 <br><br>
 
 ### Gemeindebrief online und via Post
