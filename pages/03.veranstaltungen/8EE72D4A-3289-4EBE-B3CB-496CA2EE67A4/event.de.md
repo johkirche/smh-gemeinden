@@ -3,18 +3,18 @@ title: InteresSMH: Spieleabend (Online)
 visible: true
 cache_enable: true
 #ics: 
-date: 28-05-20
+date: 29-05-20
 rule: 
 event:
-	start: 28-05-2020 19:00
-	end: 28-05-2020 20:00
+	start: 29-05-2020 19:00
+	end: 29-05-2020 20:00
 	location: ''
 taxonomy:
 	kategorie: ['Online','Gruppen']
 	monat: ['Mai 2020']
 
 ---
-Am Donnerstag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Wir treffen uns virtuell in einer Videokonferenz und spielen gemeinsam das lustige Spiel Scibble. Mit gemütlichem Beginn nehmen wir uns dafür etwa ein bis zwei Stunden Zeit. Ein/e Mitspieler/in bekommt einen Begriff und malt diesen, derjenige, der den Begriff als erstes errät gewinnt und darf als nächstes einen Begriff malen. Alle Informationen zur Einwahl in die Konferenz bekommt ihr von Anne-Julia. Ruft einfach an oder schreibt an info@smh-gemeinden.de.
+Am Freitag, den 29. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Wir treffen uns virtuell in einer Videokonferenz und spielen gemeinsam das lustige Spiel Scibble. Mit gemütlichem Beginn nehmen wir uns dafür etwa ein bis zwei Stunden Zeit. Ein/e Mitspieler/in bekommt einen Begriff und malt diesen, derjenige, der den Begriff als erstes errät gewinnt und darf als nächstes einen Begriff malen. Alle Informationen zur Einwahl in die Konferenz bekommt ihr von Anne-Julia. Ruft einfach an oder schreibt an info@smh-gemeinden.de.
 
 
 
