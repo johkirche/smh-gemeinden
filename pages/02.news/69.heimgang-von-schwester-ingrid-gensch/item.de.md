@@ -1,6 +1,7 @@
 ---
 title: 'Heimgang von Schwester Ingrid Gensch'
 media_order: friedhof_friedensstadt_grabsteine.jpg
+published: false
 ---
 
 Am **2. April 2020** wurde unsere Schwester **Ingrid Gensch** aus der **Urgemeinde** in die ewige Heimat abgerufen. Die Abschiedsfeier findet am Gründonnerstag, dem **9. April 2020 um 14 Uhr** auf unserem Friedhof in Glau statt.
