@@ -14,7 +14,7 @@ taxonomy:
 	monat: ['Mai 2020']
 
 ---
-Am Donnerstag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Wir treffen uns virtuell in einer Videokonferenz und spielen gemeinsam das lustige Spiel Scibble. Mit gemütlichem Beginn nehmen wir uns dafür etwa ein bis zwei Stunden Zeit. Ein/e Mitspieler/in bekmmt einen Begriff und malt diesen, derjenige, der den Begriff als erstes errät gewinnt und darf als nächstes einen Begriff malen. Alle Informationen zur Einwahl in die Konferenz bekommt ihr von Anne-Julia. Ruft einfach an oder schreibt an info@smh-gemeinden.de.
+Am Donnerstag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Wir treffen uns virtuell in einer Videokonferenz und spielen gemeinsam das lustige Spiel Scibble. Mit gemütlichem Beginn nehmen wir uns dafür etwa ein bis zwei Stunden Zeit. Ein/e Mitspieler/in bekommt einen Begriff und malt diesen, derjenige, der den Begriff als erstes errät gewinnt und darf als nächstes einen Begriff malen. Alle Informationen zur Einwahl in die Konferenz bekommt ihr von Anne-Julia. Ruft einfach an oder schreibt an info@smh-gemeinden.de.
 
 
 
