@@ -1,5 +1,5 @@
 ---
-title: 'Kommender Gemeinschaftsabend'
+title: 'Kommender Gemeinschaftsabend (telefonisch und online)'
 date: '09-05-2020 15:31'
 publish_date: '09-05-2020 15:31'
 unpublish_date: '27-05-2020 23:59'
