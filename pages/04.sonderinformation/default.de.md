@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -75,6 +75,11 @@ Auf Grundlage der Geistfreundrede vom vergangenen Jahreswechsel möchten wir gem
 Wir treffen uns in einer Video- und Telefonkonferenz. Es wäre schön, wenn wir wie zu unseren Gemeinschaftsabenden üblich, uns mit etwas Essen oder einem Getränk auf diese Weise zusammenfinden und ins Gespräch kommen. Wir enden spätestens um 21 Uhr mit einem gemeinsamen Abendgebet. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telefonisch von Fabian, Gemeindeleitung Steglitz.
 <br><br>
 
+### InteresSMH: Escapegame
+![](suspension-bridge-959853_1920.jpg?cropResize=700,700)<br>
+Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem virtuellen Escapegame ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-escapegame-online](https://smh-gemeinden.de/news/interessmh-escapegame-online).
+<br><br>
+
 ### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 27.5. um 19.30 Uhr
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
 die nächste gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 27. Mai um 19.30 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein.
@@ -82,6 +87,11 @@ die nächste gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist a
 Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue beginnen wir unser Gespräch mit Gedankenanregungen zur Einleitung und bieten anschlieüend einen Austauschzum Thema: Wie helfe ich der Schöpfung, der Erde, uns Menschen. **Das Thema ist "Zeit für Veränderung: In uns selbst und dann in der Welt" es geht um gesunden Boden = Gesundes Wasser = Gesunde Pflanze = Gesundes Tier = Gesunder Mensch. Meiko Röper ist zu Gast und moderiert den Gemeinschaftsabend.**
 
 Wir treffen uns in einer Video- und Telefonkonferenz. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telfonisch von Fabian, Gemeindeleitung Steglitz.
+<br><br>
+
+### InteresSMH: Spieleabend (Online)
+![](sketch-3047721_1920.jpg?cropResize=700,700)<br>
+Am Donnerstag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
 <br><br>
 
 ### Gemeindebrief online und via Post
