@@ -30,7 +30,7 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 | [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
-| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (entfällt aus technischen gründen) |
+| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
 
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<br>
 [Gottesdienst Gemeinde Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr)<br>
