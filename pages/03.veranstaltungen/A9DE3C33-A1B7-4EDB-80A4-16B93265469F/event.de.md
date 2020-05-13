@@ -1,13 +1,13 @@
 ---
-title: Gottesdienst
+title: Gottesdienst (nur im Waldfrieden)
 visible: true
 cache_enable: true
 #ics: 
 date: 31-05-20
 rule: 
 event:
-	start: 31-05-2020 11:00
-	end: 31-05-2020 11:30
+	start: 31-05-2020 11:30
+	end: 31-05-2020 12:00
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gottesdienst','Telefon','Online']
