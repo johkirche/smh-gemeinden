@@ -1,5 +1,6 @@
 ---
 title: Veranstatlungsabsagen
+media_order: Webseitelogo.png
 date: '13-05-2020 13:05'
 publish_date: '13-05-2020 13:05'
 unpublish_date: '01-06-2020 23:59'
