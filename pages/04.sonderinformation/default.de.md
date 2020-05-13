@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg'
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
@@ -35,7 +35,19 @@ Weitere Informationen:
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 <br><br>
 
-## Abendgebete in Telefongemeinschaft
+## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
+![](blur-1867402_1920.jpg?cropResize=700,700)<br>
+Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Familien mit Kindern zu einem gemeinsamen Abendgebeten via Telefon ein.
+* 19.30 Uhr (übertragen von wechselnden Orten Deutschlandweit)
+
+Telefonischen Einwahldaten zu den Abendgebeten:
+* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer: 92885#
+* Passwort: 24082855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
+<br><br>
+
+## Abendgebete in Telefongemeinschaft für alle
 ![](study-862994_1920.jpg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
 * 17 Uhr (übertragen aus der Friedensstadt) und
