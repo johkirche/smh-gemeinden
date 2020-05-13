@@ -19,6 +19,8 @@ Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gott
 
 Aktuell finden alle Gottesdienste als Video- und Telefongottesdienste statt. Der Videogottesdienst ist unter [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar. Für die Telefonübertragung stehen die Rufnummern (030) 201 63 49 00 und (089) 121 40 59 00 zur Verfügung. Anschließend werden die Konferenznummer 16882 und der Pin 24081855 eingegeben. Informationen zu allen weiteren Telefon- und Videogottesdiensten gibt es auf der Webseite [https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag).
 
+Dieses Jahr wird kein Gottesdienst am Pfingstfest aus dem St.-Michaels-Heim übertragen. Alle Geschwister und Freunde sind zu der Gottesdienstübertragung aus dem Waldfrieden herzlich eingeladen.
+
 
 
 **Veranstaltungsort:** Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland

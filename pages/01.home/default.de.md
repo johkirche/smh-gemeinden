@@ -35,7 +35,7 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 [Gottesdienst Gemeinde Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<br>
 [Gottesdienst Gemeinde Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr)<br>
 <br><br>
-Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 27.05.2020 um 19 Uhr im St.-Michaels-Heim statt. Der Mittwochgottesdienst am 13.05.2020 entfällt.
+Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 27.05.2020 um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
