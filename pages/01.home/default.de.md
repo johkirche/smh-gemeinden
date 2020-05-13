@@ -49,7 +49,7 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 * Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * Pin: 24081855
 
-Telefonische Einwahldaten zu täglichen **Familienabendgebeten um 19.30 Uhr:**
+Telefonische Einwahldaten zu **täglichen Familienabendgebeten um 19.30 Uhr:**
 * Telefonnummern und Pin siehe telefonischen Gottesdiensten
 * Konferenznummer: 92885
 
