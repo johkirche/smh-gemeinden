@@ -3,11 +3,11 @@ title: Kinderabendgebet (Telefon)
 visible: true
 cache_enable: true
 #ics: 
-date: 17-05-20
+date: 21-05-20
 rule: 
 event:
-	start: 17-05-2020 19:30
-	end: 17-05-2020 19:45
+	start: 21-05-2020 19:30
+	end: 21-05-2020 19:45
 	location: 'Telefon'
 taxonomy:
 	kategorie: ['Gottesdienst','Telefon']

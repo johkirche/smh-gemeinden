@@ -3,15 +3,15 @@ title: Kinderabendgebet (Telefon)
 visible: true
 cache_enable: true
 #ics: 
-date: 17-05-20
+date: 23-06-20
 rule: 
 event:
-	start: 17-05-2020 19:30
-	end: 17-05-2020 19:45
+	start: 23-06-2020 19:30
+	end: 23-06-2020 19:45
 	location: 'Telefon'
 taxonomy:
 	kategorie: ['Gottesdienst','Telefon']
-	monat: ['Mai 2020']
+	monat: ['Juni 2020']
 
 ---
 Die Johannische Kirche lädt täglich um 19.30 Uhr zu einem gemeinsamen telefonischen Abendgebet für Kinder ein.
