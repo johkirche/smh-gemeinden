@@ -6,4 +6,4 @@ unpublish_date: '27-05-2020 23:59'
 show_sidebar: false
 ---
 
-**Am 14. Mai 2020** wurde unsere Schwaster **Barbara Lehmann** aus der **Gemeinde Gößweinstein** in die ewige Heimat abgerufen. Die Abschiesdsfeier dindet am **Samstag, den 16. Mai 2020 um 13 Uhr auf unserem Friedhof in Eichenbirkig** statt.
+**Am 14. Mai 2020** wurde unsere Schwaster **Barbara Lehmann** aus der **Gemeinde Gößweinstein** in die ewige Heimat abgerufen. Die Abschiesdsfeier findet am **Samstag, den 16. Mai 2020 um 13 Uhr auf unserem Johannischen Friedhof in Eichenbirkig** statt.
