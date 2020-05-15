@@ -18,7 +18,7 @@ Nur allzu oft passiert es, dass wir uns durch unsere Geschehnisse im Alltag davo
 
 Nun denn, hier ist ein ganz einfacher Vorschlag, wie wir uns genau DAS, wenn wir wollen täglich, in`s Gedächtnis rufen und nach außen strahlen können. Es gibt ganz sicher noch viele andere tolle Möglichkeiten, aber DIESE trägt sich ganz angenehm, ist schön anzusehen und verbindet uns gemeinsam in unserer Hoffnung! - Die Hoffnungsträger*in Kollektion!
 
-Bis zum Pfingstsonntag (31.05.2020) könnt ihr ein Hoffnungsträger-Shirt oder Hoodie in beliebiger Farbe und Größe über die Mailadresse [seidabei@jjbgf.de](seidabei@jjbgf.de) bei uns bestellen.
+Bis zum Pfingstsonntag (31.05.2020) könnt ihr ein Hoffnungsträger-Shirt oder Hoodie in beliebiger Farbe und Größe über die Mailadresse **seidabei@jjbgf.de** bei uns bestellen.
 
 So lasst uns alle, ob mit oder ohne modischen Bio-Baumwoll-Reminder, zu Trägern seiner Hoffnung werden!
 „Der Gott aber der Hoffnung erfülle euch mit aller Freude und Frieden im Glauben, dass ihr völlige Hoffnung habet durch die Kraft des Heiligen Geistes.“ (Römer 15, Vers 13)
