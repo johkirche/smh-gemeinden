@@ -1,6 +1,6 @@
 ---
 title: 'Maskenpflicht im St.-Michaels-Heim'
-media_order: 'st_michaels_heim.jpg,st_michaels_heim_schrift_weiss.png'
+media_order: st_michaels_heim_schrift_weiss.png
 date: '15-05-2020 20:47'
 publish_date: '15-05-2020 20:47'
 unpublish_date: '31-05-2020 23:59'
