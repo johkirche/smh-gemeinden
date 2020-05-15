@@ -7,4 +7,5 @@ unpublish_date: '27-05-2020 23:50'
 show_sidebar: false
 ---
 
-Am **8. Mai 2020** wurde unser Glaubensfreund **Gerhard Peggau** aus der Gemeinde **Berlin-Spandau** in die ewige Heimat abgerufen. Der Termin der Abschiedsfeier wird noch bekannt Der Termin der Abschiedsfeier wird noch bekannt gegebengegeben.
+Am **8. Mai 2020** wurde unser Glaubensfreund **Gerhard Peggau** aus der Gemeinde **Berlin-Spandau** in die ewige Heimat abgerufen. Die Abschiesdsfeier findet am Freitag, den 15. Mai 2020 um 14 Uhr auf unserem Johannischen Friedhof in Glau statt.
+
