@@ -4,6 +4,9 @@ media_order: 30EC1C82-C3A3-457F-9DA8-0ADDCD6861F9.jpeg
 date: '15-05-2020 23:33'
 publish_date: '15-05-2020 23:33'
 unpublish_date: '01-06-2020 23:59'
+taxonomy:
+    kategorie:
+        - featured
 show_sidebar: false
 ---
 
