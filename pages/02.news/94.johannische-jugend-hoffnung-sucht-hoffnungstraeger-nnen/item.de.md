@@ -1,5 +1,6 @@
 ---
-title: 'Johannische Jugend: Hoffnung sucht Hoffnungsträger*nnen'
+title: 'Johannische Jugend: Hoffnung sucht Hoffnungsträger*innen'
+media_order: 8B585AC2-5D69-4736-AC31-796F5223E304.jpeg
 date: '15-05-2020 23:55'
 publish_date: '15-05-2020 23:55'
 unpublish_date: '01-06-2020 23:59'
