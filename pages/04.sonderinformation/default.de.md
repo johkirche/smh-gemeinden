@@ -78,15 +78,6 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit Ideen ein.
 <br><br>
 
-### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, 13. Mai um 19 Uhr
-![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
-Am Mittwoch, den 13. Mai laden um 19 Uhr die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein virtuell und telefonisch ein. Alle Geschwister und Freunde sind herzlich willkommen.
-
-Auf Grundlage der Geistfreundrede vom vergangenen Jahreswechsel möchten wir gemeinsam ins Gespräch kommen über Überbrückung von uns zum anderen und auch zu anderen Glaubensgemeinschaften und darüber, wie wir in unserem Gemeindeleben heute, in einer Zeit, in der wir angehalten sind körperlich Abstand zu halten, überbrücken, füreinander da sein und Liebe schenken können.
-
-Wir treffen uns in einer Video- und Telefonkonferenz. Es wäre schön, wenn wir wie zu unseren Gemeinschaftsabenden üblich, uns mit etwas Essen oder einem Getränk auf diese Weise zusammenfinden und ins Gespräch kommen. Wir enden spätestens um 21 Uhr mit einem gemeinsamen Abendgebet. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telefonisch von Fabian, Gemeindeleitung Steglitz.
-<br><br>
-
 ### InteresSMH: Escapegame
 ![](suspension-bridge-959853_1920.jpg?cropResize=700,700)<br>
 Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem virtuellen Escapegame ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-escapegame-online](https://smh-gemeinden.de/news/interessmh-escapegame-online).
@@ -140,6 +131,15 @@ Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt
 ### Vorbereitung auf das Abendmahl nicht nur für Kinder
 ![](worship-2964803_1920.jpg?cropResize=700,700)<br>
 Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das eigentlich bisher mit dem Abendmahl? Wie soll das Abendmahl gehen, wenn wir den Wein und das Brot nicht durch den Computer schieben können? Warum knien wir uns hin und sprechen das Gottesbekenntnis? Wie kann ich mich als Kind auf das Abendmahl vorbereiten? Klikt einfach auf diesen Link: [https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl](https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl)
+
+### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, 13. Mai um 19 Uhr
+![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
+Am Mittwoch, den 13. Mai laden um 19 Uhr die St.-Michaels-Heim-Gemeinden zu einem fröhlichen Beisammensein virtuell und telefonisch ein. Alle Geschwister und Freunde sind herzlich willkommen.
+
+Auf Grundlage der Geistfreundrede vom vergangenen Jahreswechsel möchten wir gemeinsam ins Gespräch kommen über Überbrückung von uns zum anderen und auch zu anderen Glaubensgemeinschaften und darüber, wie wir in unserem Gemeindeleben heute, in einer Zeit, in der wir angehalten sind körperlich Abstand zu halten, überbrücken, füreinander da sein und Liebe schenken können.
+
+Wir treffen uns in einer Video- und Telefonkonferenz. Es wäre schön, wenn wir wie zu unseren Gemeinschaftsabenden üblich, uns mit etwas Essen oder einem Getränk auf diese Weise zusammenfinden und ins Gespräch kommen. Wir enden spätestens um 21 Uhr mit einem gemeinsamen Abendgebet. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telefonisch von Fabian, Gemeindeleitung Steglitz.
+<br><br>
 
 ### Öffentliche Schule für Geisteswissenschaft am 2. Mai 2020
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
