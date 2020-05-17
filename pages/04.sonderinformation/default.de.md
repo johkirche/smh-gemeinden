@@ -15,7 +15,7 @@ Liebe Geschwister und liebe Freunde, es gibt aktuelle Informationen des Kirchenv
 
 ## Telefon- und Videogottesdienste
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
-Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Video- und Telefongottesdiensten speziell für Kinder eingeladen.
+Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und Freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Videogottesdiensten speziell für Kinder aus dem St.-Michaels-Heim eingeladen.
 
 Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
 
@@ -37,10 +37,10 @@ Weitere Informationen:
 
 ## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
 ![](blur-1867402_1920.jpg?cropResize=700,700)<br>
-Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Familien mit Kindern zu einem gemeinsamen Abendgebeten via Telefon ein.
+Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Familien mit Kindern zu einem gemeinsamen Abendgebet via Telefon ein.
 * 19.30 Uhr (übertragen von wechselnden Orten Deutschlandweit)
 
-Telefonischen Einwahldaten zu den Familienabendgebeten:
+Telefonische Einwahldaten zu den Familienabendgebeten:
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 92885#
 * Passwort: 24082855#
@@ -75,7 +75,7 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 <br><br>
 
 ## Neue Angebote in der Erprobung
-Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit Ideen ein.
+Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
 ### InteresSMH: Escapegame
@@ -85,7 +85,7 @@ Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem vi
 
 ### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 27.5. um 19.30 Uhr
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
-die nächste gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 27. Mai um 19.30 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein.
+Die nächste Gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 27. Mai um 19.30 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein.
 
 Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue beginnen wir unser Gespräch mit Gedankenanregungen zur Einleitung und bieten anschlieüend einen Austauschzum Thema: Wie helfe ich der Schöpfung, der Erde, uns Menschen. **Das Thema ist "Zeit für Veränderung: In uns selbst und dann in der Welt" es geht um gesunden Boden = Gesundes Wasser = Gesunde Pflanze = Gesundes Tier = Gesunder Mensch. Meiko Röper ist zu Gast und moderiert den Gemeinschaftsabend.**
 
