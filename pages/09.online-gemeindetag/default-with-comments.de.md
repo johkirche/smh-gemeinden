@@ -5,4 +5,4 @@ visible: false
 
 # Online-Gemeindetag Hauptgemeinde und Steglitz
 
-Hier steht dann ein schöner Introtext.
+Hier steht dann ein schöner Text zum Gemeindetag.
