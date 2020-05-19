@@ -10,7 +10,7 @@ taxonomy:
 show_sidebar: false
 ---
 
-Auch in diesem Jahr werden sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbin- den können, wenn auch auf- grund der aktuell geltenden Auf- lagen vor allem mit Hilfe von Te- lefon- und Videoübertragungen.
+Auch in diesem Jahr werden sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden können, wenn auch auf- grund der aktuell geltenden Auf- lagen vor allem mit Hilfe von Telefon- und Videoübertragungen.
 ===
 
 # Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag
