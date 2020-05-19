@@ -41,5 +41,6 @@ Einsendeschluss für eure Audio- und Videodatei ist der 23.
  Mai (abends). Die Kapazitäten für die Bearbeitungszeit liegen aufgrund des nahenden Pfingstfestes bei ca. bis zu 70 Teilnehmern. Bei Fragen oder benötigter Hilfe stehen wir euch gerne zur Verfügung.
 
 Wir freuen uns auf euch!
+
 euer Karel Falk, Piers Kalinowsky, Jens Elger und Sebastian
  Nichelmann 
