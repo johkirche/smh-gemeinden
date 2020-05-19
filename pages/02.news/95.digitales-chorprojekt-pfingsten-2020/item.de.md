@@ -13,13 +13,9 @@ wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag e
 
 Beispielvideo: [https://www.youtube.com/watch?v=EO8G8fQ9k3M](https://www.youtube.com/watch?v=EO8G8fQ9k3M)
 
-Dies soll nicht live geschehen, sondern wird im Vorfeld vorbereitet
- und, wenn alles klappt, allen Geschwistern am Pfingstsonntag als fertiges Video auf unserer Kirchen-Internetseite zum Anhören- und Sehen angeboten werden.
+Dies soll nicht live geschehen, sondern wird im Vorfeld vorbereitet und, wenn alles klappt, allen Geschwistern am Pfingstsonntag als fertiges Video auf unserer Kirchen-Internetseite zum Anhören- und Sehen angeboten werden.
 
-So zum Pfingstgottesdienst ein sehr kleiner Chor singen darf,
- ist geplant, das Lied 183 aus unserem Johannischen Chorliederbuch - Ich will dem Herren singen - zu Gottes Ehren erschallen zu lassen.
-Um eine Verbindung mit allen ChorsängerInnen, also auch denen,
-die in diesem Jahr leider nicht zum Pfingstgottesdienst im Festchor mitsingen können, zu schaffen, haben wir uns daher bei diesem Projekt für dieses Chorlied entschieden (Strophen 1-3 & 5). 
+Zum Pfingstgottesdienst wird ein sehr kleiner Chor singen. Daher ist geplant, das Lied 183 aus unserem Johannischen Chorliederbuch – Ich will dem Herren singen – zu Gottes Ehren erschallen zu lassen. Um eine Verbindung mit allen ChorsängerInnen, also auch denen, die in diesem Jahr leider nicht zum Pfingstgottesdienst im Festchor mitsingen können, zu schaffen, haben wir uns daher bei diesem Projekt für dieses Chorlied entschieden (Strophen 1-3 & 5). 
 
 # Was muss ich tun, wenn ich bei dem Projekt als ChorsängerIn mitwirken möchte?
 
