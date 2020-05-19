@@ -1,5 +1,5 @@
 ---
-title: Gottesdienst (nur im Waldfrieden)
+title: Gottesdienst (nur im Waldfrieden, Oline und am Telefon)
 visible: true
 cache_enable: true
 #ics: 
@@ -14,6 +14,9 @@ taxonomy:
 	monat: ['Mai 2020']
 
 ---
+Am **Pfingstsonntag, dem 31. Mai**, wird aus der Kirche im **Waldfrieden** ein **Gottesdienst per Telefon und Livestream** übertragen. Der Gottesdienst beginnt um **11.30 Uhr**, da zu diesem Zeitpunkt die Auslastung des Anbieters für Telefonübertragungen geringer ist, sodass mit einer größeren Übertragungssicherheit gerechnet werden kann. Im St.-Michaels-Heim entfällt an diesem Tag der Gottesdienst.
+
+Generell gilt:
 Jeden Sonntag findet in unserer Kirche im St.-Michaels-Heim um 11 Uhr ein Gottesdienst statt. Vierzentägig lädt die Johannische Kirche außerdem zu einem parallel stattfindenden Kindergottesdienst ein. Geschwister, Freunde und Gäste sind immer herzlich eingeladen. 
 Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gottesdienstes: [www.johannische-kirche.org](https://www.johannische-kirche.org/de/03_lebenshilfe/03_gottesdienste/index.php)
 
