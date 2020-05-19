@@ -78,6 +78,12 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
+### Digitales Chorprojekt zu Pfingsten
+![](music-656593_1920.jpg?cropResize=700,700)<br>
+Wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag einen virtuellen Chor als kulturellen Nachmittagsprogramm erklingen zu lassen. Dies soll nicht live geschehen, sondern wird im Vorfeld vorbereitet und, wenn alles klappt, allen Geschwistern am Pfingstsonntag als fertiges Video auf unserer Kirchen-Internetseite zum Anhören- und Sehen angeboten werden.
+
+Alle Infois unter: [https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020](https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020)
+
 ### InteresSMH: Escapegame
 ![](suspension-bridge-959853_1920.jpg?cropResize=700,700)<br>
 Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem virtuellen Escapegame ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-escapegame-online](https://smh-gemeinden.de/news/interessmh-escapegame-online).
