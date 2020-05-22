@@ -103,6 +103,11 @@ Wir treffen uns in einer Video- und Telefonkonferenz. Die Einwahldaten erhaltet 
 Am Freitag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
 <br><br>
 
+### Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag 30. Mai 2020
+![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
+Am Pfingstsamstag, dem 30. Mai, sind alle Interessenten zu einer öffentlichen Schule für Geisteswissenschaft eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule beginnt um 18 Uhr. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft](https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft)
+<br><br>
+
 ### Gemeindebrief online und via Post
 ![](108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg?forceResize=700,525)<br>
 Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig online und auch via Post bezogen werden. Allte weitern Informationen unter: [https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden).
