@@ -7,8 +7,8 @@ unpublish_date: '28-05-2020 17:30'
 show_sidebar: false
 ---
 
-# In einem Bericht der PNN, wird über die Wiedereröffnung verschiedener Einrichtungen unter der Auflage von neuen Regeln berichtet. Darunter auch der Volkspark.===
-
+# In einem Bericht der PNN, wird über die Wiedereröffnung verschiedener Einrichtungen unter der Auflage von neuen Regeln berichtet. Darunter auch der Volkspark.
+===
 
 Laut Bericht habe der kommunale Betreiber des Volksparks im Bornstedter Felds mittgeteilt, dass Sport- und Sanitäranlagen ab heute wiedereröffnen. Ab Samstag werde der Wasserspielplatz der mit diversen neuen Geräten ausgestatten worden sei freigegeben, jedoch „ohne kühles Nass“ bis zu Beginn der Badesaison Mitte Juli. „Aber auch hier gilt wie bei der Nutzung der Spielplätze, dass die geltenden Abstands-, Hygiene- und Kontaktregeln einzuhalten sind“, ginge aus der Mitteilung des Betreibers hervor. Weiter seien Kontrollen, für die Einhaltung der Regeln als auch für den Parkeintritt, angekündigt worden. Außerdem eröffne die Stadtverwaltung den Bürgerservice am Montag. Am Donnerstag habe bereits das Filmmuseum Dauerausstellung „Traumfabrik. 100 Jahre Film in Babelsberg“ wieder geöffnet, heißt es. 
 
