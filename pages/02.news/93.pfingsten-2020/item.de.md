@@ -39,7 +39,7 @@ Videoübertragung:
 * Tipps zur Videoübertragung gibt es in diesem [Dokument](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp) oder im Video auf unserer [Startseite](https://smh-gemeinden.de).
 
 # Weitere Angebote am Pfingstsonntag
-Für den Sonntagnachmittag bereiten verschiedene Arbeitsgruppen ein kurzweiliges digi- tales Programm vor. Wie dieses aussieht und auf welchem Weg es übertragen wird, kann erst kurzfristig ab dem 28. Mai auf der Internetseite der Johannischen Kirche unter [www.johannische-kirche.org](www.johannische-kirche.org) eingesehen werden.
+Für den Sonntagnachmittag bereiten verschiedene Arbeitsgruppen ein kurzweiliges digitales Programm vor. Wie dieses aussieht und auf welchem Weg es übertragen wird, kann erst kurzfristig ab dem 28. Mai auf der Internetseite der Johannischen Kirche unter [www.johannische-kirche.org](www.johannische-kirche.org) eingesehen werden.
 Da es sich überwiegend um ein digitales Angebot in Form von Video-Beiträgen handeln wird, können diese nur über das Inter- net angeschaut werden. An alle Mitglieder und Freunde ergeht die Bitte zu überlegen, wie sie anderen Gemeindemitgliedern ein Anschauen der Beiträge ermöglichen können. Bitte beach- tet dabei die rechtlichen Vorgaben zum Hygieneschutz.
 
 Wir wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
