@@ -10,7 +10,7 @@ taxonomy:
 show_sidebar: false
 ---
 
-Auch in diesem Jahr werden sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden können, wenn auch auf- grund der aktuell geltenden Auf- lagen vor allem mit Hilfe von Telefon- und Videoübertragungen.
+Auch in diesem Jahr werden sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden können, wenn auch aufgrund der aktuell geltenden Auf- lagen vor allem mit Hilfe von Telefon- und Videoübertragungen.
 ===
 
 # Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag
@@ -39,7 +39,7 @@ Videoübertragung:
 * Tipps zur Videoübertragung gibt es in diesem [Dokument](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp) oder im Video auf unserer [Startseite](https://smh-gemeinden.de).
 
 # Weitere Angebote am Pfingstsonntag
-Für den Sonntagnachmittag bereiten verschiedene Arbeits- gruppen ein kurzweiliges digi- tales Programm vor. Wie dieses aussieht und auf welchem Weg es übertragen wird, kann erst kurz- fristig ab dem 28. Mai auf der Internetseite der Johannischen Kirche unter [www.johannische-kirche.org](www.johannische-kirche.org) eingesehen werden.
-Da es sich überwiegend um ein digitales Angebot in Form von Video-Beiträgen handeln wird, können diese nur über das Inter- net angeschaut werden. An alle Mitglieder und Freunde ergeht die Bitte zu überlegen, wie sie anderen Gemeindemitgliedern ein Anschauen der Beiträge er- möglichen können. Bitte beach- tet dabei die rechtlichen Vorga- ben zum Hygieneschutz.
+Für den Sonntagnachmittag bereiten verschiedene Arbeitsgruppen ein kurzweiliges digi- tales Programm vor. Wie dieses aussieht und auf welchem Weg es übertragen wird, kann erst kurzfristig ab dem 28. Mai auf der Internetseite der Johannischen Kirche unter [www.johannische-kirche.org](www.johannische-kirche.org) eingesehen werden.
+Da es sich überwiegend um ein digitales Angebot in Form von Video-Beiträgen handeln wird, können diese nur über das Inter- net angeschaut werden. An alle Mitglieder und Freunde ergeht die Bitte zu überlegen, wie sie anderen Gemeindemitgliedern ein Anschauen der Beiträge ermöglichen können. Bitte beach- tet dabei die rechtlichen Vorgaben zum Hygieneschutz.
 
 Wir wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
