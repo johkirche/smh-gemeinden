@@ -1,5 +1,9 @@
 ---
 title: 'Pfingsten 2020 und Sommer'
+date: '22-05-2020 17:30'
+publish_date: '22-05-2020 17:30'
+unpublish_date: '28-05-2020 17:30'
+show_sidebar: false
 ---
 
 # In einem Bericht der PNN, wird über die Wiedereröffnung verschiedener Einrichtungen unter der Auflage von neuen Regeln berichtet. Darunter auch der Volkspark.===
