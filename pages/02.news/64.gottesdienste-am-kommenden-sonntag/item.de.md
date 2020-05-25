@@ -56,14 +56,15 @@ Am Samstag, den 23.05. finden folgende **Gottesdienste** statt an denen **telefo
 | <center>14 Uhr</center> | | <center>Jena</center> | | |
 | <center>15 Uhr</center> | | <center>Straßfurt mit Quedlinburg</center> | | |
 
-# Gottesdienste via Videolivestream am Sonntag, den 24.05.2020
+# Gottesdienste via Videolivestream am Sonntag, den 07.06.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
+* 11.00 Uhr in Velten: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)
 * 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
-* 12.00 Uhr in Düsseldorf: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)
-* 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
 * 13.00 Uhr in Dortmund: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)
+* 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
+* 14.00 Uhr in Düsseldorf: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)
 
 # Gottesdienste via Telefon am Sonntag, den 24.05.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
