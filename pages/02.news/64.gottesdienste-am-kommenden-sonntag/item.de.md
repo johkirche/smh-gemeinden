@@ -47,14 +47,14 @@ Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließ
 ## Ergänzende Hinweise 
 Die Gottesdienste, die aus den jeweiligen Gemeinderegionen übertragen werden, sollen ganz besonders die dortige geistige Arbeit kräftigen und die Gemeindemitglieder vor Ort miteinander verbinden, ausrichten und schützen. Es wird versucht, aus möglichst vielen Regionen Gottesdienste übertragen zu können. Darüber hinaus gilt eine herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
 
-# Gottesdienste via Telefon am Samstag, den 23.05.2020
+# Gottesdienste via Telefon am Samstag, den 06.06.2020
 Am Samstag, den 23.05. finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
 | Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | <center>13 Uhr</center> | | | <center>Bremen</center> | |
 | <center>14 Uhr</center> | | <center>Jena</center> | | |
-| <center>15 Uhr</center> | | | <center>Straßfurt (mit Quedlinburg)</center> | |
+| <center>15 Uhr</center> | | <center>Straßfurt mit Quedlinburg</center> | | |
 
 # Gottesdienste via Videolivestream am Sonntag, den 24.05.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
