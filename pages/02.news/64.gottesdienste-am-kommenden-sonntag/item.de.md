@@ -66,13 +66,13 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
 * 14.00 Uhr in Düsseldorf: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)
 
-# Gottesdienste via Telefon am Sonntag, den 24.05.2020
+# Gottesdienste via Telefon am Sonntag, den 07.06.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
 | Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
-| <center>12 Uhr</center> | <center>Düsseldorf</center> | <center>Hannover (G-Tag mit Straßfurt)</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
-| <center>13 Uhr</center> | <center>Dortmund</center> | <center>Kaulsdorf</center> | <center>Wittenberg</center> | |
-| <center>14 Uhr</center> | | | <center>Wiesbaden</center> | |
+| <center>12 Uhr</center> | <center>Güstrow</center> | <center>Hannover (G-Tag)</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
+| <center>13 Uhr</center> | <center>Dortmund</center> | <center>Kaulsdorf</center> | <center>Wittenberg mit Elster</center> | |
+| <center>14 Uhr</center> | <center>Düsseldorf</center> | | <center>Wiesbaden</center> | |
 | <center>15.30 Uhr</center> | | <center>Leipzig</center> | | |
