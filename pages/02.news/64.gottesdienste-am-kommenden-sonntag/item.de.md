@@ -58,6 +58,7 @@ Am Samstag, den 23.05. finden folgende **Gottesdienste** statt an denen **telefo
 
 # Gottesdienste via Videolivestream am Sonntag, den 07.06.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
 * 11.00 Uhr in Velten: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)
@@ -71,8 +72,9 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 
 | Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| <center>10 Uhr</center> | | <center>Kaulsdorf</center> | | |
 | <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
 | <center>12 Uhr</center> | <center>Güstrow</center> | <center>Hannover (G-Tag)</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
-| <center>13 Uhr</center> | <center>Dortmund</center> | <center>Kaulsdorf</center> | <center>Wittenberg mit Elster</center> | |
+| <center>13 Uhr</center> | <center>Dortmund</center> | | <center>Wittenberg mit Elster</center> | |
 | <center>14 Uhr</center> | <center>Düsseldorf</center> | | <center>Wiesbaden</center> | |
 | <center>15.30 Uhr</center> | | <center>Leipzig</center> | | |
