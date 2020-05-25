@@ -8,6 +8,7 @@ show_sidebar: false
 ---
 
 Die Johannische Jugend hat eine Kollektion zum Thema Hoffnungsträger*innen entworfen, um in dieser Zeit Mut zu geben und die Hoffnung und den Zusammenhalt zu stärken.
+
 ===
 Wir sollen alle Hoffnungsträger*innen auf dieser Erde sein für Mensch und Geist - in unserem Wesen die „Freude über die Zukunft des ewigen Lebens“ verkünden und rühmen, was durch die ewige Liebe Gottes an uns getan wurde und immer noch wird!
 Im 1.Korinther 13, Vers 13 aus der Bibel heißt es: „Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei; aber die Liebe ist die größte unter ihnen.“
