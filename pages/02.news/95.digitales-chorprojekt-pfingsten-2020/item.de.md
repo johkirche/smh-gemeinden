@@ -6,7 +6,7 @@ unpublish_date: '01-06-2020 23:59'
 show_sidebar: false
 ---
 
-wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag einen virtuellen Chor als kulturellen Nachmittagsprogramm erklingen zu lassen   
+Wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag einen virtuellen Chor als kulturellen Nachmittagsprogramm erklingen zu lassen.   
 
 ===
 
