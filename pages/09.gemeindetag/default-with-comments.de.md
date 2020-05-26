@@ -5,7 +5,7 @@ visible: false
 
 # Online-Gemeindetag der Hauptgemeinde und Steglitz
 
-## Liebe Geschwister der Hauptgemeinde und aus Steglitz, liebe Freunde – bald ist es soweit!   
+### Liebe Geschwister der Hauptgemeinde und aus Steglitz, liebe Freunde – bald ist es soweit!   
 Der Gemeindetag steht an. Am 14. Juni – sagt der Jahresplan... war auch so gedacht. ABER: Ein Gemeindetag ohne Gemeinde? Wie soll das denn gehen?? Haben wir uns auch gefragt. Das Schöne ist: Es gibt noch keine Vorgaben – also einfach mal machen :-)   
    
 Deshalb haben wir uns für den Gottesdienst ein paar Kleinigkeiten überlegt, mit denen wir euch überraschen wollen – und da könnt ihr fleißig Teilhaben! Wir möchten euch die Möglichkeit geben, über den Stream ein paar Videogrüße an den Rest der Gemeinde los zu werden. Die könnt ihr dann ganz bequem von zu Hause aus im Anschluss an den Gottesdienst sehen! Aber wie soll das gehen?   
