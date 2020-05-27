@@ -15,10 +15,9 @@ Deshalb haben wir uns für den Gottesdienst ein paar Kleinigkeiten überlegt, mi
 Hierfür macht ihr zu Hause einfach ein kleines Video, oder Foto im 16/9 Format (mp4) und ladet es auf [smh-gemeinden.de/videogruss](https://smh-gemeinden.de/videogruss?target=blank) hoch. So können wir uns alle mal wieder sehen.   
 Wichtig ist nur: Bitte bis spätestens **07.06** hochladen – damit wir sie noch zusammenstellen können!   
    
-Mit mindestens genauso viel Liebe, werden von euch normalerweise immer die Buffetbeiträge vorbereitet. Das lassen wir uns trotz Corona nicht entgehen. Ihr habt auch in diesem Jahr die Möglichkeit auf leckeren Käsekuchen, Brot mit Körnern oder ohne und natürlich auch auf all die anderen Köstlichkeiten unseres Gemeindebuffets. Wir haben für uns ein kleines Forum eingerichtet (Siehe unten).   
-Dort könnt ihr ab jetzt eure Rezepte der Gemeindetagsklassiker posten. So haben alle die Möglichkeit, sich den Gemeindetag zumindest essenstechnisch möglichst originalgetreu zu Hause zu gestalten :-)   
-   
-Am 14. Juni selbst könnt ihr dann hier eure fertigen Gerichte mit Bildern ins Internet stellen und mit allen teilen. :-D Wir freuen uns schon!   
+Mit mindestens genauso viel Liebe, werden von euch normalerweise immer die Buffetbeiträge vorbereitet. Das lassen wir uns trotz Corona nicht entgehen. Ihr habt auch in diesem Jahr die Möglichkeit auf leckeren Käsekuchen, Brot mit Körnern oder ohne und natürlich auch auf all die anderen Köstlichkeiten unseres Gemeindebuffets. Wir haben dazu [am Ende der Seite](/gemeindetag#buffetbeitrag) kleines Forum eingerichtet.   
+Dort könnt ihr ab jetzt eure Rezepte der Gemeindetagsklassiker posten. So haben alle die Möglichkeit, sich den Gemeindetag zumindest essenstechnisch möglichst originalgetreu zu Hause zu gestalten :-).   
+Am 14. Juni selbst könnt ihr dann dort auch eure Bilder der fertigen Gerichte mit allen teilen. :-D. Wir freuen uns schon!   
    
 Und liebe Kinder, an euch haben wir auch gedacht! Wir werden einen guten alten Bekannten begrüßen dürfen! Denn Onkel Pelle hat in seiner Corona-Quarantäne eine Kleinigkeit speziell für euch vorbereitet. Und zwar in Videoform, damit es passend zur eurer persönlichen Sonntagsplanung ist.   
    
