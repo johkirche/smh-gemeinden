@@ -1,12 +1,16 @@
 ---
 title: 'Online-Gemeindetag der Hauptgemeinde und Steglitz'
 visible: false
+recaptchacontact:
+    enabled: false
 ---
 
 # Online-Gemeindetag der Hauptgemeinde und Steglitz
 
 **Liebe Geschwister der Hauptgemeinde und aus Steglitz, liebe Freunde – bald ist es soweit! **  
-[plugin:vimeo](https://vimeo.com/422968086)   
+[plugin:vimeo](https://vimeo.com/422968086)  
+
+<a href="https://smh-gemeinden.de/videogruss" target="blank" class="event-button">Videogruß</a> <a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag</a>
 
 Der Gemeindetag steht an. Am 14. Juni – sagt der Jahresplan... war auch so gedacht. ABER: Ein Gemeindetag ohne Gemeinde? Wie soll das denn gehen?? Haben wir uns auch gefragt. Das Schöne ist: Es gibt noch keine Vorgaben – also einfach mal machen :-)   
    
