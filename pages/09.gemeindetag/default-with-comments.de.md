@@ -1,5 +1,5 @@
 ---
-title: 'Online-Gemeindetag Hauptgemeinde und Steglitz'
+title: 'Online-Gemeindetag der Hauptgemeinde und Steglitz'
 visible: false
 ---
 
