@@ -17,7 +17,7 @@ Wichtig ist nur: Bitte bis spätestens **07.06** hochladen – damit wir sie noc
    
 Mit mindestens genauso viel Liebe, werden von euch normalerweise immer die Buffetbeiträge vorbereitet. Das lassen wir uns trotz Corona nicht entgehen. Ihr habt auch in diesem Jahr die Möglichkeit auf leckeren Käsekuchen, Brot mit Körnern oder ohne und natürlich auch auf all die anderen Köstlichkeiten unseres Gemeindebuffets. Wir haben dazu [am Ende der Seite](/gemeindetag#buffetbeitrag) kleines Forum eingerichtet.   
 Dort könnt ihr ab jetzt eure Rezepte der Gemeindetagsklassiker posten. So haben alle die Möglichkeit, sich den Gemeindetag zumindest essenstechnisch möglichst originalgetreu zu Hause zu gestalten :-).   
-Am 14. Juni selbst könnt ihr dann dort auch eure Bilder der fertigen Gerichte mit allen teilen. :-D. Wir freuen uns schon!   
+Am 14. Juni selbst könnt ihr dann [dort](/gemeindetag#buffetbeitrag) auch eure Bilder der fertigen Gerichte mit allen teilen. :-D. Wir freuen uns schon!   
    
 Und liebe Kinder, an euch haben wir auch gedacht! Wir werden einen guten alten Bekannten begrüßen dürfen! Denn Onkel Pelle hat in seiner Corona-Quarantäne eine Kleinigkeit speziell für euch vorbereitet. Und zwar in Videoform, damit es passend zur eurer persönlichen Sonntagsplanung ist.   
    
