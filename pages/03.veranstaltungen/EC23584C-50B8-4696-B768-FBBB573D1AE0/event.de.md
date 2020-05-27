@@ -1,5 +1,5 @@
 ---
-title: Gesamtjugendtagung mit Zeltlagervorbesprechung (Jugendraum Friedensstadt, nicht St.-Michaels-Heim)
+title: Gesamtjugendtagung mit Zeltlagervorbesprechung (online, nicht St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 
@@ -8,15 +8,15 @@ rule:
 event:
 	start: 30-05-2020 13:00
 	end: 30-05-2020 15:00
-	location: 'Jugendraum Sonne (Friedensstadt, nicht St.-Michaels-Heim)'
+	location: 'Online'
 taxonomy:
-	kategorie: ['Jugend']
+	kategorie: ['Jugend','Online','Gruppen']
 	monat: ['Mai 2020']
 
 ---
-Die Judend der Johannischen Kirche und Ihre Freunde treffen sich im Jugendraum in der Friedensstadt zu einer gemeinsamen Gesamtjugendtagung anlässlich des Pfingstfestes. Im Anschluss finden die Zeltlagervorbesprechungen im Kreise der Teilnehmer statt.
+Die Judend der Johannischen Kirche und Ihre Freunde treffen sich im Jugendraum in der Friedensstadt zu einer gemeinsamen Gesamtjugendtagung anlässlich des Pfingstfestes.
 
 
 
-**Veranstaltungsort:** Jugendraum Sonne (Friedensstadt, nicht St.-Michaels-Heim)
+**Veranstaltungsort:** Online
 

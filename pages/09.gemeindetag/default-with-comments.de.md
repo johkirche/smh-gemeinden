@@ -6,12 +6,14 @@ visible: false
 # Online-Gemeindetag der Hauptgemeinde und Steglitz
 
 ### Liebe Geschwister der Hauptgemeinde und aus Steglitz, liebe Freunde – bald ist es soweit!   
+[plugin:vimeo](https://vimeo.com/https://vimeo.com/422968086)   
+
 Der Gemeindetag steht an. Am 14. Juni – sagt der Jahresplan... war auch so gedacht. ABER: Ein Gemeindetag ohne Gemeinde? Wie soll das denn gehen?? Haben wir uns auch gefragt. Das Schöne ist: Es gibt noch keine Vorgaben – also einfach mal machen :-)   
    
 Deshalb haben wir uns für den Gottesdienst ein paar Kleinigkeiten überlegt, mit denen wir euch überraschen wollen – und da könnt ihr fleißig Teilhaben! Wir möchten euch die Möglichkeit geben, über den Stream ein paar Videogrüße an den Rest der Gemeinde los zu werden. Die könnt ihr dann ganz bequem von zu Hause aus im Anschluss an den Gottesdienst sehen! Aber wie soll das gehen?   
    
-Hierfür macht ihr zu Hause einfach ein kleines Video, oder Foto im 16/9 Format (mp4) und ladet es auf [smh-gemeinden.de/videogruss](https://smh-gemeinden.de/videogruss?target=_blank) hoch. So können wir uns alle mal wieder sehen.   
-Wichtig ist nur: Bitte bis spätestens **07.06** hochladen – damit wir es noch weiter vorbereiten können!   
+Hierfür macht ihr zu Hause einfach ein kleines Video, oder Foto im 16/9 Format (mp4) und ladet es auf [smh-gemeinden.de/videogruss](https://smh-gemeinden.de/videogruss?target=blank) hoch. So können wir uns alle mal wieder sehen.   
+Wichtig ist nur: Bitte bis spätestens **07.06** hochladen – damit wir sie noch zusammenstellen können!   
    
 Mit mindestens genauso viel Liebe, werden von euch normalerweise immer die Buffetbeiträge vorbereitet. Das lassen wir uns trotz Corona nicht entgehen. Ihr habt auch in diesem Jahr die Möglichkeit auf leckeren Käsekuchen, Brot mit Körnern oder ohne und natürlich auch auf all die anderen Köstlichkeiten unseres Gemeindebuffets. Wir haben für uns ein kleines Forum eingerichtet (Siehe unten).   
 Dort könnt ihr ab jetzt eure Rezepte der Gemeindetagsklassiker posten. So haben alle die Möglichkeit, sich den Gemeindetag zumindest essenstechnisch möglichst originalgetreu zu Hause zu gestalten :-)   
