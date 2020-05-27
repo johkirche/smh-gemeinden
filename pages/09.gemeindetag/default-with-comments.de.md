@@ -24,10 +24,10 @@ Und liebe Kinder, an euch haben wir auch gedacht! Wir werden einen guten alten B
    
 Außerdem wollen wir mit euch gemeinsam Onlinespiele spielen. Die Montagsmaler kennt ihr bestimmt noch – im Internet heißt das [Skibbl](https://skribbl.io/) und wir schauen gemeinsam, wie gut wir sind.   
    
-Und zu guter Letzt, wollen wir den Tag mit einem gemeinsamen Abendgebet beschließen. Mitmachen könnt ihr per Telefon oder Video-Übertragung.   
+Und zu guter Letzt, wollen wir den Tag mit einem gemeinsamen Abendgebet um 19 Uhr beschließen. Mitmachen könnt ihr per Telefon oder Video-Übertragung.   
 Das war jetzt ganz schön viel auf einmal – und trotzdem noch nicht Alles!   
    
-Wir freuen uns auf Zahlreiche Einsendungen und hoffen, wir können den Tag irgendwie anders, aber doch gemeinsam erleben.   
+Wir freuen uns auf zahlreiche Einsendungen und hoffen, dass wir den Tag irgendwie anders, aber doch gemeinsam erleben können.   
    
 Liebe Grüße,   
 _Eure Gemeindehelfer_
