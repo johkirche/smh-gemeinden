@@ -1,5 +1,9 @@
 ---
 title: 'Einladung zum gemeinsamen virtuellen Gottesdienst '
+published: false
+date: '28-05-2020 14:41'
+publish_date: '28-05-2020 14:41'
+unpublish_date: '08-06-2020 14:41'
 recaptchacontact:
     enabled: false
 ---
