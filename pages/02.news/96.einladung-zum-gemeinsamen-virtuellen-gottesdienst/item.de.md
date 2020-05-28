@@ -1,5 +1,6 @@
 ---
 title: 'Einladung zum gemeinsamen virtuellen Gottesdienst '
+media_order: c3223041876cf8088d4bb3a2be91da319927e39b-707e06d7-58e4-43de-a037-d40da6491c38.jpeg
 published: true
 date: '28-05-2020 14:41'
 publish_date: '28-05-2020 14:41'
