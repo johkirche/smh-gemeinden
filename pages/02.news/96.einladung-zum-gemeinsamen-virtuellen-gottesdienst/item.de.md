@@ -1,6 +1,6 @@
 ---
 title: 'Einladung zum gemeinsamen virtuellen Gottesdienst '
-media_order: c3223041876cf8088d4bb3a2be91da319927e39b-707e06d7-58e4-43de-a037-d40da6491c38.jpeg
+media_order: 'c3223041876cf8088d4bb3a2be91da319927e39b-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,Silas5.png'
 published: true
 date: '28-05-2020 14:41'
 publish_date: '28-05-2020 14:41'
@@ -12,7 +12,7 @@ recaptchacontact:
 Das "Projekt Silas - der johannische Helfer im Internet" möchte ein Experiment am 07.Juni mit Euch machen.
 
 ===
-
+![](Silas5.png)
 Die Internetübertragungen unserer Gottesdienste sind zwar von sehr guter Qualität und zuverlässig, aber seid Ihr nicht auch ein wenig traurig, dass man sich während des Gottesdienstes so ein bisschen abgeschottet fühlt? Man sitzt vielleicht zu zweit in der Wohnung, aber wer ist sonst noch mit dabei? Wo sind die anderen Geschwister - sind sie da? Wer ist da? Wie viele werden wir gerade sein?
 
 Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit dem Programm "Zoom"** zu übertragen. Das soll am **Sonntag, 07.06.2020** mit dem **Gottesdienst aus dem SMH** und möglichst vielen Teilnehmern getestet werden. Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch mit Euch gemeinsam schaut - Ihr steuert das zu jedem Zeitpunkt selbst je nach gusto.
