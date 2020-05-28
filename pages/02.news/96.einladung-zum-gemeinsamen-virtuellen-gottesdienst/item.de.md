@@ -9,7 +9,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Das "Projekt Silas - der johannische Helfer im Internet" möchte ein Experiment am 07.Juni mit Euch machen.
+Das "Projekt Silas - der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen.
 
 ===
 
@@ -36,13 +36,13 @@ Wir vom Projekt Silas freuen uns auf viele Teilnehmer und hoffen auf ein intensi
 Thema: Sonntagsgottesdienst in Videokonferenz am 7. Juni 2020
 Uhrzeit: 7. Juni 2020 ab 10:30 Uhr
 
-**Link zur Teilnahme mit Smartphone, Tablet oder Computer**
+Link zur Teilnahme mit Smartphone, Tablet oder Computer:
 
 * [https://uni-potsdam.zoom.us/j/98032519699](https://uni-potsdam.zoom.us/j/98032519699)
 * Meeting-ID: 980 3251 9699 
 * Passwort: 24081855 
 
-**Einwahl mit Telefon für Telefonaustausch**
+Einwahl mit Telefon für Telefonaustausch:
 
 * +493056795800,,98032519699#,,#,24081855# Deutschland 
 * Telefonnummer: +493056795800
