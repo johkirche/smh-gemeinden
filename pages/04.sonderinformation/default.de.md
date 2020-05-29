@@ -10,7 +10,7 @@ recaptchacontact:
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 <br><br>
 
-## Pfingstfest 2020
+## Johannisches Pfingstfest 2020
 ![](csm_Altar-denoise_2052648ed2.jpg?cropResize=700,700)<br>
 Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden!
 Alle Informationen wie z.B. das Programm zum Pfingstfest gibt es auf der [Aktionsseite für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html).
