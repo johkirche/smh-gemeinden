@@ -127,7 +127,7 @@ Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig onl
 ![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?forceResize=700,525)<br>
 Die Hauptgemeinde und die Gemeinde Steglitz laden herzlich ihre Geschwister und Freunde zu ihrem gemeinsamen digitalen Gemeindetag am Sonntag, den 14. Juni 2020 ein!
 
-Eine herzliche Videoeinlaung und Hinweise darauf, wie man mitmachen kann gibt es in den [News](https://smh-gemeinden.de/news/digitaler-gemeindetag-der-hauptgemeinde-und-der-gemeinde-steglitz-2020). Die [Aktionsseite](https://smh-gemeinden.de/gemeindetag) zum digitalen Gemeindetag wird fortlaufend aktualisiert. Die Seite zeigt u.a. das Programm, bietet Mitmachmöglichkeiten und wird am 14. Juni der Ort im Internet sein, an dem an dem Gemeindetag aktiv teilgenommen werden kann.
+Eine herzliche Videoeinlaung und Hinweise darauf, wie man mitmachen kann gibt es in den [News](https://smh-gemeinden.de/news/digitaler-gemeindetag-der-hauptgemeinde-und-der-gemeinde-steglitz-2020). Die [Aktionsseite](https://smh-gemeinden.de/gemeindetag) zum digitalen Gemeindetag wird fortlaufend aktualisiert. Die Seite zeigt u.a. das Programm, bietet Mitmachmöglichkeiten und wird am 14. Juni der Ort im Internet sein, an dem am Gemeindetag aktiv teilgenommen werden kann.
 
 [Hier geht es zu der Aktionsseite des digitalen Gemeindetags der Haupftgemeinde und der Gemeinde Steglitz am 14 Juni 2020 live aus dem St.-Michaels-Heim!](https://smh-gemeinden.de/gemeindetag)
 <br><br>
