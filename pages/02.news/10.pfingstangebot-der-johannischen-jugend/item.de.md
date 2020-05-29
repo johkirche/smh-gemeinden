@@ -28,14 +28,14 @@ Einwahldaten Telefon:
 Die Zugangsdaten für dem Discord-Server werden noch bekanntgegeben. 
 
 Die schnellsten News erhaltet ihr über die JJBGF-News. Die Installation der App „Telegram“ auf euren Geräten ist hierzu erforderlich.
-* https://t.me/joinchat/AAAAAE92NHpopjNHyCbXcA
+* [https://t.me/joinchat/AAAAAE92NHpopjNHyCbXcA](https://t.me/joinchat/AAAAAE92NHpopjNHyCbXcA)
 
 Eure Liederwünsche für Sonntagabend könnt ihr auf unserem Online Doc eintragen. 
-* https://docs.google.com/document/d/1RBe3cLi3HUfmZrTb2nAIvRxPD_V87z3jCc8ECejORPo
+* [ https://docs.google.com/document/d/1RBe3cLi3HUfmZrTb2nAIvRxPD_V87z3jCc8ECejORPo]( https://docs.google.com/document/d/1RBe3cLi3HUfmZrTb2nAIvRxPD_V87z3jCc8ECejORPo)
 
 # Weitere Angebote am Pfingstsonntag
 
 Alle weiteren digitalen Beiträge für das Pfingstprogramm findet ihr hier
-* https://www.johannische-kirche.org/mediathek/pfingsten2020.html 
+* [https://www.johannische-kirche.org/mediathek/pfingsten2020.html](https://www.johannische-kirche.org/mediathek/pfingsten2020.html) 
 
 Wir freuen uns auf euch und wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
