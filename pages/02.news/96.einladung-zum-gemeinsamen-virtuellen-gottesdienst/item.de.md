@@ -39,7 +39,7 @@ Uhrzeit: 7. Juni 2020 ab 10:30 Uhr
 
 Link zur Teilnahme mit Smartphone, Tablet oder Computer:
 
-* [https://uni-potsdam.zoom.us/j/98032519699](https://uni-potsdam.zoom.us/j/98032519699)
+* [GemeinsamerGottesdienst98032519699](https://uni-potsdam.zoom.us/j/98032519699)
 * Meeting-ID: 980 3251 9699 
 * Passwort: 24081855 
 
