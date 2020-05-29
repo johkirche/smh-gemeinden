@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 10.01.45.png'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 10.01.45.png,Bildschirmfoto 2020-05-29 um 08.23.44.png'
 recaptchacontact:
     enabled: false
 ---
@@ -121,6 +121,15 @@ Alle die mitmachen möchten sind herzlich eingeladen und finden hier alle weiter
 ### Gemeindebrief online und via Post
 ![](108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg?forceResize=700,525)<br>
 Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig online und auch via Post bezogen werden. Allte weitern Informationen unter: [https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden).
+<br><br>
+
+### Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz 2020
+![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?forceResize=700,525)<br>
+Die Hauptgemeinde und die Gemeinde Steglitz laden herzlich ihre Geschwister und Freunde zu ihrem gemeinsamen digitalen Gemeindetag am Sonntag, den 14. Juni 2020 ein!
+
+Eine herzliche Videoeinlaung und Hinweise darauf, wie man mitmachen kann gibt es in den [News](https://smh-gemeinden.de/news/digitaler-gemeindetag-der-hauptgemeinde-und-der-gemeinde-steglitz-2020). Die [Aktionsseite](https://smh-gemeinden.de/gemeindetag) zum digitalen Gemeindetag fird fortlaufend aktualisiert. Die Seite zeigt u.a. das Programm, bietet Mitmachmöglichkeiten und wird am 14. Juni der Ort im Internet sein, an dem an dem Gemeindetag aktiv teilgenommen werden kann.
+
+[Hier geht es zu der Aktionsseite des digitalen Gemeindetags der Haupftgemeinde und der Gemeinde Steglitz am 14 Juni 2020 live aus dem St.-Michaels-Heim!](https://smh-gemeinden.de/gemeindetag)
 <br><br>
 
 ## Mach mit!
