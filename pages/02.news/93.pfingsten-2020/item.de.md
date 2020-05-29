@@ -16,6 +16,8 @@ Auch in diesem Jahr werden sich Mitglieder und Freunde der Johannischen Kirche z
 
 ===
 
+![](Pfingsten%202018%20noch%20kleiner.jpg)
+
 # Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag
 Am **Pfingstsamstag, dem 30. Mai**, sind alle Interessenten zu einer **öffentlichen Schule für Geisteswissenschaft** eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule für Geisteswissenschaften beginnt um 18 Uhr. Dieser Vortrag wird per [Livestream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) und Telefon übertragen.
 
@@ -50,5 +52,3 @@ Im St.-Michaels-Heim und in der Friedensstadt haben über das Pfingstfest die Bi
 ![](5C512BBA-C26B-49F1-8D5B-E6EB08D2CAAE.jpeg)
 
 Wir wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
-
-![](Pfingsten%202018%20noch%20kleiner.jpg)
