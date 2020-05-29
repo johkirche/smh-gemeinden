@@ -88,6 +88,11 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
+### Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag 30. Mai 2020
+![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
+Am Pfingstsamstag, dem 30. Mai, sind alle Interessenten zu einer öffentlichen Schule für Geisteswissenschaft eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule beginnt um 18 Uhr. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft](https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft)
+<br><br>
+
 ### Johannische Jugend: Hoffnung sucht Hoffnungsträgerinnen und Hoffnungsträger
 ![](Bildschirmfoto%202020-05-29%20um%2010.01.45.png?cropResize=700,700)<br>
 Die Johannische Jugend hat eine Kollektion zum Thema HoffnungsträgerInnen entworfen, um in dieser Zeit Mut zu geben und die Hoffnung und den Zusammenhalt zu stärken.
@@ -102,28 +107,9 @@ Wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag e
 Alle Infois unter: [https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020](https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020)
 <br><br>
 
-### InteresSMH: Escapegame
-![](suspension-bridge-959853_1920.jpg?cropResize=700,700)<br>
-Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem virtuellen Escapegame ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-escapegame-online](https://smh-gemeinden.de/news/interessmh-escapegame-online).
-<br><br>
-
-### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 27.5. um 19.30 Uhr
-![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
-Die nächste Gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 27. Mai um 19.30 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein.
-
-Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue beginnen wir unser Gespräch mit Gedankenanregungen zur Einleitung und bieten anschlieüend einen Austauschzum Thema: Wie helfe ich der Schöpfung, der Erde, uns Menschen. **Das Thema ist "Zeit für Veränderung: In uns selbst und dann in der Welt" es geht um gesunden Boden = Gesundes Wasser = Gesunde Pflanze = Gesundes Tier = Gesunder Mensch. Meiko Röper ist zu Gast und moderiert den Gemeinschaftsabend.**
-
-Wir treffen uns in einer Video- und Telefonkonferenz. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telfonisch von Fabian, Gemeindeleitung Steglitz.
-<br><br>
-
 ### InteresSMH: Spieleabend (Online)
 ![](sketch-3047721_1920.jpg?cropResize=700,700)<br>
 Am Freitag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
-<br><br>
-
-### Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag 30. Mai 2020
-![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
-Am Pfingstsamstag, dem 30. Mai, sind alle Interessenten zu einer öffentlichen Schule für Geisteswissenschaft eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule beginnt um 18 Uhr. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft](https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft)
 <br><br>
 
 ### Gemeindebrief online und via Post
@@ -144,6 +130,18 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 <br><br>
 
 ## Druchgeführte Sonderaktionen
+
+### InteresSMH: Escapegame
+![](suspension-bridge-959853_1920.jpg?cropResize=700,700)<br>
+Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem virtuellen Escapegame ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-escapegame-online](https://smh-gemeinden.de/news/interessmh-escapegame-online).
+
+### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 27.5. um 19.30 Uhr
+![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
+Die nächste Gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 27. Mai um 19.30 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein.
+
+Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue beginnen wir unser Gespräch mit Gedankenanregungen zur Einleitung und bieten anschlieüend einen Austauschzum Thema: Wie helfe ich der Schöpfung, der Erde, uns Menschen. **Das Thema ist "Zeit für Veränderung: In uns selbst und dann in der Welt" es geht um gesunden Boden = Gesundes Wasser = Gesunde Pflanze = Gesundes Tier = Gesunder Mensch. Meiko Röper ist zu Gast und moderiert den Gemeinschaftsabend.**
+
+Wir treffen uns in einer Video- und Telefonkonferenz. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telfonisch von Fabian, Gemeindeleitung Steglitz.
 
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
 ![](music-656593_1920.jpg?cropResize=700,700)<br>
