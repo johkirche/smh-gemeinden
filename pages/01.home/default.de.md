@@ -39,7 +39,7 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
 | [![](csm_D__sseldorf_2a84004819.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Düsseldorf und Dortmund](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html) (14 Uhr) |
 
 <br><br>
-Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 27.05.2020 um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 10.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
