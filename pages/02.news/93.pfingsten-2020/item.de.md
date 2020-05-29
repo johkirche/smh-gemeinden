@@ -17,7 +17,7 @@ Auch in diesem Jahr werden sich Mitglieder und Freunde der Johannischen Kirche z
 ===
 
 # Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag
-Am **Pfingstsamstag, dem 30. Mai**, sind alle Interessenten zu einer **öffentlichen Schule für Geisteswissenschaft** eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Dieser Vortrag wird per [Livestream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) und Telefon übertragen.
+Am **Pfingstsamstag, dem 30. Mai**, sind alle Interessenten zu einer **öffentlichen Schule für Geisteswissenschaft** eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule für Geisteswissenschaften beginnt um 18 Uhr. Dieser Vortrag wird per [Livestream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) und Telefon übertragen.
 
 Einwahldaten Telefon:
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
