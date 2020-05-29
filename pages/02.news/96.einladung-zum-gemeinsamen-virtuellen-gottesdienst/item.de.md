@@ -7,6 +7,7 @@ publish_date: '28-05-2020 14:41'
 unpublish_date: '08-06-2020 14:41'
 recaptchacontact:
     enabled: false
+show_sidebar: false
 ---
 
 Das "Projekt Silas - der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen.
