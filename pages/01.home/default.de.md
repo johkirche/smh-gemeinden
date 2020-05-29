@@ -25,12 +25,12 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
-# Digitaler Gemeindetag
-Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Staglitz am 14. Juni 2020.
+# Pfingsten 2020
+Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden!
 
 |  |  |
 | ------ | ----------- |
-| [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
+| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zum Programm zum Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html) |
 <br><br><br>
 # Videogottesdienste
 Die nächsten Videogottesdienste finden am kommenden Sonntag um 11 Uhr statt.
@@ -70,3 +70,10 @@ Telefonische Einwahldaten zu **täglichen Abendgebeten um 17 und um 21 Uhr:**
    
 <br>Eine Hilfestellung für die Nutzung der Telefonübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
+<br><br><br>
+# Digitaler Gemeindetag
+Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Staglitz am 14. Juni 2020.
+
+|  |  |
+| ------ | ----------- |
+| [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
