@@ -152,11 +152,11 @@ Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem vi
 
 ### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 27.5. um 19.30 Uhr
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
-Die nächste Gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 27. Mai um 19.30 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein.
+Am 27. Mai um 19.30 Uhr luden die Gemeinden im St.-Michaels-Heim im Anschluss an unseren Mittwochgottesdienst zu einem gemeinsamen Gesprächskreis ein. Das fröhliche Beisammensein fand virtuell und telefonisch statt.
 
-Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue beginnen wir unser Gespräch mit Gedankenanregungen zur Einleitung und bieten anschlieüend einen Austauschzum Thema: Wie helfe ich der Schöpfung, der Erde, uns Menschen. **Das Thema ist "Zeit für Veränderung: In uns selbst und dann in der Welt" es geht um gesunden Boden = Gesundes Wasser = Gesunde Pflanze = Gesundes Tier = Gesunder Mensch. Meiko Röper ist zu Gast und moderiert den Gemeinschaftsabend.**
+Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue begannen wir unser Gespräch mit Gedankenanregungen zur Einleitung undtauschten uns zum Thema **"Zeit für Veränderung: In uns selbst und dann in der Welt"** aus. Meiko Röper war zu Gast und moderierte den Gemeinschaftsabend.**
 
-Wir treffen uns in einer Video- und Telefonkonferenz. Die Einwahldaten erhaltet ihr unter info@smh-gemeinden.de oder telfonisch von Fabian, Gemeindeleitung Steglitz.
+Im Nachgang an den Gemeinschaftsabend entstand ein kleiner [Newsbeitrag](https://smh-gemeinden.de/news/rueckblick-auf-online-gespraechskreis-vom-27-mai), der den einleitenden Vortrag und einige der ausgetauschten Gedanken wiedergibt. Alle die dabei waren oder dies nicht konnten können dort nachlesen.
 
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
 ![](music-656593_1920.jpg?cropResize=700,700)<br>
