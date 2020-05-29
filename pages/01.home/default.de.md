@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,P1120210.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,P1120210.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg'
 published: true
 routable: true
 visible: false
@@ -30,7 +30,7 @@ Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche 
 
 |  |  |
 | ------ | ----------- |
-| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Aktionsseite und Pfingstprogramm der Johannischen Kirche für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html) |
+| [![](Pfingsten%202018%20noch%20kleiner.jpg?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Aktionsseite und Pfingstprogramm der Johannischen Kirche für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html) |
 
 Weitere Informationen gibt es auch im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
 <br><br><br>
