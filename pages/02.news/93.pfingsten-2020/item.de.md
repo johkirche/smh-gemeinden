@@ -1,6 +1,6 @@
 ---
 title: 'Pfingsten 2020'
-media_order: '30EC1C82-C3A3-457F-9DA8-0ADDCD6861F9.jpeg,Pfingsten 2018 noch kleiner.jpg'
+media_order: '30EC1C82-C3A3-457F-9DA8-0ADDCD6861F9.jpeg,Pfingsten 2018 noch kleiner.jpg,5C512BBA-C26B-49F1-8D5B-E6EB08D2CAAE.jpeg'
 date: '29-05-2020 08:43'
 publish_date: '29-05-2020 08:43'
 unpublish_date: '01-06-2020 23:59'
@@ -46,6 +46,8 @@ Für den Sonntagnachmittag bereiten verschiedene Arbeitsgruppen ein kurzweiliges
 Da es sich überwiegend um ein digitales Angebot in Form von Video-Beiträgen handeln wird, können diese nur über das Internet angeschaut werden. An alle Mitglieder und Freunde ergeht die Bitte zu überlegen, wie sie anderen Gemeindemitgliedern ein Anschauen der Beiträge ermöglichen können. Bitte beachtet dabei die rechtlichen Vorgaben zum Hygieneschutz.
 
 Im St.-Michaels-Heim und in der Friedensstadt haben über das Pfingstfest die Biergärten geöffnet und freuen sich auf Besuch. An alle Gäste ergeht die herzliche Bitte, die gesetzlich vorgeschriebenen Abstands- und Hygieneregeln einzuhalten.
+
+![](5C512BBA-C26B-49F1-8D5B-E6EB08D2CAAE.jpeg)
 
 Wir wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
 
