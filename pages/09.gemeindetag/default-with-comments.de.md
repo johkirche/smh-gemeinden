@@ -55,3 +55,6 @@ _Eure Gemeindehelfer_
 * Bilder eures Tages zu teilen.
 	* Was war besonders schön?
 	* Wie hast du den Gemeindetag verbracht?
+
+<br><br>
+# MitmachECKE: Hier ist Platz für EURE BEITRÄGE
