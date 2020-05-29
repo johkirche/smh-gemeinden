@@ -1,5 +1,6 @@
 ---
 title: 'Zeit für Veränderung: In uns selbst und dann in der Welt – Rückblick auf Online-Gesprächskreis vom 27. Mai'
+media_order: fc0a1cac95902705a602abf2d2e5aa5d99c53269-handshake-33825031920.jpeg
 date: '29-05-2020 10:44'
 publish_date: '29-05-2020 10:44'
 unpublish_date: '05-06-2020 10:44'
@@ -14,6 +15,6 @@ Im Anschluss an den gesprächskreis schribt der Gesprächsmoderator: "Vielen Dan
 
 _"Hab keine Angst vor dem Wort „verändern“. Es bedeutet nur, dass du aufhörst bestimmte Dinge zu tun, die du bisher getan hast, und anfängst Dinge zu tun, die du bisher noch nicht getan hast. Zum Beispiel solltest du aufhören, negative Gedanken zuzulassen, und anfangen positiv zu denken. Du solltest aufhören, es dir bequem zu machen, und stattdessen aus dem Boot steigen. Du solltest aufhören Dinge aufzuschieben und anfangen, die Gelegenheiten beim Schopf zu ergreifen. Es genügt nicht, nur vom verheißenen Land zu lesen oder darüber zu sprechen. Entscheide dich, es einzunehmen. Gott ist gut, er bringt dich hinein. Sei bereit, ihm zu folgen und die positiven Veränderungen anzunehmen, die er in deinem Leben bewirken möchte. Auf diese Weise bereitet Gott dich auch vor, ein Segen für andere zu sein."_
 
-Für alle die leider nicht dabei sein konnten und für diejenigen, die gerne noch einmal den Impulsvortag soewie einige Gedanken aus dem Gesprächskreis nachlesen möchten, besteht hier die Möglichkeit nachzulesen.
+Für alle die leider nicht dabei sein konnten und für diejenigen, die gerne noch einmal den Impulsvortag soewie einige Gedanken aus dem Gesprächskreis nachlesen möchten, besteht [hier die Möglichkeit nachzulesen.](https://cloud.johannische-kirche.org/index.php/s/kx32jSKpwTekYsp)
 
 Ein gesegnetes Pfingstfest allen! In diesem Sinne ein herzliches Gott zum Gruß!
