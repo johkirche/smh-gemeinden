@@ -49,7 +49,7 @@ Da es sich überwiegend um ein digitales Angebot in Form von Video-Beiträgen ha
 
 Im St.-Michaels-Heim und in der Friedensstadt haben über das Pfingstfest die Biergärten geöffnet und freuen sich auf Besuch. An alle Gäste ergeht die herzliche Bitte, die gesetzlich vorgeschriebenen Abstands- und Hygieneregeln einzuhalten.
 
-# Pgibgstaktion der Gemeinden im St.Michaels-Heim
+# Pfingstaktion der Gemeinden im St.-Michaels-Heim
 
 Vor der Kirche im St.-Michaels-Heim steht eine Pinnwand bereit, die wir anlässlich des diesjährigen Pfingstfestes mit Wünschen und liebevollen Gedanken für den Nächsten füllen wollen. Ihr habt von nun an bis einschl. Pfingstmontag die Möglichkeit, mutmachende, fröhliche und liebevolle Wünsche auszuteilen und wenn ihr möchtet, auch einen für euch selber mitzunehmen. Die Wünsche-Wand findet ihr neben dem Zugang zum Kirchenraum.
 Die Gastronomie im Biergarten hat am Pfingstmontag auch geöffnet – eine gute Gelegenheit vorbeizuschauen und einen Wunsch niederzuschreiben.
