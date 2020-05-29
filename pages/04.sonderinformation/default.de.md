@@ -112,6 +112,12 @@ Alle Infois unter: [https://smh-gemeinden.de/news/digitales-chorprojekt-pfingste
 Am Freitag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
 <br><br>
 
+### Gemeinsamer virtueller Gottesdienstbesuch
+![](csm_IMG_1064_aac979a1a7.jpg?forceResize=700,525)<br>
+Das "Projekt Silas – der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen. Die Internetübertragungen unserer Gottesdienste sind von sehr guter Qualität und zuverlässig, aber mancheiner vermisst es, dass man sich rund um den Gottesdienstbesuch nicht mehr sieht und unterhalten kann. Daraus wurde die Idee geboren, den Gottesdienst selbst als Video-Konferenz übertragen und sich vor und nach dem Gottesdienst austauschen zu können. Das soll am Sonntag, 07.06.2020 mit dem Gottesdienst aus dem SMH gemeinsam ausprobiert werden.
+
+Alle die mitmachen möchten sind herzlich eingeladen und finden hier alle weiteren Informationen: [https://smh-gemeinden.de/news/einladung-zum-gemeinsamen-virtuellen-gottesdienst](https://smh-gemeinden.de/news/einladung-zum-gemeinsamen-virtuellen-gottesdienst)
+
 ### Gemeindebrief online und via Post
 ![](108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg?forceResize=700,525)<br>
 Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig online und auch via Post bezogen werden. Allte weitern Informationen unter: [https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden).
