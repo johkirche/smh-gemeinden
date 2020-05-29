@@ -36,7 +36,7 @@ Liebe Grüße,
 _Eure Gemeindehelfer_
 
 <br><br>
-# Programmablauf unseres Online-Gemeindetags
+# Programm unseres Online-Gemeindetags
 
 **ab sofort bis 14. Juni:**
 * Rezepte sammeln fürs Buffet
