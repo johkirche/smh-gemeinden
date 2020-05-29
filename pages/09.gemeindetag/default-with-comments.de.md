@@ -34,3 +34,21 @@ Wir freuen uns auf zahlreiche Einsendungen und hoffen, dass wir den Tag irgendwi
    
 Liebe Grüße,   
 _Eure Gemeindehelfer_
+
+# Programmablauf unseres Online-Gemeindetags
+
+**ab sofort bis 14. Juni:**
+* Rezepte sammeln fürs Buffet
+
+**Am 14.Juni:**
+* 11 Uhr: Gottesdienst, anschließend Bilder und Videogrüße
+* 15-17 Uhr: Scribble (Online Montagsmaler) Schaltet euch dazu und schaut herein wie ihr möchtet.
+	* Um mitspielen zu können, bitte hier eine E-Mail Adresse hinterlassen, dann bekommt ihr kurz vorher den Link zugeschickt.
+* 19 Uhr Abendgebet mit Telefon und Videoübertragung
+
+Während des ganzen Tages habt ihr die Möglichkeit ...
+* einen Videogruß von Onkel Pelle zu sehen (besonders für unsere Kinder)
+* Bilder eurer Lieblings-Buffetbeiträge zu teilen und
+* Bilder eures Tages zu teilen.
+	* Was war besonders schön?
+	* Wie hast du den Gemeindetag verbracht?
