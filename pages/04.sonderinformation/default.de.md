@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 09.58.37.png'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 09.58.37.png,Bildschirmfoto 2020-05-29 um 10.01.45.png'
 recaptchacontact:
     enabled: false
 ---
@@ -90,6 +90,7 @@ Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister u
 
 ### Johannische Jugend: Hoffnung sucht Hoffnungsträgerinnen und Hoffnungsträger
 ![](Bildschirmfoto%202020-05-29%20um%2009.58.37.png?cropResize=700,700)<br>
+![](Bildschirmfoto%202020-05-29%20um%2010.01.45.png?cropResize=700,700)<br>
 Die Johannische Jugend hat eine Kollektion zum Thema HoffnungsträgerInnen entworfen, um in dieser Zeit Mut zu geben und die Hoffnung und den Zusammenhalt zu stärken.
 
 Alle Infois unter: [https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen](https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen)
