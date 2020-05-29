@@ -48,4 +48,5 @@ Da es sich überwiegend um ein digitales Angebot in Form von Video-Beiträgen ha
 Im St.-Michaels-Heim und in der Friedensstadt haben über das Pfingstfest die Biergärten geöffnet und freuen sich auf Besuch. An alle Gäste ergeht die herzliche Bitte, die gesetzlich vorgeschriebenen Abstands- und Hygieneregeln einzuhalten.
 
 Wir wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
+
 ![](Pfingsten%202018%20noch%20kleiner.jpg)
