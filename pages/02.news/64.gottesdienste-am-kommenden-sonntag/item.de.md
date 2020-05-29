@@ -6,18 +6,14 @@ publish_date: '15-05-2020 19:17'
 taxonomy:
     kategorie:
         - featured
+recaptchacontact:
+    enabled: false
 show_sidebar: false
 ---
 
 Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in verschiedenen Gemeinden der Johannischen Kirche statt. In diesem Artikel findet ihr alle Informationen.
 
 ===
-# Gottesdienst via Videolivestream und Telefon am Mittwochm, den 27.05.2020
-Am Mittwoch, den 13.05.2020 findet ein **Gottesdienst** statt, an dem mit einem **Videolivestream** oder via **Telefon** teilgenommen werden kann:
-* 19.00 Uhr im St.-Michaels-Heim:
-* Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-* Telefonübertragung: Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz), Konferenznummer: 16682, Pin: 24081855
-
 # Pfingstgottesdienst am Sonntag, den 31.05.2020 um 11.30 Uhr
 Auch dieses Jahr möchten wir uns Pfingsten in einem Festgottesdiesnt miteinander verbinden! Die Kraft und der Geist der Pfingsten wird für uns alle spürbar sein. Am Pfingstsonntag wird ein Festgottesdienst aus dem Waldfrieden per Telefon und Video übertragen. Dadurch können wir alle miteinander an diesem besonderen Tage verbunden sein.
 
@@ -78,3 +74,9 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>13 Uhr</center> | <center>Dortmund</center> | | <center>Wittenberg mit Elster</center> | |
 | <center>14 Uhr</center> | <center>Düsseldorf</center> | | <center>Wiesbaden</center> | |
 | <center>15.30 Uhr</center> | | <center>Leipzig</center> | | |
+
+# Gottesdienst via Videolivestream und Telefon am Mittwochm, den 10.06.2020
+Am Mittwoch, den 10.06.2020 findet ein **Gottesdienst** statt, an dem mit einem **Videolivestream** oder via **Telefon** teilgenommen werden kann:
+* 19.00 Uhr im St.-Michaels-Heim:
+* Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* Telefonübertragung: Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz), Konferenznummer: 16682, Pin: 24081855
