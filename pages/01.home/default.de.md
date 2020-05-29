@@ -39,7 +39,7 @@ Pfingstgottesdienst im Waldfrieden am Sonntag, den 31.05.2020 um 11 Uhr
 
 |  |  |
 | ------ | ----------- |
-| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
+| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Pfingstfestgottesdienst im Waldfrieden](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
 <br><br>
 Die nächsten Videogottesdienste finden am kommenden Sonntag, den 07. Juni um 11 Uhr statt.
 
