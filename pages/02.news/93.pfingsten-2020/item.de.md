@@ -1,12 +1,14 @@
 ---
 title: 'Pfingsten 2020'
 media_order: 30EC1C82-C3A3-457F-9DA8-0ADDCD6861F9.jpeg
-date: '15-05-2020 23:33'
-publish_date: '15-05-2020 23:33'
+date: '29-05-2020 08:43'
+publish_date: '29-05-2020 08:43'
 unpublish_date: '01-06-2020 23:59'
 taxonomy:
     kategorie:
         - featured
+recaptchacontact:
+    enabled: false
 show_sidebar: false
 ---
 
