@@ -1,11 +1,19 @@
 ---
 title: Sonderinfo
 media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg'
+recaptchacontact:
+    enabled: false
 ---
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
 
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
+<br><br>
+
+## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
+Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden!
+Alle Informationen wie z.B. das Programm zum Pfingstfest gibt es auf der [Aktionsseite für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html).
+Weitere Informationen gibt es zudem im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
 <br><br>
 
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
