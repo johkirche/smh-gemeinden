@@ -26,6 +26,7 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
 # Digitaler Gemeindetag
+![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png)
 Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Staglitz am 14. Juni 2020.
 |  |  |
 | ------ | ----------- |
