@@ -30,7 +30,7 @@ Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche 
 
 |  |  |
 | ------ | ----------- |
-| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zum Programm zum Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html) |
+| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Aktionsseite und Pfingstprogramm der Johannischen Kirche für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html) |
 
 Weitere Informationen gibt es auch im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
 <br><br><br>
