@@ -11,6 +11,8 @@ Weitere Dienstleistungen werden vom [Johannischen Sozialwerk e. V.](https://www.
 
 Das St.-Michaels-Heim liegt im ruhigen Villenviertel Berlin-Grunewald inmitten einer großen Parkanlage direkt am Herthasee. Kern des Hauses ist das im englischen Landhausstil erbaute ehemalige [Palais der Familie Mendelssohn](https://de.wikipedia.org/wiki/Palais_Mendelssohn), das in die neuen Gebäude harmonisch integriert wurde.
 
+Die Leitungen der Kirchengemeinden im St.-Michaels-Heim sind über den Bereich [Kontakt](https://smh-gemeinden.de/kontakt) oder über die Webseite der [Johannischen-Kirche](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) erreichbar.
+
 Wenn Sie unsere Arbeit mit einer Spende unterstützen möchten freuen wir uns sehr. Sehr gerne können Sie Ihre Spende auf unser untenstehendes Spendenkonto überweisen oder unser [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Wenn Sie uns regelmäßig unterstützen möchten nutzen Sie bitte die Formulare auf der Webseite der [Johannischen Kirche](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
 <br>
