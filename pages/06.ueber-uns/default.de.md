@@ -13,7 +13,11 @@ Das St.-Michaels-Heim liegt im ruhigen Villenviertel Berlin-Grunewald inmitten e
 
 Wenn Sie unsere Arbeit mit einer Spende unterstützen möchten freuen wir uns sehr. Sehr gerne können Sie Ihre Spende auf unser untenstehendes Spendenkonto überweisen oder unser [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Wenn Sie uns regelmäßig unterstützen möchten nutzen Sie bitte die Formulare auf der Webseite der [Johannischen Kirche](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
-<br>Spendenkonto
-* Empfänger: Johannische Kirche
+<br>
+|  |  |
+| ------ | ----------- |
+| Spendenkonto | Onlinespende |
+| * Empfänger: Johannische Kirche
 * BIC-Code (SWIFT): BFSWDE33BER
 * IBAN: DE61 1002 0500 0003 0144 01
+
