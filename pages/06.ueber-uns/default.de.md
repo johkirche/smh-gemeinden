@@ -16,7 +16,7 @@ Wenn Sie unsere Arbeit mit einer Spende unterstützen möchten freuen wir uns se
 <br>
 |  |  |
 | ------ | ----------- |
-| Spendenkonto der Johannischen Kirche <font color="white">.     .     .     .</font><br>(Bank für Sozialwirtschaft AG) | Onlinespende |
+| Spendenkonto der Johannischen Kirche <font color="white">.     .     .     .</font><br>(Bank für Sozialwirtschaft AG) | Onlinespende<br>(zum Öffnen bitte auf die Münze klicken) |
 | |
-| Empfänger: Johannische Kirche<br>BIC-Code (SWIFT): BFSWDE33BER<br>IBAN: DE61 1002 0500 0003 0144 01 | [![](euro-145386_1280.png?cropResize=130,130)](https://secure.spendenbank.de/form/3469)<br>(zum Öffnen bitte auf die Münze klicken)
+| Empfänger: Johannische Kirche<br>BIC-Code (SWIFT): BFSWDE33BER<br>IBAN: DE61 1002 0500 0003 0144 01 | [![](euro-145386_1280.png?cropResize=130,130)](https://secure.spendenbank.de/form/3469)
 
