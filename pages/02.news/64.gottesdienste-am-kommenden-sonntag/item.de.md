@@ -26,6 +26,9 @@ Einwahldaten für die Telefonübertragung:
 * PIN: 24081855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 
+> Wer die Durchführung der Gottesdienste und Kirchenarbeit der Johannischen Kirche mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuelle nur eingeschrängt möglich ist, kann sich gerne an das Kirchenbüro in Kikolassee, die Gemeindekassierer oder die Gemeindeleitung wenden sowie seine Spende überweisen oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen findet ihr im Bereich [über uns](https://smh-gemeinden.de/ueber-uns). Herzlichen Dank!
+<
+
 # Gemeinsames Abendgebet via Telefon (täglich)
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
 * 17 Uhr in der Friedensstadt: Abendgebet (Konferenznummer: 31909)
