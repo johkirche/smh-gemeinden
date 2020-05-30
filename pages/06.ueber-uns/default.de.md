@@ -5,7 +5,6 @@ recaptchacontact:
     enabled: false
 ---
 
-[![Johannische Kirche](kirchenlogo.png?classes=center)](http://www.johannische-kirche.org)   
 Das St.-Michaels-Heim ist ein "_Haus der Kirche_", das seit 1957 Mitglieder und Freunde der [Johannischen Kirche](https://www.johannische-kirche.org) vereint. Regelmäßig stattfindende Gottesdienste sind offen für jedermann. Der christliche Gedanke der praktizierten Nächstenliebe wird darüber hinaus in vielen Aktivitäten der größtenteils ehrenamtlich tätigen Mitglieder und Helfer der Johannischen Kirche deutlich. Es gibt Sprechstunden für Seelsorge, Ausrichtung und das Sakrament der geistigen Heilung.
 Weitere Dienstleistungen werden vom [Johannischen Sozialwerk e. V.](https://www.johannisches-sozialwerk.de/) auf dem Gelände des St.-Michaels-Heimes angeboten. Die Jugend hat mit ihren vielfältigen Gruppentreffen ebenso ihren Platz wie die verschiedenen Arbeits- und Interessengemeinschaften. Dazu gehören neben Diskussions- und Kulturkreisen auch Aktivitäten wie Tanzen, Gartenarbeit und textiles Gestalten.
 
@@ -17,3 +16,5 @@ Spendenkonto
 Empfänger: Johannische Kirche
 BIC-Code (SWIFT): BFSWDE33BER
 IBAN: DE61 1002 0500 0003 0144 01
+
+[![Johannische Kirche](kirchenlogo.png?classes=center)](http://www.johannische-kirche.org)
