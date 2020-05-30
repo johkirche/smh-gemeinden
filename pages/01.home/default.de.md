@@ -70,7 +70,7 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 
 Telefonische Einwahldaten zu **täglichen Familienabendgebeten um 19.30 Uhr:**
 * Telefonnummern und Pin siehe telefonischen Gottesdiensten
-* Konferenznummer: 92885
+* Konferenznummer: 92885, ab Juni 31909
 
 Telefonische Einwahldaten zu **täglichen Abendgebeten um 17 und um 21 Uhr:**
 * Telefonnummern und Pin siehe telefonischen Gottesdiensten
