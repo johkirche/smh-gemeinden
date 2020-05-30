@@ -80,7 +80,7 @@ Telefonische Einwahldaten zu **täglichen Abendgebeten um 17 und um 21 Uhr:**
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
 <br><br><br>
 # Digitaler Gemeindetag
-Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Staglitz am 14. Juni 2020.
+Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
 
 |  |  |
 | ------ | ----------- |
