@@ -16,7 +16,7 @@ Wenn Sie unsere Arbeit mit einer Spende unterstützen möchten freuen wir uns se
 <br>
 |  |  |
 | ------ | ----------- |
-| Spendenkonto der Johannischen Kirche <font color="white">.     .</font><br>(Bank für Sozialwirtschaft AG) | Onlinespende |
+| Spendenkonto der Johannischen Kirche <font color="white">.               .</font><br>(Bank für Sozialwirtschaft AG) | Onlinespende |
 | |
 | Empfänger: Johannische Kirche |
 | BIC-Code (SWIFT): BFSWDE33BER |
