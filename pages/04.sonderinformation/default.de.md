@@ -52,7 +52,7 @@ Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Famil
 
 Telefonische Einwahldaten zu den Familienabendgebeten:
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
-* Konferenznummer: 92885#
+* Konferenznummer: 92885#, ab Juni 31909
 * Passwort: 24081855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
