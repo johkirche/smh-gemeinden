@@ -3,6 +3,8 @@ title: 'Telefon- und Videoübertagungen von Gottesdiensten'
 media_order: Webseitelogo.png
 date: '20-03-2020 20:37'
 publish_date: '20-03-2020 20:37'
+recaptchacontact:
+    enabled: false
 show_sidebar: false
 ---
 
@@ -39,3 +41,5 @@ Allen, die diese Arbeit mit unermüdlichem Einsatz, guten Gedanken, Gebeten und 
 Mit einem herzlichen Gott zum Gruß!
 
 Eure Berliner Gemeindehelferinnen, Gemeindehelfer und Gemeindeführer
+
+> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.de](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
