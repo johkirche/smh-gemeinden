@@ -35,7 +35,7 @@ Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche 
 Weitere Informationen gibt es auch im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
 <br><br><br>
 # Videogottesdienste
-Pfingstgottesdienst im Waldfrieden am Sonntag, den 31.05.2020 um 11 Uhr
+Pfingstgottesdienst im Waldfrieden am Sonntag, den 31.05.2020 um 11.30 Uhr
 
 |  |  |
 | ------ | ----------- |
