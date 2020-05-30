@@ -43,6 +43,8 @@ Weitere Informationen:
 * [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
+
+> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.de](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 <br><br>
 
 ## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
