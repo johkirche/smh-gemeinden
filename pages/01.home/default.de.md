@@ -61,6 +61,8 @@ Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 10.06.20
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 <br>Eine Hilfestellung für die Nutzung der Videoübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
+<br><br>
+> Wer die Durchführung der Gottesdienste und Kirchenarbeit mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuelle nur eingeschrängt möglich ist, kann sich gerne an die Gemeindekassierer oder die Gemeindeleitung wenden sowie seine Spende überweisen oder das Spendenformular nuten. Herzlichen Dank!
 <br><br><br>
 # Telefongottesdienste und -abendgebete
 Telefonische Einwahldaten zu **Gottesdiensten**:
