@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,P1120210.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,P1120210.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG'
 published: true
 routable: true
 visible: false
@@ -50,6 +50,7 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag, den 07. Juni um 11
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
 | [![](csm_velten_altar_69ddeeb6c1.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Velten](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html) |
 | [![](P1120210.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html) |
+| [![](DSC_0013_reduziert.JPG)?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Hamburg](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html) (12 Uhr) |
 | [![](csm_2008_-_Elster_Altar_df63a7a87e.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr) |
 | [![](csm_D__sseldorf_2a84004819.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Düsseldorf und Dortmund](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html) (14 Uhr) |
 
