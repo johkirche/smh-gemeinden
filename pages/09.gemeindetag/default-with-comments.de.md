@@ -58,3 +58,4 @@ _Eure Gemeindehelfer_
 
 <br><br>
 # MitmachECKE: Hier ist Platz für EURE BEITRÄGE
+[plugin:page-inject](/form)
