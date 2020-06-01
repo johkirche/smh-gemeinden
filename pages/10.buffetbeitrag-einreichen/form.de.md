@@ -37,7 +37,7 @@ form:
     buttons:
         submit:
             type: submit
-            value: Submit
+            value: Absenden
     process:
         captcha: true
         save:
