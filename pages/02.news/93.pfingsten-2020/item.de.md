@@ -56,11 +56,11 @@ Die Gastronomie im Biergarten hat am Pfingstmontag auch geöffnet – eine gute 
 Hier schon einmal ein Foto der Wand von Freitag, den 29. Juni. Ein weiteres Foto der Wand werden wir nach Pfingsten auf www.smh-gemeinden.de hier veröffentlichen.
 
 ![](5C512BBA-C26B-49F1-8D5B-E6EB08D2CAAE.jpeg)
-Wünschewand Freitag
+_Wünschewand Freitag_
 
 ![](C81A31FF-F488-45D1-9DC0-D655D38868FE.jpeg)
-Wünscgewand Pfingstmontag
+_Wünschewand Pfingstmontag_
 
-herzlichen dank an alle Wünschende!
+Herzlichen Dank an alle Wünschende!
 
 Wir wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
