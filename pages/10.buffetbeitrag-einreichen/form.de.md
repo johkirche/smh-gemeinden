@@ -6,25 +6,25 @@ form:
     fields:
         name:
             label: Name
-            placeholder: 'Enter your name'
+            placeholder: 'Vor- und Nachname eingeben'
             autocomplete: 'on'
             type: text
             validate:
                 required: true
         email:
-            label: Email
-            placeholder: 'Enter your email address'
+            label: E-Mail
+            placeholder: 'E-Mail-Adresse eingeben'
             type: email
             validate:
                 required: true
         message:
-            label: Message
-            placeholder: 'Enter your message'
+            label: Nachricht
+            placeholder: 'Nachricht hinzufügen'
             type: textarea
             validate:
                 required: true
         image:
-            label: Bild
+            label: 'Bild (max. 5 MB)'
             placeholder: 'Bild hochladen'
             type: file
             multiple: false
@@ -38,9 +38,6 @@ form:
         submit:
             type: submit
             value: Submit
-        reset:
-            type: reset
-            value: Reset
     process:
         captcha: true
         save:
