@@ -28,18 +28,28 @@ form:
             placeholder: 'Bild hochladen'
             type: file
             multiple: false
-            destination: '@self'
+            destination: 'page@:/gemeindetag'
             filesize: 5
             accept:
                 - 'image/*'
             validate:
                 required: false
+        g-recaptcha-response:
+          label: Code
+          type: captcha
+          recaptcha_site_key: 6LcLBP0UAAAAABLvELpXzeTPmI0j5_2Om7zEeDOI
+          recaptcha_not_validated: 'Code ist ungültig'
+          validate:
+            required: true
+          process:
+            ignore: true
     buttons:
         submit:
             type: submit
             value: Absenden
     process:
-        captcha: true
+        captcha:
+            recaptcha_secret: 6LcLBP0UAAAAAOIYAOqXuzZxyS-fCLfLLtX48dyc
         save:
             fileprefix: contact-
             dateformat: Ymd-His-u
@@ -48,8 +58,7 @@ form:
         email:
             subject: '[Site Contact Form] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
-        message: 'Thank you for getting in touch!'
-        display: thankyou
+        message: 'Danke für deinen Beitrag!'
 ---
 
 # Büffetbeitrag einreichen
