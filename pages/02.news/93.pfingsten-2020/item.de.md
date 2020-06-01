@@ -1,9 +1,9 @@
 ---
 title: 'Pfingsten 2020'
-media_order: '30EC1C82-C3A3-457F-9DA8-0ADDCD6861F9.jpeg,Pfingsten 2018 noch kleiner.jpg,5C512BBA-C26B-49F1-8D5B-E6EB08D2CAAE.jpeg'
+media_order: '30EC1C82-C3A3-457F-9DA8-0ADDCD6861F9.jpeg,Pfingsten 2018 noch kleiner.jpg,5C512BBA-C26B-49F1-8D5B-E6EB08D2CAAE.jpeg,C81A31FF-F488-45D1-9DC0-D655D38868FE.jpeg'
 date: '29-05-2020 08:43'
 publish_date: '29-05-2020 08:43'
-unpublish_date: '01-06-2020 23:59'
+unpublish_date: '15-06-2020 23:59'
 taxonomy:
     kategorie:
         - featured
@@ -56,5 +56,11 @@ Die Gastronomie im Biergarten hat am Pfingstmontag auch geöffnet – eine gute 
 Hier schon einmal ein Foto der Wand von Freitag, den 29. Juni. Ein weiteres Foto der Wand werden wir nach Pfingsten auf www.smh-gemeinden.de hier veröffentlichen.
 
 ![](5C512BBA-C26B-49F1-8D5B-E6EB08D2CAAE.jpeg)
+Wünschewand Freitag
+
+![](C81A31FF-F488-45D1-9DC0-D655D38868FE.jpeg)
+Wünscgewand Pfingstmontag
+
+herzlichen dank an alle Wünschende!
 
 Wir wünschen euch ein gesegnetes, freimachendes und fröhliches Pfingstfest.
