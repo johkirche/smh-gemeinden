@@ -13,5 +13,5 @@ Zusätzlich zu den bestehenden 17 Uhr und 21 Uhr Abendgebeten wird ab Sonntag, d
 
 Die Einwahlnummern inklusive Konferenznummer und Pin sind:
 * Telefonnummern: 089 / 121 405 900 oder 030 / 201 634 900 (deutsches Festnetz)
-* Konferenznummer: 92885, ab Juni 31909
+* Konferenznummer: 31909
 * Pin: 24081855
