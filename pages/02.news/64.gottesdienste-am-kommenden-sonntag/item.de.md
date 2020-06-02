@@ -26,6 +26,7 @@ Am Samstag, den 23.05. finden folgende **Gottesdienste** statt an denen **telefo
 
 # Gottesdienste via Videolivestream am Sonntag, den 07.06.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
+* 10.00 Uhr in Kaulsdorf: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html)
 * 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
@@ -47,11 +48,7 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>14 Uhr</center> | <center>Düsseldorf</center> | | <center>Wiesbaden</center> | |
 | <center>15.30 Uhr</center> | | <center>Leipzig</center> | | |
 
-# Gottesdienst via Videolivestream und Telefon am Mittwochm, den 10.06.2020
-Am Mittwoch, den 10.06.2020 findet ein **Gottesdienst** statt, an dem mit einem **Videolivestream** oder via **Telefon** teilgenommen werden kann:
-* 19.00 Uhr im St.-Michaels-Heim:
-* Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-* Telefonübertragung: Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz), Konferenznummer: 16682, Pin: 24081855
+
 
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
