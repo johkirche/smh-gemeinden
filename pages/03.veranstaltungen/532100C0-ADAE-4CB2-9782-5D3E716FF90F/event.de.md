@@ -20,7 +20,7 @@ Das Besondere an diesem Abendgebet ist die ansprechende Gestaltung für die Kind
 
 Die Einwahlnummern inklusive Konferenznummer und Pin sind:
 * Tel: 089 / 121 405 900 (oder 030 / 201 634 900)
-* Konferenznummer: 92885 
+* Konferenznummer: 31909 
 * Pin: 24081855
 
 
