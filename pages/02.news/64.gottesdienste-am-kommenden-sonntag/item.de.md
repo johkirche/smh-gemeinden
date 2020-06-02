@@ -94,7 +94,7 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | <center>10 Uhr</center> | | <center>Kaulsdorf</center> | | |
 | <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
-| <center>12 Uhr</center> | <center>Güstrow</center> | <center>Hannover (G-Tag)</center> | <center>Ahrensburg</center> | <center>Lübs</center> |
-| <center>13 Uhr</center> | <center>Dortmund</center> | | <center>Wittenberg mit Elster</center> | |
-| <center>14 Uhr</center> | <center>Düsseldorf</center> | | <center>Wiesbaden</center> | |
-| <center>15.30 Uhr</center> | | <center>Leipzig</center> | | |
+| <center>12 Uhr</center> | <center>Dresden</center> | <center>Schwedt/Oder</center> | <center>Ahrensburg</center> |  |
+| <center>13 Uhr</center> | | | <center>Wittenberg mit Elster</center> | |
+| <center>14.30 Uhr</center> | <center>Potsdam</center> | <center>Lausitz</center> | | |
+| <center>15 Uhr</center> | | | <center>Fürstenwalde mit Frankfurt (Oder)</center> | | |
