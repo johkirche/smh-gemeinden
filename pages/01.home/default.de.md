@@ -16,7 +16,7 @@ Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich 
 
 Besucher und Gäste sind herzlich willkommen!
 <br><br><br>
-# Hauptmenü
+## Hauptmenü
 |  |  |
 | ------ | ----------- |
 | [![](book-1157658_1280.png?cropResize=100,100)](https://smh-gemeinden.de/news)<font color="white">.     .</font> | [Nachrichten und News](https://smh-gemeinden.de/news) |
@@ -25,16 +25,14 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
-# Pfingsten 2020
-Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden!
+## Digitaler Gemeindetag
+Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
 
 |  |  |
 | ------ | ----------- |
-| [![](Pfingsten%202018%20noch%20kleiner.jpg?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Aktionsseite und Pfingstprogramm der Johannischen Kirche für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html) |
-
-Weitere Informationen gibt es auch im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
+| [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
 <br><br><br>
-# Videogottesdienste
+## Videogottesdienste
 Pfingstgottesdienst im Waldfrieden am Sonntag, den 31.05.2020 um 11.30 Uhr
 
 |  |  |
@@ -67,7 +65,7 @@ Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 10.06.20
 Eine Hilfestellung für die Nutzung der Videoübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
 <br><br><br>
-# Telefongottesdienste und -abendgebete
+## Telefongottesdienste und -abendgebete
 Telefonische Einwahldaten zu **Gottesdiensten**:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
@@ -84,9 +82,3 @@ Telefonische Einwahldaten zu **täglichen Abendgebeten um 17 und um 21 Uhr:**
 <br>Eine Hilfestellung für die Nutzung der Telefonübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
 <br><br><br>
-# Digitaler Gemeindetag
-Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
-
-|  |  |
-| ------ | ----------- |
-| [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
