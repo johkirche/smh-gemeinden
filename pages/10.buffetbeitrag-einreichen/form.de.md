@@ -48,15 +48,18 @@ form:
             type: submit
             value: Absenden
     process:
-        captcha:
-            recaptcha_secret: 6LcLBP0UAAAAAOIYAOqXuzZxyS-fCLfLLtX48dyc
+        reset: 
+            true
+        #captcha: 
+         #   recaptcha_secret: 6LcLBP0UAAAAAOIYAOqXuzZxyS-fCLfLLtX48dyc
         save:
-            fileprefix: contact-
+            fileprefix: buffet-
             dateformat: Ymd-His-u
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
+        #redirect: '/gemeindetag'
         email:
-            subject: '[Site Contact Form] {{ form.value.name|e }}'
+            subject: '[Buffetbeitrag] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Danke für deinen Beitrag!'
 ---
