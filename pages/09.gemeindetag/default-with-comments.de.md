@@ -61,6 +61,7 @@ Und zu guter Letzt, das gemeinsame Abendgebet um 19 Uhr. Mitmachen könnt ihr pe
 Wir freuen uns, euch bei diesem Online Gemeindetag dabei zu haben.
 
 Liebe Grüße,
+
 _Eure Gemeindehelfer_
 <br><br>
 <h2 id="buffetbeitrag">MitmachECKE - Hier ist Platz für EURE Buffetbeiträge:</h2>
