@@ -44,18 +44,18 @@ Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das woll
 
 Deshalb haben wir uns überlegt, wie wir alle mittendrin statt nur dabei sein können.
 
-ihr habt die Möglichkeit im anschluss an den Gottesdienst eure Video-/ Bild Grüße über den Livestream zu schicken.
+ihr habt die Möglichkeit im Anschluss an den Gottesdienst eure Video-/ Bild Grüße über den Livestream zu schicken.
 
-Hierfür macht ihr zu Hause einfach ein kleines Video, oder Foto im 16/9 Format (mp4) und ladet es auf [smh-gemeinden.de/videogruss](smh-gemeinden.de/videogruß) hoch. 
+Hierfür macht ihr zu Hause einfach ein kleines Video, oder Foto im 16/9 Format (mp4) und ladet es auf [smh-gemeinden.de/videogruss](smh-gemeinden.de/videogruss?target=_blank) hoch. 
 Bitte bis spätestens 07.06 hochladen – damit wir sie noch zusammenstellen können!
 
-Mit ganz viel Liebe werden von euch die Buffetbeiträge vorbereitet. Das lassen wir uns  nicht entgehen. Wir haben dazu am Ende der Seite kleines Forum eingerichtet.
+Mit ganz viel Liebe werden von euch die Buffetbeiträge vorbereitet. Das lassen wir uns nicht entgehen. Wir haben dazu am Ende der Seite kleines Forum eingerichtet.
 Dort könnt ihr ab jetzt eure Rezepte der Gemeindetagsklassiker posten. So haben alle die Möglichkeit, sich den Gemeindetag zumindest essenstechnisch möglichst originalgetreu zu Hause zu gestalten :-).
 Am 14. Juni selbst könnt ihr dann dort auch eure Bilder der fertigen Gerichte mit allen teilen. :-D. Wir freuen uns schon!
 
-Für die Kinder hat Onkel Pelle einen Videogruss vorvereitet, auch den könnt ihr dann hier sehen.
+Für die Kinder hat Onkel Pelle einen Videogruss vorbereitet, auch den könnt ihr dann hier sehen.
 
-Außerdem wollen wir mit euch gemeinsam Onlinespiele spielen. Die Montagsmaler kennt ihr bestimmt noch – im Internet heißt das Skribbl und wir schauen gemeinsam, wie gut wir sind.
+Außerdem wollen wir mit euch gemeinsam online spielen. Die Montagsmaler kennt ihr bestimmt noch – im Internet heißt das Skribbl und wir schauen gemeinsam, wie gut wir sind.
 
 Und zu guter Letzt, das gemeinsame Abendgebet um 19 Uhr. Mitmachen könnt ihr per Telefon oder Videoübertragung.
 
