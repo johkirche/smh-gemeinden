@@ -44,7 +44,7 @@ Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das woll
 
 Deshalb haben wir uns überlegt, wie wir alle mittendrin statt nur dabei sein können.
 
-ihr habt die Möglichkeit im Anschluss an den Gottesdienst eure Video-/ Bild Grüße über den Livestream zu schicken.
+Ihr habt die Möglichkeit im Anschluss an den Gottesdienst eure Video-/ Bild Grüße über den Livestream zu schicken.
 
 Hierfür macht ihr zu Hause einfach ein kleines Video, oder Foto im 16/9 Format (mp4) und ladet es auf [smh-gemeinden.de/videogruss](https://smh-gemeinden.de/videogruss?target=_blank) hoch. 
 Bitte bis spätestens 07.06 hochladen – damit wir sie noch zusammenstellen können!
