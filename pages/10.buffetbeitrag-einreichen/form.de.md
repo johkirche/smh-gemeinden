@@ -56,4 +56,4 @@ form:
 # Büffetbeitrag einreichen
 
 ---
-[Zurück](/gemeindetag)
+[Zurück zum Gemeindetag](/gemeindetag)
