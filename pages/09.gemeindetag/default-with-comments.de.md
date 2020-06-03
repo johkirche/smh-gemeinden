@@ -14,19 +14,20 @@ recaptchacontact:
 **Liebe Geschwister der Hauptgemeinde und aus Steglitz, liebe Freunde – bald ist es soweit! **  
 [plugin:vimeo](https://vimeo.com/422968086)  
 
-<a href="https://smh-gemeinden.de/videogruss" target="blank" class="event-button">Videogruß hochladen</a> <a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag einreichen</a> <a href="mailto:gemeindetag@smh-gemeinden.de" class="event-button">Für Montagsmaler anmelden</a>
 <br><br>
 ## Programm unseres Online-Gemeindetags
 
-**ab sofort bis 14. Juni:**
-* Rezepte hochladen fürs Buffet
-* Videogruss hochladen
+**Ab sofort bis 14. Juni:**   
+
+<a href="https://smh-gemeinden.de/videogruss" target="blank" class="event-button">Videogruß hochladen</a>   
+<a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag einreichen</a>   
+<a href="mailto:gemeindetag@smh-gemeinden.de" class="event-button">Für Montagsmaler anmelden</a>
 <br><br>
 
 **Am 14. Juni:**
 * 11 Uhr: Gottesdienst, anschließend Bilder und Videogrüße
 * 15 bis 17 Uhr: Scribble (Online Montagsmaler) Schaltet euch dazu und schaut herein wie ihr möchtet.
-	* Um mitspielen zu können, bitte hier eine E-Mail Adresse hinterlassen, dann bekommt ihr kurz vorher den Link zugeschickt.
+	* Um mitspielen zu können, bitte <a href="mailto:gemeindetag@smh-gemeinden.de">hier</a> eine E-Mail Adresse hinterlassen, dann bekommt ihr kurz vorher den Link zugeschickt.
 * 19 Uhr Abendgebet mit Telefon und Videoübertragung
 <br><br>
 
@@ -39,7 +40,7 @@ recaptchacontact:
 <br><br>
 
 ## Kurzeinladung zum Gemeindetag
-Am 14.Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das wollen wir gemeinsam mit euch testen!
+Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das wollen wir gemeinsam mit euch testen!
 
 Deshalb haben wir uns überlegt, wie wir alle mittendrin statt nur dabei sein können.
 
@@ -56,7 +57,7 @@ Für die Kinder hat Onkel Pelle einen Videogruss vorvereitet, auch den könnt ih
 
 Außerdem wollen wir mit euch gemeinsam Onlinespiele spielen. Die Montagsmaler kennt ihr bestimmt noch – im Internet heißt das Skribbl und wir schauen gemeinsam, wie gut wir sind.
 
-Und zu guter Letzt, das gemeinsame Abendgebet um 19 Uhr. Mitmachen könnt ihr per Telefon oder Video-Übertragung.
+Und zu guter Letzt, das gemeinsame Abendgebet um 19 Uhr. Mitmachen könnt ihr per Telefon oder Videoübertragung.
 
 Wir freuen uns, euch bei diesem Online Gemeindetag dabei zu haben.
 
@@ -64,4 +65,4 @@ Liebe Grüße,
 
 _Eure Gemeindehelfer_
 <br><br>
-<h2 id="buffetbeitrag">MitmachECKE - Hier ist Platz für EURE Buffetbeiträge:</h2>
+<h2>MitmachECKE - Hier ist Platz für EURE Buffetbeiträge:</h2>
