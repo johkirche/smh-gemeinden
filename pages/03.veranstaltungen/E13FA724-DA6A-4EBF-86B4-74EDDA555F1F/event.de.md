@@ -6,8 +6,8 @@ cache_enable: true
 date: 05-06-20
 rule: 
 event:
-	start: 05-06-2020 21:00
-	end: 05-06-2020 21:15
+	start: 05-06-2020 21:15
+	end: 05-06-2020 22:15
 	location: 'Telefon'
 taxonomy:
 	kategorie: ['Gottesdienst','Telefon']
