@@ -1,14 +1,17 @@
 ---
 title: 'Zuhören, vorlesen und genießen '
+date: '04-06-2020 15:41'
+publish_date: '04-06-2020 15:41'
+unpublish_date: '08-06-2020 15:41'
+show_sidebar: false
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 Die Jugend lädt alle Interessierten zum gemütlichen Hörbuchabend ein!
