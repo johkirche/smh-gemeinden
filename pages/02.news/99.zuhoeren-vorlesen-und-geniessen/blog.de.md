@@ -1,5 +1,14 @@
 ---
 title: 'Zuhören, vorlesen und genießen '
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
 Die Jugend lädt alle Interessierten zum gemütlichen Hörbuchabend ein!
