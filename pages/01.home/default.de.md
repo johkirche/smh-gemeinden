@@ -33,12 +33,6 @@ Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 20
 | [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
 <br><br><br>
 ## Videogottesdienste
-Pfingstgottesdienst im Waldfrieden am Sonntag, den 31.05.2020 um 11.30 Uhr
-
-|  |  |
-| ------ | ----------- |
-| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Pfingstfestgottesdienst im Waldfrieden](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
-<br><br>
 Die nächsten Videogottesdienste finden am kommenden Sonntag, den 07. Juni um 11 Uhr statt.
 
 |  |  |
