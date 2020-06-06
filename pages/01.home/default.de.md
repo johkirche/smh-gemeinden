@@ -48,7 +48,7 @@ Die nächsten Videogottesdienste finden am kommenden Sonntag, den 07. Juni um 11
 | [![](csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Bremen](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html) (Samstag um 13 Uhr) |
 
 <br><br>
-Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 10.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
