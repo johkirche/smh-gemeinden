@@ -22,7 +22,7 @@ recaptchacontact:
 <a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag einreichen</a>   
 <a href="mailto:gemeindetag@smh-gemeinden.de" class="event-button">Für Montagsmaler anmelden</a>
 <br><br>
-**Bis 08. Juni:**   
+**Bis einschließlich 08. Juni:**   
 <a href="https://smh-gemeinden.de/videogruss" target="blank" class="event-button">Videogruß hochladen</a>   
 
 **Am 14. Juni:**
