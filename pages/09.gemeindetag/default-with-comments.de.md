@@ -19,10 +19,11 @@ recaptchacontact:
 
 **Ab sofort bis 14. Juni:**   
 
-<a href="https://smh-gemeinden.de/videogruss" target="blank" class="event-button">Videogruß hochladen</a>   
 <a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag einreichen</a>   
 <a href="mailto:gemeindetag@smh-gemeinden.de" class="event-button">Für Montagsmaler anmelden</a>
 <br><br>
+**Bis 08. Juni:**   
+<a href="https://smh-gemeinden.de/videogruss" target="blank" class="event-button">Videogruß hochladen</a>   
 
 **Am 14. Juni:**
 * 11 Uhr: Gottesdienst, anschließend Bilder und Videogrüße
