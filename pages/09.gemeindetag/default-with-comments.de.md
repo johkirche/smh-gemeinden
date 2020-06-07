@@ -19,7 +19,7 @@ recaptchacontact:
 
 **Ab sofort bis 14. Juni:**   
 
-<a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag einreichen</a>   
+<a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag einreichen</a><br>   
 <a href="mailto:gemeindetag@smh-gemeinden.de" class="event-button">Für Montagsmaler anmelden</a>
 <br><br>
 **Bis einschließlich 08. Juni:**   
