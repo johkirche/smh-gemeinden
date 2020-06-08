@@ -11,7 +11,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in verschiedenen Gemeinden der Johannischen Kirche statt. Eine Übersicht über alle telefonisch übertragenen Gottesdienste in naher Zukunft findet ihr auf der [Webseite der Johannischen Kirche im Bereich Aktuelles](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html). Auf dieser Seite erfahrt ihr, wann Gottesdienste im St.-Michaels-heim stattfinden und wie an diesen Gottesdiensten bzw. den Video- und Telefonübertragungen teilgenommen werden kann.
+Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in verschiedenen Gemeinden der Johannischen Kirche statt. Eine Übersicht über alle telefonisch übertragenen Gottesdienste in naher Zukunft findet ihr auf der [Webseite der Johannischen Kirche im Bereich Aktuelles](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html). Auf dieser Seite erfahrt ihr, wann Gottesdienste im St.-Michaels-Heim stattfinden und wie an diesen Gottesdiensten bzw. den Video- und Telefonübertragungen teilgenommen werden kann.
 
 ===
 # Video- und Telefongottesdienst aus dem St.-Michaels-heim am Sonntag, den 14.06.2020 (gemeinsamer Gemeindetag der Gemeinde Steglitz und der Hauptgemeinde)
@@ -49,8 +49,10 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 
 # Gemeinsames Abendgebet via Telefon (täglich)
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
-* 17 Uhr in der Friedensstadt: Abendgebet (Konferenznummer: 31909)
-* 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet (Konferenznummer: 31909)
+* 17 Uhr in der Friedensstadt: Abendgebet
+* 19.30 Uhr an wechselnden Orten Deutschandweit: Familienabendgebet (für Familien mit Kindern)
+* 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet
+* Die Konferenznummer aller Abendgebetübertragungen ist die 31909
 
 # Einwahldaten für Telefon- und Videoübertragungen
 Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) erreichbar.
