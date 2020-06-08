@@ -14,7 +14,7 @@ recaptchacontact:
 Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in verschiedenen Gemeinden der Johannischen Kirche statt. Eine Übersicht über alle telefonisch übertragenen Gottesdienste in naher Zukunft findet ihr auf der [Webseite der Johannischen Kirche im Bereich Aktuelles](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html). Auf dieser Seite erfahrt ihr, wann Gottesdienste im St.-Michaels-Heim stattfinden und wie an diesen Gottesdiensten bzw. den Video- und Telefonübertragungen teilgenommen werden kann.
 
 ===
-# Video- und Telefongottesdienst aus dem St.-Michaels-heim am Sonntag, den 14.06.2020 (gemeinsamer Gemeindetag der Gemeinde Steglitz und der Hauptgemeinde)
+## Video- und Telefongottesdienst aus dem St.-Michaels-heim am Sonntag, den 14.06.2020 (gemeinsamer Gemeindetag der Gemeinde Steglitz und der Hauptgemeinde)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst (Gemeindetag)**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * Die Telefonübertragung ist über die Konferenznummer 16882 geshaltet.
 	* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
@@ -23,7 +23,7 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 * Der nächste Kindergottesdienst findet am Sonntag, den 21.06.2020, als Videogottesdienst statt.
 * Alle Geschwister und Freunde sind herzlich zum digitalen Gemeindetag eingeladen. Die Videoeinladung, das Programm sowie vielfältige Mitmachmöglichkeiten findet ihr unter [www.smh-gemeinden.de/gemeindetag](www.smh-gemeinden.de/gemeindetag)
 
-# Gottesdienste via Videolivestream am Sonntag, den 14.06.2020
+## Gottesdienste via Videolivestream am Sonntag, den 14.06.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 10.00 Uhr in Kaulsdorf: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst (Gemeindetag)**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
@@ -33,7 +33,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 12.00 Uhr in Hamburg: **Gemeindegottesdienst**: Link zur Videoübertragung[https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)
 * 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
 
-# Gottesdienste via Telefon am Sonntag, den 14.06.2020
+## Gottesdienste via Telefon am Sonntag, den 14.06.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
 | Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
@@ -45,6 +45,7 @@ Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenom
 | <center>14.30 Uhr</center> | <center>Potsdam</center> | <center>Lausitz</center> | | |
 | <center>15 Uhr</center> | | | <center>Fürstenwalde mit Frankfurt (Oder)</center> | | |
 
+## Mittwochgottesdienst im St.Michaels-Heim
 Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
