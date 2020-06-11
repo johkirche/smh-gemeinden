@@ -8,7 +8,7 @@ rule:
 event:
 	start: 14-06-2020 12:00
 	end: 14-06-2020 16:00
-	location: 'Dorfstraße 2, 12621 Berlin'
+	location: 'St.-Michaels-Heim'
 taxonomy:
 	kategorie: ['Gruppen','Online','Telefon']
 	monat: ['Juni 2020']
@@ -22,5 +22,5 @@ Wir freuen uns auf einen wunderschönen Tag in großer Gemeinschaft und holen un
 
 
 
-**Veranstaltungsort:** Dorfstraße 2, 12621 Berlin
+**Veranstaltungsort:** St.-Michaels-Heim
 

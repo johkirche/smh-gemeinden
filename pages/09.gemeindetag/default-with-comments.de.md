@@ -21,16 +21,13 @@ recaptchacontact:
 
 <a href="/gemeindetag#buffetbeitrag" class="event-button">Büffetbeitrag einreichen</a><br>   
 <a href="mailto:gemeindetag@smh-gemeinden.de" class="event-button">Für Montagsmaler anmelden</a>
-<br><br>
-**Bis einschließlich 08. Juni:**  
-
-<a href="https://smh-gemeinden.de/videogruss" target="blank" class="event-button">Videogruß hochladen</a>   
+<br><br>   
 
 **Am 14. Juni:**
-* 11 Uhr: Gottesdienst, anschließend Bilder und Videogrüße
+* 11 Uhr: Gottesdienst, anschließend Bild- und Videogrüße
 * 15 bis 17 Uhr: Scribble (Online Montagsmaler) Schaltet euch dazu und schaut herein wie ihr möchtet.
 	* Um mitspielen zu können, bitte <a href="mailto:gemeindetag@smh-gemeinden.de">hier</a> eine E-Mail Adresse hinterlassen, dann bekommt ihr kurz vorher den Link zugeschickt.
-* 19 Uhr Abendgebet mit Telefon und Videoübertragung
+* 19 Uhr: Abendgebet mit Telefon- und Videoübertragung
 <br><br>
 
 **Während des ganzen Tages habt ihr die Möglichkeit ...**
@@ -46,11 +43,6 @@ Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das woll
 
 Deshalb haben wir uns überlegt, wie wir alle mittendrin statt nur dabei sein können.
 
-Ihr habt die Möglichkeit im Anschluss an den Gottesdienst eure Video-/ Bild Grüße über den Livestream zu schicken.
-
-Hierfür macht ihr zu Hause einfach ein kleines Video, oder Foto im 16/9 Format (mp4) und ladet es auf [smh-gemeinden.de/videogruss](https://smh-gemeinden.de/videogruss?target=_blank) hoch. 
-Bitte bis spätestens 08.06 hochladen – damit wir sie noch zusammenstellen können!
-
 Mit ganz viel Liebe werden von euch die Buffetbeiträge vorbereitet. Das lassen wir uns nicht entgehen. Wir haben dazu am Ende der Seite kleines Forum eingerichtet.
 Dort könnt ihr ab jetzt eure Rezepte der Gemeindetagsklassiker posten. So haben alle die Möglichkeit, sich den Gemeindetag zumindest essenstechnisch möglichst originalgetreu zu Hause zu gestalten :-).
 Am 14. Juni selbst könnt ihr dann dort auch eure Bilder der fertigen Gerichte mit allen teilen. :-D. Wir freuen uns schon!
@@ -61,7 +53,7 @@ Außerdem wollen wir mit euch gemeinsam online spielen. Die Montagsmaler kennt i
 
 Und zu guter Letzt, das gemeinsame Abendgebet um 19 Uhr. Mitmachen könnt ihr per Telefon oder Videoübertragung.
 
-Wir freuen uns, euch bei diesem Online Gemeindetag dabei zu haben.
+Wir freuen uns, euch bei diesem Online Gemeindetag dabei zu haben!
 
 Liebe Grüße,
 
