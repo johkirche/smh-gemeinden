@@ -1,6 +1,5 @@
 ---
 title: 'Aktuellen Ausgabe der eWUZ '
-media_order: csm_wegundziel_2_2614df362f.jpg
 date: '12-06-2020 10:03'
 publish_date: '12-06-2020 10:03'
 unpublish_date: '30-08-2020 10:03'
