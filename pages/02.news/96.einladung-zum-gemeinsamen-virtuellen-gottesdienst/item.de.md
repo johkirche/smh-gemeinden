@@ -20,7 +20,7 @@ Die Internetübertragungen unserer Gottesdienste sind zwar von sehr guter Qualit
 
 Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit dem Programm "Zoom"** zu übertragen. Das erfolgte am Sonntag, den 97. Juni 2020 erstmals. Aufgrund des enormen Zuspruchs wird das Angebot fortgesetzt und findet auch am **Sonntag, 14. Juni 2020** mit dem **Gottesdienst aus dem St.-Michaels-Heim** und möglichst vielen Teilnehmern statt. Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch mit Euch gemeinsam schaut – Ihr steuert das zu jedem Zeitpunkt selbst je nach gusto.
 
-Hier noch ein paar Hinweise:
+**Hier noch ein paar Hinweise:**
 
 1. Ab 10:30 Uhr kann man der Konferenz zutreten und andere Teilnehmer sehen und sprechen. Ab 10:50 Uhr werden alle Teilnehmer stummgeschaltet.
 2. Wir bitte euch während des Gottesdienstes alle Telefone/Computer (je nachdem wie Ihr zugeschaltet seid) stumm zuschalten.
@@ -37,17 +37,17 @@ Wir vom Projekt Silas freuen uns auf viele Teilnehmer und hoffen auf ein intensi
 Thema: Sonntagsgottesdienst in Videokonferenz am 7. Juni 2020
 Uhrzeit: 7. Juni 2020 ab 10:30 Uhr
 
-Link zur Teilnahme mit Smartphone, Tablet oder Computer:
+**Link zur Teilnahme mit Smartphone, Tablet oder Computer:**
 
 * [GemeinsamerGottesdienst98032519699](https://uni-potsdam.zoom.us/j/93782019697)
 * Meeting-ID: 937 8201 9697
 * Passwort: 24081855 
 
-Einwahl mit Telefon für Telefonaustausch:
+**Einwahl mit Telefon für Telefonaustausch:**
 
-* +493056795800,,98032519699#,,#,24081855# Deutschland 
-* Telefonnummer: +493056795800
-* Meeting-ID: 980 3251 9699 
+* Telefonnummer: +49 30 56795800
+* Meeting-ID: 937 8201 9697 
 * Passwort: 24081855
 * Teilnehmer-ID: nichts eingeben und # drücken
+* Schnelleinwahlalternative: +493056795800,,98032519699#,,#,24081855# Deutschland 
 
