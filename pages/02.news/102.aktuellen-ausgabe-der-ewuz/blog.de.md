@@ -1,5 +1,6 @@
 ---
 title: 'Aktuellen Ausgabe der eWUZ '
+media_order: csm_wegundziel_2_2614df362f.jpg
 ---
 
 Euch erwartet die Predigt des Pfingstgottesdienstes herzlichen Worte unseres Kirchenoberhaupts Stefan Tzschentke und der erste Teil des Vortrags von Andreas Schmetzstorff über das neu aufgelegte Buch „Der Kreuzweg“.
