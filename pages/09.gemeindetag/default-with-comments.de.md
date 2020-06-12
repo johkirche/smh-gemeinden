@@ -45,8 +45,17 @@ recaptchacontact:
 
 ## Teinahme am digitalen Gemeindetag
 
-**Telefonübertragung**
-* 
+**Telefonübertragung (wie zum Gottesdienst im St.-Michaels-Heim)**
+* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer St.-Michaels-Heim: 16882
+* Pin: 24081855
+
+**Videolivestram (wie zum Gottesdienst im St.-Michaels-Heim)**
+* [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+* [Hilfe bei Problemen](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp#pdfviewer)
+* [Videoanleitung zur Nutzung](www.smh-gemeinden.de) (Video unter den Informationen zum Gottesdienst)
+
+**Videokonferenz (Telefoneinwahl möglich)
 
 ## Kurzeinladung zum Gemeindetag
 Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das wollen wir gemeinsam mit euch testen!
