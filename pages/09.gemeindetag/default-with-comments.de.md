@@ -24,19 +24,29 @@ recaptchacontact:
 <br><br>   
 
 **Am 14. Juni:**
-* 11 Uhr: Gottesdienst, anschließend Bild- und Videogrüße
-* 15 bis 17 Uhr: Scribble (Online Montagsmaler) Schaltet euch dazu und schaut herein wie ihr möchtet.
+* 11 Uhr: Gottesdienst, anschließend Bild- und Videogrüße (Telefon, Livestram, Videokonferenz)
+* 11.45 Uhr: Begrüßung zum Gemeindetag, Programmvorstellung und Videogrüße von Geschwistern und Freunden (Livestram, Videokonferenz, eingeschränkte Telefonübertragung)
+* 12:15 bis 15 Uhr: Möglichkeit zum gemeinsammen Mittagessen und zu Gesprächen (Videokonferenz, Telefonteilnahme möglich)
+* 15 bis 17 Uhr: Scribble (Online Montagsmaler) Schaltet euch dazu und schaut herein wie ihr möchtet. (Videokonferenz)
 	* Um mitspielen zu können, bitte <a href="mailto:gemeindetag@smh-gemeinden.de">hier</a> eine E-Mail Adresse hinterlassen, dann bekommt ihr kurz vorher den Link zugeschickt.
-* 19 Uhr: Abendgebet mit Telefon- und Videoübertragung
+* 18.30 Uhr: Videogrüße der Geschwister und Freunde, Videobotschaft von Onkel Pelle an die Kinder, Eure Tagesimpressionen (Livestram, Videokonferenz, eingeschränkte Telefonübertragung)
+* 19 Uhr: Abendgebet mit Telefon- und Videoübertragung (Livestram, Videokonferenz, Telefonübertragung)
 <br><br>
 
-**Während des ganzen Tages habt ihr die Möglichkeit ...**
+**Während des ganzen Tages habt ihr die Möglichkeit hier auf dieser Seite ...**
 * einen Videogruß von Onkel Pelle zu sehen (besonders für unsere Kinder)
-* Bilder eurer Lieblings-Buffetbeiträge zu teilen und
+* Bilder eurer Lieblings-Buffetbeiträge zu teilen und die Rezepte aller Geschwister und Freunde zu lesen und zu Hause nachzukochen sowie
 * Bilder eures Tages zu teilen.
 	* Was war besonders schön?
 	* Wie hast du den Gemeindetag verbracht?
+	* Hast du die Sonne genossen, Geschwister angerufen, die zeit in Gemeinschaft online oder offline verbracht?
+* Die Videokonferenz für eine fröhliche zeit mit anderen Geschwistern zu nutzen (Quatschen, ein Spiel spielen, zusammen essen usw.)
 <br><br>
+
+## Teinahme am digitalen Gemeindetag
+
+**Telefonübertragung**
+* 
 
 ## Kurzeinladung zum Gemeindetag
 Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das wollen wir gemeinsam mit euch testen!
