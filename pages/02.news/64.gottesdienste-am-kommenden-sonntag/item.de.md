@@ -16,7 +16,7 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 ===
 ## Video- und Telefongottesdienst aus dem St.-Michaels-heim am Sonntag, den 14.06.2020 (gemeinsamer Gemeindetag der Gemeinde Steglitz und der Hauptgemeinde)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst (Gemeindetag)**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-* Die Telefonübertragung ist über die Konferenznummer 16882 geshaltet.
+* Die Telefonübertragung ist über die Konferenznummer 16882 geschaltet.
 	* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 	* PIN: 24081855#
 	* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
