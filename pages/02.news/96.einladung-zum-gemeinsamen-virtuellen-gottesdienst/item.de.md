@@ -10,8 +10,6 @@ recaptchacontact:
     enabled: false
 ---
 
-![](Silas5.png)
-
 Die Internetübertragungen unserer Gottesdienste sind zwar von sehr guter Qualität und zuverlässig, aber seid Ihr nicht auch ein wenig traurig, dass man sich während des Gottesdienstes so ein bisschen abgeschottet fühlt? Man sitzt vielleicht zu zweit in der Wohnung, aber wer ist sonst noch mit dabei? Wo sind die anderen Geschwister - sind sie da? Wer ist da? Wie viele werden wir gerade sein?
 
 Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit dem Programm "Zoom"** zu übertragen. Das erfolgte am Sonntag, den 7. Juni 2020 erstmals. Aufgrund des enormen Zuspruchs wird das Angebot fortgesetzt und findet auch am **Sonntag, 14. Juni 2020 sowie am Sonntag, den 21. Juni 2020 mit dem Gottesdienst aus dem St.-Michaels-Heim** und möglichst vielen Teilnehmern statt. Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch mit Euch gemeinsam schaut – Ihr steuert das zu jedem Zeitpunkt selbst je nach gusto.
