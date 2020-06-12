@@ -26,24 +26,23 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 ## Gottesdienste via Videolivestream am Sonntag, den 14.06.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
 * 10.00 Uhr in Kaulsdorf: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html)
+* 10.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
 * 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst (Gemeindetag)**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
 * 11.00 Uhr in Velten: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)
 * 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
 * 12.00 Uhr in Hamburg: **Gemeindegottesdienst**: Link zur Videoübertragung[https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)
-* 13.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
 
 ## Gottesdienste via Telefon am Sonntag, den 14.06.2020
 Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
 
 | Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| <center>10 Uhr</center> | | <center>Kaulsdorf</center> | | |
+| <center>10 Uhr</center> | | <center>Kaulsdorf</center> | <center>Wittenberg mit Elster</center> | |
 | <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
 | <center>12 Uhr</center> | <center>Dresden</center> | <center>Schwedt/Oder</center> | <center>Ahrensburg</center> |  |
-| <center>13 Uhr</center> | | | <center>Wittenberg mit Elster</center> | |
 | <center>14.30 Uhr</center> | <center>Potsdam</center> | <center>Lausitz</center> | | |
-| <center>15 Uhr</center> | | | <center>Fürstenwalde mit Frankfurt (Oder)</center> | | |
+| <center>15 Uhr</center> | | | <center>Fürstenwalde</center> | | |
 
 ## Mittwochgottesdienst im St.Michaels-Heim
 Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
