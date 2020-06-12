@@ -25,7 +25,7 @@ recaptchacontact:
 
 **Am 14. Juni:**
 * 11 Uhr: Gottesdienst, anschließend Bild- und Videogrüße (Telefon, Livestram, Videokonferenz)
-* 11.45 Uhr: Begrüßung zum Gemeindetag, Programmvorstellung und Videogrüße von Geschwistern und Freunden (Livestram, Videokonferenz, eingeschränkte Telefonübertragung)
+* 11.45 Uhr: Begrüßung zum Gemeindetag, Programmvorstellung und Videogrüße von Geschwistern und Freunden und von Onkel Pelle (Livestram, Videokonferenz, eingeschränkte Telefonübertragung)
 * 12:15 bis 15 Uhr: Möglichkeit zum gemeinsammen Mittagessen und zu Gesprächen (Videokonferenz, Telefonteilnahme möglich)
 * 15 bis 17 Uhr: Scribble (Online Montagsmaler) Schaltet euch dazu und schaut herein wie ihr möchtet. (Videokonferenz)
 	* Um mitspielen zu können, bitte <a href="mailto:gemeindetag@smh-gemeinden.de">hier</a> eine E-Mail Adresse hinterlassen, dann bekommt ihr kurz vorher den Link zugeschickt.
@@ -39,8 +39,9 @@ recaptchacontact:
 * Bilder eures Tages zu teilen.
 	* Was war besonders schön?
 	* Wie hast du den Gemeindetag verbracht?
-	* Hast du die Sonne genossen, Geschwister angerufen, die zeit in Gemeinschaft online oder offline verbracht?
-* Die Videokonferenz für eine fröhliche zeit mit anderen Geschwistern zu nutzen (Quatschen, ein Spiel spielen, zusammen essen usw.)
+	* Hast du die Sonne genossen, Geschwister angerufen, die Zeit in Gemeinschaft online oder offline verbracht?
+* Die Tagesimpressionen der anderen Geschwister und freunde zu sehen 
+* Die Videokonferenz für eine fröhliche Zeit mit anderen Geschwistern zu nutzen (Quatschen, ein Spiel spielen, zusammen essen usw.)
 <br><br>
 
 ## Teinahme am digitalen Gemeindetag
@@ -49,13 +50,13 @@ recaptchacontact:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16882
 * Pin: 24081855
-
+<br>
 **Videolivestram (wie zum Gottesdienst im St.-Michaels-Heim)**
 * [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * [Hilfe bei Problemen](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp#pdfviewer)
 * [Videoanleitung zur Nutzung](www.smh-gemeinden.de) (Video unter den Informationen zum Gottesdienst)
-
-**Videokonferenz (Telefoneinwahl möglich)
+<br>
+**Videokonferenz (Telefoneinwahl möglich)**
 * Link zur Teilnahme mit Smartphone, Tablet oder Computer:
 	* GemeinsamerGottesdienst93782019697
 	* Meeting-ID: 937 8201 9697
@@ -65,7 +66,7 @@ recaptchacontact:
 	* Meeting-ID: 937 8201 9697
 	* Passwort: 24081855
 	* Teilnehmer-ID: nichts eingeben und # drücken
-
+<br><br>
 ## Kurzeinladung zum Gemeindetag
 Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das wollen wir gemeinsam mit euch testen!
 
