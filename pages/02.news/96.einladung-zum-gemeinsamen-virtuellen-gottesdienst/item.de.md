@@ -26,10 +26,10 @@ Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit
 
 Wir vom Projekt Silas freuen uns auf viele Teilnehmer und hoffen auf ein intensives Gemeinschaftsgefühl zusammen mit Euch während und nach dem Gottesdienst und senden Euch hiermit liebe Grüße!
 
-# Einwahldaten Sonntagsgottesdienst in Videokonferenz am 7. Juni 2020
+# Einwahldaten Sonntagsgottesdienst in Videokonferenz am 14. und 21. Juni 2020
 
-Thema: Sonntagsgottesdienst in Videokonferenz am 7. Juni 2020
-Uhrzeit: 7. Juni 2020 ab 10:30 Uhr
+Thema: Sonntagsgottesdienst in Videokonferenz
+Uhrzeit: ab 10:30 Uhr
 
 **Link zur Teilnahme mit Smartphone, Tablet oder Computer:**
 
