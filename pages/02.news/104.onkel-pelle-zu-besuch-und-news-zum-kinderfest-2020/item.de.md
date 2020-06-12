@@ -1,5 +1,9 @@
 ---
 title: 'Onkel Pelle zu Besuch und News zum Kinderfest 2020'
+date: '12-06-2020 10:16'
+publish_date: '12-06-2020 10:16'
+unpublish_date: '31-08-2020 10:16'
+show_sidebar: false
 ---
 
 Wie die gesamte Kirchentagswoche und aktuell noch jegliches Gemeindeleben, wird auch das diesjährige Kinderfest von den vorherrschenden Einschränkungen stark beeinträchtigt sein. Trotzdem haben wir was für euch vorbereitet!
