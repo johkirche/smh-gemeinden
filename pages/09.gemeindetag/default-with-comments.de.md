@@ -56,6 +56,15 @@ recaptchacontact:
 * [Videoanleitung zur Nutzung](www.smh-gemeinden.de) (Video unter den Informationen zum Gottesdienst)
 
 **Videokonferenz (Telefoneinwahl möglich)
+* Link zur Teilnahme mit Smartphone, Tablet oder Computer:
+	* GemeinsamerGottesdienst93782019697
+	* Meeting-ID: 937 8201 9697
+	* Passwort: 24081855
+* Einwahl mit Telefon für Telefonaustausch:
+	* Telefonnummer: +49 30 56795800
+	* Meeting-ID: 937 8201 9697
+	* Passwort: 24081855
+	* Teilnehmer-ID: nichts eingeben und # drücken
 
 ## Kurzeinladung zum Gemeindetag
 Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das wollen wir gemeinsam mit euch testen!
