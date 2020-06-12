@@ -1,5 +1,6 @@
 ---
 title: 'Jetzt erhältlich: "Der Kreuzweg. Von medialer Seite. Gesprochen Gründonnerstag 1911."'
+media_order: b20f9fdd55f3ea1759ac2fa5d8fda934dd0e2e9f-webseitelogo.png
 ---
 
 Das Buch "Der Kreuzweg" ist ab sofort über den Verlag Weg und Ziel erhältlich.
