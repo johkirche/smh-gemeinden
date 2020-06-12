@@ -5,9 +5,9 @@ published: true
 date: '01-06-2020 14:41'
 publish_date: '01-06-2020 14:41'
 unpublish_date: '08-06-2020 14:41'
+show_sidebar: false
 recaptchacontact:
     enabled: false
-show_sidebar: false
 ---
 
 Das "Projekt Silas - der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen.
@@ -18,7 +18,7 @@ Das "Projekt Silas - der johannische Helfer im Internet" möchte ein Experiment 
 
 Die Internetübertragungen unserer Gottesdienste sind zwar von sehr guter Qualität und zuverlässig, aber seid Ihr nicht auch ein wenig traurig, dass man sich während des Gottesdienstes so ein bisschen abgeschottet fühlt? Man sitzt vielleicht zu zweit in der Wohnung, aber wer ist sonst noch mit dabei? Wo sind die anderen Geschwister - sind sie da? Wer ist da? Wie viele werden wir gerade sein?
 
-Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit dem Programm "Zoom"** zu übertragen. Das soll am **Sonntag, 07.06.2020** mit dem **Gottesdienst aus dem SMH** und möglichst vielen Teilnehmern getestet werden. Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch mit Euch gemeinsam schaut - Ihr steuert das zu jedem Zeitpunkt selbst je nach gusto.
+Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit dem Programm "Zoom"** zu übertragen. Das erfolgte am Sonntag, den 97. Juni 2020 erstmals. Aufgrund des enormen Zuspruchs wird das Angebot fortgesetzt und findet auch am **Sonntag, 14. Juni 2020** mit dem **Gottesdienst aus dem St.-Michaels-Heim** und möglichst vielen Teilnehmern statt. Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch mit Euch gemeinsam schaut – Ihr steuert das zu jedem Zeitpunkt selbst je nach gusto.
 
 Hier noch ein paar Hinweise:
 
