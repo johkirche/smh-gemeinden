@@ -25,12 +25,12 @@ recaptchacontact:
 
 **Am 14. Juni:**
 * 11 Uhr: Gottesdienst, anschließend Bild- und Videogrüße (Telefon, Livestram, Videokonferenz)
-* 11.45 Uhr: Begrüßung zum Gemeindetag, Programmvorstellung und Videogrüße von Geschwistern und Freunden und von Onkel Pelle (Livestram, Videokonferenz, eingeschränkte Telefonübertragung)
+* 11.45 Uhr: Begrüßung zum Gemeindetag, Programmvorstellung und Videogrüße von Geschwistern und Freunden und von Onkel Pelle (Livestream, Videokonferenz, eingeschränkte Telefonübertragung)
 * 12:15 bis 15 Uhr: Möglichkeit zum gemeinsammen Mittagessen und zu Gesprächen (Videokonferenz, Telefonteilnahme möglich)
 * 15 bis 17 Uhr: Scribble (Online Montagsmaler) Schaltet euch dazu und schaut herein wie ihr möchtet. (Videokonferenz)
 	* Um mitspielen zu können, bitte <a href="mailto:gemeindetag@smh-gemeinden.de">hier</a> eine E-Mail Adresse hinterlassen, dann bekommt ihr kurz vorher den Link zugeschickt.
-* 18.30 Uhr: Videogrüße der Geschwister und Freunde, Videobotschaft von Onkel Pelle an die Kinder, Eure Tagesimpressionen (Livestram, Videokonferenz, eingeschränkte Telefonübertragung)
-* 19 Uhr: Abendgebet mit Telefon- und Videoübertragung (Livestram, Videokonferenz, Telefonübertragung)
+* 18.30 Uhr: Videogrüße der Geschwister und Freunde, Videobotschaft von Onkel Pelle an die Kinder, Eure Tagesimpressionen (Livestream, Videokonferenz, eingeschränkte Telefonübertragung)
+* 19 Uhr: Abendgebet mit Telefon- und Videoübertragung (Livestream, Videokonferenz, Telefonübertragung)
 <br><br>
 
 **Während des ganzen Tages habt ihr die Möglichkeit hier auf dieser Seite ...**
@@ -40,7 +40,7 @@ recaptchacontact:
 	* Was war besonders schön?
 	* Wie hast du den Gemeindetag verbracht?
 	* Hast du die Sonne genossen, Geschwister angerufen, die Zeit in Gemeinschaft online oder offline verbracht?
-* Die Tagesimpressionen der anderen Geschwister und freunde zu sehen 
+* Die Tagesimpressionen der anderen Geschwister und Freunde zu sehen 
 * Die Videokonferenz für eine fröhliche Zeit mit anderen Geschwistern zu nutzen (Quatschen, ein Spiel spielen, zusammen essen usw.)
 <br><br>
 
