@@ -1,7 +1,6 @@
 ---
 title: 'form 2'
 visible: false
-routable: false
 form:
     name: contact
     fields:
@@ -44,17 +43,17 @@ form:
             classes: event-button
     process:
         save:
-            fileprefix: buffet-
+            fileprefix: impression-
             dateformat: Ymd-His-u
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
         email:
-            subject: '[Buffetbeitrag] {{ form.value.name|e }}'
+            subject: '[Impression] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Danke für deinen Beitrag!'
 ---
 
-# Büffetbeitrag einreichen
+# Impression vom Gemeindetag teilen
 
 ---
 [Zurück zum Gemeindetag](/gemeindetag)
