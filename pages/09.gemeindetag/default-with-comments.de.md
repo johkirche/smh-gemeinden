@@ -73,7 +73,7 @@ Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das woll
 
 Deshalb haben wir uns überlegt, wie wir alle mittendrin statt nur dabei sein können.
 
-Mit ganz viel Liebe werden von euch die Buffetbeiträge vorbereitet. Das lassen wir uns nicht entgehen. Wir haben dazu am Ende der Seite kleines Forum eingerichtet.
+Mit ganz viel Liebe werden von euch die Buffetbeiträge vorbereitet. Das lassen wir uns nicht entgehen. Wir haben dazu am Ende der Seite ein kleines Forum eingerichtet.
 Dort könnt ihr ab jetzt eure Rezepte der Gemeindetagsklassiker posten. So haben alle die Möglichkeit, sich den Gemeindetag zumindest essenstechnisch möglichst originalgetreu zu Hause zu gestalten :-).
 Am 14. Juni selbst könnt ihr dann dort auch eure Bilder der fertigen Gerichte mit allen teilen. :-D. Wir freuen uns schon!
 
