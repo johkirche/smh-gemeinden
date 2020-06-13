@@ -1,6 +1,7 @@
 ---
 title: form
 visible: false
+routable: false
 form:
     name: contact
     fields:
