@@ -16,6 +16,7 @@ recaptchacontact:
 
 <br>
 ##Kurzprogramm
+**Programmablauf**
 * 11 Uhr: Gottesdienst _(Telefon, Livestream, Videokonferenz)_
 * 11:45 Uhr: Begrüßung zum Gemeindetag, Programmvorstellung und Videogrüße von Geschwistern und Freunden und von Onkel Pelle _(Livestream, Videokonferenz, eingeschränkte Telefonübertragung)_
 * 12:15 bis 15 Uhr: Möglichkeit zum gemeinsammen Mittagessen und zu Gesprächen _(Videokonferenz, Telefonteilnahme möglich)_
