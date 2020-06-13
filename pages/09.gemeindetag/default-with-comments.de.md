@@ -51,11 +51,13 @@ recaptchacontact:
 * Konferenznummer St.-Michaels-Heim: 16882
 * Pin: 24081855
 <br>
+
 **Videolivestram (wie zum Gottesdienst im St.-Michaels-Heim)**
 * [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * [Hilfe bei Problemen](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp#pdfviewer)
 * [Videoanleitung zur Nutzung](www.smh-gemeinden.de) (Video unter den Informationen zum Gottesdienst)
 <br>
+
 **Videokonferenz (Telefoneinwahl möglich)**
 * Link zur Teilnahme mit Smartphone, Tablet oder Computer:
 	* [GemeinsamerGottesdienst93782019697](https://uni-potsdam.zoom.us/j/93782019697?pwd=ZFVvQjZhdEVlbFN3NVVKT2RlMS9adz09)
