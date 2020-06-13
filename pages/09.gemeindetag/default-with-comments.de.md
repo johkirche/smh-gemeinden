@@ -58,7 +58,7 @@ recaptchacontact:
 <br>
 **Videokonferenz (Telefoneinwahl möglich)**
 * Link zur Teilnahme mit Smartphone, Tablet oder Computer:
-	* GemeinsamerGottesdienst93782019697
+	* [GemeinsamerGottesdienst93782019697](https://uni-potsdam.zoom.us/j/93782019697?pwd=ZFVvQjZhdEVlbFN3NVVKT2RlMS9adz09)
 	* Meeting-ID: 937 8201 9697
 	* Passwort: 24081855
 * Einwahl mit Telefon für Telefonaustausch:
@@ -67,6 +67,7 @@ recaptchacontact:
 	* Passwort: 24081855
 	* Teilnehmer-ID: nichts eingeben und # drücken
 <br><br>
+
 ## Kurzeinladung zum Gemeindetag
 Am 14. Juni ist Gemeindetag. ABER: Wie soll das gehen in Corona Zeiten? Das wollen wir gemeinsam mit euch testen!
 
