@@ -4,12 +4,9 @@ media_order: '30EC1C82-C3A3-457F-9DA8-0ADDCD6861F9.jpeg,Pfingsten 2018 noch klei
 date: '29-05-2020 08:43'
 publish_date: '29-05-2020 08:43'
 unpublish_date: '15-06-2020 23:59'
-taxonomy:
-    kategorie:
-        - featured
+show_sidebar: false
 recaptchacontact:
     enabled: false
-show_sidebar: false
 ---
 
 Auch in diesem Jahr werden sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden können, wenn auch aufgrund der aktuell geltenden Auflagen vor allem mit Hilfe von Telefon- und Videoübertragungen.   

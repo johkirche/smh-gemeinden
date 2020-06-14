@@ -10,13 +10,16 @@ recaptchacontact:
 ---
 
 # Online-Gemeindetag der Hauptgemeinde und Steglitz
-
-**Liebe Geschwister der Hauptgemeinde und aus Steglitz, liebe Freunde – bald ist es soweit! **  
-[plugin:vimeo](https://vimeo.com/422968086)  
-
+<br>
+## Unsere Videogrüße
+[plugin:vimeo](https://vimeo.com/428826172)  
+<br>
+## Onkel Pelle grüßt die Kinder
+[plugin:vimeo](https://vimeo.com/426498740)  
+<br>
+<a href="gemeindetag/#buffet" class="event-button">Buffet entdecken</a>  <a href="gemeindetag/#impressionen" class="event-button">Impression hochladen</a>
 <br>
 ##Kurzprogramm
-**Programmablauf**
 * 11 Uhr: Gottesdienst _(Telefon, Livestream, Videokonferenz)_
 * 11:45 Uhr: Begrüßung zum Gemeindetag, Programmvorstellung und Videogrüße von Geschwistern und Freunden und von Onkel Pelle _(Livestream, Videokonferenz, eingeschränkte Telefonübertragung)_
 * 12:15 bis 15 Uhr: Möglichkeit zum gemeinsammen Mittagessen und zu Gesprächen _(Videokonferenz, Telefonteilnahme möglich)_
@@ -43,21 +46,18 @@ recaptchacontact:
 * Konferenznummer St.-Michaels-Heim: 16882
 * Pin: 24081855
 <br>
-
 **Videolivestream (wie zum Gottesdienst im St.-Michaels-Heim)**
 * [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * [Hilfe bei Problemen](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp#pdfviewer)
 * [Videoanleitung zur Nutzung](www.smh-gemeinden.de) (Video unter den Informationen zum Gottesdienst)
 <br>
-
 **Videokonferenz (Telefoneinwahl möglich)**
 * Link zur Teilnahme mit Smartphone, Tablet oder Computer:
-	* [GemeinsamerGottesdienst93782019697](https://uni-potsdam.zoom.us/j/93782019697)
-	* Meeting-ID: 937 8201 9697
+    * [https://zoom.us/j/9347054443](https://zoom.us/j/9347054443)
 	* Passwort: 24081855
 * Einwahl mit Telefon für Telefonaustausch:
 	* Telefonnummer: +49 30 56795800
-	* Meeting-ID: 937 8201 9697
+	* Meeting-ID: 934 705 444 3
 	* Passwort: 24081855
 	* Teilnehmer-ID: nichts eingeben und # drücken
 <br><br>
@@ -66,4 +66,3 @@ Liebe Grüße,
 
 _Eure Gemeindehelfer_
 <br><br>
-<a id="impressionen"><h2>Hier sind EURE Buffetbeiträge:</h2></a>
