@@ -12,6 +12,7 @@ recaptchacontact:
 ---
 
 Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in verschiedenen Gemeinden der Johannischen Kirche statt. Eine Übersicht über alle telefonisch übertragenen Gottesdienste in naher Zukunft findet ihr auf der [Webseite der Johannischen Kirche im Bereich Aktuelles](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html). Auf dieser Seite erfahrt ihr, wann Gottesdienste im St.-Michaels-Heim stattfinden und wie an diesen Gottesdiensten bzw. den Video- und Telefonübertragungen teilgenommen werden kann.
+
 ===
 
 <br>
