@@ -17,7 +17,7 @@ Pelle wird sich dieses Jahr ausschließlich online via Videobotschaften an uns w
 Es werden alle Aufgaben und sonst üblichen Stationen in den Videos für Zuhause zum Mitmachen erklärt und vorgestellt. Hierfür werden euch in den nächsten Wochen Informationen über Materialien, Zutaten, technische Voraussetzungen und den genauen Ablauf erreichen. Weitere Fakten über Anmeldung und Co werden zu gegebenem Zeitpunkt in der WuZ veröffentlicht.
 
 Wir sind davon überzeugt, dass wir es mit eurer Mithilfe auch in diesem Jahr schaffen, für alle ein fantastisches Kinderfest zu ermöglichen und freuen uns schon sehr darauf.
-
+<br><br>
 # Onkel Pelle online
 Hier das Video, mittels welchem uns schon eine erste spannende Videobotschaft von Onkel Pelle erreicht hat.
 <br>[plugin:vimeo](https://vimeo.com/426498740)
