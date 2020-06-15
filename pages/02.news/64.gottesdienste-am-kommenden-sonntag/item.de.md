@@ -23,6 +23,7 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 	* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 	* PIN: 24081855#
 	* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
+<br><br>
 
 ## Gottesdienste via Videolivestream am Sonntag, den 14.06.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
