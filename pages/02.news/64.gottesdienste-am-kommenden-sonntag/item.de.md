@@ -17,12 +17,12 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 
 <br>
 ## Video- und Telefongottesdienst aus dem St.-Michaels-heim am Sonntag, den 21.06.2020
-* 11.00 Uhr im St.-Michaels-Heim: **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
-* 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-* Die Telefonübertragung ist über die Konferenznummer 16882 geschaltet.
-	* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
-	* PIN: 24081855#
-	* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
+* 11.00 Uhr **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
+* 11.00 Uhr **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
+	* Die Telefonübertragung ist über die Konferenznummer 16882 geschaltet.
+		* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
+		* PIN: 24081855#
+		* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
 ## Gottesdienste via Videolivestream am Sonntag, den 14.06.2020
