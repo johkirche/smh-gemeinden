@@ -33,7 +33,7 @@ Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 20
 | [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
 <br><br><br>
 ## Videogottesdienste
-Die nächsten Videogottesdienste finden am kommenden Sonntag, den 14. Juni um 11 Uhr statt.
+Die nächsten Videogottesdienste finden am kommenden Sonntag, den 21. Juni um 11 Uhr statt.
 
 |  |  |
 | ------ | ----------- |
