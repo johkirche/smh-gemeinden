@@ -21,7 +21,6 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 	* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 	* PIN: 24081855#
 	* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
-* Alle Geschwister und Freunde sind herzlich zum digitalen Gemeindetag eingeladen. Die Videoeinladung, das Programm sowie vielfältige Mitmachmöglichkeiten findet ihr unter [www.smh-gemeinden.de/gemeindetag](www.smh-gemeinden.de/gemeindetag)
 
 ## Gottesdienste via Videolivestream am Sonntag, den 14.06.2020
 Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem **Videolivestream** teilgenommen werden kann:
@@ -34,15 +33,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 12.00 Uhr in Hamburg: **Gemeindegottesdienst**: Link zur Videoübertragung[https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)
 
 ## Gottesdienste via Telefon am Sonntag, den 14.06.2020
-Zudem finden folgende **Gottesdienste** statt an denen **telefonisch** teilgenommen werden kann:
-
-| Konferenzraumnummer/<br>Uhrzeit | <font color=white>--------</font>16882<font color=white>--------</font> | <font color=white>--------</font>92885<font color=white>--------</font> | <font color=white>--------</font>31909<font color=white>--------</font> | <font color=white>--------</font>55114<font color=white>--------</font> |
-| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| <center>10 Uhr</center> | | <center>Kaulsdorf</center> | <center>Wittenberg mit Elster</center> | |
-| <center>11 Uhr</center> | <center>St.-Michaels-Heim</center> | <center>Waldfrieden</center> | <center>Velten</center> | <center>Gößweinstein</center> |
-| <center>12 Uhr</center> | <center>Dresden</center> | <center>Schwedt/Oder</center> | <center>Ahrensburg</center> |  |
-| <center>14.30 Uhr</center> | <center>Potsdam</center> | <center>Lausitz</center> | | |
-| <center>15 Uhr</center> | | | <center>Fürstenwalde</center> | | |
+Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen Kirche statt. Eine aktuelle Übersicht aller Gottesdienste, die telefonisch übertragen werden befindet sich auf der [Webseite der Johannischen Kirche im Bereich Aktuelles.](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 
 ## Mittwochgottesdienst im St.Michaels-Heim
 Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
