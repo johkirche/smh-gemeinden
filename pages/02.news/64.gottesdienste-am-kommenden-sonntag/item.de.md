@@ -38,7 +38,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 <br><br>
 
 ## Gottesdienste via Telefon in vielen Gemeinden der Johannischen Kirche
-Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen Kirche statt. Eine aktuelle Übersicht aller Gottesdienste, die telefonisch übertragen werden befindet sich auf der [Webseite der Johannischen Kirche im Bereich Aktuelles.](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
+Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen Kirche statt, an denen telefonisch tegenommen werden kann. Eine aktuelle Übersicht aller Gottesdienste, die telefonisch übertragen werden befindet sich auf der [Webseite der Johannischen Kirche im Bereich Aktuelles.](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 <br><br>
 
 ## Mittwochgottesdienst im St.Michaels-Heim
