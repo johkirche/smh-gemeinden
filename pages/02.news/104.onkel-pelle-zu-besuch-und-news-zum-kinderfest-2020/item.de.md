@@ -18,6 +18,6 @@ Es werden alle Aufgaben und sonst üblichen Stationen in den Videos für Zuhause
 
 Wir sind davon überzeugt, dass wir es mit eurer Mithilfe auch in diesem Jahr schaffen, für alle ein fantastisches Kinderfest zu ermöglichen und freuen uns schon sehr darauf.
 
-# Onkel Pelle online am 14.06.2020
-Unten seht ihr einen Link zu einem Video, mittels welchem uns schon eine erste spannende Videobotschaft von Onkel Pelle erreicht hat. Das Video wird ab Sonntag dem 14.06.2020 verfügbar sein.
-[https://www.smh-gemeinden.de/gemeindetag](https://www.smh-gemeinden.de/gemeindetag)
+# Onkel Pelle online
+Hier das Video, mittels welchem uns schon eine erste spannende Videobotschaft von Onkel Pelle erreicht hat.
+<br>[plugin:vimeo](https://vimeo.com/426498740)

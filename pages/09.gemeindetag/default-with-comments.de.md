@@ -17,7 +17,7 @@ recaptchacontact:
 ## Onkel Pelle grüßt die Kinder
 [plugin:vimeo](https://vimeo.com/426498740)  
 <br>
-<a href="gemeindetag/#buffet" class="event-button">Buffet entdecken</a>  <a href="gemeindetag/#impressionen" class="event-button">Impression hochladen</a>
+<a href="gemeindetag/#buffet" class="event-button">Buffet entdecken</a>  <a href="gemeindetag/#impressionen" class="event-button">Impressionen ansehen</a>
 <br>
 ##Kurzprogramm
 * 11 Uhr: Gottesdienst _(Telefon, Livestream, Videokonferenz)_
