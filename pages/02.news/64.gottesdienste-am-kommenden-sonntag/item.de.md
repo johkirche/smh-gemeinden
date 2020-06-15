@@ -34,9 +34,11 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 11.00 Uhr in Velten: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)
 * 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
 * 12.00 Uhr in Hamburg: **Gemeindegottesdienst**: Link zur Videoübertragung[https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)
+<br><br>
 
 ## Gottesdienste via Telefon in vielen Gemeinden der Johannischen Kirche
 Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen Kirche statt. Eine aktuelle Übersicht aller Gottesdienste, die telefonisch übertragen werden befindet sich auf der [Webseite der Johannischen Kirche im Bereich Aktuelles.](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
+<br><br>
 
 ## Mittwochgottesdienst im St.Michaels-Heim
 Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
