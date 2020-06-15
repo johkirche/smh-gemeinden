@@ -32,7 +32,7 @@ Am kommenden Sonntag finden folgende **Gottesdienste** statt, an denen mit einem
 * 11.00 Uhr in Gößweinstein: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)
 * 12.00 Uhr in Hamburg: **Gemeindegottesdienst**: Link zur Videoübertragung[https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)
 
-## Gottesdienste via Telefon am Sonntag, den 14.06.2020
+## Gottesdienste via Telefon in vielen Gemeinden der Johannischen Kirche
 Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen Kirche statt. Eine aktuelle Übersicht aller Gottesdienste, die telefonisch übertragen werden befindet sich auf der [Webseite der Johannischen Kirche im Bereich Aktuelles.](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 
 ## Mittwochgottesdienst im St.Michaels-Heim
@@ -44,6 +44,7 @@ Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.20
 
 
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
+<br><br>
 
 # Gemeinsames Abendgebet via Telefon (täglich)
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
@@ -51,15 +52,18 @@ Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** ang
 * 19.30 Uhr an wechselnden Orten Deutschandweit: Familienabendgebet (für Familien mit Kindern)
 * 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet
 * Die Konferenznummer aller Abendgebetübertragungen ist die 31909
+<br><br>
 
 # Einwahldaten für Telefon- und Videoübertragungen
 Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) erreichbar.
 Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar.
+<br><br>
 
 ## Hilfestellung bei technischen Problemen bei der Videoübertragung
 Sollten technische Probleme bei der Videoübertragung auftreten, schaut gerne in die [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp).
 
 Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
+<br><br>
 
 ## Ergänzende Hinweise 
 Die Gottesdienste, die aus den jeweiligen Gemeinderegionen übertragen werden, sollen ganz besonders die dortige geistige Arbeit kräftigen und die Gemeindemitglieder vor Ort miteinander verbinden, ausrichten und schützen. Es wird versucht, aus möglichst vielen Regionen Gottesdienste übertragen zu können. Darüber hinaus gilt eine herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
