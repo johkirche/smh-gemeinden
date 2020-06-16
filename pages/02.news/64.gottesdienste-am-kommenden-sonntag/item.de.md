@@ -1,6 +1,6 @@
 ---
 title: 'Gottesdienste am kommenden Sonntag'
-media_order: 'csm_gottesdienst_smh_2_3593d8f892.jpg,feb5e6d1e402ff8e15422da0068e8f149f3c8648-csmimg1064aac979a1a7.jpeg'
+media_order: 'csm_gottesdienst_smh_2_3593d8f892.jpg,feb5e6d1e402ff8e15422da0068e8f149f3c8648-csmimg1064aac979a1a7.jpeg,9179c68689a4761cc60c4f5532266a2548ccd2c6-img7408.jpeg'
 date: '15-05-2020 19:00'
 publish_date: '15-05-2020 19:17'
 taxonomy:
@@ -17,6 +17,11 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 
 <br>
 ## Video- und Telefongottesdienst aus dem St.-Michaels-heim am Sonntag, den 21.06.2020
+
+|  |  |
+| ------ | ----------- |
+| [![](9179c68689a4761cc60c4f5532266a2548ccd2c6-img7408.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst im St.-Michaels-Heim um 11 Uhr](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
+
 * 11.00 Uhr **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
 * 11.00 Uhr **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 	* Die Telefonübertragung ist über die Konferenznummer 16882 geschaltet.
