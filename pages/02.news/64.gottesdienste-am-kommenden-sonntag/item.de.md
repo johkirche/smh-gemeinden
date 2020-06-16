@@ -63,17 +63,14 @@ Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
 
 ## Gemeinsames Abendgebet via Telefon (täglich)
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
+* 17 Uhr in der Friedensstadt: Abendgebet
+* 19.30 Uhr an wechselnden Orten Deutschandweit: Familienabendgebet (für Familien mit Kindern)
+* 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet
+Einwahldaten:
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909#
 * PIN: 24081855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
-
-* 17 Uhr in der Friedensstadt: Abendgebet
-* 19.30 Uhr an wechselnden Orten Deutschandweit: Familienabendgebet (für Familien mit Kindern)
-* 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet
-
-
-* Die Konferenznummer aller Abendgebetübertragungen ist die 31909
 <br><br>
 
 ## Hilfestellung bei technischen Problemen bei der Videoübertragung
