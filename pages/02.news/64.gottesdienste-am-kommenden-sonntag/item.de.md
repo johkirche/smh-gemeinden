@@ -31,6 +31,7 @@ Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
 <br><br>
 
 ## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 21.06.2020
+
 |  |  |
 | ------ | ----------- |
 | [![](csm_DSC_5171_76a8858df3.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Kaulsdorf](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html) (10.00 Uhr) |
