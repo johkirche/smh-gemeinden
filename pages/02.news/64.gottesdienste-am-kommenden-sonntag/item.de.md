@@ -47,7 +47,7 @@ Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen 
 <br><br>
 
 ## Mittwochgottesdienst im St.Michaels-Heim
-Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr in der Kirche im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
