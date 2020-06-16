@@ -23,12 +23,11 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 | [![](9179c68689a4761cc60c4f5532266a2548ccd2c6-img7408.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst im Kuppelsaal](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
 | [![](feb5e6d1e402ff8e15422da0068e8f149f3c8648-csmimg1064aac979a1a7.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst) |
 
-* 11.00 Uhr **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
-* 11.00 Uhr **Gemeindegottesdienst**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-	* Die Telefonübertragung ist über die Konferenznummer 16882 geschaltet.
-		* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
-		* PIN: 24081855#
-		* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
+Der Gottesdienst in der Kirche wird auch telefonisch übertragen.
+* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer: 16882#
+* PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
 ## Gottesdienste via Videolivestream am Sonntag, den 21.06.2020
