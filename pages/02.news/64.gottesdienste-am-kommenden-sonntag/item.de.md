@@ -43,12 +43,6 @@ Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
 | [![](d7d79b4f7a3f7fa71e829750818fc4b0d6f06f10-csm50jahregemeindebremenaltarc8bc6d2319.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Bremen](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html) (Samstag um 13 Uhr) |
 
 
-* 10.00 Uhr in Kaulsdorf: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kaulsdorf.html)
-* 10.00 Uhr in Elster und Wittenberg: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)
-* 11.00 Uhr **Kindergottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
-* 11.00 Uhr im St.-Michaels-Heim: **Gemeindegottesdienst (Gemeindetag)**: Link zur Videoübertragung: [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
-* 11.00 Uhr im Waldfrieden (Urgemeinde): **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)
-* 11.00 Uhr in Velten: **Gemeindegottesdienst**: Link zur Videoübertragung: [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)
 * 12.00 Uhr in Hamburg: **Gemeindegottesdienst**: Link zur Videoübertragung[https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)
 * 12.00 Uhr in Düsseldorf: **Gemeindegottesdienst**: Link zur Videoübertragung [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-duesseldorf.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-duesseldorf.html)
 <br><br>
