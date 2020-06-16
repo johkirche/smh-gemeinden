@@ -52,22 +52,28 @@ Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.20
 |  |  |
 | ------ | ----------- |
 | [![](feb5e6d1e402ff8e15422da0068e8f149f3c8648-csmimg1064aac979a1a7.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
-
+Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
+* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer: 16882#
+* PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 <br><br>
 
 ## Gemeinsames Abendgebet via Telefon (täglich)
 Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
+* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer: 31909#
+* PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
+
 * 17 Uhr in der Friedensstadt: Abendgebet
 * 19.30 Uhr an wechselnden Orten Deutschandweit: Familienabendgebet (für Familien mit Kindern)
 * 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet
-* Die Konferenznummer aller Abendgebetübertragungen ist die 31909
-<br><br>
 
-## Einwahldaten für Telefon- und Videoübertragungen
-Alle **Telefonübertragungen** sind unter den Festnetznummern **030/ 201 63 49 00** oder **089 / 121 40 59 00** (deutsches Festnetz) erreichbar.
-Der **Videolivestream** ist unter [www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) erreichbar.
+
+* Die Konferenznummer aller Abendgebetübertragungen ist die 31909
 <br><br>
 
 ## Hilfestellung bei technischen Problemen bei der Videoübertragung
