@@ -3,7 +3,7 @@ title: 'Online-Gemeindetag der Hauptgemeinde und Steglitz'
 process:
     markdown: true
     twig: true
-cache_enable: false
+cache_enable: true
 visible: false
 recaptchacontact:
     enabled: false
