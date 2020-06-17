@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg'
 published: true
 routable: true
 visible: false
@@ -56,19 +56,14 @@ Eine Hilfestellung für die Nutzung der Videoübertragung:
 
 |  |  |
 | ------ | ----------- |
-| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
-| [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kinderkirche/Kuppelsaal](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (Video-, keine Telefonübertragung) |
+| ![](d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliches Familienabendgebet um 19.30 Uhr |
+| ![](ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliche Abendgebete um 17 und um 21 Uhr |
 
-Telefonische Einwahldaten zu **täglichen Familienabendgebeten um 19.30 Uhr:**
+Telefonische Einwahldaten:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909
 * Pin: 24081855
 
-Telefonische Einwahldaten zu **täglichen Abendgebeten um 17 und um 21 Uhr:**
-* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
-* Konferenznummer: 31909
-* Pin: 24081855
-   
 <br>Eine Hilfestellung für die Nutzung der Telefonübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
 <br><br><br>
