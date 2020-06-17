@@ -25,13 +25,13 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
-## Videogottesdienste
-Die nächsten Gottesdienste mit Videoübertragung finden am kommenden Sonntag, den 21. Juni um 11 Uhr im St.-Michaels-Heim statt.
+## Gottesdienste (mit Video- und Telefonübertragung)
+Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 21. Juni um 11 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
-| [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kinderkirche/Kuppelsaal](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
+| [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kinderkirche/Kuppelsaal](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (Video-, keine Telefonübertragung) |
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) |
 
 <br><br>
@@ -41,16 +41,32 @@ Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch f
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 <br>
-Alle Gottesdienste in der Kirche werden telefonisch übertragen:
-* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
-* Konferenznummer: 16882#
-* PIN: 24081855#
-* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet 
+Telefonische Einwahldaten zu **Gottesdiensten**:
+* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
+* Pin: 24081855
 
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
 Eine Hilfestellung für die Nutzung der Videoübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
+<br><br><br>
+
+## Abendgebete in Telefongemeinschaft
+
+
+Telefonische Einwahldaten zu **täglichen Familienabendgebeten um 19.30 Uhr:**
+* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer: 31909
+* Pin: 24081855
+
+Telefonische Einwahldaten zu **täglichen Abendgebeten um 17 und um 21 Uhr:**
+* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer: 31909
+* Pin: 24081855
+   
+<br>Eine Hilfestellung für die Nutzung der Telefonübertragung:
+[plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
 <br><br><br>
 ## Digitaler Gemeindetag – Es war sehr schön!
 Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
@@ -58,21 +74,4 @@ Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 20
 |  |  |
 | ------ | ----------- |
 | [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
-<br><br><br>
-## Telefongottesdienste und -abendgebete
-Telefonische Einwahldaten zu **Gottesdiensten**:
-* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
-* Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
-* Pin: 24081855
-
-Telefonische Einwahldaten zu **täglichen Familienabendgebeten um 19.30 Uhr:**
-* Telefonnummern und Pin siehe telefonischen Gottesdiensten
-* Konferenznummer: 31909
-
-Telefonische Einwahldaten zu **täglichen Abendgebeten um 17 und um 21 Uhr:**
-* Telefonnummern und Pin siehe telefonischen Gottesdiensten
-* Konferenznummer: 31909   
-   
-<br>Eine Hilfestellung für die Nutzung der Telefonübertragung:
-[plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
 <br><br><br>
