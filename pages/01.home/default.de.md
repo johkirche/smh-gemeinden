@@ -54,6 +54,10 @@ Eine Hilfestellung für die Nutzung der Videoübertragung:
 
 ## Abendgebete in Telefongemeinschaft
 
+|  |  |
+| ------ | ----------- |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+| [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kinderkirche/Kuppelsaal](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (Video-, keine Telefonübertragung) |
 
 Telefonische Einwahldaten zu **täglichen Familienabendgebeten um 19.30 Uhr:**
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
