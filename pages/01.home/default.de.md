@@ -59,7 +59,7 @@ Eine Hilfestellung für die Nutzung der Videoübertragung:
 | ![](d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliches Familienabendgebet um 19.30 Uhr |
 | ![](ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliche Abendgebete um 17 und um 21 Uhr |
 
-Telefonische Einwahldaten:
+Telefonische Einwahldaten zu Abendgebeten:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909
 * Pin: 24081855
