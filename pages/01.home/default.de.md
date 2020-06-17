@@ -40,7 +40,7 @@ Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch f
 |  |  |
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
-
+<br>
 Alle Gottesdienste in der Kirche werden telefonisch übertragen:
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 16882#
