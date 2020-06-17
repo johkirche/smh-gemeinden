@@ -35,11 +35,17 @@ Die nächsten Gottesdienste mit Videoübertragung finden am kommenden Sonntag, d
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) |
 
 <br><br>
-Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
-| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+
+Alle Gottesdienste in der Kirche werden telefonisch übertragen:
+* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
+* Konferenznummer: 16882#
+* PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet 
 
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
