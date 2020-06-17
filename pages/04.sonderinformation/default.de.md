@@ -10,14 +10,6 @@ recaptchacontact:
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 <br><br>
 
-## Johannisches Pfingstfest 2020
-![](Pfingsten%202018%20noch%20kleiner.jpg?cropResize=700,700)<br>
-Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden!
-Alle Informationen wie z.B. das Programm zum Pfingstfest gibt es auf der [Aktionsseite für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html).
-
-Weitere Informationen gibt es zudem im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
-<br><br>
-
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
 ![](newspapers-444448_1920.jpg?cropResize=700,700)<br>
 Liebe Geschwister und liebe Freunde, es gibt aktuelle Informationen des Kirchenvorstands zur Gestaltung der Kirchenarbeit in den kommenden Wochen. Die vollständige Abkündigung findet ihr unter: [https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag](https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag)
@@ -90,30 +82,6 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
-### Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag 30. Mai 2020
-![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
-Am Pfingstsamstag, dem 30. Mai, sind alle Interessenten zu einer öffentlichen Schule für Geisteswissenschaft eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule beginnt um 18 Uhr. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft](https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft)
-<br><br>
-
-### Johannische Jugend: Hoffnung sucht Hoffnungsträgerinnen und Hoffnungsträger
-![](Bildschirmfoto%202020-05-29%20um%2010.01.45.png?cropResize=700,700)<br>
-Die Johannische Jugend hat eine Kollektion zum Thema HoffnungsträgerInnen entworfen, um in dieser Zeit Mut zu geben und die Hoffnung und den Zusammenhalt zu stärken.
-
-Alle Infois unter: [https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen](https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen)
-<br><br>
-
-### Digitales Chorprojekt zu Pfingsten
-![](music-656593_1920.jpg?cropResize=700,700)<br>
-Wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag einen virtuellen Chor als kulturellen Nachmittagsprogramm erklingen zu lassen. Dies soll nicht live geschehen, sondern wird im Vorfeld vorbereitet und, wenn alles klappt, allen Geschwistern am Pfingstsonntag als fertiges Video auf unserer Kirchen-Internetseite zum Anhören- und Sehen angeboten werden.
-
-Alle Infois unter: [https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020](https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020)
-<br><br>
-
-### InteresSMH: Spieleabend (Online)
-![](sketch-3047721_1920.jpg?cropResize=700,700)<br>
-Am Freitag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
-<br><br>
-
 ### Gemeinsamer virtueller Gottesdienstbesuch
 ![](csm_IMG_1064_aac979a1a7.jpg?forceResize=700,525)<br>
 Das "Projekt Silas – der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen. Die Internetübertragungen unserer Gottesdienste sind von sehr guter Qualität und zuverlässig, aber mancheiner vermisst es, dass man sich rund um den Gottesdienstbesuch nicht mehr sieht und unterhalten kann. Daraus wurde die Idee geboren, den Gottesdienst selbst als Video-Konferenz übertragen und sich vor und nach dem Gottesdienst austauschen zu können. Das soll am Sonntag, 07.06.2020 mit dem Gottesdienst aus dem SMH gemeinsam ausprobiert werden.
@@ -123,15 +91,6 @@ Alle die mitmachen möchten sind herzlich eingeladen und finden hier alle weiter
 ### Gemeindebrief online und via Post
 ![](108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg?forceResize=700,525)<br>
 Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig online und auch via Post bezogen werden. Allte weitern Informationen unter: [https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden).
-<br><br>
-
-### Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz 2020
-![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?forceResize=700,525)<br>
-Die Hauptgemeinde und die Gemeinde Steglitz laden herzlich ihre Geschwister und Freunde zu ihrem gemeinsamen digitalen Gemeindetag am Sonntag, den 14. Juni 2020 ein!
-
-Eine herzliche Videoeinlaung und Hinweise darauf, wie man mitmachen kann gibt es in den [News](https://smh-gemeinden.de/news/digitaler-gemeindetag-der-hauptgemeinde-und-der-gemeinde-steglitz-2020). Die [Aktionsseite](https://smh-gemeinden.de/gemeindetag) zum digitalen Gemeindetag wird fortlaufend aktualisiert. Die Seite zeigt u.a. das Programm, bietet Mitmachmöglichkeiten und wird am 14. Juni der Ort im Internet sein, an dem alle aktiv am Gemeindetag teilnehmen können.
-
-[Hier geht es zu der Aktionsseite des digitalen Gemeindetags der Haupftgemeinde und der Gemeinde Steglitz am 14 Juni 2020 live aus dem St.-Michaels-Heim!](https://smh-gemeinden.de/gemeindetag)
 <br><br>
 
 ## Mach mit!
@@ -147,6 +106,41 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 <br><br>
 
 ## Druchgeführte Sonderaktionen
+
+### Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz 2020
+![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?forceResize=700,525)<br>
+Die Hauptgemeinde und die Gemeinde Steglitz laden herzlich ihre Geschwister und Freunde zu ihrem gemeinsamen digitalen Gemeindetag am Sonntag, den 14. Juni 2020 ein!
+
+Eine herzliche Videoeinlaung und Hinweise darauf, wie man mitmachen kann gibt es in den [News](https://smh-gemeinden.de/news/digitaler-gemeindetag-der-hauptgemeinde-und-der-gemeinde-steglitz-2020). Die [Aktionsseite](https://smh-gemeinden.de/gemeindetag) zum digitalen Gemeindetag wird fortlaufend aktualisiert. Die Seite zeigt u.a. das Programm, bietet Mitmachmöglichkeiten und wird am 14. Juni der Ort im Internet sein, an dem alle aktiv am Gemeindetag teilnehmen können.
+
+[Hier geht es zu der Aktionsseite des digitalen Gemeindetags der Haupftgemeinde und der Gemeinde Steglitz am 14 Juni 2020 live aus dem St.-Michaels-Heim!](https://smh-gemeinden.de/gemeindetag)
+
+### Johannisches Pfingstfest 2020
+![](Pfingsten%202018%20noch%20kleiner.jpg?cropResize=700,700)<br>
+Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche zum Pfingstfest miteinander verbinden!
+Alle Informationen wie z.B. das Programm zum Pfingstfest gibt es auf der [Aktionsseite für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html).
+
+Weitere Informationen gibt es zudem im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
+
+### Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag 30. Mai 2020
+![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
+Am Pfingstsamstag, dem 30. Mai, sind alle Interessenten zu einer öffentlichen Schule für Geisteswissenschaft eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule beginnt um 18 Uhr. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft](https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft)
+
+### Johannische Jugend: Hoffnung sucht Hoffnungsträgerinnen und Hoffnungsträger
+![](Bildschirmfoto%202020-05-29%20um%2010.01.45.png?cropResize=700,700)<br>
+Die Johannische Jugend hat eine Kollektion zum Thema HoffnungsträgerInnen entworfen, um in dieser Zeit Mut zu geben und die Hoffnung und den Zusammenhalt zu stärken.
+
+Alle Infois unter: [https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen](https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen)
+
+### Digitales Chorprojekt zu Pfingsten
+![](music-656593_1920.jpg?cropResize=700,700)<br>
+Wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag einen virtuellen Chor als kulturellen Nachmittagsprogramm erklingen zu lassen. Dies soll nicht live geschehen, sondern wird im Vorfeld vorbereitet und, wenn alles klappt, allen Geschwistern am Pfingstsonntag als fertiges Video auf unserer Kirchen-Internetseite zum Anhören- und Sehen angeboten werden.
+
+Alle Infois unter: [https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020](https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020)
+
+### InteresSMH: Spieleabend (Online)
+![](sketch-3047721_1920.jpg?cropResize=700,700)<br>
+Am Freitag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
 
 ### InteresSMH: Escapegame
 ![](suspension-bridge-959853_1920.jpg?cropResize=700,700)<br>
