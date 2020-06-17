@@ -25,27 +25,14 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
-## Digitaler Gemeindetag
-Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
-
-|  |  |
-| ------ | ----------- |
-| [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
-<br><br><br>
 ## Videogottesdienste
 Die nächsten Videogottesdienste finden am kommenden Sonntag, den 21. Juni um 11 Uhr statt.
 
 |  |  |
 | ------ | ----------- |
-| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gemeindegottesdienst in der Kirche im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 | [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
-| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gemeindegottesdienst im Waldfrieden](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) |
-| [![](csm_velten_altar_69ddeeb6c1.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Velten](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html) |
-| [![](P1120210.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html) |
-| [![](DSC_0013_reduziert.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Hamburg](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html) (12 Uhr) |
-| [![](csm_2008_-_Elster_Altar_df63a7a87e.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Wittenberg und Elster](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-wittenberg-elster.html) (13 Uhr) |
-| [![](csm_D__sseldorf_2a84004819.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Düsseldorf und Dortmund](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html) (14 Uhr) |
-| [![](csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html)<font color="white">.     .</font> | [Gemeindegottesdienst in Bremen](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html) (Samstag um 13 Uhr) |
+Eine Übersicht über alle weiteren Videogottesdienste anderer Gemeinden der Johannischen Kirche ist [hier](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) zu finden.
 
 <br><br>
 Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
@@ -58,6 +45,13 @@ Der nächste Video- und Telefongottesdienst an einem Mittowch findet am 24.06.20
 
 Eine Hilfestellung für die Nutzung der Videoübertragung:
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
+<br><br><br>
+## Digitaler Gemeindetag – Es war sehr schön!
+Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
+
+|  |  |
+| ------ | ----------- |
+| [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
 <br><br><br>
 ## Telefongottesdienste und -abendgebete
 Telefonische Einwahldaten zu **Gottesdiensten**:
