@@ -35,7 +35,7 @@ Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommend
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) |
 
 <br><br>
-Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 24.06.2020 um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 24. Juni um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
