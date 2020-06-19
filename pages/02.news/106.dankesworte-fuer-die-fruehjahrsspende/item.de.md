@@ -1,5 +1,9 @@
 ---
 title: 'Dankesworte für die Frühjahrsspende'
+date: '19-06-2020 16:30'
+publish_date: '19-06-2020 16:30'
+unpublish_date: '21-08-2020 16:30'
+show_sidebar: false
 ---
 
 Liebe Geschwister und Freunde!
