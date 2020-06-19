@@ -13,6 +13,7 @@ Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehe
 ## Öffentliche Schule für Geisteswissenschaften am 27. Juni um 18 Uhr
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
 Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) – sind am 27. Juni alle Kirchenmitglieder herzlich eingeladen. Im Anschluss wird unsere Kirchenleitung aktuelle Informationen zu Gut Schönhof mitteilen. Die Einwahldaten sowie weitere Infornmationen gibt es unter [https://smh-gemeinden.de/news/oeffentliche-schule-fuer-geisteswissenschaft-am-27-juni](https://smh-gemeinden.de/news/oeffentliche-schule-fuer-geisteswissenschaft-am-27-juni).
+<br><br>
 
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
 ![](newspapers-444448_1920.jpg?cropResize=700,700)<br>
