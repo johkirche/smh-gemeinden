@@ -6,7 +6,7 @@ unpublish_date: '12-07-2020 16:27'
 show_sidebar: false
 ---
 
-Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) – sind am 27 Juni alle Kirchenmitglieder herzlich eingeladen. 
+Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) – sind am 27. Juni alle Kirchenmitglieder herzlich eingeladen. 
 
 ===
 
