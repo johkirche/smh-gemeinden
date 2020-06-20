@@ -80,6 +80,7 @@ Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 20
 ## Digitale Kollekte
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 > 
+
 |  |  |
 | ------ | ----------- |
 | [![](f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png?cropResize=130,130)](https://secure.spendenbank.de/form/3469)<font color="white">.     .</font> | [Digitale Kollekte](https://secure.spendenbank.de/form/3469) |
