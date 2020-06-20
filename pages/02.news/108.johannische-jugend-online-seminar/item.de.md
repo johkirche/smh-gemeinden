@@ -1,5 +1,6 @@
 ---
 title: 'Johannische Jugend: Online Seminar'
+media_order: jugend.png
 ---
 
 Vom **26.06. – 28.06.** lädt euch die Johannische Jugend zum online Seminar ein. Wie ihr dabei sein könnt, erfahrt ihr hier.
