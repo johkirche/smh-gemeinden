@@ -13,7 +13,7 @@ In diesem Beitrag findet ihr praktische Videoanleitungen und ergänzende Hilfest
 ## Hilfestellungen für Videoübertragungen
 
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
-<br><br>
+<br>
 Weitere Hilfestellungen und Informationen:
 * [Weitere Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
 * [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
@@ -25,7 +25,7 @@ Weitere Hilfestellungen und Informationen:
 ## Hilfestellungen für Telefonübertragungen
 
 [plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
-<br><br>
+<br>
 Weitere Hilfestellungen und Informationen:
 * [Die nächsten Gottesdiensttermine aller Gemeinden inkl. Telefoneinwahldaten gibt es auf der Webseite der Johannischen Kirche](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 * Die telefonischen Einwahldaten zu allen Übertragungen (z.B. Gottesdienste, Öffentliche Schule, Abend- und Familienabendgebeten) lauten:
