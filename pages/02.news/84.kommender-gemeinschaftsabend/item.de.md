@@ -3,9 +3,6 @@ title: 'Kommender Gemeinschaftsabend (telefonisch und online)'
 date: '20-06-2020 15:00'
 publish_date: '20-06-2020 15:00'
 unpublish_date: '24-06-2020 23:59'
-taxonomy:
-    kategorie:
-        - featured
 show_sidebar: false
 ---
 
