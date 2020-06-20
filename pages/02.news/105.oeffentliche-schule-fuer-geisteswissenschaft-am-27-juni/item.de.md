@@ -10,7 +10,7 @@ Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche
 
 ===
 
-Die Fortbildung ist öffentlich und wird ausschließlich telefonisch und via Videolivestream übertragen. Das Thema wird noch bekanntgegeben. Im Anschluss an die Veranstaltung werden sich unser Oberhaupt an die Teilnehmenden wenden und ergänzend zu der Einladung den Gut Schönhof zu unterstützen weitere Informationen geben. Die Schule beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
+Die Fortbildung ist öffentlich und wird ausschließlich telefonisch und via Videolivestream übertragen. Das Thema wird noch bekanntgegeben. Im Anschluss an die Veranstaltung wird sich unsere Kirchenleitung an euch wenden und ergänzend zu der Einladung den Gut Schönhof zu unterstützen weitere Informationen geben. Die Schule beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
 
 Einwahldaten Telefon:
 
