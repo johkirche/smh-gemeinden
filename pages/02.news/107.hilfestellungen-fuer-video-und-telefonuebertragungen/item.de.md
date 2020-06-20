@@ -16,9 +16,9 @@ In diesem Beitrag findet ihr praktische Videoanleitungen und ergänzende Hilfest
 <br><br>
 Weitere Hilfestellungen und Informationen:
 * [Weitere Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
-* [Die nächsten Gottesdiensttermine aller Gemeinden mit Videoübertragung findet ihr hier](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * [Livestream zum nächsten Gottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
 * [Livestream zum nächsten Kindergottesdienst im St.-Michaels-Heim](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)
+* [Die nächsten Gottesdiensttermine aller Gemeinden mit Videoübertragung findet ihr hier](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 <br><br>
 
@@ -36,6 +36,7 @@ Weitere Hilfestellungen und Informationen:
 		* [Gottesdienste in anderen Gemeinden](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 	* Passwort: 24081855#
 	* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
+* [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 <br><br>
 
 ## Möglichkeiten einer digitalen Kollekte
