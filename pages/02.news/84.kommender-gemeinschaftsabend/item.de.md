@@ -17,7 +17,7 @@ Wir treffen uns in einer Videokonferenz (Teilnahme mit Computer oder Smartphone)
 
 Einwahldaten:
 * Link zur Teilnahme mit Smartphone, Tablet oder Computer:
-	* GemeinsamerGottesdienst93782019697
+	* [GemeinsamerGottesdienst93782019697](https://uni-potsdam.zoom.us/j/93782019697)
 	* Meeting-ID: 937 8201 9697
 	* Passwort: 24081855
 * Einwahl mit Telefon für Telefonaustausch:
