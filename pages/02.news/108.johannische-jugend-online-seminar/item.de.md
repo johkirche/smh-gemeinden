@@ -17,6 +17,6 @@ Auch dieses Mal haben wir es uns nicht nehmen lassen ein nicht minder vielfälti
 
 Alles, was du für so ein berauschendes Seminarerlebnis brauchst, ist ein internetfähiges Gerät, bestenfalls mit Kamera oder ein Telefon. Und wenn du nicht das ganze Wochenende Zeit hast und nicht an allen Programmpunkten teilnehmen kannst? Kein Problem! Mit deiner Anmeldung kannst du auch punktuell an den Veranstaltungen teilnehmen, für die du Zeit hast.
 
-Hier der link zu online Anmeldung
+Hier der link zu online Anmeldung:
 
 * [https://cloud.johannische-kirche.org/index.php/s/fdMLPGJyboFxdrF](https://cloud.johannische-kirche.org/index.php/s/fdMLPGJyboFxdrF)
