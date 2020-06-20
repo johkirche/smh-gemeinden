@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg,Bildschirmfoto 2020-06-20 um 11.17.45.png,Bildschirmfoto 2020-06-20 um 11.17.56.png'
 published: true
 routable: true
 visible: false
@@ -24,7 +24,8 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
 | [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
-<br><br><br>
+<br><br>
+
 ## Gottesdienste (mit Video- und Telefonübertragung)
 Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 21. Juni um 11 Uhr im St.-Michaels-Heim statt.
 
@@ -47,10 +48,7 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 * Pin: 24081855
 
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
-
-Eine Hilfestellung für die Nutzung der Videoübertragung:
-[plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414701082)
-<br><br><br>
+<br><br>
 
 ## Abendgebete in Telefongemeinschaft
 
@@ -63,10 +61,15 @@ Telefonische Einwahldaten zu Abendgebeten:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909
 * Pin: 24081855
+<br><br>
 
-<br>Eine Hilfestellung für die Nutzung der Telefonübertragung:
-[plugin:vimeo](https://vimeo.com/https://player.vimeo.com/video/414490837)
-<br><br><br>
+## Hilfestellungen für Video- und Telefonübertragungen
+|  |  |
+| ------ | ----------- |
+| [![](Bildschirmfoto%202020-06-20%20um%2011.17.45.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Videoübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
+| [![](Bildschirmfoto%202020-06-20%20um%2011.17.56.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Telefonübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
+<br><br>
+
 ## Digitaler Gemeindetag – Es war sehr schön!
 Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
 
