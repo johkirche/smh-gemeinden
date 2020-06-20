@@ -16,6 +16,7 @@ Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich 
 
 Besucher und Gäste sind herzlich willkommen!
 <br><br><br>
+
 ## Hauptmenü
 |  |  |
 | ------ | ----------- |
@@ -24,7 +25,7 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](megaphone-2223049_1280.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
 | [![](group-1824145_1280.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](at-sign-1083508_1280.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
-<br><br>
+<br><br><br>
 
 ## Gottesdienste (mit Video- und Telefonübertragung)
 Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 21. Juni um 11 Uhr im St.-Michaels-Heim statt.
@@ -46,7 +47,7 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 * Pin: 24081855
-<br><br>
+<br><br><br>
 
 ## Abendgebete in Telefongemeinschaft
 
@@ -59,14 +60,14 @@ Telefonische Einwahldaten zu Abendgebeten:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909
 * Pin: 24081855
-<br><br>
+<br><br><br>
 
 ## Hilfestellungen für Video- und Telefonübertragungen
 |  |  |
 | ------ | ----------- |
 | [![](Bildschirmfoto%202020-06-20%20um%2011.17.45.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Videoübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
 | [![](Bildschirmfoto%202020-06-20%20um%2011.17.56.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Telefonübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
-<br><br>
+<br><br><br>
 
 ## Digitaler Gemeindetag – Es war sehr schön!
 Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
@@ -74,11 +75,12 @@ Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 20
 |  |  |
 | ------ | ----------- |
 | [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
-<br><br>
+<br><br><br>
 
 ## Digitale Kollekte
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 > 
 |  |  |
 | ------ | ----------- |
-| [![](f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Videoübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
+| [![](f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png?cropResize=130,130)](https://secure.spendenbank.de/form/3469)<font color="white">.     .</font> | [Digitale Kollekte](https://secure.spendenbank.de/form/3469) |
+<br><br><br>
