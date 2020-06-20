@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg,Bildschirmfoto 2020-06-20 um 11.17.45.png,Bildschirmfoto 2020-06-20 um 11.17.56.png'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg,Bildschirmfoto 2020-06-20 um 11.17.45.png,Bildschirmfoto 2020-06-20 um 11.17.56.png,f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png'
 published: true
 routable: true
 visible: false
@@ -46,8 +46,6 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 * Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 * Pin: 24081855
-
-> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 <br><br>
 
 ## Abendgebete in Telefongemeinschaft
@@ -76,4 +74,11 @@ Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 20
 |  |  |
 | ------ | ----------- |
 | [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
-<br><br><br>
+<br><br>
+
+## Digitale Kollekte
+> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
+> 
+|  |  |
+| ------ | ----------- |
+| [![](f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Videoübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
