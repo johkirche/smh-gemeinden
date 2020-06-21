@@ -16,7 +16,7 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 ===
 
 <br>
-## Video- und Telefongottesdienst aus dem St.-Michaels-Heim am Sonntag, den 21.06.2020 um 11.00 Uhr
+## Video- und Telefongottesdienst aus dem St.-Michaels-Heim am Sonntag, den 28.06.2020 um 11.00 Uhr
 
 |  |  |
 | ------ | ----------- |
@@ -30,7 +30,7 @@ Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
-## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 21.06.2020
+## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 28.06.2020
 
 |  |  |
 | ------ | ----------- |
@@ -39,9 +39,9 @@ Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
 | [![](cb96dfcc5ba3fd6152ebb4a82dfcbd2b766e0613-csmaltar-denoise2052648ed2.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html)<font color="white">.     .</font> | [Gottesdienst im Waldfrieden, Urgemeinde, Friedensstadt](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-waldfrieden.html) (11 Uhr) |
 | [![](7c322ac461b3a737eed081b9c5ad8875f138c092-csmveltenaltar69ddeeb6c1.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html)<font color="white">.     .</font> | [Gottesdienst in Velten](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-velten.html) (11 Uhr) |
 | [![](728051075f3abbcbabc5b71c1cd098d10f824f8b-dsc0013reduziert.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html)<font color="white">.     .</font> | [Gottesdienst in Hamburg](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-hamburg.html) (12 Uhr) |
-| [![](9bc5997ad11dbfdc30aac41630368d4b1eca6998-csmdsseldorf2a84004819.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)<font color="white">.     .</font> | [Gottesdienst in Düsseldorf und Dortmund](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html) (12 Uhr) |
-| [![](d7d79b4f7a3f7fa71e829750818fc4b0d6f06f10-csm50jahregemeindebremenaltarc8bc6d2319.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html)<font color="white">.     .</font> | [Gottesdienst in Bremen](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html) (Samstag um 13 Uhr) |
-| [![](d9016ee7e3910259881a81c996ee979601e3346b-p1120210.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<font color="white">.     .</font> | [Gottesdienst in Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html) (entfällt) |
+| [![](9bc5997ad11dbfdc30aac41630368d4b1eca6998-csmdsseldorf2a84004819.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html)<font color="white">.     .</font> | [Gottesdienst in Düsseldorf und Dortmund](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-dortmund-duesseldorf.html) (wieder in der nächsten Woche) |
+| [![](d7d79b4f7a3f7fa71e829750818fc4b0d6f06f10-csm50jahregemeindebremenaltarc8bc6d2319.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html)<font color="white">.     .</font> | [Gottesdienst in Bremen](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-bremen.html) (wieder in der nächsten Woche) |
+| [![](d9016ee7e3910259881a81c996ee979601e3346b-p1120210.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html)<font color="white">.     .</font> | [Gottesdienst in Gößweinstein](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-goessweinstein.html) (wieder in der nächsten Woche) |
 
 Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen Kirche statt, an denen telefonisch tegenommen werden kann. Eine aktuelle Übersicht aller Gottesdienste, die telefonisch übertragen werden befindet sich auf der [Webseite der Johannischen Kirche im Bereich Aktuelles.](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 <br><br>
