@@ -99,6 +99,20 @@ Alle die mitmachen möchten sind herzlich eingeladen und finden hier alle weiter
 Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig online und auch via Post bezogen werden. Allte weitern Informationen unter: [https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden).
 <br><br>
 
+### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, 24. Juni um 19.45 Uhr
+![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
+Die nächste gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 24. Juni um 19.45 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein. [Alle weiteren Infos hier.](https://smh-gemeinden.de/news/kommender-gemeinschaftsabend)
+<br><br>
+
+### Onkel Pelle zu Besuch und News zum Kinderfest 2020
+![](Bildschirmfoto%202020-06-21%20um%2021.30.49.png?cropResize=700,700)<br>
+Onkel Pelle wendet sich in einer Videobotschaft an die Kinder und lädt sie zu einem digitalen Abendteuer am Mintag, den 24. August 2020 ein. [Hier geht es zum Video sowie zu weiteren Informationen.](https://smh-gemeinden.de/news/onkel-pelle-zu-besuch-und-news-zum-kinderfest-2020)
+<br><br>
+
+### 2. Onlineseminar der Johannischen Jugend im Juni 2020
+![](Bildschirmfoto%202020-06-21%20um%2021.34.23.png?cropResize=700,700)<br>
+Vom 26.06. – 28.06. lädt euch die Johannische Jugend zum online Seminar ein. Wie ihr dabei sein könnt, erfahrt ihr [hier](https://smh-gemeinden.de/news/johannische-jugend-online-seminar).
+
 ## Mach mit!
 ![](help-4955863_1920.jpg?cropResize=700,700)<br>
 Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und Durchführung weiterer Angebote in dieser ganz besonderen Zeit mitzugestalten. Bitte zögert nicht, mit euren Ideen, Wünschen und Vorschlägen euch direkt an eure Gemeindeleitungen und -helfer zu werden. Gerne könnt ihr dafür auch die [Kontaktadresse](https://smh-gemeinden.de/kontakt) auf der Webseite nutzen. Sehr gerne könnt ihr auch bestehende Ideen aufgreifen und bei der Umsetzung unterstützen. Du wirst gebraucht!
@@ -110,25 +124,6 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * Unterstützung in der Verbreitung von Informationen an Geschwister, die keine E-Mail-Adresse haben
 * ...
 <br><br>
-
-### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, 24. Juni um 19.45 Uhr
-![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
-Die nächste gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 24. Juni um 19.45 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein. [Alle weiteren Infos hier.](https://smh-gemeinden.de/news/kommender-gemeinschaftsabend)
-<br><br>
-
-### Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag 27. Juni 2020
-![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
-Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) – sind am 27. Juni alle Kirchenmitglieder herzlich eingeladen. [Alle weiteren Infos hier.](https://smh-gemeinden.de/news/oeffentliche-schule-fuer-geisteswissenschaft-am-27-juni)
-<br><br>
-
-### Onkel Pelle zu Besuch und News zum Kinderfest 2020
-![](Bildschirmfoto%202020-06-21%20um%2021.30.49.png?cropResize=700,700)<br>
-Onkel Pelle wendet sich in einer Videobotschaft an die Kinder und lädt sie zu einem digitalen Abendteuer am Mintag, den 24. August 2020 ein. [Hier geht es zum Video sowie zu weiteren Informationen.](https://smh-gemeinden.de/news/onkel-pelle-zu-besuch-und-news-zum-kinderfest-2020)
-<br><br>
-
-### 2. Onlineseminar der Johannischen Jugend im Juni 2020
-![](Bildschirmfoto%202020-06-21%20um%2021.34.23.png?cropResize=700,700)<br>
-Vom 26.06. – 28.06. lädt euch die Johannische Jugend zum online Seminar ein. Wie ihr dabei sein könnt, erfahrt ihr [hier](https://smh-gemeinden.de/news/johannische-jugend-online-seminar).
 
 ## Druchgeführte Sonderaktionen
 
