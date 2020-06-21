@@ -43,6 +43,7 @@ Weitere Informationen:
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 
 > Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
+>
 <br><br>
 
 ## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
@@ -93,6 +94,7 @@ Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister u
 Das "Projekt Silas – der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen. Die Internetübertragungen unserer Gottesdienste sind von sehr guter Qualität und zuverlässig, aber mancheiner vermisst es, dass man sich rund um den Gottesdienstbesuch nicht mehr sieht und unterhalten kann. Daraus wurde die Idee geboren, den Gottesdienst selbst als Video-Konferenz übertragen und sich vor und nach dem Gottesdienst austauschen zu können. Das soll am Sonntag, 07.06.2020 mit dem Gottesdienst aus dem SMH gemeinsam ausprobiert werden.
 
 Alle die mitmachen möchten sind herzlich eingeladen und finden hier alle weiteren Informationen: [https://smh-gemeinden.de/news/einladung-zum-gemeinsamen-virtuellen-gottesdienst](https://smh-gemeinden.de/news/einladung-zum-gemeinsamen-virtuellen-gottesdienst)
+<br><br>
 
 ### Gemeindebrief online und via Post
 ![](108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg?forceResize=700,525)<br>
@@ -112,6 +114,7 @@ Onkel Pelle wendet sich in einer Videobotschaft an die Kinder und lädt sie zu e
 ### 2. Onlineseminar der Johannischen Jugend im Juni 2020
 ![](Bildschirmfoto%202020-06-21%20um%2021.34.23.png?cropResize=700,700)<br>
 Vom 26.06. – 28.06. lädt euch die Johannische Jugend zum online Seminar ein. Wie ihr dabei sein könnt, erfahrt ihr [hier](https://smh-gemeinden.de/news/johannische-jugend-online-seminar).
+<br><br>
 
 ## Mach mit!
 ![](help-4955863_1920.jpg?cropResize=700,700)<br>
@@ -134,6 +137,7 @@ Die Hauptgemeinde und die Gemeinde Steglitz laden herzlich ihre Geschwister und 
 Eine herzliche Videoeinlaung und Hinweise darauf, wie man mitmachen kann gibt es in den [News](https://smh-gemeinden.de/news/digitaler-gemeindetag-der-hauptgemeinde-und-der-gemeinde-steglitz-2020). Die [Aktionsseite](https://smh-gemeinden.de/gemeindetag) zum digitalen Gemeindetag wird fortlaufend aktualisiert. Die Seite zeigt u.a. das Programm, bietet Mitmachmöglichkeiten und wird am 14. Juni der Ort im Internet sein, an dem alle aktiv am Gemeindetag teilnehmen können.
 
 [Hier geht es zu der Aktionsseite des digitalen Gemeindetags der Haupftgemeinde und der Gemeinde Steglitz am 14 Juni 2020 live aus dem St.-Michaels-Heim!](https://smh-gemeinden.de/gemeindetag)
+<br><br>
 
 ### Johannisches Pfingstfest 2020
 ![](Pfingsten%202018%20noch%20kleiner.jpg?cropResize=700,700)<br>
@@ -141,30 +145,37 @@ Auch in diesem Jahr können sich Mitglieder und Freunde der Johannischen Kirche 
 Alle Informationen wie z.B. das Programm zum Pfingstfest gibt es auf der [Aktionsseite für das Pfingstfest 2020](https://www.johannische-kirche.org/mediathek/pfingsten2020.html).
 
 Weitere Informationen gibt es zudem im Bereich [News](https://smh-gemeinden.de/news/pfingsten-2020).
+<br><br>
 
 ### Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag 30. Mai 2020
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
 Am Pfingstsamstag, dem 30. Mai, sind alle Interessenten zu einer öffentlichen Schule für Geisteswissenschaft eingeladen, die sich mit dem Wesen des Pfingstfestes beschäftigt. Die Schule beginnt um 18 Uhr. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft](https://smh-gemeinden.de/news/uebertragung-der-schule-fuer-geisteswissenschaft)
+<br><br>
 
 ### Johannische Jugend: Hoffnung sucht Hoffnungsträgerinnen und Hoffnungsträger
 ![](Bildschirmfoto%202020-05-29%20um%2010.01.45.png?cropResize=700,700)<br>
 Die Johannische Jugend hat eine Kollektion zum Thema HoffnungsträgerInnen entworfen, um in dieser Zeit Mut zu geben und die Hoffnung und den Zusammenhalt zu stärken.
 
 Alle Infois unter: [https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen](https://smh-gemeinden.de/news/johannische-jugend-hoffnung-sucht-hoffnungstraeger-innen)
+<br><br>
 
 ### Digitales Chorprojekt zu Pfingsten
 ![](music-656593_1920.jpg?cropResize=700,700)<br>
 Wir wagen den Versuch, mit allen interessierten Geschwistern am Pfingstsonntag einen virtuellen Chor als kulturellen Nachmittagsprogramm erklingen zu lassen. Dies soll nicht live geschehen, sondern wird im Vorfeld vorbereitet und, wenn alles klappt, allen Geschwistern am Pfingstsonntag als fertiges Video auf unserer Kirchen-Internetseite zum Anhören- und Sehen angeboten werden.
 
 Alle Infois unter: [https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020](https://smh-gemeinden.de/news/digitales-chorprojekt-pfingsten-2020)
+<br><br>
 
 ### InteresSMH: Spieleabend (Online)
 ![](sketch-3047721_1920.jpg?cropResize=700,700)<br>
 Am Freitag, den 28. Mai, laden die St.-Michaels-Heim-Gemeinden alle Geschwister und Freude zu einem Online-Speielabend ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-spieleabend-scribble](https://smh-gemeinden.de/news/interessmh-spieleabend-scribble).
+<br><br>
 
 ### InteresSMH: Escapegame
 ![](suspension-bridge-959853_1920.jpg?cropResize=700,700)<br>
 Am Freitag, den 22. Mai laden die St.-Michaels-Heim-Gemeinden online zu einem virtuellen Escapegame ein. Alle weiteren Informationen unter: [https://smh-gemeinden.de/news/interessmh-escapegame-online](https://smh-gemeinden.de/news/interessmh-escapegame-online).
+<br><br>
+<br><br>
 
 ### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 27.5. um 19.30 Uhr
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
@@ -173,6 +184,7 @@ Am 27. Mai um 19.30 Uhr luden die Gemeinden im St.-Michaels-Heim im Anschluss an
 Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue begannen wir unser Gespräch mit Gedankenanregungen zur Einleitung undtauschten uns zum Thema **"Zeit für Veränderung: In uns selbst und dann in der Welt"** aus. Meiko Röper war zu Gast und moderierte den Gemeinschaftsabend.**
 
 Im Nachgang an den Gemeinschaftsabend entstand ein kleiner [Newsbeitrag](https://smh-gemeinden.de/news/rueckblick-auf-online-gespraechskreis-vom-27-mai), der den einleitenden Vortrag und einige der ausgetauschten Gedanken wiedergibt. Alle die dabei waren oder dies nicht konnten können dort nachlesen.
+<br><br>
 
 ### Offenes Singen via YouTube "Lieder zum Osterfest"
 ![](music-656593_1920.jpg?cropResize=700,700)<br>
@@ -181,14 +193,17 @@ Da das [erste Offene Singen](https://www.youtube.com/watch?v=oYnWWPVvThA&feature
 Wer am **Ostersonntag um 19:30 Uhr** am gemeinsamen Singen zum Thema **„Lieder zum Osterfest“** nicht teilnehmen konnte, gelangt durch das Klicken auf den folgenden Link zum Video: https://youtu.be/wJXCx10lqrM
 
 Weitere Informationen gibt es auch in unseren News unter: [https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest](https://smh-gemeinden.de/news/offenes-singen-via-youtube-lieder-zum-osterfest)
+<br><br>
 
 ### Offenes Singen via YouTube
 ![](music-656593_1920.jpg?cropResize=700,700)<br>
 Es fand ein erstes virtuelles Gemeinschaftssingen mit Sebastian Nichelmann statt. Die Chorprobe der etwas anderen Art kann jederzeit wiederholt werden: [Link direkt zu YouTube](https://youtu.be/oYnWWPVvThA)
+<br><br>
 
 ### Vorbereitung auf das Abendmahl nicht nur für Kinder
 ![](worship-2964803_1920.jpg?cropResize=700,700)<br>
 Kinder und Erwachsene bekommen hier Antworten auf Fragen wie: Wie war denn das eigentlich bisher mit dem Abendmahl? Wie soll das Abendmahl gehen, wenn wir den Wein und das Brot nicht durch den Computer schieben können? Warum knien wir uns hin und sprechen das Gottesbekenntnis? Wie kann ich mich als Kind auf das Abendmahl vorbereiten? Klikt einfach auf diesen Link: [https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl](https://smh-gemeinden.de/news/kinder-fragen-zum-abendmahl)
+<br><br>
 
 ### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, 13. Mai um 19 Uhr
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
@@ -204,6 +219,7 @@ Wir treffen uns in einer Video- und Telefonkonferenz. Es wäre schön, wenn wir 
 Die Schule für Geisteswissenschaften für Amtsträger der Johannischen Kirche findet am Samstag, den 02.05.2020 um 18 Uhr statt.
 
 Zu der Schule an diesem Tag sind alle Geschwister und Glaubensfreunde herzlich eingeladen. Die Fortbildung ist öffentlich und wird ausschließlich telefonisch und via Videolivestream übertragen. Die einwahldaten entsprechen denen der Gottesdienste im St.-Michaels-Heim und sind auf der [Startseite](www.smh-gemeinden.de) zu fidnen. Der Vortrag, mit dem Thema „Der Kreuzweg“, beginnt um 18 Uhr in der Kirche des St.-Michaels-Heims.
+<br><br>
 
 ### Veränderungen beim Sakrament des Abendmahls
 ![](worship-2964803_1920.jpg?cropResize=700,700)<br>
@@ -213,22 +229,27 @@ Weitere Informationen:
 * [Ausfürliche Informationen zum Ablauf der Abendmahlsgottesdienste](https://smh-gemeinden.de/news/handhabung-des-abendmahls-2020)
 * Telefonteilnahme: Telefonnummern: 030/ 201 63 49 00 und 089 / 121 40 59 00 (deutsches Festnetz); Konferenznummer: 16882; Pin: 24081855
 * Videoteilnahme: Link: [Videogottesdienst](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html); Passwort: Bitte via [E-Mail](https://smh-gemeinden.de/kontakt) erfragen
+<br><br>
 
 ### Videopassionsspiel
 ![](csm_DSC02599_76605b73f2.jpg?cropResize=700,700)<br>
 In der Mediathek der Website der Johannischen Kirche kann von Armin Mattstedt „Visualisierte Passionsmusik“ bis Dienstag nach Ostern betrachtet werden. Ein Login (Passwort) ist nicht erforderlich. Der Link lautet: [https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html](https://www.johannische-kirche.org/mediathek/visualisierte-passionsmusik.html)
+<br><br>
 
 ### Deine Osterwünsche
 ![](easter-egg-3257201_1920.jpg?cropResize=700,700)<br>
 [Eine Wunderbare Einladung der Jugend! Bitte hier klicken, dann erhaltet ihr alle Infos!](https://smh-gemeinden.de/news/deine-osterwuensche-2020)
+<br><br>
 
 ### Telefon- und Videovortrag: "Gedanken zum Abendmahl nach der Offenbarung St. Johannes"
 ![](the-conference-3248255_1920.jpg?cropResize=700,700)<br>
 Am Samstag, den 4. April 2020 um 17 Uhr und am Mittwoch, den 8. April 2020 um 18 Uhr wird ein Vortrag zu dem Thema "Gedanken zum Abendmahl nach der Offenbarung St. Johannes" via Telefon und zum zweiten Termin auch via Videolivestream angeboten. [Weitere Informationen und die Einwahldaten im Bereich News.](https://smh-gemeinden.de/news/vortrag-gedanken-zum-abendmahl-nach-der-offenbarung-st-johannes)
+<br><br>
 
 ### Telefonvortrag: "... denn er lebt!"
 ![](the-conference-3248255_1920.jpg?cropResize=700,700)<br>
 Am Gründonnerstag, den 9. April, im Anschluss an das Abendgebet um 17 Uhr, verlesen Joachim Steffen und Wolfgang Ipfling die Passionserzählung "... denn er lebt!". [Alle weiteren Informationen zu dem Vortrag findet ihr in der Newsmeldung.](https://smh-gemeinden.de/news/vortrag-denn-er-lebt)
+<br><br>
 
 ### Gemeinschaftsabend mit Telefon- und Videokonferenz
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
