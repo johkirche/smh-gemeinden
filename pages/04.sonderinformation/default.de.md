@@ -46,7 +46,6 @@ Weitere Informationen:
 > 
 
 <br><br>
-
 ## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
 ![](blur-1867402_1920.jpg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Familien mit Kindern zu einem gemeinsamen Abendgebet via Telefon ein.
