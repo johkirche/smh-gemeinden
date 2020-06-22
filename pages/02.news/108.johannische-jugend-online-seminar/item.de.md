@@ -7,7 +7,7 @@ unpublish_date: '26-07-2020 13:10'
 show_sidebar: false
 ---
 
-Vom **26.06. – 28.06.** lädt euch die Johannische Jugend zum online Seminar ein. Wie ihr dabei sein könnt, erfahrt ihr hier.
+Vom **26.06. – 28.06.** lädt euch die Johannische Jugend zum Online Seminar ein. Wie ihr dabei sein könnt, erfahrt ihr hier.
 
 ===
 
