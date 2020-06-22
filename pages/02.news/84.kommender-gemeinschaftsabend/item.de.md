@@ -8,7 +8,7 @@ show_sidebar: false
 
 Die nächste gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am **Mittwoch, den 24. Juni um 19.45 Uhr** im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein. 
 
-Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue beginnen wir unser Gespräch mit Gedankenanregungen zur Einleitung von Christoph Schal-Breite. Das Thema lautet: **"Kirche in Zeiten von Covid-19 – was vermisse ich und worauf freue ich mich wieder?"**.Die ersten weiteren Teilnehmer haben schon zugesagt und freuen sich darauf auch mit dir ins Gespräch zu kommen. Es wird u.a. rund um das aktuelle, bisherige und kommende Kirchenleben gehen. Was hat in der letzten Zeit unter Corona-Rahmenbedingungen gut geklappt? Was sollten wir zukünftig anders machen?
+Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Hause beginnen wir unser Gespräch mit Gedankenanregungen zur Einleitung von Christoph Schal-Breite. Das Thema lautet: **"Kirche in Zeiten von Covid-19 – was vermisse ich und worauf freue ich mich wieder?"**.Die ersten weiteren Teilnehmer haben schon zugesagt und freuen sich darauf auch mit dir ins Gespräch zu kommen. Es wird u.a. rund um das aktuelle, bisherige und kommende Kirchenleben gehen. Was hat in der letzten Zeit unter Corona-Rahmenbedingungen gut geklappt? Was sollten wir zukünftig anders machen?
 
 Wir treffen uns in einer Videokonferenz (Teilnahme mit Computer oder Smartphone) an der auch mit einem normalen Telefon teilgenommen werden kann (Einwahl über Festnetznummer).
 
