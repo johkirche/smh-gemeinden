@@ -3,6 +3,9 @@ title: 'Öffentliche Schule für Geisteswissenschaft am 27. Juni'
 date: '19-06-2020 16:27'
 publish_date: '19-06-2020 16:27'
 unpublish_date: '12-07-2020 16:27'
+taxonomy:
+    kategorie:
+        - featured
 show_sidebar: false
 ---
 
