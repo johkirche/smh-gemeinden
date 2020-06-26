@@ -25,7 +25,7 @@ Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch
 
 # Einwahldaten zur Videokonferenz am 5. Juli ab 10:30
 **Link zur Teilnahme mit Smartphone, Tablet oder Computer**
-* GemeinsamerGottesdienst93782019697
+* [GemeinsamerGottesdienst93782019697](https://uni-potsdam.zoom.us/j/93782019697)
 * Meeting-ID: 937 8201 9697
 * Passwort: 24081855
 
