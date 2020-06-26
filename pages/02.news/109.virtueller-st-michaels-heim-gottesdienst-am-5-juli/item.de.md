@@ -1,5 +1,9 @@
 ---
 title: 'Virtueller St.-Michaels-Heim-Gottesdienst am 5. Juli'
+date: '26-06-2020 09:25'
+publish_date: '26-06-2020 09:25'
+unpublish_date: '31-08-2020 09:25'
+show_sidebar: false
 ---
 
 Der nächste gemeinsame virtuelle Gottesdienst mit dem Programm "Zoom" findet am Sonntag, dem 5. Juli, statt. 
