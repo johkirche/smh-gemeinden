@@ -2,7 +2,7 @@
 title: 'Öffentliche Schule für Geisteswissenschaft am 27. Juni'
 date: '19-06-2020 16:27'
 publish_date: '19-06-2020 16:27'
-unpublish_date: '12-07-2020 16:27'
+unpublish_date: '29-06-2020 21:59'
 taxonomy:
     kategorie:
         - featured
@@ -23,4 +23,4 @@ Einwahldaten Telefon:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 
 Die Videoübertragung erfolgt über die Mediathek auf der Webseite der Johannischen Kirche unter:
-* [www.johannische-kirche.org/mediathek.html.](www.johannische-kirche.org/mediathek.html.)
+* [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)
