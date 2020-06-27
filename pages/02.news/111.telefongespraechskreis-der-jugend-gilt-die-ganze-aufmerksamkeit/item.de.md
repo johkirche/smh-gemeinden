@@ -1,5 +1,9 @@
 ---
 title: 'Telefongesprächskreis: "Der Jugend gilt die ganze Aufmerksamkeit"'
+date: '27-06-2020 11:03'
+publish_date: '27-06-2020 11:03'
+unpublish_date: '26-07-2020 11:03'
+show_sidebar: false
 ---
 
 Am **5.7.2020** wird um **15 Uhr** für alle interessierten ein telefonischer Gesprächskreis zum Thema "Der Jugend gilt die ganze Aufmerksamkeit" angeboten.
