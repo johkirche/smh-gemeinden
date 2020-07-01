@@ -7,7 +7,7 @@ unpublish_date: '09-08-2020 09:42'
 show_sidebar: false
 ---
 
-Im Anschluss an unseren Mittwochsgottesdienst am 22. Juli laden die St.-Michaels-Heim-Gemeinden zu einem digitalen fröhlichen Beisammensein von 19:30 – 21:00 Uhr ein.
+Im Anschluss an unseren Mittwochsgottesdienst am **22. Juli** laden die St.-Michaels-Heim-Gemeinden zu einem digitalen fröhlichen Beisammensein von **19:30 – 21:00 Uhr** ein.
 
 ===
 
