@@ -17,4 +17,4 @@ Wie immer ist es wunderbar, wenn jeder bei sich zu Hause mit einem Snack oder ei
 
 Einwahldaten
 * Teilnahme mit Computer, Smartphone oder Tablet: [https://us04web.zoom.us/j/5628895410](https://us04web.zoom.us/j/5628895410)
-* Teilnahme mit Telefon: 030 5679 5800; Meeting-ID eingeben: 5628895410; Teilnehmer-ID: Nichts eingeben und # tippen; Mikrofon mit
+* Teilnahme mit Telefon: 030 5679 5800; Meeting-ID eingeben: 5628895410; Teilnehmer-ID: Nichts eingeben und # tippen; Mikrofon mit * 6 freischalten.
