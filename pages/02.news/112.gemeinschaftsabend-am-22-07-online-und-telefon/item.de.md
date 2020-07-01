@@ -1,5 +1,10 @@
 ---
 title: 'Gemeinschaftsabend am 22.07. online und Telefon'
+media_order: d82caf7c6fc1d4b0f2dd81c550c9f76d5a106000-handshake-33825031920.jpeg
+date: '01-07-2020 09:41'
+publish_date: '01-07-2020 09:42'
+unpublish_date: '09-08-2020 09:42'
+show_sidebar: false
 ---
 
 Im Anschluss an unseren Mittwochsgottesdienst am 22. Juli laden die St.-Michaels-Heim-Gemeinden zu einem digitalen fröhlichen Beisammensein von 19:30 – 21:00 Uhr ein.
