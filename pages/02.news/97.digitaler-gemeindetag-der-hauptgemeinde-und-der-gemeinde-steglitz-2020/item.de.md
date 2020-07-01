@@ -5,9 +5,6 @@ published: true
 date: '29-05-2020 08:17'
 publish_date: '29-05-2020 08:17'
 unpublish_date: '03-08-2020 23:59'
-taxonomy:
-    kategorie:
-        - featured
 show_sidebar: false
 recaptchacontact:
     enabled: false
