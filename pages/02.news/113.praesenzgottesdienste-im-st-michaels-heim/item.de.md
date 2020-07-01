@@ -18,7 +18,7 @@ content:
     url_taxonomy_filters: '1'
 ---
 
-Am kommenden Sonntag, dem **5.Juli** freuen wir uns, dass wir euch zum ersten Gottesdienst mit wieder anwesender Gemeinde ins SMH einladen dürfen. Damit alles gelingt, müssen wir alle mithelfen.
+Am kommenden Sonntag, dem **5. Juli** freuen wir uns, dass wir euch zum ersten Gottesdienst mit wieder anwesender Gemeinde ins SMH einladen dürfen. Damit alles gelingt, müssen wir alle mithelfen.
 
 ===
 
