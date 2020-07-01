@@ -37,4 +37,4 @@ Schützt die anderen Geschwister. Wenn ihr wisst, dass ihr in der letzten Woche 
 
 Weitere Infos auf einem Übersichtszettel findet ihr [hier](handzettel_gottesdienst_30-06-2020.pdf). 
 
-Dieser wird auch vor Ort ausliegen/ausgegeben werden. Bitte macht euch auch mit dieser Unterlage vertraut. Bitte seid bei dem Besuch des Gottesdienstes besonders rücksichtsvoll, geduldig und liebevoll miteinander und haltet euch rund um während des Gottesdienst an die Schutzmaßnahmen.
+Dieser wird auch vor Ort ausliegen/ausgegeben werden. Bitte macht euch auch mit dieser Unterlage vertraut. Bitte seid bei dem Besuch des Gottesdienstes besonders rücksichtsvoll, geduldig und liebevoll miteinander und haltet euch rund um und während des Gottesdienst an die Schutzmaßnahmen.
