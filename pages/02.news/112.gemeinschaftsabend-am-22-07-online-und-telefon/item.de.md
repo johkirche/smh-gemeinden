@@ -1,5 +1,5 @@
 ---
-title: 'Gemeinschaftsabend am 22.07. online und Telefon'
+title: 'Gemeinschaftsabend am 22.07. online und am Telefon'
 media_order: d82caf7c6fc1d4b0f2dd81c550c9f76d5a106000-handshake-33825031920.jpeg
 date: '01-07-2020 09:41'
 publish_date: '01-07-2020 09:42'
@@ -17,4 +17,4 @@ Wie immer ist es wunderbar, wenn jeder bei sich zu Hause mit einem Snack oder ei
 
 Einwahldaten
 * Teilnahme mit Computer, Smartphone oder Tablet: [https://us04web.zoom.us/j/5628895410](https://us04web.zoom.us/j/5628895410)
-* Teilnahme mit Telefon: 030 5679 5800; Meeting-ID eingeben: 5628895410
+* Teilnahme mit Telefon: 030 5679 5800; Meeting-ID eingeben: 5628895410; Teilnehmer-ID: Nichts eingeben und # tippen; Mikrofon mit
