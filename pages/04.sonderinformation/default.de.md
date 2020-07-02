@@ -89,6 +89,11 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
+### Telefongesprächskreis: "Der Jugend gilt die ganze Aufmerksamkeit"
+![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
+Am 5. Juli lädt die Johannische Jugend alle Geschwister und Freunde zu einem Telefongesprächskreis mit dem Titel: "Der Jugend gilt die ganze Aufmerksamkeit" ein. [Alle Informationen zur Teilnahme usw. findet im Newsbereich.](https://smh-gemeinden.de/news/telefongespraechskreis-der-jugend-gilt-die-ganze-aufmerksamkeit)
+<br><br>
+
 ### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 22.7. um 19.45 Uhr
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
 Am 2. Juli um 19.45 Uhr laden die Gemeinden im St.-Michaels-Heim im Anschluss an unseren Mittwochgottesdienst zu einem gemeinsamen Gesprächskreis ein. Das fröhliche Beisammensein fand virtuell und telefonisch statt.
