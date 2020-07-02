@@ -10,9 +10,9 @@ recaptchacontact:
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 <br><br>
 
-## Öffentliche Schule für Geisteswissenschaften am 27. Juni um 18 Uhr
+## Erster Gottedienst wieder mit Gemeinde am 5. Juli
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
-Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) – sind am 27. Juni alle Kirchenmitglieder herzlich eingeladen. Im Anschluss wird unsere Kirchenleitung aktuelle Informationen zu Gut Schönhof mitteilen. Die Einwahldaten sowie weitere Infornmationen gibt es unter [https://smh-gemeinden.de/news/oeffentliche-schule-fuer-geisteswissenschaft-am-27-juni](https://smh-gemeinden.de/news/oeffentliche-schule-fuer-geisteswissenschaft-am-27-juni).
+Am 5. Juli findet unser Sonntagsgottesdienst um 11 Uhr mit Video- und Telefonübertragung statt. Erstmals seit Wochen besteht zudem die Möglichkeit für Geschwister auch in der Kirche oder an Übertragungen im St.-Michaels-Heim teilzunehmen. [Wir haben im Bereich News Hinweise zu den erforderlichen Schutzmaßnahmen veröffentlicht](https://smh-gemeinden.de/news/praesenzgottesdienste-im-st-michaels-heim) und freuen uns auf einen gesegneten Gottesdienst.
 <br><br>
 
 ## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
@@ -89,6 +89,15 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
+### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, den 22.7. um 19.45 Uhr
+![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
+Am 2. Juli um 19.45 Uhr laden die Gemeinden im St.-Michaels-Heim im Anschluss an unseren Mittwochgottesdienst zu einem gemeinsamen Gesprächskreis ein. Das fröhliche Beisammensein fand virtuell und telefonisch statt.
+
+Neben einem gemütlichen Essen oder einem Getränk bei jedem zu Haue begannen wir unser Gespräch mit Gedankenanregungen zum Gut Schönhof. Sarah Marcks ist zu Gast und moderiert den Gemeinschaftsabend.
+
+[Alle Infos zur Teilnahme findet ihr im Bereich News.](https://smh-gemeinden.de/news/gemeinschaftsabend-am-22-07-online-und-telefon)
+<br><br>
+
 ### Gemeinsamer virtueller Gottesdienstbesuch
 ![](csm_IMG_1064_aac979a1a7.jpg?forceResize=700,525)<br>
 Das "Projekt Silas – der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen. Die Internetübertragungen unserer Gottesdienste sind von sehr guter Qualität und zuverlässig, aber mancheiner vermisst es, dass man sich rund um den Gottesdienstbesuch nicht mehr sieht und unterhalten kann. Daraus wurde die Idee geboren, den Gottesdienst selbst als Video-Konferenz übertragen und sich vor und nach dem Gottesdienst austauschen zu können. Das soll am Sonntag, 07.06.2020 mit dem Gottesdienst aus dem SMH gemeinsam ausprobiert werden.
@@ -129,6 +138,11 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 <br><br>
 
 ## Druchgeführte Sonderaktionen
+
+## Öffentliche Schule für Geisteswissenschaften am 27. Juni um 18 Uhr
+![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
+Zur monatlich stattfindenden Fortbildung für Amtsträger der Johannische Kirche - der Schule für Geisteswissenschaft (SfG) – sind am 27. Juni alle Kirchenmitglieder herzlich eingeladen. Im Anschluss wird unsere Kirchenleitung aktuelle Informationen zu Gut Schönhof mitteilen. Die Einwahldaten sowie weitere Infornmationen gibt es unter [https://smh-gemeinden.de/news/oeffentliche-schule-fuer-geisteswissenschaft-am-27-juni](https://smh-gemeinden.de/news/oeffentliche-schule-fuer-geisteswissenschaft-am-27-juni).
+<br><br>
 
 ### Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz 2020
 ![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?forceResize=700,525)<br>
