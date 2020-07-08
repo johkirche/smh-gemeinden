@@ -4,9 +4,6 @@ media_order: 'aac370589d1937c3f380864c41759cf1eef83bed-csmimg1064aac979a1a7.jpeg
 date: '01-07-2020 09:57'
 publish_date: '01-07-2020 09:57'
 unpublish_date: '13-09-2020 09:57'
-taxonomy:
-    kategorie:
-        - featured
 show_sidebar: false
 content:
     items: '@self.children'
