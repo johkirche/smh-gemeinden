@@ -10,7 +10,9 @@ recaptchacontact:
     enabled: false
 ---
 
-Der nächste virtuelle Gottesdienst findet am 17. Juli statt. Alle weiteren Infos findet ihr hier.
+Der nächste virtuelle Gottesdienst findet am **17. Juli** statt. Alle weiteren Infos findet ihr hier.
+
+===
 
 Die Internetübertragungen unserer Gottesdienste sind zwar von sehr guter Qualität und zuverlässig, aber seid Ihr nicht auch ein wenig traurig, dass man sich während des Gottesdienstes so ein bisschen abgeschottet fühlt? Man sitzt vielleicht zu zweit in der Wohnung, aber wer ist sonst noch mit dabei? Wo sind die anderen Geschwister - sind sie da? Wer ist da? Wie viele werden wir gerade sein?
 
