@@ -2,17 +2,19 @@
 title: 'Einladung zum gemeinsamen virtuellen Gottesdienst '
 media_order: 'c3223041876cf8088d4bb3a2be91da319927e39b-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,Silas5.png'
 published: true
-date: '19-06-2020 14:41'
-publish_date: '19-06-2020 14:41'
-unpublish_date: '25-06-2020 14:41'
+date: '08-07-2020 14:41'
+publish_date: '08-07-2020 14:41'
+unpublish_date: '30-09-2020 14:41'
 show_sidebar: false
 recaptchacontact:
     enabled: false
 ---
 
+Der nächste virtuelle Gottesdienst findet am 17. Juli statt. Alle weiteren Infos findet ihr hier.
+
 Die Internetübertragungen unserer Gottesdienste sind zwar von sehr guter Qualität und zuverlässig, aber seid Ihr nicht auch ein wenig traurig, dass man sich während des Gottesdienstes so ein bisschen abgeschottet fühlt? Man sitzt vielleicht zu zweit in der Wohnung, aber wer ist sonst noch mit dabei? Wo sind die anderen Geschwister - sind sie da? Wer ist da? Wie viele werden wir gerade sein?
 
-Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit dem Programm "Zoom"** zu übertragen. Das erfolgte am Sonntag, den 7. Juni 2020 erstmals. Aufgrund des enormen Zuspruchs wird das Angebot fortgesetzt und findet auch am **Sonntag, 14. Juni 2020 sowie am Sonntag, den 21. Juni 2020 mit dem Gottesdienst aus dem St.-Michaels-Heim** und möglichst vielen Teilnehmern statt. Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch mit Euch gemeinsam schaut – Ihr steuert das zu jedem Zeitpunkt selbst je nach gusto.
+Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit dem Programm "Zoom"** zu übertragen. Das erfolgte am Sonntag, den 7. Juni 2020 erstmals. Aufgrund des enormen Zuspruchs wird das Angebot fortgesetzt und findet auch am **Sonntag, 17. Juli 2020 mit dem Gottesdienst aus dem St.-Michaels-Heim**  statt. Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch mit Euch gemeinsam schaut – Ihr steuert das zu jedem Zeitpunkt selbst je nach gusto.
 
 **Hier noch ein paar Hinweise:**
 
@@ -26,7 +28,7 @@ Daraus wurde die Idee geboren, den Gottesdienst selbst als **Video-Konferenz mit
 
 Wir vom Projekt Silas freuen uns auf viele Teilnehmer und hoffen auf ein intensives Gemeinschaftsgefühl zusammen mit Euch während und nach dem Gottesdienst und senden Euch hiermit liebe Grüße!
 
-# Einwahldaten Sonntagsgottesdienst in Videokonferenz am 14. und 21. Juni 2020
+# Einwahldaten Sonntagsgottesdienst in Videokonferenz am 17. Juli 2020
 
 Thema: Sonntagsgottesdienst in Videokonferenz
 Uhrzeit: ab 10:30 Uhr
