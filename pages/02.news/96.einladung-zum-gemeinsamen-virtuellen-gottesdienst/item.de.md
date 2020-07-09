@@ -10,7 +10,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Der nächste virtuelle Gottesdienst findet am **17. Juli** statt. Alle weiteren Infos findet ihr hier.
+Der nächste virtuelle Gottesdienst findet am **19. Juli** statt. Alle weiteren Infos findet ihr hier.
 
 ===
 
