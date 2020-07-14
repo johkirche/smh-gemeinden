@@ -6,7 +6,7 @@ unpublish_date: '06-09-2020 12:30'
 show_sidebar: false
 ---
 
-In diesem Jahr wird der Schwerpunkt der johannischen Kirchentagswoche auf digitalen Inhalten liegen. Großveranstaltungen für Mitglieder und Freunde in der Friedensstadt und im St.-Michaels-Heim werden nicht wie gewohnt stattfinden. 
+In diesem Jahr wird der Schwerpunkt der johannischen Kirchentagswoche auf digitalen Inhalten liegen. Großveranstaltungen für Mitglieder und Freunde in der Friedensstadt und im St.-Michaels-Heim werden nicht wie gewohnt stattfinden. Alle weiteren Infos findet ihr hier.
 
 ===
 
