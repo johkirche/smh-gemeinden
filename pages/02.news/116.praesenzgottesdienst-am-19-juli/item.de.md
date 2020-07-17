@@ -1,5 +1,9 @@
 ---
 title: 'Präsenzgottesdienst am 19. Juli'
+date: '17-07-2020 18:07'
+publish_date: '17-07-2020 18:07'
+unpublish_date: '30-09-2020 18:07'
+show_sidebar: false
 ---
 
 Der nächste Präsenzgottesdienst im St.-Michaels-Heim findet am Sonntag, dem **19. Juli** statt, danach im 14-tägigen Rhythmus.
