@@ -16,7 +16,7 @@ Am kommenden Sonntag finden wieder zahlreiche Video- und Telefongottesdienste in
 ===
 
 <br>
-## Video- und Telefongottesdienst aus dem St.-Michaels-Heim am Sonntag, den 19.07.2020 um 11.00 Uhr
+## Video- und Telefongottesdienst aus dem St.-Michaels-Heim am Sonntag, den 26.07.2020 um 11.00 Uhr
 Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 19. Juli um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
 
 |  |  |
@@ -31,7 +31,7 @@ Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
-## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 12.07.2020
+## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 26.07.2020
 
 |  |  |
 | ------ | ----------- |
