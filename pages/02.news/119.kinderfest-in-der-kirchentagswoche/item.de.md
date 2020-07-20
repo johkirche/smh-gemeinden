@@ -1,5 +1,9 @@
 ---
 title: 'Kinderfest in der Kirchentagswoche'
+date: '20-07-2020 14:47'
+publish_date: '20-07-2020 14:47'
+unpublish_date: '30-08-2020 14:47'
+show_sidebar: false
 ---
 
 Jedes Kind soll einen kleinen Leuchtestern bekommen. Wo und wie ihr die bekommt erfahrt ihr hier.
