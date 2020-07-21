@@ -1,6 +1,10 @@
 ---
 title: 'Spatenstich für die neue KiTa in der Friedensstadt'
 media_order: '20200721_Spatenstich_KITA.png,20200721_Spatenstich_Kita.pdf'
+date: '21-07-2020 13:17'
+publish_date: '21-07-2020 13:17'
+unpublish_date: '06-09-2020 13:17'
+show_sidebar: false
 ---
 
 Den ersten Spatenstich für eine neue Kita in der Friedensstadt vollzogen am Mittwoch, dem 15. Juli, dem Geburtstag Schwester Josephines, Kirchenoberhaupt Stefan Tzschentke und sein Nachfolger Daniel Stolpe in der Siedlung des Meisters.
