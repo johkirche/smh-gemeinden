@@ -1,7 +1,7 @@
 ---
 title: 'Präsenzgottesdienste im SMH'
-date: '21-07-2020 18:07'
-publish_date: '21-07-2020 18:07'
+date: '21-07-2020 13:08'
+publish_date: '21-07-2020 13:08'
 unpublish_date: '30-09-2020 18:07'
 show_sidebar: false
 ---
