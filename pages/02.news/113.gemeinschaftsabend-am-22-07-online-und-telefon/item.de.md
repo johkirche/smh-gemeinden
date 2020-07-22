@@ -17,6 +17,7 @@ Wie immer ist es wunderbar, wenn jeder bei sich zu Hause mit einem Snack oder ei
 
 Einwahldaten
 * Teilnahme mit Computer, Smartphone oder Tablet: [https://uni-potsdam.zoom.us/j/9347054443](https://uni-potsdam.zoom.us/j/9347054443)
+* Passwort: 24081855
 * Teilnahme mit Telefon: 030 5679 5800; Meeting-ID eingeben: 9347054443; Teilnehmer-ID: Nichts eingeben und # tippen; Mikrofon mit * 6 freischalten.
 
 ![](Bildschirmfoto%202020-07-17%20um%2018.37.07.png)
