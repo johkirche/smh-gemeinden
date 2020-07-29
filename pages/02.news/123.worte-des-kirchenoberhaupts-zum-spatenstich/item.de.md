@@ -1,5 +1,9 @@
 ---
 title: 'Worte des Kirchenoberhaupts zum Spatenstich'
+date: '29-07-2020 09:26'
+publish_date: '29-07-2020 09:26'
+unpublish_date: '06-09-2020 09:26'
+show_sidebar: false
 ---
 
 Worte von Kirchenoberhaupt Stefan Tzschentke zum Spatenstich der neuen Kindertagesstätte in der Friedensstadt Weißenberg am 15. Juli 2020 – dem Geburtstag von Schwester Josephine
