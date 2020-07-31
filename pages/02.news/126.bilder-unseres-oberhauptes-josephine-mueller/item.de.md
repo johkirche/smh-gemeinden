@@ -12,7 +12,7 @@ Für alle interessierten Mitglieder gibt es jetzt die Möglichkeit Bilder von Sc
 ===
 
 Barbara Leyer bietet an, Fotos von Schwester Josephine anfertigen zu lassen.
-Bestellungen können über den jeweiligen Gemeindeführer oder über [info@smh-gemeinden.de](info@smh-gemeinden.de) getätigt werden. Die Bestellung findet über einen online Bestellschein statt.
+Bestellungen können über den jeweiligen Gemeindeführer oder über **info@smh-gemeinden.de** getätigt werden. Die Bestellung findet über einen online Bestellschein statt.
  
  ![](Bestellschein.jpg)
 
