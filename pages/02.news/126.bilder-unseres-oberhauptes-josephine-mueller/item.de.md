@@ -1,5 +1,6 @@
 ---
 title: 'Bilder unseres Oberhauptes Josephine Müller'
+media_order: 'Fine.jpg,Bestellschein.jpg'
 ---
 
 Für alle interessierten Mitglieder gibt es jetzt die Möglichkeit Bilder von Schwester Josephine zu bestellen.
@@ -9,6 +10,7 @@ Für alle interessierten Mitglieder gibt es jetzt die Möglichkeit Bilder von Sc
 Barbara Leyer bietet an, Fotos von Schwester Josephine anfertigen zu lassen.
 Bestellungen können über den jeweiligen Gemeindeführer oder über [info@smh-gemeinden.de](info@smh-gemeinden.de) getätigt werden. Die Bestellung findet über einen online Bestellschein statt.
  
+ ![](Bestellschein.jpg)
 
 Hier geht es zum Formular zur Onlinebestellung: [Bestellschein](https://forms.office.com/Pages/ResponsePage.aspx?id=O8-bjBeYz0WBvHdEIjHFfnbtF--x0PZCv7imojdQ2xlUOUxHOE9EQlFPTFhTRUJYRFowR1hKS0RFUy4u)
 
