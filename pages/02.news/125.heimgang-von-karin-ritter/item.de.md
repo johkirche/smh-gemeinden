@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Karin Ritter'
+media_order: Webseitelogo.png
 date: '31-07-2020 15:31'
 publish_date: '31-07-2020 15:31'
 unpublish_date: '19-08-2020 23:59'
