@@ -7,5 +7,4 @@ show_sidebar: false
 ---
 
 Am **24. Juli 2020** wurde unsere Schwester **Margrit Schulz** aus der **Gemeinde Kaulsdorf** in die ewige Heimat abgerufen.
-Ort und Termin der Abschiedsfeier werden noch bekanntgegeben.
-
+Die Abschiedsfeier findet statt am **Dienstag, den 11. August 2020 um 11:00 Uhr auf dem Auferstehungsfriedhof in Weißensee, Indira-Gandhi-Str. 110.**
