@@ -6,8 +6,8 @@ cache_enable: true
 date: 23-08-20
 rule: 
 event:
-	start: 23-08-2020 11:00
-	end: 23-08-2020 11:30
+	start: 23-08-2020 10:00
+	end: 23-08-2020 10:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gottesdienst']

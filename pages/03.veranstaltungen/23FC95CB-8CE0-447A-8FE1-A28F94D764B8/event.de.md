@@ -6,8 +6,8 @@ cache_enable: true
 date: 23-08-20
 rule: 
 event:
-	start: 23-08-2020 09:45
-	end: 23-08-2020 10:30
+	start: 23-08-2020 09:00
+	end: 23-08-2020 09:30
 	location: '232 Oberhauptszimmer (2. OG)'
 taxonomy:
 	kategorie: ['Sakrament']
