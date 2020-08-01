@@ -85,6 +85,10 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 <br><br>
 
+## Kindergottesdienste während der Schulferien
+
+Während der Sommerferien findet im St.-Michaels-Heim alle 14 Tage sonntags ein Kindergottesdienst statt. [Alle weiteren Informationen findet ihr hier.](https://smh-gemeinden.de/news/kindergottesdienste-waehrend-der-schulferien)
+
 ## Neue Angebote in der Erprobung
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
