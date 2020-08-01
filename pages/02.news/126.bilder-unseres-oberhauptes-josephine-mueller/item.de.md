@@ -1,8 +1,8 @@
 ---
 title: 'Bilder unseres Oberhauptes Josephine Müller'
 media_order: 'Fine.jpg,Bestellschein.jpg'
-date: '31-07-2020 17:45'
-publish_date: '31-07-2020 17:45'
+date: '01-08-2020 14:20'
+publish_date: '01-08-2020 15:20'
 unpublish_date: '11-10-2020 17:45'
 show_sidebar: false
 ---
