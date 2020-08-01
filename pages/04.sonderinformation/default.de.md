@@ -93,6 +93,11 @@ Während der Sommerferien findet im St.-Michaels-Heim alle 14 Tage sonntags ein 
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
+### Virtuelles Kinderfest mit Überraschung
+
+Jedes Kind soll einen kleinen Leuchtestern zum virtuellen Kinderfest am 24.08.2020 bekommen. [Wo und wie ihr die bekommt erfahrt ihr hier.](https://smh-gemeinden.de/news/kinderfest-in-der-kirchentagswoche)
+<br><br>
+
 ### Gemeinsamer virtueller Gottesdienstbesuch
 ![](csm_IMG_1064_aac979a1a7.jpg?forceResize=700,525)<br>
 Das "Projekt Silas – der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen. Die Internetübertragungen unserer Gottesdienste sind von sehr guter Qualität und zuverlässig, aber mancheiner vermisst es, dass man sich rund um den Gottesdienstbesuch nicht mehr sieht und unterhalten kann. Daraus wurde die Idee geboren, den Gottesdienst selbst als Video-Konferenz übertragen und sich vor und nach dem Gottesdienst austauschen zu können. Das soll am Sonntag, 07.06.2020 mit dem Gottesdienst aus dem SMH gemeinsam ausprobiert werden.
