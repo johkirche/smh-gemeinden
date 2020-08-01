@@ -4,6 +4,9 @@ media_order: b20f9fdd55f3ea1759ac2fa5d8fda934dd0e2e9f-webseitelogo.png
 date: '29-07-2020 09:31'
 publish_date: '29-07-2020 09:31'
 unpublish_date: '06-09-2020 09:31'
+taxonomy:
+    kategorie:
+        - featured
 show_sidebar: false
 ---
 
