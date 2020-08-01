@@ -35,3 +35,5 @@ Joseph Weißenbergs Anliegen mit der Friedensstadt war und ist es, im praktische
 Wir beten zu unserem Herrgott:
 
 Den Spaten, Herr, führ Deine Hand: Du sollst das Werk beginnen! Sonst wird es uns wie Staub und Sand durch unsere Hände rinnen. Es fließe Deines Geistes Strom in diesen Bau der Erde; viel Kraft aus Deinem ewgen Dom darin verankert werde. Herr, leg hinein, was nie zerfällt und frei bleibt von Bedauern, bau mit uns ein aus Deiner Welt den Glanz der Himmelmauern! Das Werk soll Dir zum Ruhm erstehn und allen rings zum Segen. Wer einst hier aus und ein wird gehen, der gehe Dir entgegen. Amen.
+
+![](20200721_Spatenstich_KITA.png)
