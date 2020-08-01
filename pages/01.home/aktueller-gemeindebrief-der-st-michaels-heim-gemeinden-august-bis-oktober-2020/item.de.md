@@ -1,5 +1,8 @@
 ---
 title: 'Aktueller Gemeindebrief der St.-Michaels-heim Gemeinden (August bis Oktober 2020)'
+date: '01-08-2020 14:58'
+publish_date: '01-08-2020 14:58'
+unpublish_date: '01-11-2020 23:59'
 ---
 
 Der neue Gemeindebrief für alle Gemeinden im St.-Michaels-Heim ist da! Alle Geschwister und Freunde, die schon beim letzten digitalen Gemeiondebrief in den Verteiler aufgenommen werden wollen, haben diesen schon digital erhalten. Selbstverständlich gibt es den Gemeindebrief auch als gedrucktes Heft.
