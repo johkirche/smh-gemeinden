@@ -1,7 +1,7 @@
 ---
 title: 'Aktueller Gemeindebrief der St.-Michaels-Heim-Gemeinden'
 media_order: 707E06D7-58E4-43DE-A037-D40DA6491C38.jpeg
-published: true
+published: false
 date: '23-04-2020 19:00'
 publish_date: '23-04-2020 23:14'
 unpublish_date: '31-07-2020 23:59'
