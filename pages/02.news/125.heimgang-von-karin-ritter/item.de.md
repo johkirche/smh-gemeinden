@@ -7,4 +7,4 @@ unpublish_date: '19-08-2020 23:59'
 ---
 
 **Am 30. Juli 2020** wurde unsere Schwester **Karin Ritter** aus der **Urgemeinde** in die ewige Heimat abgerufen.
-Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+Die Abschiedsfeier findet am Sonnabend, dem 8. August um 14:00 Uhrauf unserem Friedhof in Glaustatt.
