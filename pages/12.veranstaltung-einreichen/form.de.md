@@ -28,7 +28,7 @@ form:
         date:
             type: datetime
             label: Wunschdatum
-            toggleable: true
+            toggleable: false
             validate:
                 required: false
     buttons:
@@ -52,4 +52,4 @@ form:
 # Veranstaltung einreichen
 
 ---
-[Zurück zur Veranstaltungsübersicht](/veranstaltungen)
+
