@@ -21,12 +21,12 @@ form:
         message:
             label: Idee
             size: long
-            placeholder: 'Bitte Idee beschreiben'
+            placeholder: 'Bitte Idee kurz beschreiben'
             type: textarea
             validate:
                 required: true
         date:
-            type: datetime
+            type: date
             label: Wunschdatum
             toggleable: false
             validate:

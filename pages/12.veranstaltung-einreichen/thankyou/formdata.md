@@ -3,6 +3,6 @@ title: Vielen Dank
 cache_enable: false
 ---
 
-Dein Beitrag ist soeben erfolgreich angekommen.   
+Dein Beitrag wurde erfolgreich versendet.   
 
-[Zurück zum Gemeindetag](https://www.smh-gemeinden.de/gemeindetag) 
+[Zurück zur Veranstaltungsübersicht](https://www.smh-gemeinden.de/veranstaltungen) 
