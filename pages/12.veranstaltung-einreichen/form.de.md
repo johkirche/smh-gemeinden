@@ -1,5 +1,5 @@
 ---
-title: 'form 3'
+title: 'Veranstaltung einreichen'
 visible: false
 form:
     name: contact
@@ -54,7 +54,7 @@ form:
         display: thankyou
 ---
 
-# Impression vom Gemeindetag teilen
+# Veranstaltung einreichen
 
 ---
-[Zurück zum Gemeindetag](/gemeindetag)
+[Zurück zur Veranstaltungsübersicht](/veranstaltungen)
