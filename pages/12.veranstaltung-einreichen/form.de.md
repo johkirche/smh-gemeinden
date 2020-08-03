@@ -19,21 +19,16 @@ form:
                 rule: email
                 required: true
         message:
-            label: Nachricht
+            label: Idee
             size: long
-            placeholder: 'Nachricht hinzufügen'
+            placeholder: 'Bitte Idee beschreiben'
             type: textarea
             validate:
                 required: true
-        image:
-            label: 'Bild (max. 5 MB)'
-            placeholder: 'Bild hochladen'
-            type: file
-            multiple: false
-            destination: 'page@:/gemeindetag'
-            filesize: 5
-            accept:
-                - 'image/*'
+        date:
+            type: datetime
+            label: Wunschdatum
+            toggleable: true
             validate:
                 required: false
     buttons:
@@ -43,7 +38,7 @@ form:
             classes: event-button
     process:
         save:
-            fileprefix: impression-
+            fileprefix: veranstaltung-
             dateformat: Ymd-His-u
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
