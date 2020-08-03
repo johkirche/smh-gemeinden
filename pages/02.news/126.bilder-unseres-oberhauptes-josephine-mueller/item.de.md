@@ -16,11 +16,11 @@ Bestellungen können über den jeweiligen Gemeindeführer oder über **info@smh-
  
  ![](Bestellschein.jpg)
 
-Hier geht es zum Formular zur Onlinebestellung: [Bestellschein](https://forms.office.com/Pages/ResponsePage.aspx?id=O8-bjBeYz0WBvHdEIjHFfnbtF--x0PZCv7imojdQ2xlUOUxHOE9EQlFPTFhTRUJYRFowR1hKS0RFUy4u)
+<iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=O8-bjBeYz0WBvHdEIjHFfnbtF--x0PZCv7imojdQ2xlUOUxHOE9EQlFPTFhTRUJYRFowR1hKS0RFUy4u" height="350" width="350"> </iframe>Hier geht es zum Formular zur Onlinebestellung: [Bestellschein](https://forms.office.com/Pages/ResponsePage.aspx?id=O8-bjBeYz0WBvHdEIjHFfnbtF--x0PZCv7imojdQ2xlUOUxHOE9EQlFPTFhTRUJYRFowR1hKS0RFUy4u)
 [https://www.forms.office.com/Pages/ResponsePage.aspx?id=O8-bjBeYz0WBvHdEIjHFfnbtF--x0PZCv7imojdQ2xlUOUxHOE9EQlFPTFhTRUJYRFowR1hKS0RFUy4u](https://forms.office.com/Pages/ResponsePage.aspx?id=O8-bjBeYz0WBvHdEIjHFfnbtF--x0PZCv7imojdQ2xlUOUxHOE9EQlFPTFhTRUJYRFowR1hKS0RFUy4u) (Bitte Linktext kopieren und in einem neuen Fenster einfügen)
 
 Alle Bestellungen, die bis zum **17.8**. eingegangen sind, können ab Kirchentag bei eurem Gemeindeführer bzw. im Anschluss an die folgenden Präsensgottesdienste abgeholt werden. 
 
-Um eine Spende wird geboten. 
+Um eine Spende wird gebeten. 
 
 Bei späteren Bestellungen kann sich die mögliche Abholung verzögern. Auch ein Versand mit der Post ist möglich, dann bitte bei der Bestellung angeben.
