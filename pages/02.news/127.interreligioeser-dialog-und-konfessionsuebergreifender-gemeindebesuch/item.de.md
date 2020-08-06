@@ -6,6 +6,7 @@ unpublish_date: '31-08-2020 17:32'
 ---
 
 Am 5. September 2020 laden Geschwister unserer Kirche zu einem gemeinsamen Besuch bei der "Herrnhuter Brüdergemeine" mit  Führung durch das Böhnische Dorf in Rixdorf (Neukölln) ein. Anmeldungen sind im Vorfeld bei Olaf Ebersbach erforderlich.
+
 ===
 
 Liebe Geschwister und Freunde,
