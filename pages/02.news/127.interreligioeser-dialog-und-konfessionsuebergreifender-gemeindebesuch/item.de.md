@@ -3,6 +3,7 @@ title: 'Interreligiöser Dialog und konfessionsübergreifender Gemeindebesuch'
 date: '06-08-2020 17:32'
 publish_date: '06-08-2020 17:32'
 unpublish_date: '31-08-2020 17:32'
+show_sidebar: false
 ---
 
 Am 5. September 2020 laden Geschwister unserer Kirche zu einem gemeinsamen Besuch bei der "Herrnhuter Brüdergemeine" mit  Führung durch das Böhnische Dorf in Rixdorf (Neukölln) ein. Anmeldungen sind im Vorfeld bei Olaf Ebersbach erforderlich.
