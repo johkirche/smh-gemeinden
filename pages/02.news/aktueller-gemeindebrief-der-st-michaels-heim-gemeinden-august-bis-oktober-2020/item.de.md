@@ -1,5 +1,5 @@
 ---
-title: 'Aktueller Gemeindebrief der St.-Michaels-heim Gemeinden (August bis Oktober 2020)'
+title: 'Aktueller Gemeindebrief der St.-Michaels-Heim Gemeinden (August bis Oktober 2020)'
 date: '01-08-2020 14:58'
 publish_date: '01-08-2020 14:58'
 unpublish_date: '01-11-2020 23:59'

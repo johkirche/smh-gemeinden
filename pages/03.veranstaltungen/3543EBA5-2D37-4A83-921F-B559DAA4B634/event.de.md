@@ -3,11 +3,11 @@ title: Gemeindehelfer- und Gemeindeführertagung SMH-Gemeinden
 visible: true
 cache_enable: true
 #ics: 
-date: 12-08-20
+date: 13-08-20
 rule: 
 event:
-	start: 12-08-2020 18:30
-	end: 12-08-2020 20:00
+	start: 13-08-2020 20:00
+	end: 13-08-2020 21:00
 	location: 'St.-Michaels-Heim 115 Bismarckzimmer Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Amtsträger']
