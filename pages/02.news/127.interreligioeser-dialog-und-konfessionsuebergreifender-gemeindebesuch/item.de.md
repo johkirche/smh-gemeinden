@@ -9,6 +9,8 @@ Am 5. September 2020 laden Geschwister unserer Kirche zu einem gemeinsamen Besuc
 
 ===
 
+
+
 Liebe Geschwister und Freunde,
 
 Wir möchten gerne im Rahmen des Kirchentagsprogramms einen überbrückenden Besuch bei der von Zinzendorf gegründeten Herrnhuter Brüdergemeine in Neukölln anbieten. Die Führung beginnt am **Donnerstag, den 27. August 2020 um 10:00 Uhr**. Sie ist das geistige Zentrum des Böhmischen Dorfes in Rixdorf. Informationen gibt es u.a. unter [www.boehmischesdorf.de](https://www.boehmischesdorf.de/).
