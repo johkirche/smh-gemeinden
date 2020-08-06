@@ -16,6 +16,5 @@ Der Archivar der Gemeinschaft wird mit uns eine ca. 1,5-stündige Führung durch
  
 Bei der Führung können wir u. a. etwas über theologische Hintergründe der drei verschiedenen in Alt Rixdorf ansässigen evangelisch-böhmischen Kirchen erfahren. Das gemeinsame Symbol der Nachfolger von Jan Hus ist der Abendmahlskelch, der im Wappen Neuköllns abgebildet ist. Zum Abschluss lädt uns die Herrnhuter Brüdergemeine ihren Kirchsaal zeigen und im Kirchgarten zum Kaffee einladen.
 
-
-Ein herzlich Gott zum Gruß
+Ein herzlich Gott zum Gruß,
 Elke, Volker und Olaf
