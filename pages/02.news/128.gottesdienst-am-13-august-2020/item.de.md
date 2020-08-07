@@ -1,5 +1,6 @@
 ---
 title: 'Gottesdienst am 13. August 2020'
+media_order: 43f5364efaf82a02b86cd620991487e78eb7e813-csmimg1064aac979a1a7.jpeg
 date: '07-08-2020 09:48'
 publish_date: '07-08-2020 09:48'
 unpublish_date: '13-08-2020 23:59'
