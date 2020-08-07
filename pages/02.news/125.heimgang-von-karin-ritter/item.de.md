@@ -1,6 +1,6 @@
 ---
 title: 'Heimgang von Karin Ritter'
-media_order: Webseitelogo.png
+media_order: '2003-10-31 Grab 03.JPG'
 date: '31-07-2020 15:31'
 publish_date: '31-07-2020 15:31'
 unpublish_date: '19-08-2020 23:59'
