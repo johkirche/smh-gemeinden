@@ -28,7 +28,7 @@ Besucher und Gäste sind herzlich willkommen!
 <br><br><br>
 
 ## Gottesdienste (mit Video- und Telefonübertragung)
-Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 26. Juli um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
+Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 09. August um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
 
 |  |  |
 | ------ | ----------- |
