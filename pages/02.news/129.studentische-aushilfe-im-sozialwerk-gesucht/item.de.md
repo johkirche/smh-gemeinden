@@ -9,4 +9,4 @@ show_sidebar: false
 
 Liebe Jugendliche,
 
-Das Johannisches Sozialwerk sucht. Unterstützung! Aktuell ist zum Beispiel die unten stehende Stellenausschreibung für eine Mitarbeit in der Du bist herzlich eingeladen diese zu lesen und dich zu bewerben!
+Das Johannisches Sozialwerk sucht Unterstützung! Aktuell ist zum Beispiel die unten stehende Stellenausschreibung für eine Mitarbeit in der Du bist herzlich eingeladen diese zu lesen und dich zu bewerben!
