@@ -31,7 +31,7 @@ Der Gottesdienst in der Kirche wird auch telefonisch übertragen:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
-## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 26.07.2020
+## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 09.08.2020
 
 |  |  |
 | ------ | ----------- |
