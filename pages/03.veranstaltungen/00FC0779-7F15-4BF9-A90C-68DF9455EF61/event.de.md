@@ -1,5 +1,5 @@
 ---
-title: Kindergottesdienst
+title: Kindergottesdienst (Video)
 visible: true
 cache_enable: true
 #ics: 
