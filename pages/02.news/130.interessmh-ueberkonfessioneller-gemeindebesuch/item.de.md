@@ -1,5 +1,6 @@
 ---
 title: 'InteresSMH: Überkonfessioneller Gemeindebesuch'
+media_order: hiking-2540188_1920.jpg
 date: '16-08-2020 10:00'
 publish_date: '16-08-2020 10:00'
 unpublish_date: '05-09-2020 23:59'
