@@ -1,6 +1,6 @@
 ---
 title: 'Aktuelles Stellenangebot des Johannischen Sozialwerk e.V. - Studentische Mitarbeit in der Finanzbuchhaltung'
-media_order: Blocklogo-Sozialwerk-klein-rgb.jpg
+media_order: smhg_js.png
 date: '07-08-2020 17:00'
 publish_date: '07-08-2020 17:00'
 unpublish_date: '01-09-2020 23:59'
