@@ -15,4 +15,4 @@ Du hast Interesse am Thema Finanzbuchhaltung, verfügst über ein analytisches D
 
 Weitere Stellenangebote beim Johannischen Sozialwek e.V. findet ihr unter [www.johannisches-sozialwerk.de/wir-ueber-uns/stellenangebote.html](https://www.johannisches-sozialwerk.de/wir-ueber-uns/stellenangebote.html)
 
-[![](Bildschirmfoto%202020-08-10%20um%2013.20.48.png)](Student_FiBu_08-2020.pdf))
+[![](Bildschirmfoto%202020-08-10%20um%2013.20.48.png)](Student_FiBu_08-2020.pdf)
