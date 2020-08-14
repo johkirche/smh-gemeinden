@@ -1,5 +1,9 @@
 ---
 title: 'Telefonsprechstunde der Gemeinden'
+date: '14-08-2020 16:08'
+publish_date: '14-08-2020 16:08'
+unpublish_date: '25-08-2020 16:08'
+show_sidebar: false
 ---
 
 Am 24. August 2020 findet die Telefonsprechstunde mit unserer Kirchenleitung statt, zu der ihr alle herzlich eingeladen seid.
