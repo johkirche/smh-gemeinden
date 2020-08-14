@@ -23,16 +23,18 @@ Für die Gestaltung der Kirchentagswoche sowie für die vielfältigen Arbeiten u
 
 Daher ruft die Johannische Kirche hiermit zur **Kirchentagsspende 2020** auf. Für alles in Liebe und Vertrauen Gegebene danken wir euch von ganzem Herzen und empfinden, dass es wohltuende Früchte für Mensch und Geist bringen wird.
 
-Mit einem herzlichen Gott zum Gruß,
-Eure Geschwister aus dem Kirchenvorstand
+Mit einem herzlichen Gott zum Gruß,   
+
+Eure Geschwister aus dem Kirchenvorstand   
 _Ulrike Gehde, Karl-Heinz Häder , Gerold Pucher,
 Paul Schuchardt, Andreas Schmetzstorff, Volker Hildebrandt
 sowie Daniel Stolpe und Stefan Tzschentke_
 
-Die Spende kann bis zum Kirchentag, dem 30. August 2020, mit dem
-Vermerk „Kirchentagsspende 2020“ bar beim Gemeindekassierer eingezahlt oder auf folgendes Konto überwiesen werden: 
+Die Spende kann bis zum Kirchentag, dem 30. August 2020, mit dem Vermerk „Kirchentagsspende 2020“ bar beim Gemeindekassierer eingezahlt, auf folgendes Konto überwiesen   
 
-Bank für Sozialwirtschaft,
-**IBAN**: DE61 1002 0500 0003 0144 01, 
-**BIC**: BFSWDE33BER,
-**Empfänger**: Johannische Kirche.
+Bank für Sozialwirtschaft   
+**IBAN**: DE61 1002 0500 0003 0144 01   
+**BIC**: BFSWDE33BER   
+**Empfänger**: Johannische Kirche   
+   
+oder [online](https://secure.spendenbank.de/form/3469) durchgeführt werden.
