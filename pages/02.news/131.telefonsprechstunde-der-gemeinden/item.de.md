@@ -8,7 +8,7 @@ show_sidebar: false
 
 Am 24. August 2020 findet die Telefonsprechstunde mit unserer Kirchenleitung statt, zu der ihr alle herzlich eingeladen seid.
 
-==
+===
 
 Alle Teilnehmenden sind automatisch stumm geschaltet. Nur die Mikrofone der Kirchen- und Gemeindeleitung sind freigeschaltet.
 
