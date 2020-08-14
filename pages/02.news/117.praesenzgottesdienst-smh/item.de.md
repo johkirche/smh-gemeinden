@@ -6,7 +6,7 @@ unpublish_date: '30-09-2020 18:07'
 show_sidebar: false
 ---
 
-Der nächste Präsenzgottesdienst im St.-Michaels-Heim findet am Sonntag, dem **2. August** statt.
+Der nächste Präsenzgottesdienst im St.-Michaels-Heim findet am Sonntag, dem **16. August** statt.
 
 ===
 

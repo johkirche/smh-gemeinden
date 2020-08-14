@@ -9,9 +9,9 @@ show_sidebar: false
 
 Am 13. August lädt die Johannische Kirche zu einem Gedenkgottesdienst in das St.-Michaels-Heim ein. Der Gottesdienst findet um 19 Uhr statt.
 
-Alle Geschwister, Freunde und Gäste sind herzlich willkommen! Wenn bereits alle Sitzplätze in der Kirche belegt sind besteht die Möglichkeit eine Liveübertragung im Gebäude zu besuchen. Darüber hinaus wird der Gottesdienst auch über Telefon und Videolivesteam übertragen.
+Alle Geschwister, Freunde und Gäste sind herzlich willkommen! Wir gedenken der Verhaftung und der darauf folgenden Verurteilung Joseph Weißenbergs im Jahr 1935. Die Verurteilung schloss sich dem Kirchenverbot an. Ihr folgten mehrjährige Zuchthaus-Aufenthalte und die Verbannung unter Gestapo-Aufsicht in Obernigk unweit Breslaus. Wenn alle Sitzplätze in der Kirche belegt sind besteht die Möglichkeit eine Liveübertragung im Gebäude zu besuchen. Darüber hinaus wird der Gottesdienst auch über Telefon und Videolivesteam übertragen.
 
-Darüber hinaus findet auch in der Urgemeinde um 11 Uhr ein Gottesdienst statt. Der Parallelgottesdienst im St.-Michaels-Heim entfällt, da der Gottesdienst aus der Friedensstadt ebenfalls über Telefon und Video übertragen wird.
+Darüber hinaus findet in der Urgemeinde um 11 Uhr ein Gottesdienst statt. Der Parallelgottesdienst im St.-Michaels-Heim entfällt, da der Gottesdienst aus der Friedensstadt ebenfalls über Telefon und Video übertragen wird.
 
 <br><br>
 ## Einwahldaten

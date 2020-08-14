@@ -27,8 +27,11 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br><br><br>
 
+## Am 13. August lädt die Johannische Kirche um 19 Uhr zu einemm Gedenkgottesdienst in das St.-Michaels-Heim ein. Der Gottesdienst wird auch über Vdeo und Telefon übertragen.
+<br><br>
+
 ## Gottesdienste (mit Video- und Telefonübertragung)
-Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 09. August um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
+Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 16. August um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
 
 |  |  |
 | ------ | ----------- |

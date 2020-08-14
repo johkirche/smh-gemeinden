@@ -3,15 +3,15 @@ title: Gedenkgottesdienst
 visible: true
 cache_enable: true
 #ics: 
-date: 13-08-20
+date: 13-08-21
 rule: FREQ=YEARLY;INTERVAL=1
 event:
-	start: 13-08-2020 19:00
-	end: 13-08-2020 19:30
+	start: 13-08-2021 17:00
+	end: 13-08-2021 17:30
 	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gottesdienst']
-	monat: ['August 2020']
+	monat: ['August 2021']
 
 ---
 Am 13. August findet um 19 Uhr ein Gedenkgottesdienst statt. Wir gedenken der Verhaftung und der darauf folgenden Verurteilung Joseph Weißenbergs im Jahr 1935. Die Verurteilung schloss sich dem Kirchenverbot an. Ihr folgten mehrjährige Zuchthaus-Aufenthalte und die Verbannung unter Gestapo-Aufsicht in Obernigk unweit Breslaus.
