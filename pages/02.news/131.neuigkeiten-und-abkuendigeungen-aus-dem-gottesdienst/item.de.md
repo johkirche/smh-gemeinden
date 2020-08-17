@@ -1,5 +1,9 @@
 ---
 title: 'Neuigkeiten und Abkündigeungen aus dem Gottesdienst'
+date: '17-08-2020 22:52'
+publish_date: '17-08-2020 22:52'
+unpublish_date: '06-09-2020 22:53'
+show_sidebar: false
 ---
 
 Hier könnt ihr die Neuigkeiten und Abkündigeungen aus dem Gottesdienst am Sonntag, den 16.08.2020 nachlesen.
