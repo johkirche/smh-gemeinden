@@ -1,5 +1,5 @@
 ---
-title: 'Neuigkeiten und Abkündigeungen aus dem Gootesdienst'
+title: 'Neuigkeiten und Abkündigeungen aus dem Gottesdienst'
 ---
 
 Hier könnt ihr die Neuigkeiten und Abkündigeungen aus dem Gootesdienst am Sonntag, den 16.08.2020 nachlesen.
