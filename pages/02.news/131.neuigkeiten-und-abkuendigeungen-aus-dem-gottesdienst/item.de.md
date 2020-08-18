@@ -12,7 +12,7 @@ Hier könnt ihr die Neuigkeiten und Abkündigeungen aus dem Gottesdienst am Sonn
 
 ## Der neue Gemeindebrief ist da!
 
-Wer diesen zukünftig digital erhalten möchte, wende sich bitte an seine Gemeindeleitung. Zudem gibt es den Gemeindebrief auch gedruckt. Ihr könnt den Gemeindebrief im Anschluss an den Gottesdienst mitnehmen oder bei eurer Gemeindeleitung um die Zustellung via Post bitten.
+Wer diesen zukünftig digital erhalten möchte, wende sich bitte an seine Gemeindeleitung. Zudem gibt es den Gemeindebrief auch gedruckt. Ihr könnt den Gemeindebrief im Anschluss an den Gottesdienst mitnehmen oder bei eurer Gemeindeleitung um die Zustellung via Post bitten. Weitere Infos in der [Newsmeldung zum Gemeindebrief](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden-august-bis-oktober-2020)
 
 ## Mittwochgottesdienst am 19. August entfällt
 
@@ -51,4 +51,4 @@ Es besteht die Möglichkeit Fotos von Josephine Müller zu erhalten. Bitte wende
 
 ## Überkonfessioneller Gemeindebesuch
 
-Am 5. September 2020 laden Geschwister der Berliner St.-Michaels-Heim Gemeinden im Rahmen von InteresSMH alle Geschwister und Freunde zu eriner Führung durch das Böhmische Dorf in Neukölln mit Besuch der "Herrnhutter Brüdergemeinde" ein. Anmedlungen sind bis Ende August und z.B. im Anschluss an den Gottesdienst bei Birgit Falk-Lehmann und Olaf Ebersbach möglich. Weitere Informationen findet ihr im Aushang.
+Am 5. September 2020 laden Geschwister der Berliner St.-Michaels-Heim Gemeinden im Rahmen von InteresSMH alle Geschwister und Freunde zu eriner Führung durch das Böhmische Dorf in Neukölln mit Besuch der "Herrnhutter Brüdergemeinde" ein. Anmedlungen sind bis Ende August und z.B. im Anschluss an den Gottesdienst bei Birgit Falk-Lehmann und Olaf Ebersbach möglich. Weitere Informationen findet ihr im Aushang. weitere Infos [in den News zum Gemeindebesuch](https://smh-gemeinden.de/news/interessmh-ueberkonfessioneller-gemeindebesuch)
