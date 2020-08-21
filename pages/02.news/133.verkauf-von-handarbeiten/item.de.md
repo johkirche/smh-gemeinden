@@ -1,6 +1,10 @@
 ---
 title: 'Verkauf von Handarbeiten'
 media_order: Nähstube.jpg
+date: '21-08-2020 16:34'
+publish_date: '21-08-2020 16:34'
+unpublish_date: '31-08-2020 16:34'
+show_sidebar: false
 ---
 
 Am Donnerstag den 27.08. findet ab 11 Uhr am Brunnen auf unserem St.-Micheals-Heim Gelände der Verkauf von Handarbeiten statt.
