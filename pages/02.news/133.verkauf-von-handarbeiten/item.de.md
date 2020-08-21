@@ -1,5 +1,6 @@
 ---
 title: 'Verkauf von Handarbeiten'
+media_order: Nähstube.jpg
 ---
 
 Am Donnerstag den 27.08. findet ab 11 Uhr am Brunnen auf unserem St.-Micheals-Heim Gelände der Verkauf von Handarbeiten statt.
