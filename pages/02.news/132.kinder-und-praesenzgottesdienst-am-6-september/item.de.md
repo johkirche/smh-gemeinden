@@ -1,5 +1,9 @@
 ---
 title: 'Kinder- und Präsenzgottesdienst am 6. September'
+date: '21-08-2020 10:08'
+publish_date: '21-08-2020 10:08'
+unpublish_date: '07-09-2020 10:08'
+show_sidebar: false
 ---
 
 Am 6.9. findet in der Kirche des St.-Michaels-Heims ein Kindergottesdienst mit Gemeinde als Präsenzgottesdienst statt.
