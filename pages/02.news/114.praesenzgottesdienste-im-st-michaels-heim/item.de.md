@@ -3,7 +3,7 @@ title: 'Präsenzgottesdienste im St.-Michaels-Heim'
 media_order: 'aac370589d1937c3f380864c41759cf1eef83bed-csmimg1064aac979a1a7.jpeg,handzettel_gottesdienst_30-06-2020.pdf'
 date: '01-07-2020 09:57'
 publish_date: '01-07-2020 09:57'
-unpublish_date: '13-09-2020 09:57'
+unpublish_date: '31-12-2020 09:57'
 show_sidebar: false
 content:
     items: '@self.children'
