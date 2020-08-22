@@ -1,12 +1,12 @@
 ---
-title: 'Neuigkeiten und Abkündigeungen aus dem Gottesdienst'
+title: 'Neuigkeiten und Abkündigungen aus dem Gottesdienst'
 date: '17-08-2020 22:52'
 publish_date: '17-08-2020 22:52'
 unpublish_date: '06-09-2020 22:53'
 show_sidebar: false
 ---
 
-Hier könnt ihr die Neuigkeiten und Abkündigeungen aus dem Gottesdienst am Sonntag, den 16.08.2020 nachlesen.
+Hier könnt ihr die Neuigkeiten und Abkündigungen aus dem Gottesdienst am Sonntag, den 16.08.2020 nachlesen.
 
 ===
 
@@ -20,12 +20,12 @@ Der kommende Mittwochgottesdienst am 19. August entfällt. Der nächste regulär
 
 ## Wöchentliche Präsenzgottesdienste
 
-Ab dem kommenden Kirchenjahr werden (vorbehaltlich kurzfristiger erforderlicher Anderungen) wieder wöchentlich Präsenzgottesdienste im St.-Michaels-Heim angeboten. Vierzehntägig findet der Gemeindegottesdienst mit Übertragungen im Haus statt und in der jeweils anderen Woche wird ein Präsenzkindergottesdienst in der Kirche
+Ab dem kommenden Kirchenjahr werden (vorbehaltlich kurzfristiger erforderlicher Änderungen) wieder wöchentlich Präsenzgottesdienste im St.-Michaels-Heim angeboten. Vierzehntägig findet der Gemeindegottesdienst mit Übertragungen im Haus statt und in der jeweils anderen Woche wird ein Präsenzkindergottesdienst in der Kirche
 angeboten, der auch von Gemeindemitgliedern besucht werden kann. Beim Kindergottesdienst wünschen wir uns, dass vor allem die Kinder teilnehmen und bitten alle anderen darum, für den Fall, dass die Kirche voll ist, eine Übertragung im Haus zu besuchen.
 
 ## Digitale Kirchentagswoche im St.-Michaels-Heim
 
-Während der Kirchentagswoche findet das Programm fast ausschließlich digital statt. In vielen Gemeindehäusern werden Übertragungen eingerichtet, so auch im St.-Michaels-Heim. Wir bitten euch um eure Unterstützung. Nehmt Rücksicht aufeinander und übernehmt nach Möglichkeit auch einen Gastgeberdienst und vor allem, bitte seid liebevoll und umsichtig, wenn die übertragung eines Programmpunktes voll ist und wartet dann geduldig, bis das Platzangebot in der Übertragung wieder weitere Personen erlaubt.
+Während der Kirchentagswoche findet das Programm fast ausschließlich digital statt. In vielen Gemeindehäusern werden Übertragungen eingerichtet, so auch im St.-Michaels-Heim. Wir bitten euch um eure Unterstützung. Nehmt Rücksicht aufeinander und übernehmt nach Möglichkeit auch einen Gastgeberdienst und vor allem, bitte seid liebevoll und umsichtig, wenn die Übertragung eines Programmpunktes voll ist und wartet dann geduldig, bis das Platzangebot in der Übertragung wieder weitere Personen erlaubt.
 
 ## Schule für Geisteswissenschaft
 
@@ -51,4 +51,4 @@ Es besteht die Möglichkeit Fotos von Josephine Müller zu erhalten. Bitte wende
 
 ## Überkonfessioneller Gemeindebesuch
 
-Am 5. September 2020 laden Geschwister der Berliner St.-Michaels-Heim Gemeinden im Rahmen von InteresSMH alle Geschwister und Freunde zu eriner Führung durch das Böhmische Dorf in Neukölln mit Besuch der "Herrnhutter Brüdergemeinde" ein. Anmedlungen sind bis Ende August und z.B. im Anschluss an den Gottesdienst bei Birgit Falk-Lehmann und Olaf Ebersbach möglich. Weitere Informationen findet ihr im Aushang. weitere Infos [in den News zum Gemeindebesuch](https://smh-gemeinden.de/news/interessmh-ueberkonfessioneller-gemeindebesuch)
+Am 5. September 2020 laden Geschwister der Berliner St.-Michaels-Heim Gemeinden im Rahmen von InteresSMH alle Geschwister und Freunde zu einer Führung durch das Böhmische Dorf in Neukölln mit Besuch der "Herrnhutter Brüdergemeinde" ein. Anmedlungen sind bis Ende August und z.B. im Anschluss an den Gottesdienst bei Birgit Falk-Lehmann und Olaf Ebersbach möglich. Weitere Informationen findet ihr im Aushang. weitere Infos [in den News zum Gemeindebesuch](https://smh-gemeinden.de/news/interessmh-ueberkonfessioneller-gemeindebesuch)
