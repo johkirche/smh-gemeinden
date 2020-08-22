@@ -19,6 +19,7 @@ Besucher und Gäste sind herzlich willkommen!
 ## Digitale Kirchentagswoche 2020   
 Die Kirchentagswoche 2020 ist anders als jede vorherige! Es macht vielleicht manche traurig, dass wir als kirchliche Gemeinschaft nicht so zusammenkommen können wie sonst. Trotzdem kann und darf der Kirchentag auch in diesem Jahr zur Kraftquelle werden, wenn wir uns auf andere Weise verbinden.   
 Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
+<br>   
 
 ## Hauptmenü
 |  |  |
@@ -28,7 +29,7 @@ Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://jo
 | [![](icon_sonderinformationen.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
 | [![](icon_%C3%BCber%20uns.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
 | [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
-<br><br><br>
+<br>
 
 ## Gottesdienste (mit Video- und Telefonübertragung)
 Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 16. August um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
