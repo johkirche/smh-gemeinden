@@ -16,6 +16,9 @@ Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich 
 
 Besucher und Gäste sind herzlich willkommen!
 <br><br><br>
+## Digitale Kirchentagswoche 2020   
+Die Kirchentagswoche 2020 ist anders als jede vorherige! Es macht vielleicht manche traurig, dass wir als kirchliche Gemeinschaft nicht so zusammenkommen können wie sonst. Trotzdem kann und darf der Kirchentag auch in diesem Jahr zur Kraftquelle werden, wenn wir uns auf andere Weise verbinden.   
+Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
 
 ## Hauptmenü
 |  |  |
@@ -78,8 +81,7 @@ Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 20
 <br><br><br>
 
 ## Digitale Kollekte
-> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte unterstützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
-> 
+Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte unterstützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
 |  |  |
 | ------ | ----------- |
