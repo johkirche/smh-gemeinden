@@ -10,9 +10,8 @@ taxonomy:
 show_sidebar: false
 ---
 
-[![](59A4E348-C067-4EA3-86F2-3EE0494DD62F.png)](https://johannischer-kirchentag.de)
-
+[![](DC6AE687-4C9D-4293-951B-A38E8B281345.jpeg)](https://johannischer-kirchentag.de)
 Die Kirchentagswoche 2020 ist anders als jede vorherige! Es macht vielleicht manche traurig, dass wir als kirchliche Gemeinschaft nicht so zusammenkommen können wie sonst. Trotzdem kann und darf der Kirchentag auch in diesem Jahr zur Kraftquelle werden, wenn wir uns auf andere Weise verbinden.   
 Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
 <br>
-[![](DC6AE687-4C9D-4293-951B-A38E8B281345.jpeg)](https://johannischer-kirchentag.de)
+[![](59A4E348-C067-4EA3-86F2-3EE0494DD62F.png)](https://johannischer-kirchentagd.de)
