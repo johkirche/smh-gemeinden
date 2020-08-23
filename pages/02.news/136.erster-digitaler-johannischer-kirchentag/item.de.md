@@ -1,5 +1,6 @@
 ---
 title: 'Erster digitaler Johannischer Kirchentag'
+media_order: '59A4E348-C067-4EA3-86F2-3EE0494DD62F.png,DC6AE687-4C9D-4293-951B-A38E8B281345.jpeg'
 date: '23-08-2020 16:49'
 publish_date: '23-08-2020 16:49'
 unpublish_date: '06-09-2020 23:59'
