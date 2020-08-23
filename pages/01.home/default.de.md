@@ -34,7 +34,7 @@ Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://jo
 <br>
 
 ## Gottesdienste (mit Video- und Telefonübertragung)
-Am Sonntag, den 30. Augst wird der Kirchentagsfestgottesdlienst aus dem waldfrieden telefonisch und als Video-Lifestream übertragen. Um 10.40 Uhr werden die Banner der Johannischen Kirche in der Bildpbertragung gezeigt. Wir wünschen allen einen gesegneten Kirchentag und laden insbesondere Geschwister und Freunde in das St.-Michaels-Heim ein, alle Angebote rund um den Kirchentag im Video-Lifestream zu sehen, die dazu zu Hause keine Gelegenheit haben.
+Am Sonntag, den 30. Augst wird der Kirchentagsfestgottesdlienst aus dem Waldfrieden telefonisch und als Video-Lifestream übertragen. Um 10.40 Uhr werden die Banner der Johannischen Kirche in der Bildübertragung gezeigt. Wir wünschen allen einen gesegneten Kirchentag und laden insbesondere Geschwister und Freunde in das St.-Michaels-Heim ein, alle Angebote rund um den Kirchentag im Video-Lifestream zu sehen, die dazu zu Hause keine Gelegenheit haben.
 
 Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 6. September um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
 
