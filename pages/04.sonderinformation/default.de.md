@@ -10,11 +10,11 @@ recaptchacontact:
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 <br><br>
 ## Erster digitaler Johannischer Kirchentag
-[![](DB11F19E-76C8-4E74-A132-2782196E7DF5.png)](https://johannischer-kirchentag.rde)<br>
+[![](DB11F19E-76C8-4E74-A132-2782196E7DF5.png)](https://johannischer-kirchentag.de)<br>
 Die Kirchentagswoche 2020 ist anders als jede vorherige! Es macht vielleicht manche traurig, dass wir als kirchliche Gemeinschaft nicht so zusammenkommen können wie sonst. Trotzdem kann und darf der Kirchentag auch in diesem Jahr zur Kraftquelle werden, wenn wir uns auf andere Weise verbinden.   
 Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
 <br>
-[![](5CEB1205-3F91-4CC0-8328-204AE5231216.jpeg)](https://johannischer-kirchentag.rde)
+[![](5CEB1205-3F91-4CC0-8328-204AE5231216.jpeg)](https://johannischer-kirchentag.de)
 <br><br>
 ## Erster Gottedienst wieder mit Gemeinde am 5. Juli
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
