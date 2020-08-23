@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 10.01.45.png,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,Bildschirmfoto 2020-06-21 um 21.30.49.png,Bildschirmfoto 2020-06-21 um 21.34.23.png'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,blur-1867402_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 10.01.45.png,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,Bildschirmfoto 2020-06-21 um 21.30.49.png,Bildschirmfoto 2020-06-21 um 21.34.23.png,5CEB1205-3F91-4CC0-8328-204AE5231216.jpeg,DB11F19E-76C8-4E74-A132-2782196E7DF5.png'
 recaptchacontact:
     enabled: false
 ---
@@ -9,7 +9,13 @@ recaptchacontact:
 
 Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 <br><br>
-
+## Erster digitaler Johannischer Kirchentag
+[![](DB11F19E-76C8-4E74-A132-2782196E7DF5.png)](https://johannischer-kirchentag.rde)<br>
+Die Kirchentagswoche 2020 ist anders als jede vorherige! Es macht vielleicht manche traurig, dass wir als kirchliche Gemeinschaft nicht so zusammenkommen können wie sonst. Trotzdem kann und darf der Kirchentag auch in diesem Jahr zur Kraftquelle werden, wenn wir uns auf andere Weise verbinden.   
+Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
+<br>
+[![](5CEB1205-3F91-4CC0-8328-204AE5231216.jpeg)](https://johannischer-kirchentag.rde)
+<br><br>
 ## Erster Gottedienst wieder mit Gemeinde am 5. Juli
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
 Am 5. Juli findet unser Sonntagsgottesdienst um 11 Uhr mit Video- und Telefonübertragung statt. Erstmals seit Wochen besteht zudem die Möglichkeit für Geschwister auch in der Kirche oder an Übertragungen im St.-Michaels-Heim teilzunehmen. [Wir haben im Bereich News Hinweise zu den erforderlichen Schutzmaßnahmen veröffentlicht](https://smh-gemeinden.de/news/praesenzgottesdienste-im-st-michaels-heim) und freuen uns auf einen gesegneten Gottesdienst.
