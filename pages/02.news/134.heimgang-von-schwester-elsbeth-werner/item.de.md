@@ -10,4 +10,5 @@ Liebe Geschwister und Freunde,
 
 Am **21. August 2020** wurde unsere Schwester **Elsbeth Werner** aus der Urgemeinde in die ewige Heimat abgerufen.
 
-Der Termin der Abschiedsfeier in Glau wird noch bekanntgegeben.
+Die Abschiedsfeier findet am Freitag, den 28. August 2020 um 14:00 Uhr auf unserem Friedhof in Glau statt.
+
