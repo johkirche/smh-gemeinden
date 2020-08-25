@@ -12,4 +12,4 @@ Liebe Geschwister und Freunde,
 Am **22. August 2020** wurde unsere Schwester **Ingeborg Stein** aus der Gemeinde Berlin-Spandau
 in die ewige Heimat abgerufen.
 
-Der Termin der Abschiedsfeier auf unserem Friedhof in Glau wird noch bekanntgegeben.
+Die Abschiedsfeier findet am Donnerstag, den 27. August 2020 um 14:00 Uhr auf unserem Friedhof in Glau statt.
