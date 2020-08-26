@@ -13,3 +13,9 @@ Am **22. August 2020** wurde unsere Schwester **Ingeborg Stein** aus der Gemeind
 in die ewige Heimat abgerufen.
 
 Die Abschiedsfeier findet am Donnerstag, den 27. August 2020 um 14:00 Uhr auf unserem Friedhof in Glau statt.
+
+Die Abschiedsfeier wird telefonisch übertragen:
+
+* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
+* Konferenzraum: 92885#
+* Pin: 24081855#
