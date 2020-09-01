@@ -1,5 +1,9 @@
 ---
 title: 'Heimgang von Bruder Holger Hachmeister'
+date: '01-09-2020 20:36'
+publish_date: '01-09-2020 20:36'
+unpublish_date: '14-09-2020 20:36'
+show_sidebar: false
 ---
 
 Am **31. August 2020** wurde unser Bruder **Holger Hachmeister** aus der Gemeinde Berlin-Kaulsdorf in die ewige Heimat abgerufen. 
