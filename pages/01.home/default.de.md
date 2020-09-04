@@ -28,7 +28,7 @@ Besucher und Gäste sind herzlich willkommen!
 <br>
 
 ## Gottesdienste (mit Gemeinde und Video- und Telefonübertragung in alle Welt)
-Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste sowie parallel stattfindende Videoübertragungen im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Die etablierten Video- und Telefonübertragungen in alle Welt bestehen weiterhin.
+Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste sowie parallel stattfindende Videoübertragungen im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Gottesdienste für die ganze Gemeinde und Kindergottesdienste mit der Gemeinde werden im Wechsel alle vierzehn Tage und der Mittwochgottesdienst alle vier Wochen durchgeführt. Die etablierten Video- und Telefonübertragungen in alle Welt bestehen weiterhin. 
 
 |  |  |
 | ------ | ----------- |
