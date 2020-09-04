@@ -23,8 +23,7 @@ Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ei
 * 21 Uhr (übertragen von wechselnden Orten Deutschlandweit)
 <br><br>
 
-## Telefonische Einwahldaten zu den Abendgebeten:
-
+## Telefonische Einwahldaten zu den Abendgebeten
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909#
 * Passwort: 24081855#
