@@ -1,5 +1,5 @@
 ---
-title: 'Präsenzgottesdienste im St.-Michaels-Heim'
+title: 'Präsenzgottesdienste im St.-Michaels-Heim: Bitte beachten'
 media_order: 'aac370589d1937c3f380864c41759cf1eef83bed-csmimg1064aac979a1a7.jpeg,handzettel_gottesdienst_30-06-2020.pdf'
 date: '04-09-2020 09:57'
 publish_date: '04-09-2020 09:57'
