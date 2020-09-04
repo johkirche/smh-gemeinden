@@ -53,7 +53,8 @@ Sollten technische Probleme bei der Videoübertragung auftreten, schaut gerne in
 Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
 <br><br>
 
-## Video- und Telefongottesdienste in weiteren Gemeinden der Johannischen Kirche am Sonntag, den 09.08.2020
+## Teilnahme an Video- und Telefonübertragungen von Gottesdienste in anderen Gemeinden der Johannischen Kirche
+Ergänzend zu dem Angebot des Gottesdienstbesuches im St-Michaels-Heim und deren Übertragungen bestehen zudem zahlreiche Möglichkeiten auch Gottesdienste der anderen Gemeinden der Johannischen Kirche zu nutzen. Aufgrund der Ortsbezogenheit weisen wir an dieser Stelle lediglich auf Video- und Telefonübertragungen hin. Es besteht folgendes Videolivestreamangebot:
 
 |  |  |
 | ------ | ----------- |
