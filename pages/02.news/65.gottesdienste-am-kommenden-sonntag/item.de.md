@@ -33,7 +33,7 @@ Alle Sonntagsgottesdieste werden telefonisch und im Videolivestream in alle Welt
 ### Zugang zu den Videolivestreams:
 |  |  |
 | ------ | ----------- |
-| [![](9179c68689a4761cc60c4f5532266a2548ccd2c6-img7408.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst im Kuppelsaal](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
+| [![](feb5e6d1e402ff8e15422da0068e8f149f3c8648-csmimg1064aac979a1a7.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
 | [![](feb5e6d1e402ff8e15422da0068e8f149f3c8648-csmimg1064aac979a1a7.jpeg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst) |
 
 ### Zugang zu den Telefonübertragungen:
