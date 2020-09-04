@@ -20,9 +20,9 @@ Wir freuen uns sehr, dass ab September, im St.-Michaels-Heim, bis auf Weiteres w
 Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Überdies bleiben die Video- und Telefonübertragungen bestehen.
 
 ### Aufgrund der aktuellen Situation besteht bis auf Weiteres Folgendes Gottesdienstangebot:
-* **Mittwochsgottesdienst monatlich um 19 Uhr:** Präsensgottesdienst mit Telefonübertragung
 * **Gemeindegottesdienst am Sonntag** (14-tägig, beginnend mit dem 13. September): Präsensgottesdienst mit Gemeinde in der Kirche und Videoübertragungen im Gemeindehaus sowie Telefon- und Videoübertragung in alle Welt
 * **Kindergottesdienste am Sonntag mit Gemeinde**  (14-tägig, beginnend mit dem 6. September): Präsenskindergottesdienst mit Gemeinde in der Kirche und Videoübertragungen im Gemeindehaus sowie Telefon- und Videoübertragung in alle Welt
+* **Mittwochsgottesdienst monatlich um 19 Uhr:** Präsensgottesdienst mit Telefonübertragung
 
 Zu allen Gottesdiensten im St.-Michaels-Heim sind alle Geschwister, Freunde und Gäste herzlich eingeladen. Aufgrund des begrenzten Platzangebotes bitten wir alle, die nicht mehr im Kindesalter sind, Kindern und ihrer Begleitung bei Kindergottesdiensten den Vortritt bezüglich eines Platzes in der Kirche zu lassen. Es wird für alle Geschwister, Freunde und Gäste, die am Gemeinde- oder Kindergottesdienst mit Gemeinde im St.-Michaels-Heim teilnehmen möchten, die Möglichkeit bestehen, die Gottesdienste in der Kirche oder eine Videoübertragung in unserem Gemeindehaus zu besuchen. Darüber hinaus bleiben die Telefon- und Videoübertragungen in alle Welt (wie oben beschreiben) bestehen.
 <br><br>
