@@ -2,7 +2,7 @@
 title: 'Kindergottesdienste während der Schulferien '
 date: '26-06-2020 09:38'
 publish_date: '26-06-2020 09:38'
-unpublish_date: '13-09-2020 09:38'
+unpublish_date: '04-09-2020 09:38'
 show_sidebar: false
 ---
 
