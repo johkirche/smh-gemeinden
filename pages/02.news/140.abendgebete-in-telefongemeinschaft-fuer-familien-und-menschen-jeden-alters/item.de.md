@@ -1,8 +1,8 @@
 ---
 title: 'Abendgebete in Telefongemeinschaft für Familien und Menschen jeden Alters'
-media_order: '8897e7d127da27cc4f07333e46cade1b6517ac0b-blur-18674021920.jpeg,91f59672a59009a6baec9548ed1f0f38af2627e0-study-8629941920.jpeg,phone-499991_1920.jpg'
-date: '04-09-2020 10:17'
-publish_date: '04-09-2020 10:17'
+media_order: '91f59672a59009a6baec9548ed1f0f38af2627e0-study-8629941920.jpeg,8897e7d127da27cc4f07333e46cade1b6517ac0b-blur-18674021920.jpeg,phone-499991_1920.jpg'
+date: '04-09-2020 08:17'
+publish_date: '31-08-2020 08:17'
 taxonomy:
     kategorie:
         - featured
