@@ -33,5 +33,5 @@ Weitere Infos auf einem Übersichtszettel findet ihr [hier](handzettel_gottesdie
 
 Dieser wird auch vor Ort ausliegen/ausgegeben werden. Bitte macht euch auch mit dieser Unterlage vertraut. Bitte seid bei dem Besuch des Gottesdienstes besonders rücksichtsvoll, geduldig und liebevoll miteinander und haltet euch rund um und während des Gottesdienst an die Schutzmaßnahmen.
 
-## Aktuelle Gottesdiente im St.-Mcihaels-Heim
+## Aktuelle Gottesdiente im St.-Michaels-Heim
 Eine Übersicht der als nächstes stattfindenen Gottesdienste im St.-Michaels-Heim findet ihr, wenn ihr [hier](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) klickt.
