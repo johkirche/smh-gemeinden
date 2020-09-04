@@ -17,7 +17,7 @@ Wir freuen uns sehr, dass ab September, im St.-Michaels-Heim, bis auf Weiteres w
 
 <br>
 ## Ab September dürfen wieder alle Gottesdienste im St.-Michaels-Heim Präsensgottesdienste sein
-Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Überdies bleiben die Video- und Telefonübertragungen bestehen.
+Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste im St.-Michaels-Heim, unter Beachtung der [erforderlichen Vorsichtsmaßnahmen](https://smh-gemeinden.de/news/praesenzgottesdienste-im-st-michaels-heim), besucht werden. Überdies bleiben die Video- und Telefonübertragungen bestehen.
 
 ### Aufgrund der aktuellen Situation besteht bis auf Weiteres Folgendes Gottesdienstangebot:
 * **Gemeindegottesdienst am Sonntag** (14-tägig, beginnend mit dem 13. September): Präsensgottesdienst mit Gemeinde in der Kirche und Videoübertragungen im Gemeindehaus sowie Telefon- und Videoübertragung in alle Welt
@@ -72,15 +72,3 @@ Zudem finden zahlreiche Gottesdienste in sehr vielen Gemeinden der Johannischen 
 ## Ergänzende Hinweise 
 Die Gottesdienste, die aus den jeweiligen Gemeinderegionen übertragen werden, sollen ganz besonders die dortige geistige Arbeit kräftigen und die Gemeindemitglieder vor Ort miteinander verbinden, ausrichten und schützen. Es wird versucht, aus möglichst vielen Regionen Gottesdienste übertragen zu können. Darüber hinaus gilt eine herzliche Einladung für die Teilnahme an allen weitern Gottesdiensten, die telfonisch oder via Videoübertragung stattfinden. Alle Kinder sind besonders herzlich zum Videolivestream des Kindergottesdienstes eingeladen.
 <br><br>
-
-## Gemeinsames Abendgebet via Telefon (täglich)
-Zudem werden täglich gemeinsame **Abendgebete** via **Telefonübertragung** angeboten:
-* 17 Uhr in der Friedensstadt: Abendgebet
-* 19.30 Uhr an wechselnden Orten Deutschandweit: Familienabendgebet (für Familien mit Kindern)
-* 21 Uhr an wechselnden Orten Deutschlandweit: Abendgebet
-
-Einwahldaten:
-* Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
-* Konferenznummer: 31909#
-* PIN: 24081855#
-* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
