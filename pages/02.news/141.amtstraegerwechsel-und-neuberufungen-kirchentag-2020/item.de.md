@@ -1,6 +1,6 @@
 ---
 title: 'Amtsträgerwechsel und Neuberufungen Kirchentag 2020'
-media_order: Logo-Kirche-breit.jpg
+media_order: smhg_jk.png
 date: '04-09-2020 16:44'
 publish_date: '04-09-2020 16:44'
 unpublish_date: '05-10-2020 23:59'
