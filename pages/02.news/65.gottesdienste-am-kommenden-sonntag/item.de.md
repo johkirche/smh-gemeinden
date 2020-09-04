@@ -11,7 +11,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Wir freuen uns sehr, dass ab September, im St.-Michaels-Heim, bis auf Weiteres wieder alle Gottesdienste mit Gemeinde stattfinden können. Die Video- und Telefonübertragung in alle Welt bleiben weiterhin bestehen.
+Wir freuen uns sehr, dass ab September im St.-Michaels-Heim bis auf Weiteres wieder alle Gottesdienste mit Gemeinde stattfinden können. Die Video- und Telefonübertragung in alle Welt bleiben weiterhin bestehen.
 
 ===
 
