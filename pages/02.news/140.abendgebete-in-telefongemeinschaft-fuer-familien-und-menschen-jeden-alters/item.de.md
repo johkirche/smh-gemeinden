@@ -17,7 +17,7 @@ Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Famil
 <br><br>
 
 ## Abendgebete in Telefongemeinschaft für alle
-![](91f59672a59009a6baec9548ed1f0f38af2627e0-study-8629941920.jpegcropResize=700,700)<br>
+![](91f59672a59009a6baec9548ed1f0f38af2627e0-study-8629941920.jpeg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete für alle finden statt um:
 
 * 17 Uhr (übertragen aus der Friedensstadt) und
