@@ -1,5 +1,9 @@
 ---
 title: 'Arbeitseinsatz in der Friedensstadt'
+date: '04-09-2020 20:54'
+publish_date: '04-09-2020 20:54'
+unpublish_date: '28-09-2020 20:54'
+show_sidebar: false
 ---
 
 Für einen Arbeitseinsatz in der Friedensstadt vom **14. – 18. September** und voraussichtlich auch in der Folgewoche werden fleißige Helfer gesucht.
