@@ -16,14 +16,6 @@ Mit dieser Seite möchten wir allen Interessierten die Möglichkeit geben, sich 
 
 Besucher und Gäste sind herzlich willkommen!
 <br><br>
-## Digitale Kirchentagswoche 2020   
-
-[![](A4F49092-F274-430D-ACC6-4625F2F70052.jpeg)](https://johannischer-kirchentag.de)   
-
-Die Kirchentagswoche 2020 ist anders als jede vorherige! Es macht vielleicht manche traurig, dass wir als kirchliche Gemeinschaft nicht so zusammenkommen können wie sonst. Trotzdem kann und darf der Kirchentag auch in diesem Jahr zur Kraftquelle werden, wenn wir uns auf andere Weise verbinden.   
-Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
-<br><br>
-
 
 ## Hauptmenü
 |  |  |
@@ -35,15 +27,13 @@ Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://jo
 | [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
 <br>
 
-## Gottesdienste (mit Video- und Telefonübertragung)
-Am Sonntag, den 30. Augst wird der Kirchentagsfestgottesdlienst aus dem Waldfrieden telefonisch und als Video-Lifestream übertragen. Um 10.40 Uhr werden die Banner der Johannischen Kirche in der Bildübertragung gezeigt. Wir wünschen allen einen gesegneten Kirchentag und laden insbesondere Geschwister und Freunde in das St.-Michaels-Heim ein, alle Angebote rund um den Kirchentag im Video-Lifestream zu sehen, die dazu zu Hause keine Gelegenheit haben.
-
-Die nächsten Gottesdienste mit Video- und Telefonübertragung finden am kommenden Sonntag, den 6. September um 11 Uhr im St.-Michaels-Heim statt. Geschwister und Freunde sind ebenso herzlich eingeladen, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, den Gottesdienst oder eine Übertragung im St.-Michaels-Heim zu besuchen.
+## Gottesdienste (mit Gemeinde und Video- und Telefonübertragung in alle Welt)
+Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste sowie parallel stattfindende Videoübertragungen im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Die etablierten Video- und Telefonübertragungen in alle Welt bestehen weiterhin.
 
 |  |  |
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
-| [![](IMG_7408.JPG?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kinderkirche/Kuppelsaal](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) (Video-, keine Telefonübertragung) |
+| [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) |
 
 <br><br>
@@ -77,6 +67,12 @@ Telefonische Einwahldaten zu Abendgebeten:
 | ------ | ----------- |
 | [![](Bildschirmfoto%202020-06-20%20um%2011.17.45.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Videoübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
 | [![](Bildschirmfoto%202020-06-20%20um%2011.17.56.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Telefonübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
+<br><br><br>
+
+## Digitale Kirchentagswoche 2020 – Es war schön
+[![](A4F49092-F274-430D-ACC6-4625F2F70052.jpeg)](https://johannischer-kirchentag.de)   
+
+Die Kirchentagswoche 2020 war anders als jede vorherige! Ein Vorteil der digitalen Kirchentagswoche ist, dass das Programm auch noch über die kirchentagswoche hinaus für einge Tage online verfügbar ist. Das umfangreiche Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
 <br><br><br>
 
 ## Digitaler Gemeindetag – Es war sehr schön!
