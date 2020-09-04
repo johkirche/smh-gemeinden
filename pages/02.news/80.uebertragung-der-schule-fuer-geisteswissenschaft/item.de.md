@@ -1,7 +1,6 @@
 ---
 title: 'Öffentliche Schule für Geisteswissenschaft am Pfingstsamstag'
 media_order: csm_IMG_1064_aac979a1a7.jpg
-published: true
 date: '19-05-2020 16:00'
 publish_date: '19-05-2020 22:36'
 unpublish_date: '01-06-2020 23:59'
