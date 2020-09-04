@@ -27,6 +27,9 @@ Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens 
 Zu allen Gottesdiensten im St.-Michaels-Heim sind alle Geschwister, Freunde und Gäste herzlich eingeladen. Aufgrund des begrenzten Platzangebotes bitten wir alle, die nicht mehr im Kindesalter sind, Kindern und ihrer Begleitung bei Kindergottesdiensten den Vortritt bezüglich eines Platzes in der Kirche zu lassen. Es wird für alle Geschwister, Freunde und Gäste, die am Gemeinde- oder Kindergottesdienst mit Gemeinde im St.-Michaels-Heim teilnehmen möchten, die Möglichkeit bestehen, die Gottesdienste in der Kirche oder eine Videoübertragung in unserem Gemeindehaus zu besuchen. Darüber hinaus bleiben die Telefon- und Videoübertragungen in alle Welt (wie oben beschreiben) bestehen.
 <br><br>
 
+## Regeln
+<br><br>
+
 ## Video- und Telefonübertragungen der Gottesdienste aus dem St.-Michaels-Heim in alle Welt
 Alle Sonntagsgottesdieste werden telefonisch und im Videolivestream in alle Welt übertragen. Der monatliche Mittwochgottesdienst wird zurzeit telefonisch übertragen (eine Videoübertragung ist aktuell leider personell nicht möglich).
 
@@ -43,16 +46,16 @@ Alle Sonntagsgottesdieste werden telefonisch und im Videolivestream in alle Welt
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
-## Möglichkeit der Online-Kollekte
-> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank! >
-
-<br>
 ## Hilfestellung bei technischen Problemen
 Sollten technische Probleme bei der Videoübertragung auftreten, schaut gerne in die [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp).
 
 Sehr viele Gottesdienste, die telefonisch übertragen werden, können anschließend auf [https://www.johannische-kirche.org/mediathek/gottesdienste.html](https://www.johannische-kirche.org/mediathek/gottesdienste.html) angehört werden.
 <br><br>
 
+## Möglichkeit der Online-Kollekte
+> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank! >
+
+<br>
 ## Teilnahme an Video- und Telefonübertragungen von Gottesdienste in anderen Gemeinden der Johannischen Kirche
 Ergänzend zu dem Angebot des Gottesdienstbesuches im St-Michaels-Heim und deren Übertragungen bestehen zudem zahlreiche Möglichkeiten auch Gottesdienste der anderen Gemeinden der Johannischen Kirche zu nutzen. Aufgrund der Ortsbezogenheit weisen wir an dieser Stelle lediglich auf Video- und Telefonübertragungen hin. Es besteht folgendes Videolivestreamangebot:
 
