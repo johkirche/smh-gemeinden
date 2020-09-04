@@ -1,8 +1,10 @@
 ---
 title: 'Amtsträgerwechsel und Neuberufungen Kirchentag 2020'
+media_order: Logo-Kirche-breit.jpg
 date: '04-09-2020 16:44'
 publish_date: '04-09-2020 16:44'
 unpublish_date: '05-10-2020 23:59'
+show_sidebar: false
 ---
 
 In der Kirchentagswoche 2020 gab es Veränderungen in verschiedenen Bereichen der Amtsträger in unterschiedlichen Gemeinden. Die nachfolgende Aufstellung informiert darüber.
