@@ -14,8 +14,8 @@ Wir wünschen allen neuen AmstträgerInnen von Herzen Gottes Liebe, Schutz und S
 
 ## Neuberufungen in der Jugendleitung:
 **Hauptjugendleitung:** Josephine Böttcher und Frederik Trampenau
- **Beigeordnete des Jugendvorstandes:** Antonia Adolph und Julia Schäfer
- **JugendleiterInnen:** Philipp Töpel, Nina Abraham, Marlon Wiese, Kolja Pommerening, Sebastian Golz, Jana Maurer, Julia Schmidt-zum Berge, Ira Dannenberg und Finnja Szegedi
+**Beigeordnete des Jugendvorstandes:** Antonia Adolph und Julia Schäfer
+**JugendleiterInnen:** Philipp Töpel, Nina Abraham, Marlon Wiese, Kolja Pommerening, Sebastian Golz, Jana Maurer, Julia Schmidt-zum Berge, Ira Dannenberg und Finnja Szegedi
  
 Clara Sander und Isabel Tzitschke (Hauptjugendleitung) sowie Anne-Katrin Boer, Daniel Mieske, Andrei Khomich, Niklas Müller und Josua Springer wurden aus der Jugendleitung verabschiedet. Wir danken euch allen herzlich für eurer Engangement, eure Liebe und alles was ihr in den letzten Jahren eingebracht habt!
 
