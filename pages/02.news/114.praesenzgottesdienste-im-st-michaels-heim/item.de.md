@@ -1,8 +1,8 @@
 ---
 title: 'Präsenzgottesdienste im St.-Michaels-Heim'
 media_order: 'aac370589d1937c3f380864c41759cf1eef83bed-csmimg1064aac979a1a7.jpeg,handzettel_gottesdienst_30-06-2020.pdf'
-date: '01-07-2020 09:57'
-publish_date: '01-07-2020 09:57'
+date: '04-09-2020 09:57'
+publish_date: '04-09-2020 09:57'
 unpublish_date: '31-12-2020 09:57'
 show_sidebar: false
 content:
@@ -15,7 +15,7 @@ content:
     url_taxonomy_filters: '1'
 ---
 
-Am kommenden Sonntag, dem **5. Juli** freuen wir uns, dass wir euch zum ersten Gottesdienst mit wieder anwesender Gemeinde ins SMH einladen dürfen. Damit alles gelingt, müssen wir alle mithelfen.
+Wir freuen uns, dass ab Sonntag, dem **6. September**, wieder alle Gottesdienste mit anwesender Gemeinde im St.-Michaels-Heim stattfinden dürfen. Damit alles gelingt, müssen wir alle mithelfen und daher bitten wir, Folgendes zu beherzigen:
 
 ===
 
@@ -26,12 +26,12 @@ Am kommenden Sonntag, dem **5. Juli** freuen wir uns, dass wir euch zum ersten G
 * Im Haus besteht eine **Mund- und Nasenschutzpflicht**. Bitte bringt eine eigene Mund-Nasenbedeckung mit. Am Platz könnt ihr die Maske abnehmen.
 * Bitte bringt einen **Zettel mit eurem Namen und Kontaktmöglichkeit** mit. Wir sind verpflichtet die Daten bei Besuch des Gottesdienstes zu erheben. Mit eurer Hilfe kann das Einschreiben in Listen entfallen.
 
-**Präsenzgottesdienste alle 14 Tage**
-Gottesdienste mit anwesender Gemeinde sind zunächst alle 14 Tage geplant, da der Aufwand für Ordner und Techniker sehr hoch ist. Am 12.7. findet also wieder eine reine Video- und Telefonübertragung und am 19.7. ein Gottesdienst mit Gottesdienstbesuchern statt. Wer die technische oder organisatorische Begleitung der Gottesdienste unterstützen möchte, kann sich gerne an die Gemeindehelfer oder mich wenden.
-
 **Und zum Schluss noch eine Bitte:** 
 Schützt die anderen Geschwister. Wenn ihr wisst, dass ihr in der letzten Woche oder in den letzten zwei Wochen viel Kontakt mit größeren Menschengruppen hattet oder es euch nicht gut geht, dann bleibt bitte zu Hause und nutzt die Übertragungsmöglichkeiten zu Hause.
 
 Weitere Infos auf einem Übersichtszettel findet ihr [hier](handzettel_gottesdienst_30-06-2020.pdf). 
 
 Dieser wird auch vor Ort ausliegen/ausgegeben werden. Bitte macht euch auch mit dieser Unterlage vertraut. Bitte seid bei dem Besuch des Gottesdienstes besonders rücksichtsvoll, geduldig und liebevoll miteinander und haltet euch rund um und während des Gottesdienst an die Schutzmaßnahmen.
+
+## Aktuelle Gottesdiente im St.-Mcihaels-Heim
+Eine Übersicht der als nächstes stattfindenen Gottesdienste im St.-Michaels-Heim findet ihr, wenn ihr [hier](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) klickt.
