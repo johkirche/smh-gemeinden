@@ -29,7 +29,7 @@ Clara Sander und Isabel Tzitschke (Hauptjugendleitung) sowie Anne-Katrin Boer, D
 Verantwortlich für den Bereich „Kinder“ in Berlin-Kaulsdorf ist nun Sara Retzke.
 Die Leitung des Kindernachmittags verstärken im SMH Ronja Krause und Clara Sonntag.
 
-Aus der Kinderarbeit verabschiedet wurden Angela Schulz, Michael Kutzner, Stephan Müller, Nina Abraham, Kolja Pommerening, Markus Spranger, Anke Schindler, Martin Golz, Stephan Müller, Michael Kutzner, Christine Holz, Jörg Starroske und Dirk Beese. Wir danken euch allen von ganzen Herzen für euer jahrelanges liebewolles Wirken in diesem Aufgabenfeld.
+Aus der Kinderarbeit verabschiedet wurden Angela Schulz, Michael Kutzner, Stephan Müller, Nina Abraham, Kolja Pommerening, Markus Spranger, Anke Schindler, Martin Golz, Michael Kutzner, Christine Holz, Jörg Starroske und Dirk Beese. Wir danken euch allen von ganzen Herzen für euer jahrelanges liebewolles Wirken in diesem Aufgabenfeld.
 <br><br>
 
 ## Neuberufungen in das Amt der MissionshelferInnen
