@@ -69,7 +69,7 @@ Telefonische Einwahldaten zu Abendgebeten:
 | [![](Bildschirmfoto%202020-06-20%20um%2011.17.56.png?cropResize=130,130)](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen)<font color="white">.     .</font> | [Hilfe bei Telefonübertragungen](https://smh-gemeinden.de/news/hilfestellungen-fuer-video-und-telefonuebertragungen) |
 <br><br><br>
 
-## Digitale Kirchentagswoche 2020 – Es war schön
+## Digitale Kirchentagswoche 2020 – Es war schön!
 [![](A4F49092-F274-430D-ACC6-4625F2F70052.jpeg)](https://johannischer-kirchentag.de)   
 
 Die Kirchentagswoche 2020 war anders als jede vorherige! Ein Vorteil der digitalen Kirchentagswoche ist, dass das Programm auch noch über die kirchentagswoche hinaus für einge Tage online verfügbar ist. Das umfangreiche Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
