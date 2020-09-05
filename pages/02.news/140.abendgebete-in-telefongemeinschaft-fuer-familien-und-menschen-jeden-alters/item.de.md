@@ -11,9 +11,9 @@ show_sidebar: false
 
 Die Johannische Kirche lädt täglich alle Geschwister, Freunde und Gäste zu einem gemeinsamen Abendgebet in Telefongemeinschaft ein. Täglich werden dafür drei Gelegenheiten angeboten. Eines der drei Abendgebete richtet sich in besonderer Weise an Familien mit Kindern.
 
-## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
+## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr (Montag bis Freitag)
 ![](8897e7d127da27cc4f07333e46cade1b6517ac0b-blur-18674021920.jpeg?cropResize=700,700)<br>
-Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Familien mit Kindern zu einem gemeinsamen Abendgebet via Telefon ein. Zu dem Familienabendgemet laden verschiedene Personen aus verschiedenen Orten (Deutschlandweit) ein.
+Die Johannische Kirche lädt unter der Woche täglich um 19.30 Uhr alle und ganz besonders Familien mit Kindern zu einem gemeinsamen Abendgebet via Telefon ein. Zu dem Familienabendgemet laden verschiedene Personen aus verschiedenen Orten (Deutschlandweit) ein.
 <br><br>
 
 ## Abendgebete in Telefongemeinschaft für alle um 17 und um 21 Uhr

@@ -7,23 +7,7 @@ recaptchacontact:
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
 
-Im Kampf gegen den Corona-Virus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
-<br><br>
-## Erster digitaler Johannischer Kirchentag
-[![](DB11F19E-76C8-4E74-A132-2782196E7DF5.png?cropResize=700,700)](https://johannischer-kirchentag.de)<br>
-Die Kirchentagswoche 2020 ist anders als jede vorherige! Es macht vielleicht manche traurig, dass wir als kirchliche Gemeinschaft nicht so zusammenkommen können wie sonst. Trotzdem kann und darf der Kirchentag auch in diesem Jahr zur Kraftquelle werden, wenn wir uns auf andere Weise verbinden.   
-Ein umfangreiches Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
-<br>
-[![](5CEB1205-3F91-4CC0-8328-204AE5231216.jpeg)](https://johannischer-kirchentag.de)
-<br><br>
-## Erster Gottedienst wieder mit Gemeinde am 5. Juli
-![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
-Am 5. Juli findet unser Sonntagsgottesdienst um 11 Uhr mit Video- und Telefonübertragung statt. Erstmals seit Wochen besteht zudem die Möglichkeit für Geschwister auch in der Kirche oder an Übertragungen im St.-Michaels-Heim teilzunehmen. [Wir haben im Bereich News Hinweise zu den erforderlichen Schutzmaßnahmen veröffentlicht](https://smh-gemeinden.de/news/praesenzgottesdienste-im-st-michaels-heim) und freuen uns auf einen gesegneten Gottesdienst.
-<br><br>
-
-## Abkündigung des Kirchenvorstands zur Gestaltung der weiteren Kirchenarbeit bis zum Kirchentag
-![](newspapers-444448_1920.jpg?cropResize=700,700)<br>
-Liebe Geschwister und liebe Freunde, es gibt aktuelle Informationen des Kirchenvorstands zur Gestaltung der Kirchenarbeit in den kommenden Wochen. Die vollständige Abkündigung findet ihr unter: [https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag](https://smh-gemeinden.de/news/abkuendigung-des-kirchenvorstands-zur-gestaltung-der-weiteren-kirchenarbeit-bis-zum-kirchentag)
+Im Kampf gegen den Coronavirus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
 <br><br>
 
 ## Telefon- und Videogottesdienste
@@ -48,8 +32,7 @@ Weitere Informationen:
 * [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 
-> Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
-> 
+Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
 <br>
 ## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
@@ -92,19 +75,13 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 <br><br>
 
 ## Kindergottesdienste während der Schulferien
-
 Während der Sommerferien findet im St.-Michaels-Heim alle 14 Tage sonntags ein Kindergottesdienst statt. [Alle weiteren Informationen findet ihr hier.](https://smh-gemeinden.de/news/kindergottesdienste-waehrend-der-schulferien)
 
 ## Neue Angebote in der Erprobung
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
 <br><br>
 
-### Virtuelles Kinderfest mit Überraschung
-
-Jedes Kind soll einen kleinen Leuchtestern zum virtuellen Kinderfest am 24.08.2020 bekommen. [Wo und wie ihr die bekommt erfahrt ihr hier.](https://smh-gemeinden.de/news/kinderfest-in-der-kirchentagswoche)
-<br><br>
-
-### Gemeinsamer virtueller Gottesdienstbesuch
+## Gemeinsamer virtueller Gottesdienstbesuch
 ![](csm_IMG_1064_aac979a1a7.jpg?forceResize=700,525)<br>
 Das "Projekt Silas – der johannische Helfer im Internet" möchte ein Experiment am 07. Juni mit Euch machen. Die Internetübertragungen unserer Gottesdienste sind von sehr guter Qualität und zuverlässig, aber mancheiner vermisst es, dass man sich rund um den Gottesdienstbesuch nicht mehr sieht und unterhalten kann. Daraus wurde die Idee geboren, den Gottesdienst selbst als Video-Konferenz übertragen und sich vor und nach dem Gottesdienst austauschen zu können. Das soll am Sonntag, 07.06.2020 mit dem Gottesdienst aus dem SMH gemeinsam ausprobiert werden.
 
@@ -116,22 +93,7 @@ Alle die mitmachen möchten sind herzlich eingeladen und finden hier alle weiter
 Der aktuelle Gemeindebrief der St.-Michaels-Heim-Gemeinden kann regelmäßig online und auch via Post bezogen werden. Allte weitern Informationen unter: [https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden](https://smh-gemeinden.de/news/aktueller-gemeindebrief-der-st-michaels-heim-gemeinden).
 <br><br>
 
-### Gemeinschaftsabend (Telefon- und Videokonferenz) am Mittwoch, 24. Juni um 19.45 Uhr
-![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
-Die nächste gelegenheit zu einem Gemeinschaftsabend via Telefon und Video ist am Mittwoch, den 24. Juni um 19.45 Uhr im Anschluss an unseren Mittwochgottesdienst. Die St.-Michaels-Heim-Gemeinden laden zu diesem fröhlichen Beisammensein virtuell und telefonisch ein. [Alle weiteren Infos hier.](https://smh-gemeinden.de/news/kommender-gemeinschaftsabend)
-<br><br>
-
-### Onkel Pelle zu Besuch und News zum Kinderfest 2020
-![](Bildschirmfoto%202020-06-21%20um%2021.30.49.png?cropResize=700,700)<br>
-Onkel Pelle wendet sich in einer Videobotschaft an die Kinder und lädt sie zu einem digitalen Abendteuer am Mintag, den 24. August 2020 ein. [Hier geht es zum Video sowie zu weiteren Informationen.](https://smh-gemeinden.de/news/onkel-pelle-zu-besuch-und-news-zum-kinderfest-2020)
-<br><br>
-
-### 2. Onlineseminar der Johannischen Jugend im Juni 2020
-![](Bildschirmfoto%202020-06-21%20um%2021.34.23.png?cropResize=700,700)<br>
-Vom 26.06. – 28.06. lädt euch die Johannische Jugend zum online Seminar ein. Wie ihr dabei sein könnt, erfahrt ihr [hier](https://smh-gemeinden.de/news/johannische-jugend-online-seminar).
-<br><br>
-
-## Mach mit!
+### Mach mit!
 ![](help-4955863_1920.jpg?cropResize=700,700)<br>
 Liebe Geschwister und Freunde, ihr seid herzlich eingeladen die Entwickung und Durchführung weiterer Angebote in dieser ganz besonderen Zeit mitzugestalten. Bitte zögert nicht, mit euren Ideen, Wünschen und Vorschlägen euch direkt an eure Gemeindeleitungen und -helfer zu werden. Gerne könnt ihr dafür auch die [Kontaktadresse](https://smh-gemeinden.de/kontakt) auf der Webseite nutzen. Sehr gerne könnt ihr auch bestehende Ideen aufgreifen und bei der Umsetzung unterstützen. Du wirst gebraucht!
 
@@ -143,7 +105,7 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 * ...
 <br><br>
 
-## Druchgeführte Sonderaktionen
+## Durchgeführte Sonderaktionen
 <br><br>
 
 ### Telefongesprächskreis: "Der Jugend gilt die ganze Aufmerksamkeit"

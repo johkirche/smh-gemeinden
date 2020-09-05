@@ -53,7 +53,7 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 
 |  |  |
 | ------ | ----------- |
-| ![](d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliches Familienabendgebet um 19.30 Uhr |
+| ![](d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliches Familienabendgebet um 19.30 Uhr (Montag bis Freitag)|
 | ![](ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliche Abendgebete um 17 und um 21 Uhr |
 
 Telefonische Einwahldaten zu Abendgebeten:
