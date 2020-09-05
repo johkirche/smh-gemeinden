@@ -22,8 +22,7 @@ Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Hei
 * PIN: 24081855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 
-Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können unter folgendem Link online besucht werden:
-* Link: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html).
+Die Videogottesdienste (für die ganze Gemeinde und speziell für Kinder) können unter folgendem Link online besucht werden: [https://www.johannische-kirche.org/mediathek/live-gottesdienst.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html).
 
 Weitere Informationen:
 * [Die nächsten Gottesdiensttermine alle Gemeinden inkl. Telefoneinwahldaten](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
@@ -34,8 +33,7 @@ Weitere Informationen:
 
 Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
-<br>
-## Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
+### Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
 ![](blur-1867402_1920.jpg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich um 19.30 Uhr alle und ganz besonders Familien mit Kindern zu einem gemeinsamen Abendgebet via Telefon ein.
 * 19.30 Uhr (übertragen von wechselnden Orten Deutschlandweit)
@@ -47,7 +45,7 @@ Telefonische Einwahldaten zu den Familienabendgebeten:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
-## Abendgebete in Telefongemeinschaft für alle
+### Abendgebete in Telefongemeinschaft für alle
 ![](study-862994_1920.jpg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
 * 17 Uhr (übertragen aus der Friedensstadt) und
@@ -60,12 +58,12 @@ Telefonischen Einwahldaten zu den Abendgebeten:
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 
-## Veränderungen rund um das Sakrament der geistigen Heilung
+### Veränderungen rund um das Sakrament der geistigen Heilung
 ![](csm_sakrament_2-1_07071db1a5.jpg?cropResize=700,700)<br>
 [Das Sakrament der geistigen Heilung](https://www.johannische-kirche.org/lebenshilfe-und-angebote/sakramente/sakrament-der-geistigen-heilung.html) wird weiterhin  jedem Menschen gespendet, der darum bittet. Auch die Missionshelfersprechstunden in unseren Kirchen und Gemeinderäumen werden weiterhin – soweit möglich – angeboten. Aktuell wird der Empfang des Sakraments der geistigen Heilung zu den [gewohnten Zeiten im St.-Michaels-Heim](https://smh-gemeinden.de/veranstaltungen/kategorie:Sakrament) angeboten. Jedoch dürfen wir dabei die aktuellen Geschehnisse und Bemühungen nicht ignorieren und gegen besseres Wissen handeln. Daher wird beim Spenden des Sakraments sowie in der Sprechstunde ein Abstand von 2m eingehalten. Zudem bitten wir die [weiterführenden Informationen](https://smh-gemeinden.de/news/informationen-zum-sakrament-der-geistigen-heilung-im-st-michaels-heim) zu beachten.
 <br><br>
 
-## Telefonübertragung von Abschiedsfeiern
+### Telefonübertragung von Abschiedsfeiern
 ![](52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg?cropResize=700,700)<br>
 Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abschiedsfeiern kann telefonisch beigewohnt werden. Die Einwahldaten sind:
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
@@ -74,7 +72,7 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
 <br><br>
 
-## Kindergottesdienste während der Schulferien
+### Kindergottesdienste während der Schulferien
 Während der Sommerferien findet im St.-Michaels-Heim alle 14 Tage sonntags ein Kindergottesdienst statt. [Alle weiteren Informationen findet ihr hier.](https://smh-gemeinden.de/news/kindergottesdienste-waehrend-der-schulferien)
 
 ## Neue Angebote in der Erprobung
@@ -106,7 +104,6 @@ Aktuelle Ideen, die noch deine Hilfe brauchen:
 <br><br>
 
 ## Durchgeführte Sonderaktionen
-<br><br>
 
 ### Telefongesprächskreis: "Der Jugend gilt die ganze Aufmerksamkeit"
 ![](handshake-3382503_1920.jpg?cropResize=700,700)<br>
