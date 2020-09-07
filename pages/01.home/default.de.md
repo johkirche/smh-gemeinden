@@ -75,14 +75,6 @@ Telefonische Einwahldaten zu Abendgebeten:
 Die Kirchentagswoche 2020 war anders als jede vorherige! Ein Vorteil der digitalen Kirchentagswoche ist, dass das Programm auch noch über die kirchentagswoche hinaus für einge Tage online verfügbar ist. Das umfangreiche Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
 <br><br><br>
 
-## Digitaler Gemeindetag – Es war sehr schön!
-Digitaler Gemeindetag der Hauptgemeinde und der Gemeinde Steglitz am 14. Juni 2020.
-
-|  |  |
-| ------ | ----------- |
-| [![](Bildschirmfoto%202020-05-29%20um%2008.23.44.png?cropResize=130,130)](https://smh-gemeinden.de/gemeindetag)<font color="white">.     .</font> | [Hier geht es zu der Aktionsseite und zur Videoeinladung!](https://smh-gemeinden.de/gemeindetag) |
-<br><br><br>
-
 ## Digitale Kollekte
 Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte unterstützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
