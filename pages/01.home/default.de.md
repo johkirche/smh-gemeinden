@@ -44,7 +44,7 @@ Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch f
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 <br>
 Telefonische Einwahldaten zu **Gottesdiensten**:
-* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
+* Telefonnummern: <a href="tel:+4930201 63 49 00">030/ 201 63 49 00</a> oder <a href="tel:+4989 121 40 59 00">089/ 121 40 59 00</a> (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 * Pin: 24081855
 <br><br><br>
@@ -57,7 +57,7 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 | ![](ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg?cropResize=130,130)<font color="white">.     .</font> | Tägliche Abendgebete um 17 und um 21 Uhr |
 
 Telefonische Einwahldaten zu Abendgebeten:
-* Telefonnummern: 030/ 201 63 49 00 oder 089 / 121 40 59 00 (deutsches Festnetz)
+* Telefonnummern: <a href="tel:+4930201 63 49 00">030/ 201 63 49 00</a> oder <a href="tel:+4989 121 40 59 00">089/ 121 40 59 00</a> (deutsches Festnetz)
 * Konferenznummer: 31909
 * Pin: 24081855
 <br><br><br>
@@ -70,9 +70,7 @@ Telefonische Einwahldaten zu Abendgebeten:
 <br><br><br>
 
 ## Digitale Kirchentagswoche 2020 – Es war schön!
-[![](A4F49092-F274-430D-ACC6-4625F2F70052.jpeg)](https://johannischer-kirchentag.de)   
-
-Die Kirchentagswoche 2020 war anders als jede vorherige! Ein Vorteil der digitalen Kirchentagswoche ist, dass das Programm auch noch über die kirchentagswoche hinaus für einge Tage online verfügbar ist. Das umfangreiche Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
+Die Kirchentagswoche 2020 war anders als jede vorherige! Ein Vorteil der digitalen Kirchentagswoche ist, dass das Programm auch noch über die Kirchentagswoche hinaus für einge Tage online verfügbar ist. Das umfangreiche Programm zum Sehen, Hören und Mitmachen ist unter [https://johannischer-kirchentag.de](https://johannischer-kirchentag.de) zu finden.
 <br><br><br>
 
 ## Digitale Kollekte
