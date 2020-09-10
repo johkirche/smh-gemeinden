@@ -6,9 +6,9 @@ unpublish_date: '06-12-2020 23:59'
 show_sidebar: false
 ---
 
-Die virtuellen gemeinsamen Gottesdienste sollen wieder aufgenommen werden. Sie finden mit dem Programm "Zoom"  an jedem 1. Sonntag im Monat statt.  
+Die **virtuellen gemeinsamen Gottesdienste** sollen wieder aufgenommen werden. Sie finden mit dem Programm "Zoom"  an jedem 1. Sonntag im Monat statt.  
 
-Die Termine für die virtuellen Gottesdienste sind der 04.10.2020, der 01.11.2020 und der 06.12.2020.
+Die Termine für die virtuellen Gottesdienste sind der **04.10.2020**, der **01.11.2020** und der **06.12.2020**.
 
 ===
 
