@@ -6,7 +6,7 @@ unpublish_date: '06-12-2020 23:59'
 show_sidebar: false
 ---
 
-Die **virtuellen gemeinsamen Gottesdienste** sollen wieder aufgenommen werden. Sie finden mit dem Programm "Zoom"  an jedem 1. Sonntag im Monat statt.  
+Die **virtuellen gemeinsamen Gottesdienste** sollen wieder aufgenommen werden. Sie finden mit dem Programm "webex"  an jedem 1. Sonntag im Monat statt.  
 
 Die Termine für die virtuellen Gottesdienste sind der **04.10.2020**, der **01.11.2020** und der **06.12.2020**.
 
@@ -27,9 +27,8 @@ Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch
 
 # Einwahldaten zur Videokonferenz am 5. Juli ab 10:30
 **Link zur Teilnahme mit Smartphone, Tablet oder Computer**
-* [GemeinsamerGottesdienst93782019697](https://uni-potsdam.zoom.us/j/93782019697)
-* Meeting-ID: 937 8201 9697
-* Passwort: 24081855
+* [GemeinsamerGottesdienst](https://johannischekirche.my.webex.com/johannischekirche.my/j.php?MTID=m0212c1b42021c36386701447980a61d3)
+
 
 **Einwahl mit Telefon für Telefonaustausch**
 * Telefonnummer: +49 30 56795800
