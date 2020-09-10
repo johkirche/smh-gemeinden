@@ -1,8 +1,8 @@
 ---
 title: 'Virtuelle St.-Michaels-Heim-Gottesdienste'
-date: '26-06-2020 09:25'
-publish_date: '26-06-2020 09:25'
-unpublish_date: '05-07-2020 23:59'
+date: '10-09-2020 09:25'
+publish_date: '10-09-2020 09:25'
+unpublish_date: '06-12-2020 23:59'
 show_sidebar: false
 ---
 
