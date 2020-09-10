@@ -25,7 +25,7 @@ Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch
 7. An die Internetverbindung werden keine anderen Anforderungen gestellt als sonst auch.
 
 
-# Einwahldaten zur Videokonferenz am 5. Juli ab 10:30
+# Einwahldaten zur Videokonferenz 
 **Link zur Teilnahme mit Smartphone, Tablet oder Computer**
 * [GemeinsamerGottesdienst](https://johannischekirche.my.webex.com/johannischekirche.my/j.php?MTID=m0212c1b42021c36386701447980a61d3)
 
