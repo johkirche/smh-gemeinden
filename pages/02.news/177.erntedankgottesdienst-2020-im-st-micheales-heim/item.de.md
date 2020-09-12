@@ -16,6 +16,7 @@ Es wird am 04. Oktober um 11 Uhr ein Erntedankkindergottesdienst für alle Berli
 
 
 **Erntedank Gemeindegottesdienst**
+
 Des Weiteren wird ein Erntedankgottesdienst am 11. Oktober um 11 Uhr stattfinden. Zu diesem können sich alle anderen Geschwister anmelden. Familien und Kinder werden gebeten den Gottesdienst in der vorhergehenden Woche zu besuchen.
 
 
