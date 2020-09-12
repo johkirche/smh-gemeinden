@@ -11,21 +11,21 @@ Zum diesjährigen Erntedank findet ein Erntedankkindergottesdienst **am 4. Oktob
 ===
 
 
-**Erntedankkindergottesdienst**
+## Erntedankkindergottesdienst
 
 Es wird am 04. Oktober um 11 Uhr ein Erntedankkindergottesdienst für alle Berliner Kinder mit deren Eltern (bzw. Haushalte) angeboten. Sollten freie Plätze bestehen, können diese von Geschwistern genutzt werden, die keine Möglichkeit für eine Übertragung zu Hause haben.
 
 
 
 
-**Erntedank Gemeindegottesdienst**
+## Erntedank Gemeindegottesdienst
 
 Des Weiteren wird ein Erntedankgottesdienst am 11. Oktober um 11 Uhr stattfinden. Zu diesem können sich alle anderen Geschwister anmelden. Familien und Kinder werden gebeten den Gottesdienst in der vorhergehenden Woche zu besuchen.
 
 
 
 
-**Zum Ablauf**
+## Zum Ablauf
 
 Zu beiden Gottesdiensten gilt die maximale Teilnehmerzahl von ca. 100 Personen (in der Kirche und den Übertragungen im SMH). Eine entsprechende Voranmeldung ist erforderlich.
 
