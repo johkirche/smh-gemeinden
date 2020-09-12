@@ -1,5 +1,9 @@
 ---
 title: 'Erntedankgottesdienst 2020 im St.-Micheales-Heim'
+date: '12-09-2020 15:48'
+publish_date: '12-09-2020 15:48'
+unpublish_date: '12-10-2020 15:48'
+show_sidebar: false
 ---
 
 Zum diesjährigen Erntedank findet ein Erntedankkindergottesdienst **am 4. Oktober** und ein Erntedank Gemeindegottesdienst am **11. Oktober** statt.  Eure Altarspenden können ab Mittwoch vor dem entsprechenden Gottesdienst in der Rezeption abgegeben werden. Eine **Anmeldung** zu einem der Gottesdienste muss **bis 20. September** bei einem Gemeindehelfer erfolgen.
