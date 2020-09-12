@@ -20,13 +20,16 @@ Des Weiteren wird ein Erntedankgottesdienst am 11. Oktober um 11 Uhr stattfinden
 
 
 **Zum Ablauf**
+
 Zu beiden Gottesdiensten gilt die maximale Teilnehmerzahl von ca. 100 Personen (in der Kirche und den Übertragungen im SMH). Eine entsprechende Voranmeldung ist erforderlich.
 
 **W I C H T I G - Anmeldeschluss ist der 20. September 2020!**
+
 Anmelden könnt ihr euch bei der Gemeindehelferin oder dem Gemeindehelfer eures Vertrauens. Die Gemeindehelfer und die Gemeindeleitung stehen euch auch für alle Fragen gerne zur Verfügung.
 
 Im Anschluss an den Gottesdienst am 11. Oktober können Geschwister sowie Freunde, die von zu Hause aus an der Übertragung teilgenommen haben, in das St.-Michaels-Heim kommen und gesegnete Früchte erhalten.
 
 **Weiter Informationen**
+
 [Informationen zu den Übertragungen](https://www.smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
 [Informationen zu den Abstands- und Hygieneregeln](https://smh-gemeinden.de/news/praesenzgottesdienste-im-st-michaels-heim)
