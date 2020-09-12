@@ -10,9 +10,11 @@ Zum diesjährigen Erntedank findet ein Erntedankkindergottesdienst **am 4. Oktob
 
 ===
 
+
 **Erntedankkindergottesdienst**
 
 Es wird am 04. Oktober um 11 Uhr ein Erntedankkindergottesdienst für alle Berliner Kinder mit deren Eltern (bzw. Haushalte) angeboten. Sollten freie Plätze bestehen, können diese von Geschwistern genutzt werden, die keine Möglichkeit für eine Übertragung zu Hause haben.
+
 
 
 **Erntedank Gemeindegottesdienst**
@@ -20,9 +22,11 @@ Es wird am 04. Oktober um 11 Uhr ein Erntedankkindergottesdienst für alle Berli
 Des Weiteren wird ein Erntedankgottesdienst am 11. Oktober um 11 Uhr stattfinden. Zu diesem können sich alle anderen Geschwister anmelden. Familien und Kinder werden gebeten den Gottesdienst in der vorhergehenden Woche zu besuchen.
 
 
+
 **Zum Ablauf**
 
 Zu beiden Gottesdiensten gilt die maximale Teilnehmerzahl von ca. 100 Personen (in der Kirche und den Übertragungen im SMH). Eine entsprechende Voranmeldung ist erforderlich.
+
 
 **W I C H T I G - Anmeldeschluss ist der 20. September 2020!**
 
@@ -30,7 +34,9 @@ Anmelden könnt ihr euch bei der Gemeindehelferin oder dem Gemeindehelfer eures 
 
 Im Anschluss an den Gottesdienst am 11. Oktober können Geschwister sowie Freunde, die von zu Hause aus an der Übertragung teilgenommen haben, in das St.-Michaels-Heim kommen und gesegnete Früchte erhalten.
 
+
+
 **Weiter Informationen**
 
-[Informationen zu den Übertragungen](https://www.smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
-[Informationen zu den Abstands- und Hygieneregeln](https://smh-gemeinden.de/news/praesenzgottesdienste-im-st-michaels-heim)
+* [Informationen zu den Übertragungen](https://www.smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)
+* [Informationen zu den Abstands- und Hygieneregeln](https://smh-gemeinden.de/news/praesenzgottesdienste-im-st-michaels-heim)
