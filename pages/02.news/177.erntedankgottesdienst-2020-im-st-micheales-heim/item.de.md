@@ -1,5 +1,5 @@
 ---
-title: 'Erntedankgottesdienst 2020 im St.-Micheales-Heim'
+title: 'Erntedankgottesdienst 2020 im St.-Michaels-Heim'
 date: '12-09-2020 15:48'
 publish_date: '12-09-2020 15:48'
 unpublish_date: '12-10-2020 15:48'

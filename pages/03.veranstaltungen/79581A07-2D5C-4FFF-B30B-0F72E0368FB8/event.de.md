@@ -16,6 +16,8 @@ taxonomy:
 ---
 Monatlich findet im Rahmen der Schule für Geisteswissenschaft eine Fortbildung nur für Amtsträger der Johannischen Kirche statt.
 
+Aus Gründen des gesundheitsschutzes findet die Schule ausschließlich per Videolivestream und Telefonübertragung statt. Die Zugangsdaten erfahrt ihr bei eurer Gemeindeleitung.
+
 
 
 **Veranstaltungsort:** 

@@ -14,7 +14,7 @@ Im Kampf gegen den Coronavirus sind wir alle gefragt. Aus diesem Grund entstehen
 ![](csm_IMG_1064_aac979a1a7.jpg?cropResize=700,700)<br>
 Alle Gottesdienste der Johannischen Kirche finden als Telefongottesdienste statt. Alle Geschwister und Freunde sind herzlich dazu eingeladen telefonisch an allen Gottesdiensten, insbesondere an denen in ihren Gemeinden bzw. Bezirken, teilzunehmen. Immer mehr Gemeinden bieten zudem Videogottesdienste an. Alle Kinder sind herzlich zu den Videogottesdiensten speziell für Kinder aus dem St.-Michaels-Heim eingeladen.
 
-Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierzehntägit) um 19 Uhr Gemeindegottesdienste statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
+Die Gemeindegottesdienste der Gemeinden im St.-Michaels-Heim werden telefonisch und per Video übertragen. Es finden weiterhin Sonntags (wöchentlich) um 11 Uhr und Mittwochs (vierwöchentlich) um 19 Uhr Gemeindegottesdienste statt. Der Kindergottesdienst findet ebenfalls weiterhin Sonntags (vierzehntägig) als Videoübertragung statt.
 
 Die telefonischen Einwahldaten zu den Gemeindegottesdiensten im St.-Michaels-Heim lauten:
 * Telefonnummern: <a href="tel:+4930201634900">(030) 201 63 49 00</a> oder (089) 121 40 59 00 (deutsches Festnetz)
