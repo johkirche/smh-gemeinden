@@ -30,9 +30,3 @@ Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch
 * [GemeinsamerGottesdienst](https://johannischekirche.my.webex.com/johannischekirche.my/j.php?MTID=mdafe14f0e0550515455a2adba7ff3465)
 
 
-**Einwahl mit Telefon für Telefonaustausch**
-* Telefonnummer: +49 30 56795800
-* Meeting-ID: 937 8201 9697
-* Passwort: 24081855
-* Teilnehmer-ID: nichts eingeben und # drücken
-* Schnelleinwahlalternative: +493056795800,,98032519699#,,#,24081855# Deutschland
