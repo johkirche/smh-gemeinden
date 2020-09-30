@@ -47,7 +47,7 @@ Telefonische Einwahldaten zu **Gottesdiensten**:
 * Telefonnummern: <a href="tel:+4930201 63 49 00">030/ 201 63 49 00</a> oder <a href="tel:+4989 121 40 59 00">089/ 121 40 59 00</a> (deutsches Festnetz)
 * Konferenznummer St.-Michaels-Heim: 16882 [(alle weiteren Konferenznumern gibt es hier)](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html)
 * Pin: 24081855
-<br><br><br>
+<br><br>
 
 ## Abendgebete in Telefongemeinschaft
 
@@ -60,7 +60,7 @@ Telefonische Einwahldaten zu Abendgebeten:
 * Telefonnummern: <a href="tel:+4930201 63 49 00">030/ 201 63 49 00</a> oder <a href="tel:+4989 121 40 59 00">089/ 121 40 59 00</a> (deutsches Festnetz)
 * Konferenznummer: 31909
 * Pin: 24081855
-<br><br><br>
+<br><br>
 
 ## Hilfestellungen für Video- und Telefonübertragungen
 |  |  |
@@ -75,4 +75,3 @@ Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdi
 |  |  |
 | ------ | ----------- |
 | [![](f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png?cropResize=130,130)](https://secure.spendenbank.de/form/3469)<font color="white">.     .</font> | [Digitale Kollekte](https://secure.spendenbank.de/form/3469) |
-<br><br><br>
