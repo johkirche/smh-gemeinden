@@ -9,9 +9,9 @@ show_sidebar: false
 
 Liebe Geschwister und Freunde, herzliche Grüße von der Johannischen Jugend und allen ein gesegnetes Erntedankfest in allen Gemeinden! Für ein fröhliches Denken aneinandier hier ein kurzweiliges Video!
 
-[https://www.youtube.com/watch?v=M-WNnMyVm8k&feature=youtu.be](https://www.youtube.com/watch?v=M-WNnMyVm8k&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M-WNnMyVm8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Darüber hinaus ein Eindruck vom reich geschmückten Altar im St.-Michaels-Heim! Ein fröhliches Erntedank euch allen und den größten Dank nach oben zu unseren himmlichen Vater!
+Darüber hinaus ein kleiner Eindruck vom reich geschmückten Altar im St.-Michaels-Heim! Ein fröhliches Erntedank euch allen und den größten Dank nach oben zu unserem himmlischen Vater!
 
 ![](29EC838A-2909-4CCA-ADD6-2AE677A164F6.jpeg)
 
