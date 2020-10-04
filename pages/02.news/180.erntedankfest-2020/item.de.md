@@ -7,7 +7,7 @@ unpublish_date: '18-10-2020 23:59'
 show_sidebar: false
 ---
 
-Liebe Geschwister und Freunde, herzliche Grüße von der Johannischen Jugend und allen ein gesegnetes Erntedankfest in allen Gemeinden! Für ein fröhliches Denken aneinandier hier ein kurzweiliges Video!
+Liebe Geschwister und Freunde, herzliche Grüße von der Johannischen Jugend und allen ein gesegnetes Erntedankfest in allen Gemeinden! Für ein fröhliches Denken aneinander hier ein kurzweiliges Video!
 
 ===
 
