@@ -11,7 +11,7 @@ Liebe Geschwister und Freunde, herzliche Grüße von der Johannischen Jugend und
 
 [https://www.youtube.com/watch?v=M-WNnMyVm8k&feature=youtu.be](https://www.youtube.com/watch?v=M-WNnMyVm8k&feature=youtu.be)
 
-Darüber hinaus ein Eindruck vom reich geschmückten Altar im St.-Michaels-Heim! Ein fröhliches Erntedank euch allen und den größten Dank nach obenzu unseren himmlichen Vater!
+Darüber hinaus ein Eindruck vom reich geschmückten Altar im St.-Michaels-Heim! Ein fröhliches Erntedank euch allen und den größten Dank nach oben zu unseren himmlichen Vater!
 
 ![](29EC838A-2909-4CCA-ADD6-2AE677A164F6.jpeg)
 
