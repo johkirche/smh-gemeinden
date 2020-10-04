@@ -11,7 +11,7 @@ Liebe Geschwister und Freunde, herzliche Grüße von der Johannischen Jugend und
 
 ===
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M-WNnMyVm8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M-WNnMyVm8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Darüber hinaus ein kleiner Eindruck vom reich geschmückten Altar im St.-Michaels-Heim! Ein fröhliches Erntedank euch allen und den größten Dank nach oben zu unserem himmlischen Vater!
 
