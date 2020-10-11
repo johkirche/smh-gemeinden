@@ -1,5 +1,10 @@
 ---
 title: 'Gemeinschaftsabend im St.-Michaels-Heim'
+media_order: aac370589d1937c3f380864c41759cf1eef83bed-csmimg1064aac979a1a7.jpeg
+date: '11-10-2020 20:51'
+publish_date: '11-10-2020 20:51'
+unpublish_date: '14-10-2020 22:51'
+show_sidebar: false
 ---
 
 Hier eine herzliche Einladung für euch am kommenden Mittwoch zu einem Gemeinschaftsabend im St.-Michaels-Heim:
