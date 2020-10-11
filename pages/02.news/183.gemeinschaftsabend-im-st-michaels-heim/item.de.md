@@ -1,6 +1,6 @@
 ---
 title: 'Gemeinschaftsabend im St.-Michaels-Heim'
-media_order: aac370589d1937c3f380864c41759cf1eef83bed-csmimg1064aac979a1a7.jpeg
+media_order: 'aac370589d1937c3f380864c41759cf1eef83bed-csmimg1064aac979a1a7.jpeg,77B6F5E2-C9A8-4CB9-9912-5AA437B0B370.jpeg'
 date: '11-10-2020 20:51'
 publish_date: '11-10-2020 20:51'
 unpublish_date: '14-10-2020 22:51'
@@ -14,3 +14,5 @@ Hier eine herzliche Einladung für euch am kommenden Mittwoch zu einem Gemeinsch
 Am **kommenden Mittwoch**, den **14.10**. wird im Anschluss an den Gottesdienst wieder ein **Gemeinschaftsabend** stattfinden. Christine Werner wird an ihren Vortrag aus der Kirchentagswoche zum Thema "Die Offenbarung des Johannes" anknüpfen. 
 
 Wir treffen uns im Salon Mendelssohn, eine Übertragung wird es voraussichtlich nicht geben. Aufgrund der aktuellen Lage wird kein gemeinsames Abendessen angeboten. Erfrischungen können in der Brasserie erworben werden.
+
+![](77B6F5E2-C9A8-4CB9-9912-5AA437B0B370.jpeg)
