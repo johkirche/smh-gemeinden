@@ -10,4 +10,5 @@ Die Buschfunk-Redaktion hat einen neuen Podcast veröffentlicht.
 
 ===
 
-Der Titel der mehrteiligen Reportage „Weißenberg I – Von Fehebeutel nach Berlin“  ist im Internet [hier](http://www.buschfunk-podcast.de/?p=4143) zu finden 
+Der Titel der mehrteiligen Reportage „Weißenberg I – Von Fehebeutel nach Berlin“  ist im 
+Internet [hier](http://www.buschfunk-podcast.de/?p=4143) zu finden. 
