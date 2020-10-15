@@ -9,4 +9,10 @@ show_sidebar: false
 
 Am 13. Oktober 2020 wurde unsere Schwester Ortrun Schutt aus der Urgemeinde in die ewige Heimat abgerufen.
 
-Der Termin der Abschiedsfeier auf dem Johannischen Friedhof in Glau wird noch bekanntgegeben.
+Die Abschiedsfeier findet statt am **Mittwoch, dem 21. Oktober um 14:00 Uhr auf unserem Johannischen Friedhof in Glau.**
+
+Allen Abschiedsfeiern auf unseren Johannischen Friedhöfen kann auch telefonisch beigewohnt werden. Die Einwahldaten sind:
+* Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
+* Konferenznummer: 92885#
+* PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
