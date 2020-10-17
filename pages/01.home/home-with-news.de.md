@@ -37,7 +37,7 @@ Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens 
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) |
 
 <br><br>
-Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 14. Oktoberr um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 11. November um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |
