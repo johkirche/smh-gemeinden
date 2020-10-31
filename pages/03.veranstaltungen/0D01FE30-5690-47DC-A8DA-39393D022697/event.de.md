@@ -1,5 +1,5 @@
 ---
-title: 2. Frühstück
+title: 2. Frühstück (entfällt)
 visible: true
 cache_enable: true
 #ics: 
@@ -14,7 +14,7 @@ taxonomy:
 	monat: ['November 2020']
 
 ---
-Am Ewigkeitssonntag, den 22.11.2020 verbringen die Geschwister und Freunde der St.-Michaels-Heim Gemeinden der Johannisches Kirche den Nachmittag im Anschluss an den Gottesdienst in Gemeinschaft. Mit einem reichhaltigen Frühstück, welches sich aus den mitgebrachten Speisen der Teilnehmenden zusammensetzt, verbringen wir den Nachmittag in froher Gemeinschaft.
+Leider kann unser zweites Frühstück in diesem Jahr aus gegebenem Anlass nicht stattfinden. Wir wünschen euch allen einen gesegneten Tag.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Kindergottesdienst am 3. Advent
+title: Erntedank- und Kindergottesdienst
 visible: true
 cache_enable: true
 #ics: 

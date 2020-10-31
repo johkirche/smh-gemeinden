@@ -1,5 +1,5 @@
 ---
-title: Kindergottesdienst am 3. Advent
+title: Kindergottesdienst
 visible: true
 cache_enable: true
 #ics: 

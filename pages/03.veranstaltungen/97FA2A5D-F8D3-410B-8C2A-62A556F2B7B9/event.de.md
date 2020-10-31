@@ -1,5 +1,5 @@
 ---
-title: Gottesdienst
+title: Pfingstgottesdienst (Videoübertragung aus der Friedensstadt im St.-Michaels-Heim)
 visible: true
 cache_enable: true
 #ics: 
