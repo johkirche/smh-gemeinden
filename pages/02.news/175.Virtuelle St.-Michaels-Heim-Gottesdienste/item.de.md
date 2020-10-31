@@ -1,14 +1,14 @@
 ---
 title: 'Virtuelle St.-Michaels-Heim-Gottesdienste'
-date: '10-09-2020 09:25'
-publish_date: '10-09-2020 09:25'
+date: '31-10-2020 09:25'
+publish_date: '31-10-2020 09:25'
 unpublish_date: '06-12-2020 23:59'
 show_sidebar: false
 ---
 
 Die **virtuellen gemeinsamen Gottesdienste** sollen wieder aufgenommen werden. Sie finden mit dem Programm "webex" an jedem 1. Sonntag im Monat statt.  
 
-Die Termine für die kommenden virtuellen Gottesdienste sind der **04.10.2020**, der **01.11.2020** und der **06.12.2020**.
+Die Termine für die kommenden virtuellen Gottesdienste sind der **01.11.2020** und der **06.12.2020**.
 
 ===
 
