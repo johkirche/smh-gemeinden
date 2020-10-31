@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Schwester Edith Gohlisch'
+published: false
 date: '15-10-2020 21:17'
 publish_date: '15-10-2020 21:17'
 unpublish_date: '31-10-2020 21:17'
