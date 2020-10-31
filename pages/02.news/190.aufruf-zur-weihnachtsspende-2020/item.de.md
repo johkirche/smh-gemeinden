@@ -1,6 +1,10 @@
 ---
 title: 'Aufruf zur Weihnachtsspende 2020'
 media_order: b20f9fdd55f3ea1759ac2fa5d8fda934dd0e2e9f-webseitelogo.png
+date: '01-11-2020 13:57'
+publish_date: '01-11-2020 13:58'
+unpublish_date: '27-12-2020 13:58'
+show_sidebar: false
 ---
 
 Liebe Geschwister und Freunde!
