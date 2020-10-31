@@ -27,6 +27,6 @@ Ihr könnt dann parallel dem Gottesdienst folgen und gleichzeitig sehen wer noch
 
 # Einwahldaten zur Videokonferenz 
 **Link zur Teilnahme mit Smartphone, Tablet oder Computer**
-* [GemeinsamerGottesdienst](https://johannischekirche.my.webex.com/johannischekirche.my/j.php?MTID=mdafe14f0e0550515455a2adba7ff3465)
+* [GemeinsamerGottesdienst](https://johannischekirche.my.webex.com/johannischekirche.my/j.php?MTID=m0212c1b42021c36386701447980a61d3)
 
 
