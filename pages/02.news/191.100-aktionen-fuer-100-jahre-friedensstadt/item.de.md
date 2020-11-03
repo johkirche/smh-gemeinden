@@ -1,5 +1,10 @@
 ---
 title: '100 Aktionen für 100 Jahre Friedensstadt'
+media_order: logo_100_jahre_fs.jpg
+date: '03-11-2020 17:50'
+publish_date: '03-11-2020 17:50'
+unpublish_date: '20-12-2020 17:50'
+show_sidebar: false
 ---
 
 Wie ihr bei 100 Aktionen für 100 Jahre Friedensstadt mitmachen könnt, erfahrt ihr hier.
