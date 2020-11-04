@@ -16,5 +16,5 @@ Die Aktionen werden eine öffentlich zugängliche Online-Ausstellung Stück für
 
 Ansprechpartner sind für euch: Julia Schäfer und Matteo Neise
 
-[Hier](Formular%20100%20Aktionen%20f%C3%BCr%20100%20Jahre%20FS.pdf)) geht es zum Formular :)
+[Hier](Formular%20100%20Aktionen%20f%C3%BCr%20100%20Jahre%20FS.pdf)) geht es zum Formular :)<br>
 [![](Bildschirmfoto%202020-11-04%20um%2009.46.06.png)](Formular%20100%20Aktionen%20f%C3%BCr%20100%20Jahre%20FS.pdf))
