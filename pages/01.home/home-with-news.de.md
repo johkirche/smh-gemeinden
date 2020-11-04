@@ -22,7 +22,7 @@ Besucher und Gäste sind herzlich willkommen!
 | ------ | ----------- |
 | [![](icon_nachrichten-news_alternativ.png?cropResize=100,100)](/news)<font color="white">.     .</font> | [Nachrichten und News](/news) |
 | [![](icon_veranstaltungen-termine_alternativ.png?cropResize=100,100)](/veranstaltungen)<font color="white">.     .</font> | [Veranstaltungen und Termine](/veranstaltungen) |
-| [![](icon_sonderinformationen.png?cropResize=100,100)](/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
+| [![](icon_sonderinformationen.png?cropResize=100,100)](/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](/sonderinformation) |
 | [![](icon_%C3%BCber%20uns.png?cropResize=100,100)](/ueber-uns)<font color="white">.     .</font> | [Über uns](/ueber-uns) |
 | [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](/kontakt)<font color="white">.     .</font> | [Kontakt](/kontakt) |
 <br>
@@ -34,7 +34,7 @@ Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens 
 | ------ | ----------- |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html)<font color="white">.     .</font> | [Gottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) |
 | [![](csm_IMG_1064_aac979a1a7.jpg?cropResize=130,130)](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html)<font color="white">.     .</font> | [Kindergottesdienst in der Kirche](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-kindergottesdienst.html) |
-| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](https://smh-gemeinden.de/news/gottesdienste-am-kommenden-sonntag) |
+| [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](/news/gottesdienste-am-kommenden-sonntag) |
 
 <br><br>
 Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 11. November um 19 Uhr im St.-Michaels-Heim statt.
@@ -70,7 +70,7 @@ Telefonische Einwahldaten zu Abendgebeten:
 <br><br>
 
 ## Digitale Kollekte
-Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte unterstützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
+Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte unterstützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
 |  |  |
 | ------ | ----------- |
