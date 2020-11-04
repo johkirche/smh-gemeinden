@@ -20,11 +20,11 @@ Besucher und Gäste sind herzlich willkommen!
 ## Hauptmenü
 |  |  |
 | ------ | ----------- |
-| [![](icon_nachrichten-news_alternativ.png?cropResize=100,100)](https://smh-gemeinden.de/news)<font color="white">.     .</font> | [Nachrichten und News](https://smh-gemeinden.de/news) |
-| [![](icon_veranstaltungen-termine_alternativ.png?cropResize=100,100)](https://smh-gemeinden.de/veranstaltungen)<font color="white">.     .</font> | [Veranstaltungen und Termine](https://smh-gemeinden.de/veranstaltungen) |
-| [![](icon_sonderinformationen.png?cropResize=100,100)](https://smh-gemeinden.de/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
-| [![](icon_%C3%BCber%20uns.png?cropResize=100,100)](https://smh-gemeinden.de/ueber-uns)<font color="white">.     .</font> | [Über uns](https://smh-gemeinden.de/ueber-uns) |
-| [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](https://smh-gemeinden.de/kontakt)<font color="white">.     .</font> | [Kontakt](https://smh-gemeinden.de/kontakt) |
+| [![](icon_nachrichten-news_alternativ.png?cropResize=100,100)](/news)<font color="white">.     .</font> | [Nachrichten und News](/news) |
+| [![](icon_veranstaltungen-termine_alternativ.png?cropResize=100,100)](/veranstaltungen)<font color="white">.     .</font> | [Veranstaltungen und Termine](/veranstaltungen) |
+| [![](icon_sonderinformationen.png?cropResize=100,100)](/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](https://smh-gemeinden.de/sonderinformation) |
+| [![](icon_%C3%BCber%20uns.png?cropResize=100,100)](/ueber-uns)<font color="white">.     .</font> | [Über uns](/ueber-uns) |
+| [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](/kontakt)<font color="white">.     .</font> | [Kontakt](/kontakt) |
 <br>
 
 ## Gottesdienste (mit Gemeinde und Video- und Telefonübertragung in alle Welt)
