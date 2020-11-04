@@ -8,7 +8,6 @@ show_sidebar: false
 ---
 
 ## Maskenpflicht im Gottesdienst
-![](teenager-5693583_1920.jpg?cropResize=700,700)<br>
 Seit dem 01. November 2020 gelten neue Beschränkungen bei der Verordnung über den Umgang mit dem SARS-CoV-2-Virus
 und COVID-19. In Berlin und im Land Brandenburg sind folgende Regelungen verändert worden:  §1, §2 sowie §4 Abs. 4 SARS-CoV-2-UmgV.
 
