@@ -4,6 +4,9 @@ media_order: teenager-5693583_1920.jpg
 date: '04-11-2020 12:41'
 publish_date: '04-11-2020 12:41'
 unpublish_date: '30-11-2020 23:59'
+taxonomy:
+    kategorie:
+        - featured
 show_sidebar: false
 ---
 
