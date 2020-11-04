@@ -9,3 +9,9 @@ show_sidebar: false
 Am **2. November 2020** wurde unser Bruder **Walter Schätzle** aus der Gemeinde Velten in die ewige Heimat abgerufen.
 
 Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+
+Allen Abschiedsfeiern auf unseren Johannischen Friedhöfen kann auch telefonisch beigewohnt werden. Die Einwahldaten sind:
+* Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
+* Konferenznummer: 92885#
+* PIN: 24081855#
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
