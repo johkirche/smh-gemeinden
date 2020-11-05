@@ -18,3 +18,5 @@ Ab sofort gilt folgende neue Regelung: **Wir tragen die Mund-Nasenbedeckungen (M
 Wir wünschen euch allen weiterhin Gesundheit!
  
 Überdies laden wir euch verstärkt dazu ein, die Gottesdienstübertragungen per Telefon oder Video-Stream zu nutzen.
+
+Das vollständige [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) findet ihr hier.
