@@ -7,9 +7,9 @@ visible: false
 Liebe Geschwister, Freunde und Gäste! Mit diesem Schutz und Hygienekonzept für Gottesdienste im St.-Michaels-Heim (Stand vom 28.06.2020) möchten wir sicherstellen, dass die Teilnahme an Gottesdiensten allen möglich ist. Dies erfordert, dass wir ganz besonders liebevoll und umsichtig sind, aufeinander achten und uns an folgende Regeln halten.<br><br>
 
 ## 1. Allgemeine Hygiene
-1.1	Vor jedem Gottesdienst werden die Kirche und die Übertragungsräume gründlich gelüftet und alle Kontaktflächen desinfiziert.<br>
-1.2	Während des Gottesdienstes bleiben die Fenster geöffnet, um einen Luftaustausch zu ermöglichen.<br>
-1.3	Wir möchten darauf hinweisen, dass Personen mit erkennbaren Symptomen einer COVID-19 Erkrankung oder jeglichen Erkältungssymptomen auszuschließen und auf Übertragungsmöglichkeiten in häusliche Umgebung zu verweisen sind.<br><br>
+* 1.1	Vor jedem Gottesdienst werden die Kirche und die Übertragungsräume gründlich gelüftet und alle Kontaktflächen desinfiziert.<br>
+* 1.2	Während des Gottesdienstes bleiben die Fenster geöffnet, um einen Luftaustausch zu ermöglichen.<br>
+* 1.3	Wir möchten darauf hinweisen, dass Personen mit erkennbaren Symptomen einer COVID-19 Erkrankung oder jeglichen Erkältungssymptomen auszuschließen und auf Übertragungsmöglichkeiten in häusliche Umgebung zu verweisen sind.<br><br>
 
 ## 2. Abstand der Besucherinnen und Besucher
 2.1	Bei jedem Gottesdienst und in jeder Übertragung auf dem Gelände sind Ordner'innen sowie eine Gemeindeleitung (ggf. vertreten durch z.B. einen Gemeindehelfer) anwesend.<br>
