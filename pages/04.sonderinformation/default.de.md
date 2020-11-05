@@ -16,6 +16,8 @@ Seit dem 01. November 2020 gelten neue Beschränkungen bei der Verordnung über 
 und COVID-19. In Berlin und im Land Brandenburg sind folgende Regelungen verändert worden:  §1, §2 sowie §4 Abs. 4 SARS-CoV-2-UmgV.
 
 Ab sofort gilt folgende neue Regelung: Wir tragen die Mund-Nasenbedeckungen (Masken) auch während der Gottesdienste und nehmen diese nicht am Platz ab. Ausnahmen gelten weiterhin für Kinder und bei Erwachsenen mit entsprechenden Beeinträchtigungen. So wollen wir uns und die anderen Teilnehmenden in dieser Situation noch besser schützen. Lasst uns mit dieser neuen Regelung weiterhin gemeinschaftlich an einem Strang ziehen.
+
+Das vollständige [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) findet ihr hier.
  
 Wir wünschen euch allen weiterhin Gesundheit!
  
