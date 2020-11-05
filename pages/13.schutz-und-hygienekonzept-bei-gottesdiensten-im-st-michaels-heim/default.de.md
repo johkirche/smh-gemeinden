@@ -1,5 +1,6 @@
 ---
 title: 'Schutz und Hygienekonzept bei Gottesdiensten im St.-Michaels-Heim'
+media_order: Konzept_SMH_Hybridgottesdienste_v5.pdf
 visible: false
 ---
 
@@ -36,3 +37,6 @@ Gemeindegesang, Chorgesang & Bläsermusik sind untersagt (auch unter freiem Himm
 7.1	Angesichts der steigenden Corona-Fallzahlen gilt auf Grundlage eines Beschlusses der Kirchen- und die Gemeindeleitungen vom 02.11.2020, dass als vorbeugende Maßnahme, ab sofort während der Gottesdienste alle Teilnehmer'Innen eine Mund-Nase-Bedeckung tragen, wenn sie auf ihren Plätzen sitzen.<br>
 7.2	Diese Maskenpflicht gilt nicht für die Gottesdienstleitung bei der Gottesdiensteröffnung sowie für die Prediger'innen während der Predigt, sofern ein Abstand von mindestens 3 Metern zur 1. Sitzreihe eingehalten wird.<br>
 7.3	Kinder unter 6 Jahren sind weiterhin generell von der Maskenpflicht befreit. Eine weitere Ausnahme gilt für Teilnehmende mit gesundheitlichen Einschränkungen, die das Tragen einer Mund-Nasenbedeckung verhindern.
+
+
+[Das vollständige Schutz und Hygienekonzept mit Stand vom 28.06.2020 mit Ergänzung vom 02.11.2020 kann hier ausgedruckt werden.]([Konzept_SMH_Hybridgottesdienste_v5.pdf](Konzept_SMH_Hybridgottesdienste_v5.pdf))
