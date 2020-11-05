@@ -4,7 +4,7 @@ media_order: Konzept_SMH_Hybridgottesdienste_v5.pdf
 visible: false
 ---
 
-Liebe Geschwister, Freunde und Gäste! Mit diesem Schutz und Hygienekonzept für Gottesdienste im St.-Michaels-Heim (Stand vom 28.06.2020) möchten wir sicherstellen, dass die Teilnahme an Gottesdiensten allen möglich ist. Dies erfordert, dass wir ganz besonders liebevoll und umsichtig sind, aufeinander achten und uns an folgende Regeln halten.<br><br>
+<p>Liebe Geschwister, Freunde und Gäste! Mit diesem Schutz und Hygienekonzept für Gottesdienste im St.-Michaels-Heim (Stand vom 28.06.2020) möchten wir sicherstellen, dass die Teilnahme an Gottesdiensten allen möglich ist. Dies erfordert, dass wir ganz besonders liebevoll und umsichtig sind, aufeinander achten und uns an folgende Regeln halten.<br><br></p>
 
 ## 1. Allgemeine Hygiene
 <p>1.1	Vor jedem Gottesdienst werden die Kirche und die Übertragungsräume gründlich gelüftet und alle Kontaktflächen desinfiziert.<br></p>
@@ -39,4 +39,4 @@ Liebe Geschwister, Freunde und Gäste! Mit diesem Schutz und Hygienekonzept für
 <p>7.3	Kinder unter 6 Jahren sind weiterhin generell von der Maskenpflicht befreit. Eine weitere Ausnahme gilt für Teilnehmende mit gesundheitlichen Einschränkungen, die das Tragen einer Mund-Nasenbedeckung verhindern.<br><br></p>
 
 
-[Das vollständige Schutz und Hygienekonzept mit Stand vom 28.06.2020 mit Ergänzung vom 02.11.2020 kann hier ausgedruckt werden.]([Konzept_SMH_Hybridgottesdienste_v5.pdf](Konzept_SMH_Hybridgottesdienste_v5.pdf))
+<p>[Das vollständige Schutz und Hygienekonzept mit Stand vom 28.06.2020 mit Ergänzung vom 02.11.2020 kann hier ausgedruckt werden.]([Konzept_SMH_Hybridgottesdienste_v5.pdf](Konzept_SMH_Hybridgottesdienste_v5.pdf))</p>
