@@ -22,7 +22,7 @@ Liebe Geschwister, Freunde und Gäste! Mit diesem Schutz und Hygienekonzept für
 3.3	Die Kollekte wird nach dem Gottesdienst am Ausgang gesammelt. Die Kollektenbeutel sind so gestaltet, dass Berührungen vermieden werden.
 
 ## 4.	Mundschutzmasken/Nase-Mund-Bedeckung
-Alle Besucher*innen tragen eine Mund-Nasen-Bedeckung. Die Ordner*Innen weisen ggf. darauf hin und achten auf eine Bedeckung von Nase und Mund bei Zutritt und Verlassen des Gottesdienstes bzw. der Übertragung. Besucherinnen und Besucher, die keine eigene Mund-Nasen-Bedeckung haben wird eine zur Verfügung gestellt. Die Masken können während des Gottesdienstes abgenommen werden. Kinder unter 6 Jahre sind generell von der Maskenpflicht befreit.
+Alle Besucher*innen tragen eine Mund-Nasen-Bedeckung. Die Ordner*innen weisen ggf. darauf hin und achten auf eine Bedeckung von Nase und Mund bei Zutritt und Verlassen des Gottesdienstes bzw. der Übertragung. Besucherinnen und Besucher, die keine eigene Mund-Nasen-Bedeckung haben wird eine zur Verfügung gestellt. Die Masken können während des Gottesdienstes abgenommen werden. Kinder unter 6 Jahre sind generell von der Maskenpflicht befreit.
 
 ## 5.	Gesang
 Gemeindegesang, Chorgesang & Bläsermusik sind untersagt (auch unter freiem Himmel). Sologesang sowie Musik durch Instrumentalisten (ausgenommen Blasinstrumente) sind unter Wahrung des nötigen Abstands (mindestens 3 Meter) möglich. Bei im gleichen Haushalt lebenden Sänger*innen ist ein mehrstimmiger Gesang möglich. 
