@@ -4,7 +4,7 @@ media_order: Konzept_SMH_Hybridgottesdienste_v5.pdf
 visible: false
 ---
 
-# Schutz und Hygienekonzept für Gottesdienste im St.-Michaels-Heim (Stand vom 28.06.2020)
+# Schutz und Hygienekonzept für Gottesdienste im St.-Michaels-Heim (Stand vom 28.06.2020)<br>
 
 <p>Liebe Geschwister, Freunde und Gäste! Mit diesem Schutz und Hygienekonzept für Gottesdienste im St.-Michaels-Heim (Stand vom 28.06.2020) möchten wir sicherstellen, dass die Teilnahme an Gottesdiensten allen möglich ist. Dies erfordert, dass wir ganz besonders liebevoll und umsichtig sind, aufeinander achten und uns an folgende Regeln halten.<br><br></p>
 
@@ -35,7 +35,7 @@ visible: false
 <p>6.2	Um die Eintragung in die Liste datenschutzkonform vorzunehmen, wird der ein/e Ordner'in die Angaben von den jeweils eintretenden Personen erheben und aufnehmen, sodass nachfolgende Personen die Daten der vorher eintretenden Personen nicht einsehen können. Alternativ bringen Besucher'innen einen Zettel mit Ihrem Namen und einer Kontaktmöglichkeit mit und geben diese bei der/dem Ordner'in ab.<br><br></p>
 
  
-## 7.	Anlage 1 vom 02.11.2020: Maskenpflicht im Gottesdienst
+# 7.	Anlage 1 vom 02.11.2020: Maskenpflicht im Gottesdienst
 <p>7.1	Angesichts der steigenden Corona-Fallzahlen gilt auf Grundlage eines Beschlusses der Kirchen- und die Gemeindeleitungen vom 02.11.2020, dass als vorbeugende Maßnahme, ab sofort während der Gottesdienste alle Teilnehmer'Innen eine Mund-Nase-Bedeckung tragen, wenn sie auf ihren Plätzen sitzen.<br></p>
 <p>7.2	Diese Maskenpflicht gilt nicht für die Gottesdienstleitung bei der Gottesdiensteröffnung sowie für die Prediger'innen während der Predigt, sofern ein Abstand von mindestens 3 Metern zur 1. Sitzreihe eingehalten wird.<br></p>
 <p>7.3	Kinder unter 6 Jahren sind weiterhin generell von der Maskenpflicht befreit. Eine weitere Ausnahme gilt für Teilnehmende mit gesundheitlichen Einschränkungen, die das Tragen einer Mund-Nasenbedeckung verhindern.<br><br><br></p>
