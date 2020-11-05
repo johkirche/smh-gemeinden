@@ -1,6 +1,8 @@
 ---
 title: 'Schutz und Hygienekonzept bei Gottesdiensten im St.-Michaels-Heim'
 media_order: Konzept_SMH_Hybridgottesdienste_v5.pdf
+external_links:
+    process: true
 visible: false
 ---
 
