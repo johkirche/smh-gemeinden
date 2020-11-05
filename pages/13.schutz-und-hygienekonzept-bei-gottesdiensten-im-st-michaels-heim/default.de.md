@@ -1,5 +1,6 @@
 ---
 title: 'Schutz und Hygienekonzept bei Gottesdiensten im St.-Michaels-Heim'
+visible: false
 ---
 
 Liebe Geschwister, Freunde und Gäste! Mit diesem Schutz und Hygienekonzept für Gottesdienste im St.-Michaels-Heim (Stand vom 28.06.2020) möchten wir sicherstellen, dass die Teilnahme an Gottesdiensten allen möglich ist. Dies erfordert, dass wir ganz besonders liebevoll und umsichtig sind, aufeinander achten und uns an folgende Regeln halten.
