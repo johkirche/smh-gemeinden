@@ -7,7 +7,7 @@ recaptchacontact:
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
 
-Im Kampf gegen den Coronavirus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.
+Im Kampf gegen den Coronavirus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung. Überdies bitten wir um Einhaltung des [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) und laden euch verstärkt dazu ein, die Gottesdienstübertragungen per [Telefon](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html) oder [Video-Stream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) zu nutzen.
 <br><br>
 
 ## Maskenpflicht im Gottesdienst
