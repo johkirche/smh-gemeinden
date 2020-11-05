@@ -39,4 +39,4 @@ visible: false
 <p>7.3	Kinder unter 6 Jahren sind weiterhin generell von der Maskenpflicht befreit. Eine weitere Ausnahme gilt für Teilnehmende mit gesundheitlichen Einschränkungen, die das Tragen einer Mund-Nasenbedeckung verhindern.<br><br></p>
 
 
-<p> [Das vollständige Schutz und Hygienekonzept mit Stand vom 28.06.2020 mit Ergänzung vom 02.11.2020 kann hier ausgedruckt werden.]([Konzept_SMH_Hybridgottesdienste_v5.pdf](Konzept_SMH_Hybridgottesdienste_v5.pdf)) </p>
+[Das vollständige Schutz und Hygienekonzept mit Stand vom 28.06.2020 mit Ergänzung vom 02.11.2020 kann hier ausgedruckt werden.]([Konzept_SMH_Hybridgottesdienste_v5.pdf](Konzept_SMH_Hybridgottesdienste_v5.pdf))
