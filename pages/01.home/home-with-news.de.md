@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg,Bildschirmfoto 2020-06-20 um 11.17.45.png,Bildschirmfoto 2020-06-20 um 11.17.56.png,f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png,icon_kontakt-nachricht schreiben.png,icon_nachrichten-news.png,icon_sonderinformationen.png,icon_über uns.png,icon_veranstaltungen-termine.png,icon_nachrichten-news_alternativ.png,icon_veranstaltungen-termine_alternativ.png,A4F49092-F274-430D-ACC6-4625F2F70052.jpeg'
+media_order: 'megaphone-2223049_1280.png,time-1606153_1280.png,book-1157658_1280.png,csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,group-1824145_1280.png,at-sign-1083508_1280.png,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg,Bildschirmfoto 2020-06-20 um 11.17.45.png,Bildschirmfoto 2020-06-20 um 11.17.56.png,f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png,icon_kontakt-nachricht schreiben.png,icon_nachrichten-news.png,icon_sonderinformationen.png,icon_über uns.png,icon_veranstaltungen-termine.png,icon_nachrichten-news_alternativ.png,icon_veranstaltungen-termine_alternativ.png,A4F49092-F274-430D-ACC6-4625F2F70052.jpeg,teenager-5693583_1920.jpg'
 published: true
 routable: true
 visible: false
@@ -26,6 +26,12 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](icon_%C3%BCber%20uns.png?cropResize=100,100)](/ueber-uns)<font color="white">.     .</font> | [Über uns](/ueber-uns) |
 | [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](/kontakt)<font color="white">.     .</font> | [Kontakt](/kontakt) |
 <br>
+
+## Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim
+|  |  |
+| ------ | ----------- |
+| [![](teenager-5693583_1920.jpg?cropResize=130,130)](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim)<font color="white">.     .</font> | [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim)|
+<br><br>
 
 ## Gottesdienste (mit Gemeinde und Video- und Telefonübertragung in alle Welt)
 Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste sowie parallel stattfindende Videoübertragungen im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Gottesdienste für die ganze Gemeinde und Kindergottesdienste mit der Gemeinde werden im Wechsel alle vierzehn Tage und der Mittwochgottesdienst alle vier Wochen durchgeführt. Die etablierten Video- und Telefonübertragungen in alle Welt bestehen weiterhin. 
