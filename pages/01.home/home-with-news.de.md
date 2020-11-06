@@ -28,7 +28,7 @@ Besucher und Gäste sind herzlich willkommen!
 <br>
 
 ## Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim
-Wir bitten alle Gottesdienstbesucherinnen und -besucher um Einhaltung unseres [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) und laden zuglecih dazu ein, auch die Gottesdienstübertragungen per [Telefon](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html) oder [Video-Stream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) zu nutzen.
+Wir bitten alle Gottesdienstbesucherinnen und -besucher um Einhaltung unseres [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) und laden zugleich dazu ein, auch die Gottesdienstübertragungen per [Telefon](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html) oder [Video-Stream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) zu nutzen.
 
 |  |  |
 | ------ | ----------- |
