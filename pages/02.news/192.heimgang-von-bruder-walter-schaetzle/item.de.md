@@ -8,9 +8,9 @@ show_sidebar: false
 
 Am **2. November 2020** wurde unser Bruder **Walter Schätzle** aus der Gemeinde Velten in die ewige Heimat abgerufen.
 
-Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+Die Abschiedsfeier findet am **Donnerstag, den 12. November um 14:00 Uhr** auf unserem Johannischen Friedhof in Glau statt.
 
-Allen Abschiedsfeiern auf unseren Johannischen Friedhöfen kann auch telefonisch beigewohnt werden. Die Einwahldaten sind:
+Zurzeit können Abschiedsfeiern auf unseren Friedhöfen aus gegebenem Anlass nur im Kreise der Angehörigen stattfinden. Wir bitten alle anderen Personen, die sich verabschieden möchten, die Telefonübertragung zu nutzen und das Grab zu einem späteren Zeitpunkt zu besuchen. Die Einwahldaten sind:
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
 * Konferenznummer: 92885#
 * PIN: 24081855#
