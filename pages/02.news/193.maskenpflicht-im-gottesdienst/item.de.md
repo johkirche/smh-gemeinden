@@ -21,6 +21,6 @@ Wir wünschen euch allen weiterhin Gesundheit!
 
 
 Das vollständige Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim findet ihr hier:
-|  |  |![](icon_herunterladen.png)
+|  |  |
 | ------ | ----------- |
 | [![](icon_herunterladen.png?cropResize=100,100)](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim)<font color="white">.     .</font> | [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heims](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) |
