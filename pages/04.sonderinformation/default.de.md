@@ -25,7 +25,7 @@ Ab sofort gilt folgende neue Regelung: Wir tragen die Mund-Nasenbedeckungen (Mas
 
 Wir wünschen euch allen weiterhin Gesundheit!
 
-Überdies laden wir euch verstärkt dazu ein, die Gottesdienstübertragungen per Telefon oder Video-Stream zu nutzen.
+Überdies laden wir euch verstärkt dazu ein, die Gottesdienstübertragungen per [Telefon](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html) oder [Video-Stream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) zu nutzen.
 <br><br>
 
 ## Telefon- und Videogottesdienste
