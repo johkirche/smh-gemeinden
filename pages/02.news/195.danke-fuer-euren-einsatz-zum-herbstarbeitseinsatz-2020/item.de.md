@@ -1,9 +1,8 @@
 ---
 title: 'Herzlichen Dank für euren Einsatz zum Herbstarbeitseinsatz 2020'
 media_order: C94EDC78-91EC-49F1-9B4E-1E78BB44BCE9.jpeg
+published: false
 date: '08-11-2020 15:02'
-publish_date: '08-11-2020 15:02'
-unpublish_date: '07-02-2021 23:59'
 show_sidebar: false
 ---
 
