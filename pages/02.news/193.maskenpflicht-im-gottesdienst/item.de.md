@@ -1,6 +1,6 @@
 ---
 title: 'Maskenpflicht im Gottesdienst'
-media_order: teenager-5693583_1920.jpg
+media_order: 'teenager-5693583_1920.jpg,icon_herunterladen.png'
 date: '04-11-2020 12:41'
 publish_date: '04-11-2020 12:41'
 unpublish_date: '30-11-2020 23:59'
@@ -19,4 +19,8 @@ Wir wünschen euch allen weiterhin Gesundheit!
  
 Überdies laden wir euch verstärkt dazu ein, die Gottesdienstübertragungen per Telefon oder Video-Stream zu nutzen.
 
-Das vollständige [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) findet ihr hier.
+
+Das vollständige Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim findet ihr hier:
+|  |  |
+| ------ | ----------- |
+| [![icon_herunterladen.png?cropResize=100,100)](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim)<font color="white">.     .</font> | [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heims](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) |
