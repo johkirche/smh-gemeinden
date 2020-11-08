@@ -17,11 +17,15 @@ und COVID-19. In Berlin und im Land Brandenburg sind folgende Regelungen veränd
 
 Ab sofort gilt folgende neue Regelung: Wir tragen die Mund-Nasenbedeckungen (Masken) auch während der Gottesdienste und nehmen diese nicht am Platz ab. Ausnahmen gelten weiterhin für Kinder und bei Erwachsenen mit entsprechenden Beeinträchtigungen. So wollen wir uns und die anderen Teilnehmenden in dieser Situation noch besser schützen. Lasst uns mit dieser neuen Regelung weiterhin gemeinschaftlich an einem Strang ziehen.
 
-Das vollständige [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) findet ihr hier.
- 
 Wir wünschen euch allen weiterhin Gesundheit!
- 
+
 Überdies laden wir euch verstärkt dazu ein, die Gottesdienstübertragungen per Telefon oder Video-Stream zu nutzen.
+
+Das vollständige [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) findet ihr hier:
+
+|  |  |
+| ------ | ----------- |
+| [![](icon_herunterladen.png?cropResize=100,100)](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim)<font color="white">.     .</font> | [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heims](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) |
 <br><br>
 
 ## Telefon- und Videogottesdienste
