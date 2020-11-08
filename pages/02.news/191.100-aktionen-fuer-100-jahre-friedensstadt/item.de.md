@@ -23,6 +23,4 @@ Ansprechpartner sind für euch: Julia Schäfer und Matteo Neise<br><br>
 | [![](icon_herunterladen.png?cropResize=100,100)](Formular%20100%20Aktionen%20f%C3%BCr%20100%20Jahre%20FS.pdf)<font color="white">.     .</font> | [Formular 100 Aktionen für 100 Jahre Friedensstadt](Formular%20100%20Aktionen%20f%C3%BCr%20100%20Jahre%20FS.pdf) |
 
 <br><br>
-![](Bildschirmfoto%202020-11-04%20um%2009.46.06.png)
-
-[![](Bildschirmfoto%202020-11-04%20um%2009.46.06.png?cropResize=1000,1000)](Formular 100 Aktionen für 100 Jahre FS.pdf](Formular%20100%20Aktionen%20f%C3%BCr%20100%20Jahre%20FS.pdf)
+[![](Bildschirmfoto%202020-11-04%20um%2009.46.06.png?cropResize=1000,1000)](Formular%20100%20Aktionen%20f%C3%BCr%20100%20Jahre%20FS.pdf)
