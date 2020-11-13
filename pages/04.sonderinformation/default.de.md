@@ -96,7 +96,7 @@ Aufgrund der Pandemie-Lage in ganz Deutschland und dementsprechend auch im Landk
 <br><br>
 
 ## Neue Angebote in der Erprobung
-Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlch willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktuven Hilfe ein.
+Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlich willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktiven Hilfe ein.
 <br><br>
 
 ### Gemeinsamer virtueller Gottesdienstbesuch

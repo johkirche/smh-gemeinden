@@ -8,7 +8,7 @@ rule:
 event:
 	start: 15-11-2020 11:00
 	end: 15-11-2020 11:30
-	location: 'Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'Kinderkirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gottesdienst','Kinder']
 	monat: ['November 2020']
@@ -18,5 +18,5 @@ Vierzehntägig findet am Sonntag um 11 Uhr ein Kindergottesdienst statt. Ergänz
 
 
 
-**Veranstaltungsort:** Kinderkirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland
+**Veranstaltungsort:** Kinderkirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland
 

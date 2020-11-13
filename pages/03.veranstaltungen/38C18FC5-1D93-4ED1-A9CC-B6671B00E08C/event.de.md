@@ -8,7 +8,7 @@ rule:
 event:
 	start: 29-11-2020 11:00
 	end: 29-11-2020 11:30
-	location: 'Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland'
+	location: 'Kirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Gottesdienst']
 	monat: ['November 2020']
@@ -19,5 +19,5 @@ Unter folgenden Link finden Sie weitere Informationen z.B. zum Ablauf eines Gott
 
 
 
-**Veranstaltungsort:** Kirche St.-Michaels-Heim Bismarkallee 23 14193 Berlin Deutschland
+**Veranstaltungsort:** Kirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland
 
