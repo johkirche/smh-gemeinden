@@ -43,5 +43,6 @@ Kontaktdaten:
 * E-Mail: armin@mattstedt.de oder
 * Telefon: 0307113999
 
+
 ![](P1020101.jpeg)
 (Bild zum Bundle: Gemeindebrief-Redaktion)
