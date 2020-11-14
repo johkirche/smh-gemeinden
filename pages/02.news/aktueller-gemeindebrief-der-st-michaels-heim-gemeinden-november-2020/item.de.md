@@ -28,7 +28,7 @@ Der neue Gemeindebrief für alle Gemeinden im St.-Michaels-Heim ist da! Alle Ges
 * Sollte keine der Optionen für dich möglich sein, wende dich bitte an deine Gemeindeleitung. Solltest du keine Kontaktdaten haben, nutze einfach die [Kontaktadresse](https://smh-gemeinden.de/kontakt).
 <br><br>
 
-**Zur Ausgabe:**
+**Zur Ausgabe:**<br>
 Vor wenigen Wochen feierte Deutschland am 3. Oktober 2020 den 30. Jahres-Tag der Deutschen Einheit. 
 Ein Tag, der auch für die Johannische Kirche von großer Bedeutung war. Prediger Rainer Gerhardt
 hat in drei Vortrags-Folgen in Weg und Ziel einen Rückblick auf das bedeutsame Jahr 1990 geworfen und
