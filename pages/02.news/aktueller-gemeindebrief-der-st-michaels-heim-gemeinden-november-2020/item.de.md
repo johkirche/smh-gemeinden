@@ -19,6 +19,7 @@ Der neue Gemeindebrief für alle Gemeinden im St.-Michaels-Heim ist da! Alle Ges
 |  |  |
 | ------ | ----------- |
 | [![](icon_herunterladen.png?cropResize=100,100)](Gemeindebrief%2053_Digital.pdf)<font color="white">.     .</font> | [Formular 100 Aktionen für 100 Jahre Friedensstadt.pdf](Gemeindebrief%2053_Digital.pdf) |
+<br><br>
 
 **Gemeindebrief als gedrucktes Heft erhalten:**
 * Der Gemeindebrief kann im St.-Michaels-Heim am Ewigkeitssonntag bezogen werden.
