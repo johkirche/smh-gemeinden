@@ -1,5 +1,6 @@
 ---
 title: ' Aktueller Gemeindebrief der St.-Michaels-Heim Gemeinden (November 2020)'
+media_order: 'Bildschirmfoto 2020-11-14 um 15.43.39.png,P1020101.jpeg,Gemeindebrief 53_Digital.pdf,icon_herunterladen.png'
 date: '14-11-2020 15:25'
 publish_date: '14-11-2020 15:25'
 unpublish_date: '02-02-2021 15:25'
@@ -13,12 +14,15 @@ Der neue Gemeindebrief für alle Gemeinden im St.-Michaels-Heim ist da! Alle Ges
 * Wenn ihr den aktuellen Gemeindebrief nicht bekommen habt und nur diesen digital erhalten möchtet, schreibt dies bitte ebenfalls an die [Kontaktadresse](https://smh-gemeinden.de/kontakt). Bitte teilt dort auch mit, wenn ihr mit in euren Gemeindemailverteiler aufgenommen werden möchtet, über den auch regelmäßig wichtige Informationen verteilt werden.
 * Auch Geschwister und Glaubensfreunde aus anderen Gemeinden können den Gemeindebrief erhalten. Diese lassen sich bitte ebenfalls über die [Kontaktadresse](https://smh-gemeinden.de/kontakt) in den Gemeindebriefmailverteiler aufnehmen.
 
+Der aktuelle Gemeindebrief kann auch [hier](Gemeindebrief%2053_Digital.pdf) heruntergeladen werden.
+|  |  |
+| ------ | ----------- |
+| [![](icon_herunterladen.png?cropResize=100,100)](Gemeindebrief%2053_Digital.pdf)<font color="white">.     .</font> | [Formular 100 Aktionen für 100 Jahre Friedensstadt.pdf](Gemeindebrief%2053_Digital.pdf) |
+
 **Gemeindebrief als gedrucktes Heft erhalten:**
 * Der Gemeindebrief kann im St.-Michaels-Heim am Ewigkeitssonntag bezogen werden.
 * Der Gemeindebrief kann auch im Anschluss an die folgenden Präsenzgottesdienste im Gemeindehaus erworben werden.
 * Sollte keine der Optionen für dich möglich sein, wende dich bitte an deine Gemeindeleitung. Solltest du keine Kontaktdaten haben, nutze einfach die [Kontaktadresse](https://smh-gemeinden.de/kontakt).
-
-Der aktuelle Gemeindebrief kann auch hier heruntergeladen werden.
 
 **Zur Ausgabe:**
 Vor wenigen Wochen feierte Deutschland am 3. Oktober 2020 den 30. Jahres-Tag der Deutschen Einheit. 
@@ -33,3 +37,6 @@ Diese DVD gibt es mit einem eingelegten 20-seitigen Bundle, der inhaltliche Geme
 Kontaktdaten:
 * E-Mail: armin@mattstedt.de oder
 * Telefon: 0307113999
+
+![](P1020101.jpeg)
+(Bild zum Bundle: Gemeindebrief-Redaktion)
