@@ -35,7 +35,7 @@ hat in drei Vortrags-Folgen in Weg und Ziel einen Rückblick auf das bedeutsame 
 die Weltereignisse mit den parallelen Ereignissen in unserer Kirche und ihren Verkündigungen verknüpft. Die Redaktion der Berliner SMH-Gemeinden hat diesen Vortrag, auch wegen seiner kirchengeschichtlichen Bedeutung für unsere Nachwelt, als Broschüre zusammengefaßt. Jeder, der die damalige Zeit miterlebt hat, wird  Erinnerungen daran haben, deshalb ist es gut, wenn diese Zusammenfassung in einer Broschüre gegen das Vergessen arbeitet. Auf z.T. bebilderten 20 Seiten kann jeder den Vortrag „Das Jahr 1990“ nachlesen.
 <br><br>
 
-**Bundle mit DVD dieser Ausgabe:**
+**Bundle mit DVD dieser Ausgabe:**<br>
 Um diese Erinnerungen an das Jahr 1990 nachhaltig zu fördern, hat die Gemeindebrief-Redaktion eine DVD mit einem farbigen Filmbericht von Hans Müller erstellt, in welchem vom Kirchentag 1990 bis zum Erntedankfest 1990 auf Gut Schönhof, die Freude und Dankbarkeit aus dem Kommentar von Siegfried Philipp spricht. Prediger Lothar Knitter hat in diesem Film mit deutlichen Worten die Einheit der Johannischen Kirche Ost und West verkündet. Ein bewegendes Dokument in diesem Film, in welchem viele Namen wieder Gesichter bekommen.
 Diese DVD gibt es mit einem eingelegten 20-seitigen Bundle, der inhaltliche Gemeindebrief, in einer Kassette. Wer das Bundle mit DVD erhalten möchte, kann sich an Armin Mattstedt wenden.
 
