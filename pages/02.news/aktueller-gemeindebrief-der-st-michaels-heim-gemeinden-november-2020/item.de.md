@@ -44,5 +44,5 @@ Kontaktdaten:
 * Telefon: 0307113999
 
 
-![](P1020101.jpeg)
+![](P1020101.jpeg)<br>
 (Bild zum Bundle: Gemeindebrief-Redaktion)
