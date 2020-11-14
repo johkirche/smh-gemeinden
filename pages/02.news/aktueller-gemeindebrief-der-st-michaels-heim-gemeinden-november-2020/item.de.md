@@ -15,6 +15,7 @@ Der neue Gemeindebrief für alle Gemeinden im St.-Michaels-Heim ist da! Alle Ges
 * Auch Geschwister und Glaubensfreunde aus anderen Gemeinden können den Gemeindebrief erhalten. Diese lassen sich bitte ebenfalls über die [Kontaktadresse](https://smh-gemeinden.de/kontakt) in den Gemeindebriefmailverteiler aufnehmen.
 
 <br>Der aktuelle Gemeindebrief kann auch [hier](Gemeindebrief%2053_Digital.pdf) heruntergeladen werden.<br>
+
 |  |  |
 | ------ | ----------- |
 | [![](icon_herunterladen.png?cropResize=100,100)](Gemeindebrief%2053_Digital.pdf)<font color="white">.     .</font> | [Formular 100 Aktionen für 100 Jahre Friedensstadt.pdf](Gemeindebrief%2053_Digital.pdf) |
