@@ -4,6 +4,9 @@ media_order: heart-762564_1920.jpg
 date: '14-11-2020 14:01'
 publish_date: '14-11-2020 14:01'
 unpublish_date: '22-11-2020 11:00'
+taxonomy:
+    kategorie:
+        - featured
 show_sidebar: false
 ---
 
