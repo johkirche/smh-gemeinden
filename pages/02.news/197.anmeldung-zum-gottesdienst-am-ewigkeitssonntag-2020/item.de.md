@@ -7,7 +7,7 @@ unpublish_date: '22-11-2020 11:00'
 show_sidebar: false
 ---
 
-Liebe Geschwister,
+Liebe Geschwister, Freunde und Gäste,
  
 auch am Ewigkeitssonntag, dem 22. November, wird ein Präsenzgottesdienst im St.-Michaels-Heim angeboten. Für die Teilnahme vor Ort ist eine **Anmeldung** im Vorfeld **nötig**. Um den Aufwand für alle Beteiligten zu reduzieren, haben wir ein Online-Buchungssystem eingerichtet. Dort können Plätze in der Kirche und im Großen Saal (Übertragung) ab Sonntag, den 15. November, um 09:30 Uhr, reserviert werden.
  
