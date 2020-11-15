@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg,Bildschirmfoto 2020-06-20 um 11.17.45.png,Bildschirmfoto 2020-06-20 um 11.17.56.png,f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png,icon_kontakt-nachricht schreiben.png,icon_sonderinformationen.png,icon_über uns.png,icon_veranstaltungen-termine_alternativ.png,A4F49092-F274-430D-ACC6-4625F2F70052.jpeg,teenager-5693583_1920.jpg,icon_nachrichten_NEU.png'
+media_order: 'csm_Altar-denoise_2052648ed2.jpg,csm_IMG_1064_aac979a1a7.jpg,IMG_7408.JPG,csm_velten_altar_69ddeeb6c1.jpg,csm_2008_-_Elster_Altar_df63a7a87e.jpg,csm_D__sseldorf_2a84004819.jpg,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,DSC_0013_reduziert.JPG,csm_50JahreGemeindeBremen_Altar_c8bc6d2319.jpg,P1120210.jpg,ca22da601822ed901582ed5d4a80606aaf00d88f-study-8629941920.jpeg,d6fa26fc7351ecee3a1799d022df26220cfdd6f7-blur-18674021920.jpeg,Bildschirmfoto 2020-06-20 um 11.17.45.png,Bildschirmfoto 2020-06-20 um 11.17.56.png,f263ebb89140a0fd4a72ef1090b43b95e7951040-euro-1453861280.png,icon_kontakt-nachricht schreiben.png,icon_sonderinformationen.png,icon_über uns.png,icon_veranstaltungen-termine_alternativ.png,A4F49092-F274-430D-ACC6-4625F2F70052.jpeg,teenager-5693583_1920.jpg,icon_nachrichten_NEU.png,icon_tickets3.png'
 published: true
 routable: true
 visible: false
@@ -25,6 +25,7 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](icon_sonderinformationen.png?cropResize=100,100)](/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](/sonderinformation) |
 | [![](icon_%C3%BCber%20uns.png?cropResize=100,100)](/ueber-uns)<font color="white">.     .</font> | [Über uns](/ueber-uns) |
 | [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](/kontakt)<font color="white">.     .</font> | [Kontakt](/kontakt) |
+| [![](icon_tickets3.png?cropResize=100,100)](https://gottesdienst.smh-gemeinden.de/event/ewigkeitssonntag)<font color="white">.     .</font> | [Kontakt](https://gottesdienst.smh-gemeinden.de/event/ewigkeitssonntag) |
 <br>
 
 ## Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim
