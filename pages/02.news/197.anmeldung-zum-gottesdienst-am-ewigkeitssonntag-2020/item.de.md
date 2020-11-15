@@ -18,7 +18,7 @@ Link zum Buchungssystem: [https://gottesdienst.smh-gemeinden.de](https://gottesd
 
 |  |  |
 | ------ | ----------- |
-| [![](icon_tickets3.png)?cropResize=100,100)](https://gottesdienst.smh-gemeinden.de)<font color="white">.     .</font> | [Sitzplatzanmeldung für den Gottesdienst am Ewigkeitssonntag im St.-Michaels-Heims](https://gottesdienst.smh-gemeinden.de) |
+| [![](icon_tickets3.png?cropResize=100,100)](https://gottesdienst.smh-gemeinden.de)<font color="white">.     .</font> | [Sitzplatzanmeldung für den Gottesdienst am Ewigkeitssonntag im St.-Michaels-Heims](https://gottesdienst.smh-gemeinden.de) |
 <br><br>
  
 Für alle Geschwister, die keinen Internetzugang haben, bestehen verschiedene Möglichkeiten sich anzumelden:
