@@ -25,7 +25,7 @@ Besucher und Gäste sind herzlich willkommen!
 | [![](icon_sonderinformationen.png?cropResize=100,100)](/sonderinformation)<font color="white">.     .</font> | [Sonderinformationen (Corona)](/sonderinformation) |
 | [![](icon_%C3%BCber%20uns.png?cropResize=100,100)](/ueber-uns)<font color="white">.     .</font> | [Über uns](/ueber-uns) |
 | [![](icon_kontakt-nachricht%20schreiben.png?cropResize=100,100)](/kontakt)<font color="white">.     .</font> | [Kontakt](/kontakt) |
-| [![](icon_tickets3.png?cropResize=100,100)](https://gottesdienst.smh-gemeinden.de/event/ewigkeitssonntag)<font color="white">.     .</font> | [Kontakt](https://gottesdienst.smh-gemeinden.de/event/ewigkeitssonntag) |
+| [![](icon_tickets3.png?cropResize=100,100)](https://gottesdienst.smh-gemeinden.de/event/ewigkeitssonntag)<font color="white">.     .</font> | [Platzreservierung Gottesdienste](https://gottesdienst.smh-gemeinden.de/event/ewigkeitssonntag) |
 <br>
 
 ## Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim
