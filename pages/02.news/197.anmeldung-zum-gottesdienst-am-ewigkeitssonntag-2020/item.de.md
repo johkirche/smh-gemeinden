@@ -1,6 +1,6 @@
 ---
 title: 'Anmeldung zum Gottesdienst am Ewigkeitssonntag 2020'
-media_order: heart-762564_1920.jpg
+media_order: 'heart-762564_1920.jpg,icon_tickets3.png'
 date: '14-11-2020 14:01'
 publish_date: '14-11-2020 14:01'
 unpublish_date: '22-11-2020 11:00'
@@ -15,6 +15,11 @@ Liebe Geschwister, Freunde und Gäste,
 auch am Ewigkeitssonntag, dem 22. November, wird ein Präsenzgottesdienst im St.-Michaels-Heim angeboten. Für die Teilnahme vor Ort ist eine **Anmeldung** im Vorfeld **nötig**. Um den Aufwand für alle Beteiligten zu reduzieren, haben wir ein Online-Buchungssystem eingerichtet. Dort können Plätze in der Kirche und im Großen Saal (Übertragung) ab Sonntag, den 15. November, um 09:30 Uhr, reserviert werden.
  
 Link zum Buchungssystem: [https://gottesdienst.smh-gemeinden.de](https://gottesdienst.smh-gemeinden.de)
+
+|  |  |
+| ------ | ----------- |
+| [![](icon_tickets3.png)?cropResize=100,100)](https://gottesdienst.smh-gemeinden.de)<font color="white">.     .</font> | [Sitzplatzanmeldung für den Gottesdienst am Ewigkeitssonntag im St.-Michaels-Heims](https://gottesdienst.smh-gemeinden.de) |
+<br><br>
  
 Für alle Geschwister, die keinen Internetzugang haben, bestehen verschiedene Möglichkeiten sich anzumelden:
 * Vor und nach dem Gottesdienst am 15. November wird jemand in der Eingangshalle vor dem Salon Mendelssohn Anmeldungen entgegennehmen.
