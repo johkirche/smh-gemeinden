@@ -18,7 +18,7 @@ Besucher und Gäste sind herzlich willkommen!
 <br><br>
 
 ## Hauptmenü
-|  |  |
+|  |  |  |  |
 | ------ | ----------- | ------ | ----------- |
 | [![](icon_nachrichten_NEU.png?cropResize=100,100)](/news)<font color="white">.     .</font> | [Nachrichten und News](/news) |
 | [![](icon_veranstaltungen-termine_alternativ.png?cropResize=100,100)](/veranstaltungen)<font color="white">.     .</font> | [Veranstaltungen und Termine](/veranstaltungen) |
