@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Bruder Olaf Pahlow'
+media_order: 7477fa15e12f0668d2413c865743900ff81597b9-friedhoffriedensstadtgrabsteine.jpeg
 show_sidebar: false
 ---
 
