@@ -1,6 +1,9 @@
 ---
 title: 'Heimgang von Bruder Olaf Pahlow'
 media_order: 7477fa15e12f0668d2413c865743900ff81597b9-friedhoffriedensstadtgrabsteine.jpeg
+date: '29-11-2020 11:44'
+publish_date: '29-11-2020 11:44'
+unpublish_date: '20-12-2020 11:44'
 show_sidebar: false
 ---
 
