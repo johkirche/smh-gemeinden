@@ -51,7 +51,7 @@ Weitere Informationen:
 * [Tipps zum Empfang der Live-Videoübertragung](https://cloud.johannische-kirche.org/index.php/s/Smg4kD3tRNBENYp)
 * [Informationen zum Gottesdienstablauf](https://www.johannische-kirche.org/lebenshilfe-und-angebote/gottesdienste.html)
 
-Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschrängt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nuten. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
+Wer die Kirchenarbeit der Johannischen Kirche und die Durchführung der Gottesdienste mit einer Kollekte untestützen möchte, obwohl die Abgabe von Spenden im Anschluss an den Gottesdienst aktuell nur eingeschränkt möglich ist, kann sich gerne an das [Kirchenbüro in Nikolassee](https://www.johannische-kirche.org/gemeindeleben.html), die Gemeindekassierer oder die [Gemeindeleitung](https://www.johannische-kirche.org/gemeindeleben/berlin-smh.html) wenden sowie seine Spende [überweisen](https://smh-gemeinden.de/ueber-uns) oder das [Spendenformular](https://secure.spendenbank.de/form/3469) nutzen. Weitere Informationen zu Möglichkeiten die Arbeit der Johannischen Kirche finanziell zu unterstützen gibt es zudem unter [www.johannische-kirche.org](https://www.johannische-kirche.org/wir-ueber-uns/aufbau-ordnung/finanzen.html). Herzlichen Dank!
 
 ### Familienabendgebete in Telefongemeinschaft täglich um 19.30 Uhr
 ![](blur-1867402_1920.jpg?cropResize=700,700)<br>
@@ -69,9 +69,9 @@ Telefonische Einwahldaten zu den Familienabendgebeten:
 ![](study-862994_1920.jpg?cropResize=700,700)<br>
 Die Johannische Kirche lädt täglich zu gemeinsamen Abendgebeten via Telefon ein. Die telefonischen Abendgebete finden statt um:
 * 17 Uhr (übertragen aus der Friedensstadt) und
-* 21 Uhr (übertragen von wechselnden Orten Deutschlandweit)
+* 21 Uhr (übertragen von wechselnden Orten deutschlandweit)
 
-Telefonischen Einwahldaten zu den Abendgebeten:
+Telefonische Einwahldaten zu den Abendgebeten:
 * Telefonnummern: (030) 201 63 49 00 oder (089) 121 40 59 00 (deutsches Festnetz)
 * Konferenznummer: 31909#
 * Passwort: 24081855#
@@ -89,14 +89,14 @@ Aktuell können Beerdigungen nur im engsten Familienkreis stattfinden. Allen Abs
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
 * Konferenznummer: 92885#
 * PIN: 24081855#
-* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet
+* Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das Symbol # gekennzeichnet
 <br><br>
 **Update vom 30.10.2020: Teilnahme an Abschiedsfeiern**<br>
 Aufgrund der Pandemie-Lage in ganz Deutschland und dementsprechend auch im Landkreis Teltow-Fläming, in dem die Friedensstadt beheimatet ist, sind die Umgangsformen auf dem johannischen Friedhof angepasst bzw. verändert worden. Ab sofort sind bei Abschiedsfeiern auf unserem Friedhof in Glau nur noch die Angehörigen zugelassen. Des Weiteren gelten für alle eine Maskenpflicht sowie die gängige Abstandsregelung auf dem Friedhofsgelände. Um eine Nachverfolgung einer eventuellen Infektion nachkommen zu können, ist jeder verpflichtet einen Zettel mit seinem vollständigen Namen und seiner Telefonnummer oder E-Mail-Adresse mitzubringen, um diesen dann in einen bereitgestellten Behälter einzuwerfen. Das gilt für die Angehörigen und für eventuell demnächst wieder zugelassenen Abschiedsgäste. Weiterhin bitten wir eindringlich darum sämtlichen Körperkontakt (Hände schütteln, Umarmung) zu vermeiden. – All das einzuhalten, fällt natürlich gerade bei einer Beerdigung schwer, aber es gibt ja viele andere Gesten, die den Trauernden vermittelt werden können. Selbstverständlich besteht auch weiterhin die Möglichkeit der Telefonübertragung von Abschiedsfeiern. Die Einwahlnummer ist (030) 201 63 49 00 oder (089) 121 40 59 00, die Konferenznummer 92885# und die PIN 24081855#.
 <br><br>
 
 ## Neue Angebote in der Erprobung
-Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlich willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch mit weiterhin mit Ideen und eurer aktiven Hilfe ein.
+Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlich willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch weiterhin mit Ideen und eurer aktiven Hilfe ein.
 <br><br>
 
 ### Gemeinsamer virtueller Gottesdienstbesuch
