@@ -3,9 +3,6 @@ title: 'Gottesdienste am kommenden Sonntag'
 media_order: 'csm_gottesdienst_smh_2_3593d8f892.jpg,feb5e6d1e402ff8e15422da0068e8f149f3c8648-csmimg1064aac979a1a7.jpeg,9179c68689a4761cc60c4f5532266a2548ccd2c6-img7408.jpeg,7c322ac461b3a737eed081b9c5ad8875f138c092-csmveltenaltar69ddeeb6c1.jpeg,9bc5997ad11dbfdc30aac41630368d4b1eca6998-csmdsseldorf2a84004819.jpeg,25a2f067f169965f54327e8754a90c253867db63-csm2008-elsteraltardf63a7a87e.jpeg,728051075f3abbcbabc5b71c1cd098d10f824f8b-dsc0013reduziert.jpeg,cb96dfcc5ba3fd6152ebb4a82dfcbd2b766e0613-csmaltar-denoise2052648ed2.jpeg,d7d79b4f7a3f7fa71e829750818fc4b0d6f06f10-csm50jahregemeindebremenaltarc8bc6d2319.jpeg,d9016ee7e3910259881a81c996ee979601e3346b-p1120210.jpeg,csm_DSC_5171_76a8858df3.jpg'
 date: '04-09-2020 09:00'
 publish_date: '04-09-2020 09:00'
-taxonomy:
-    kategorie:
-        - featured
 show_sidebar: false
 recaptchacontact:
     enabled: false
