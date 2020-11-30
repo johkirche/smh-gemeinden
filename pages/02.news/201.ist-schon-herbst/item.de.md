@@ -1,5 +1,6 @@
 ---
 title: 'Ist schon Herbst? (von Josefine Rößler)'
+media_order: IMG_8465.jpg
 date: '30-11-2020 10:52'
 publish_date: '30-11-2020 10:52'
 unpublish_date: '31-12-2020 23:59'
@@ -15,3 +16,5 @@ Und immer wieder, wenn ich denke, ich kann das nicht mehr, die Anforderungen sin
 Ich war nun also seit Wochen alleine Zuhause, hörte diese Stimmen, die mir den Studieninhalt vermitteln, versuchte morgens trotzdem etwas anderes als meinen Schlafanzug anzuziehen und stellte mich draußen hin. Ich sah, dass die Blätter bunt waren und die Bäume ganz kahl, dass es kalt geworden war und offensichtlich Herbst. Ich hielt mein Gesicht in die vereinzelten Sonnenstrahlen und fragte: "Du wachst über mich, oder?", während mir ein plötzlicher Wind die Haare zerzauste.
 
 Ich denke, das war ein Ja.
+
+![](IMG_8465.jpg)<br>(Bild: Jona Rößler)
