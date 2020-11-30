@@ -6,11 +6,13 @@ unpublish_date: '27-12-2020 11:38'
 show_sidebar: false
 ---
 
-Nun ist es bald soweit
-Beginnen tut die Adventszeit
-Folgen solltest du diesem Link
-Damit du findest flink
-Den Kalender, so soll's sein
-Also du tippst ein:
-[jjbg-advent.de](jjbg-advent.de) - na klar
-Hier geht's los wie wunderbar
+<center>Nun ist es bald soweit<br>
+Beginnen tut die Adventszeit<br>
+Folgen solltest du diesem Link<br>
+Damit du findest flink<br>
+Den Kalender, so soll's sein<br>
+Also du tippst ein:<br>
+[jjbg-advent.de](jjbg-advent.de) - na klar<br>
+Hier geht's los wie wunderbar</center>
+<br><br>
+![]advent-calendar-1236036_1920.jpg
