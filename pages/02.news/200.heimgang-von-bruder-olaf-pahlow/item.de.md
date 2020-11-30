@@ -9,4 +9,4 @@ show_sidebar: false
 
 Am 28.11.2020 wurde unserer **Bruder Olaf Pahlow** aus der Urgemeinde Friedensstadt in die ewige Heimat abgerufen.
 
-Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+Die Abschiedsfeier findet statt am **Donnerstag, den 3. Dezember um 14:00 Uhr** auf unserem Johannischen Friedhof in Glau.
