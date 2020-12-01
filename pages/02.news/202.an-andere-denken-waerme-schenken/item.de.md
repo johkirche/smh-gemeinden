@@ -34,4 +34,4 @@ In diesem Gedanken möchten wir Euch heute dazu aufrufen, in Euren Kleiderschran
 
 Unter diesem Motto sammeln wir am zweiten Advent hier im St. Michaels Heim Winter- jacken, Mäntel, warme Pullover, Jacken und Stiefel und bringen sie dorthin, wo sie ge- braucht werden. Bringt das, was ihr geben und verschenken könnt einfach zum nächsten Gottesdienst mit. Es wird gesegnet sein. Für Fragen stehen Euch Andreas Schmetzstorff und Verena Wittke zur Verfügung.
 
-<br>Wir danken Euch im Voraus und wünschen Euch eine gesegnete Zeit.
+<br><br>Wir danken Euch im Voraus und wünschen Euch eine gesegnete Zeit.
