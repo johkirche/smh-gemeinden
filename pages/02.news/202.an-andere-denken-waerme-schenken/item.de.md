@@ -15,7 +15,7 @@ show_sidebar: false
 * wir nehmen die Spenden gern am zweiten Advent vor und nach dem Gottesdienst im SMH persönlich entgegen (bitte keine Tüten oder Säcke in der Rezeption abgeben!), sortieren sie in Kartons und bringen sie zur Sammelstelle
 * Für diejenigen, die traurig sind, dass sie sich nicht so kurzfristig beteiligen können: auch in Berlin gibt es Adressen, die sich über gut erhaltene Spenden freuen, um sie Bedürftigen günstig oder kostenfrei zukommen zu lassen oder gemeinnützige Einrichtungen mit den Einnahmen aus dem Verkauf unterstützen. Gerne geben wir Orientierung, srecht uns dann einfach an.
 
-===
+
 <br><br>
 ![](winter-jacket-2060205_1920.jpg)<br><br>
 **Hier der vollständige Aufruf:**
