@@ -15,4 +15,4 @@ Also du tippst ein:<br>
 [jjbg-advent.de](www.jjbg-advent.de) - na klar<br>
 Hier geht's los wie wunderbar</center>
 <br><br>
-![]advent-calendar-1236036_1920.jpg
+![](advent-calendar-1236036_1920.jpg)
