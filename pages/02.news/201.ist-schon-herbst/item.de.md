@@ -1,6 +1,6 @@
 ---
 title: 'Ist schon Herbst? (von Josefine Rößler)'
-media_order: IMG_8465.jpg
+media_order: Jona_Herbstaquarell.jpg
 date: '30-11-2020 10:52'
 publish_date: '30-11-2020 10:52'
 unpublish_date: '31-12-2020 23:59'
