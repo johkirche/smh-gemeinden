@@ -16,8 +16,8 @@ show_sidebar: false
 * Für diejenigen, die traurig sind, dass sie sich nicht so kurzfristig beteiligen können: auch in Berlin gibt es Adressen, die sich über gut erhaltene Spenden freuen, um sie Bedürftigen günstig oder kostenfrei zukommen zu lassen oder gemeinnützige Einrichtungen mit den Einnahmen aus dem Verkauf unterstützen. Gerne geben wir Orientierung, srecht uns dann einfach an.
 
 ===
-
-![](winter-jacket-2060205_1920.jpg)
+<br><br>
+![](winter-jacket-2060205_1920.jpg)<br>
 **Hier der vollständige Aufruf:**
 
 Liebe Geschwister und Freunde,
