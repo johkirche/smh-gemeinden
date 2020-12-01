@@ -1,5 +1,6 @@
 ---
 title: 'An Andere denken – Wärme schenken! (Kleiderspende am 2. Advent)'
+media_order: winter-jacket-2060205_1920.jpg
 date: '01-12-2020 11:58'
 publish_date: '01-12-2020 11:58'
 unpublish_date: '20-12-2020 23:59'
@@ -15,6 +16,7 @@ show_sidebar: false
 * Für diejenigen, die traurig sind, dass sie sich nicht so kurzfristig beteiligen können: auch in Berlin gibt es Adressen, die sich über gut erhaltene Spenden freuen, um sie Bedürftigen günstig oder kostenfrei zukommen zu lassen oder gemeinnützige Einrichtungen mit den Einnahmen aus dem Verkauf unterstützen. Gerne geben wir Orientierung, srecht uns dann einfach an.
 ===
 
+![](winter-jacket-2060205_1920.jpg)
 **Hier der vollständige Aufruf:**
 
 Liebe Geschwister und Freunde,
