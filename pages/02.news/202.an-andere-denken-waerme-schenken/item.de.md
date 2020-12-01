@@ -17,7 +17,7 @@ show_sidebar: false
 
 ===
 <br><br>
-![](winter-jacket-2060205_1920.jpg)<br>
+![](winter-jacket-2060205_1920.jpg)<br><br>
 **Hier der vollständige Aufruf:**
 
 Liebe Geschwister und Freunde,
