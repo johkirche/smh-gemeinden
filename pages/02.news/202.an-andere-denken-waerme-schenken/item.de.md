@@ -30,8 +30,8 @@ Immer in der Weihnachtszeit, versammelte sich hier im Mendelsohn Palais die Fami
 
 In diesem Gedanken möchten wir Euch heute dazu aufrufen, in Euren Kleiderschrank zu gucken und zu überlegen, ob ihr von dem, was ihr habt, etwas entbehren könnt. Wir sammeln, gut erhaltene Winterkleidung für Menschen in Armenien, die gerade in diesen Zeiten von Not und Armut betroffen sind und oft keine ausreichende Winterkleidung haben.
 
-<center><b>An Andere denken – Wärme schenken!</center></b>
+<center><b>An Andere denken – Wärme schenken!</center></b><br>
 
 Unter diesem Motto sammeln wir am zweiten Advent hier im St. Michaels Heim Winter- jacken, Mäntel, warme Pullover, Jacken und Stiefel und bringen sie dorthin, wo sie ge- braucht werden. Bringt das, was ihr geben und verschenken könnt einfach zum nächsten Gottesdienst mit. Es wird gesegnet sein. Für Fragen stehen Euch Andreas Schmetzstorff und Verena Wittke zur Verfügung.
 
-Wir danken Euch im Voraus und wünschen Euch eine gesegnete Zeit.
+<br>Wir danken Euch im Voraus und wünschen Euch eine gesegnete Zeit.
