@@ -17,4 +17,4 @@ Ich war nun also seit Wochen alleine Zuhause, hörte diese Stimmen, die mir den 
 
 Ich denke, das war ein Ja.
 
-![](IMG_8465.jpg)<br>(Bild: Jona Rößler)
+![](Jona_Herbstaquarell.jpg)<br>(Bild: Jona Rößler)
