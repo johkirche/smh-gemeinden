@@ -12,7 +12,7 @@ Folgen solltest du diesem Link<br>
 Damit du findest flink<br>
 Den Kalender, so soll's sein<br>
 Also du tippst ein:<br>
-    <a href=jjbg-advent.de>www.jjbg-advent.de</a> - na klar<br>
+    <a href=www.jjbg-advent.de>jjbg-advent.de</a> - na klar<br>
 Hier geht's los wie wunderbar</center>
 <br><br>
 ![](advent-calendar-1236036_1920.jpg)
