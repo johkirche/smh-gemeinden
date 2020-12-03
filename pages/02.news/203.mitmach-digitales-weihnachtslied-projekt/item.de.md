@@ -1,8 +1,9 @@
 ---
-title: 'Mitmach digitales Weihnachtslied Projekt'
+title: 'Digitales Mitmach Weihnachtslied Projekt'
+media_order: c3223041876cf8088d4bb3a2be91da319927e39b-707e06d7-58e4-43de-a037-d40da6491c38.jpeg
 ---
 
-Am 4. Advent wollen wir ein weiteres digitales Chor-/Instrumentalprojekt für die Geschwister online zur Verfügung stellen. 
+Am 4. Advent wollen wir ein weiteres digitales Chor-/Instrumentalprojekt für die Geschwister online zur Verfügung stellen. Mach mit!
 
 ===
 
