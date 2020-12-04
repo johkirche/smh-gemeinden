@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Bruder Gerhard Suckow'
+media_order: smhg_a.JPG
 date: '04-12-2020 09:39'
 publish_date: '04-12-2020 09:39'
 unpublish_date: '21-12-2020 23:59'
