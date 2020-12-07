@@ -1,5 +1,6 @@
 ---
 title: 'Abkündigungen zum 2. Advent 2020'
+media_order: smhg_jk.png
 ---
 
 Gott zum Gruß liebe Geschwister und Freunde,
