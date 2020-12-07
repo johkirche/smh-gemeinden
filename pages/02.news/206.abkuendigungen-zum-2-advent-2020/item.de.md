@@ -32,7 +32,7 @@ Wir laden euch herzlich ein, im Anschluss an den Gottesdienst noch ein wenig auf
 <br><br>
 
 ## Geistfreundrede am 19.12. um 11 Uhr anlässlich 100 Jahre Friedensstadt
-Am Samstag, dem 19. Dezember 2020, sind anlässlich des 100. Jahrestages der Grundsteinlegung der Friedensstadt alle Geschwister und Freunde zu einem Dankgottesdienst mit Geistfreundrede eingeladen. Die Andacht beginnt um 11 Uhr und wird ausschließlich telefonisch und per Video übertragen. Wir bieten eine übertragung im St.-Michaels-Heim an und laden zu dieser insbesondere alle Geschwister und Freunde ein, die nicht die Möglichkeit haben, von zu Hause aus an der übertragung teilzunehmen.
+Am Samstag, dem 19. Dezember 2020, sind anlässlich des 100. Jahrestages der Grundsteinlegung der Friedensstadt alle Geschwister und Freunde zu einem Dankgottesdienst mit Geistfreundrede eingeladen. Die Andacht beginnt um 11 Uhr und wird ausschließlich telefonisch und per Video übertragen. **Wir bieten eine übertragung im St.-Michaels-Heim an und laden zu dieser insbesondere alle Geschwister und Freunde ein, die nicht die Möglichkeit haben, von zu Hause aus an der übertragung teilzunehmen.**
 
 **Die Einwahldaten lauten:**
 * Tel.: +49 (0)30 / 201 63 49 00 oder +49 (0)89 / 121 40 59 00, Konferenzraumnummer: 92885 / PIN: 24081855#;
