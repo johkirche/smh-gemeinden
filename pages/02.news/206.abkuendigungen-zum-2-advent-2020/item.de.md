@@ -9,7 +9,13 @@ wir freuen uns sehr euch Folgendes mitzuteilen:
 <br><br>
 
 ## Anmeldung zu Gottesdiensten am Heiligabend und zum Jahreswechsel
-Heiligabend finden Gottesdienste im St.-Michaels-Heim um 14, 16, 18 und 22 Uhr statt. Am 31.12. findet im St.- Michaels-Heim um 20 Uhr zum Jahreswechsel eine Geistfreundrede statt (Verschiebung von 18 auf 20 Uhr). Aus gegebenem Anlass bitten wir um eine Anmeldung, die ab heute vorgenommen werden kann. Bitte meldet euch online unter [www.gottesdienst.smh-gemeinden.de](www.gottesdienst.smh-gemeinden.de) oder telefonisch bei Daniela Küster unter **015774270133** an.
+Heiligabend finden Gottesdienste im St.-Michaels-Heim um
+* 14.00,
+* 16.00,
+* 18.00 und
+* 22.00 Uhr statt.
+Am 31.12. findet im St.- Michaels-Heim um 20 Uhr zum Jahreswechsel eine Geistfreundrede statt (Verschiebung von 18 auf 20 Uhr).
+Aus gegebenem Anlass bitten wir um eine Anmeldung, die ab heute vorgenommen werden kann. Bitte meldet euch online unter [www.gottesdienst.smh-gemeinden.de](www.gottesdienst.smh-gemeinden.de) oder telefonisch bei Daniela Küster unter **015774270133** an.
 Darüber hinaus wird zum Jahreswechsel kurz vor Mitternacht (23.45 Uhr) eine kleine Feierstunde im Waldfrieden stattfinden, an dieser kann von zu Hause aus über Livestream und Telefonübertragung teilgenommen werden.
 <br><br>
 
@@ -22,11 +28,11 @@ Am Samstag, dem 19. Dezember 2020, sind anlässlich des 100. Jahrestages der Gru
 
 **Die Einwahldaten lauten:**
 * Tel.: +49 (0)30 / 201 63 49 00 oder +49 (0)89 / 121 40 59 00, Konferenzraumnummer: 92885 / PIN: 24081855#;
-* Videostream: www.johannische-kirche.org/mediathek/live-gottesdienst.
+* Videostream: [www.johannische-kirche.org/mediathek/live-gottesdienst](www.johannische-kirche.org/mediathek/live-gottesdienst).
 <br><br>
 
 ## Weihnachtsaktionen
-Es gibt eine Vielzahl an Weihnachtsaktionen, Detailinformationen findet ihr auf www.smh-gemeinden.de. Als Stichworte seinen hier genannt:
+Es gibt eine Vielzahl an Weihnachtsaktionen, Detailinformationen findet ihr auf [www.smh-gemeinden.de](www.smh-gemeinden.de). Als Stichworte seinen hier genannt:
 * musikalisches und digitales Mitmach-Weihnachsprojekt (Chorprojekt bis zum 4. Advent)
 * Online-Adventssingen [www.youtube.com/watch?v=jn65742-NKs](https://www.youtube.com/watch?v=jn65742-NKs)
 * digitaler Adventskalender der Johannischen Jugend: [www.jjbg-advent.de](www.jjbg-advent.de) oder [www.smh-gemeinden.de/news/digitaler-adventskalender](https://smh-gemeinden.de/news/digitaler-adventskalender)
