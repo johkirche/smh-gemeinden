@@ -13,5 +13,5 @@ Termin- und Organisationsabsprache unter 0151 22326583 oder julia@schermutzki.de
 
 Weihnachtliche Grüße von Familie Schäfer und Alexandra
 
-![](Advents-sa%CC%88nger2.png)
+
 ![](Advents-s%C3%A4nger2.png)
