@@ -24,7 +24,11 @@ Darüber hinaus wird zum Jahreswechsel kurz vor Mitternacht (23.45 Uhr) eine kle
 <br><br>
 
 ## Kleine Adventsaktion am 2. Advent (heute)
-Wir laden euch herzlich ein, im Anschluss an den Gottesdienst noch ein wenig auf dem Vorplatz zu verweilen. Vom Balkon aus werden uns einige unserer Musiker musikalisch auf das Weihnachtsfest einstimmen. Zudem besteht die Möglichkeit warme Winterbekleidung im Rahmen der Aktion „An Andere denken – Wärme schenken!“ im Salon Mendelssohn abzugeben. Darüber hinaus besteht die Möglichkeit am Stand von Volker Schwerdt (am Mittelportal, Zugang über den Brunnen) hochwertige Produkte für die Weihnachtszeit oder als Geschenk zu erwerben. Abschließend bitte ich alle älteren Geschwister und Missionshelfer, die bis Weihnachten Hausbesuche machen, kurz auf mich zuzukommen. Es geht um eine kleine weihnachtliche überraschung, die etwas mit Keksen zu tun hat.
+Wir laden euch herzlich ein, im Anschluss an den Gottesdienst noch ein wenig auf dem Vorplatz zu verweilen.
+* Vom Balkon aus werden uns einige unserer Musiker musikalisch auf das Weihnachtsfest einstimmen.
+* Zudem besteht die Möglichkeit warme Winterbekleidung im Rahmen der Aktion [„An Andere denken – Wärme schenken!“](https://smh-gemeinden.de/news/an-andere-denken-waerme-schenken) im Salon Mendelssohn abzugeben.
+* Darüber hinaus besteht die Möglichkeit am Stand von Volker Schwerdt (am Mittelportal) hochwertige Produkte für die Weihnachtszeit oder als Geschenk zu erwerben.
+* Abschließend bitte ich alle älteren Geschwister und Missionshelfer, die bis Weihnachten Hausbesuche machen, kurz auf mich zuzukommen. Es geht um eine kleine weihnachtliche überraschung, die etwas mit Keksen zu tun hat.
 <br><br>
 
 ## Geistfreundrede am 19.12. um 11 Uhr anlässlich 100 Jahre Friedensstadt
