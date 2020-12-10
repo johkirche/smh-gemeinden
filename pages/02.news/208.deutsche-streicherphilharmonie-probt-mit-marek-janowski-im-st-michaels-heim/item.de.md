@@ -1,5 +1,6 @@
 ---
 title: 'Deutsche Streicherphilharmonie probt mit Marek Janowski im St.-Michaels-Heim'
+media_order: orchestra-2496505_1920.jpg
 date: '10-12-2020 23:27'
 publish_date: '10-12-2020 23:27'
 show_sidebar: false
