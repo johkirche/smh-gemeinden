@@ -1,8 +1,8 @@
 ---
 title: 'An Andere denken – Wärme schenken! (Kleiderspende am 2. Advent)'
 media_order: winter-jacket-2060205_1920.jpg
-date: '01-12-2020 11:58'
-publish_date: '01-12-2020 11:58'
+date: '27-11-2020 11:58'
+publish_date: '27-11-2020 11:58'
 unpublish_date: '20-12-2020 23:59'
 show_sidebar: false
 ---
