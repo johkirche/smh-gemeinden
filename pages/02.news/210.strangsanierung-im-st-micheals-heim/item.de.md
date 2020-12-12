@@ -1,5 +1,9 @@
 ---
 title: 'Strangsanierung im St. Micheals-Heim'
+date: '03-01-2021 16:49'
+publish_date: '03-01-2021 16:49'
+unpublish_date: '28-02-2021 16:49'
+show_sidebar: false
 ---
 
 Ab dem 04.01.2020 werden die Abwasserrohre der Herren-WC-Anlagen im Erdgeschoss und Keller erneuert. Hierfür werden die Anlagen für ca. 6-8 Wochen gesperrt.
