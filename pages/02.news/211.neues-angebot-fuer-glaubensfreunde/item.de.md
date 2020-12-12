@@ -2,7 +2,7 @@
 title: 'Neues Angebot für Glaubensfreunde'
 date: '12-12-2020 16:58'
 publish_date: '12-12-2020 16:58'
-unpublish_date: '07-02-2021 16:58'
+unpublish_date: '31-03-2021 16:58'
 show_sidebar: false
 ---
 
