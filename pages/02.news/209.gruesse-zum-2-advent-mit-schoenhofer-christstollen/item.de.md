@@ -1,5 +1,10 @@
 ---
 title: 'Grüße zum 2. Advent mit Schönhofer Christstollen'
+media_order: Stollen.png
+date: '12-12-2020 16:41'
+publish_date: '12-12-2020 16:41'
+unpublish_date: '30-12-2020 16:41'
+show_sidebar: false
 ---
 
 Wer noch kein Weihnachtsgeschenk hat oder sich selbst eine Freude machen möchte, kann es mit etwas selber hergestellten versuchen. Eine Idee kommt vom Verein „Natürlich Lernen auf Gut Schönhof e.V.“ und ist der Schönhofer Christstollen, dessen Rezept nun endlich der Öffentlichkeit zugänglich gemacht wurde. 
