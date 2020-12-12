@@ -1,5 +1,9 @@
 ---
 title: 'Neues Angebot für Glaubensfreunde'
+date: '12-12-2020 16:58'
+publish_date: '12-12-2020 16:58'
+unpublish_date: '07-02-2021 16:58'
+show_sidebar: false
 ---
 
 Einladung zum gemeisamen Austausch für Glaubensfreunde, PartnerInnen von Johanneschristen und Menschen, die den Gedanken bewegen, in die Johannische Kirche einzutreten.
