@@ -17,7 +17,7 @@ Heiligabend finden Gottesdienste im St.-Michaels-Heim um
 
 Am 31.12. findet im St.- Michaels-Heim um 20 Uhr zum Jahreswechsel eine Geistfreundrede statt (Verschiebung von 18 auf 20 Uhr).
 Aus gegebenem Anlass bitten wir um eine Anmeldung, die ab heute vorgenommen werden kann. Bitte meldet euch online unter:
-* [gottesdienst.smh-gemeinden.de](gottesdienst.smh-gemeinden.de) oder
+* [gottesdienst.smh-gemeinden.de](https://gottesdienst.smh-gemeinden.de) oder
 * telefonisch bei Daniela Küster unter **015774270133** an.
 
 Darüber hinaus wird zum Jahreswechsel kurz vor Mitternacht (23.45 Uhr) eine kleine Feierstunde im Waldfrieden stattfinden, an dieser kann von zu Hause aus über Livestream und Telefonübertragung teilgenommen werden.
