@@ -1,8 +1,12 @@
 ---
 title: 'Heimgang von Schwester Kathrin Kämpfer'
+date: '16-12-2020 10:59'
+publish_date: '16-12-2020 10:59'
+unpublish_date: '10-01-2021 10:59'
+show_sidebar: false
 ---
 
-Am 13. Dezember 2020 wurde unsere Schwester Kathrin Kämpfer aus der Hauptgemeinde in die ewige Heimat abgerufen.
+Am 13. Dezember 2020 wurde unsere Schwester **Kathrin Kämpfer** aus der Hauptgemeinde in die ewige Heimat abgerufen.
 
 Der Termin der Abschiedsfeier wird noch bekanntgegeben. 
 
