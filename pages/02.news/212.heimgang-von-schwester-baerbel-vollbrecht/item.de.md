@@ -1,5 +1,9 @@
 ---
 title: 'Heimgang von Schwester Bärbel Vollbrecht'
+date: '16-12-2020 10:55'
+publish_date: '16-12-2020 10:55'
+unpublish_date: '10-01-2021 10:55'
+show_sidebar: false
 ---
 
 Am 13. Dezember 2020 wurde unsere Schwester **Bärbel Vollbrecht** aus der USA in die ewige Heimat abgerufen.
