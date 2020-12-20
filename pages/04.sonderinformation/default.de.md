@@ -100,7 +100,7 @@ Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister u
 <br><br>
 
 ### Digitales Advents-Chorprojekt 2020
-![](Bildschirmfoto%202020-12-20%20um%2001.00.34.png?forceResize=700,700)<br>
+![](Bildschirmfoto%202020-12-20%20um%2001.00.34.png?forceResize=700)<br>
 Sängerinnen und Sänger Johannische Gemeindechöre möchten mit diesem digitalen Advents-Chorprojekt uns allen eine Weihnachtsfreude machen! Herzlichen Dank an alle, die mitgemacht haben! Fröhliche Weihnachten! [Hier geht es zum Video.](https://smh-gemeinden.de/news/digitales-advents-chorprojekt-2020)
 <br><br>
 
