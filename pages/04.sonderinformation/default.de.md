@@ -1,6 +1,6 @@
 ---
 title: Sonderinfo
-media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,blur-1867402_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 10.01.45.png,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,Bildschirmfoto 2020-06-21 um 21.30.49.png,Bildschirmfoto 2020-06-21 um 21.34.23.png,5CEB1205-3F91-4CC0-8328-204AE5231216.jpeg,DB11F19E-76C8-4E74-A132-2782196E7DF5.png,teenager-5693583_1920.jpg,icon_herunterladen.png,Bildschirmfoto 2020-12-20 um 01.00.34.png'
+media_order: 'csm_IMG_1064_aac979a1a7.jpg,csm_sakrament_2-1_07071db1a5.jpg,handshake-3382503_1920.jpg,friedhof_friedensstadt_kapelle.jpg,study-862994_1920.jpg,worship-2964803_1920.jpg,help-4955863_1920.jpg,friedhof_friedensstadt_grabsteine.jpg,newspapers-444448_1920.jpg,52244096-DDC1-4D05-B9F4-9A48CB1F553C.jpeg,music-656593_1920.jpg,csm_DSC02599_76605b73f2.jpg,easter-egg-3257201_1920.jpg,blur-1867402_1920.jpg,the-conference-3248255_1920.jpg,108e92ec60e54a34ec3d5345d2c9239200c1065f-707e06d7-58e4-43de-a037-d40da6491c38.jpeg,suspension-bridge-959853_1920.jpg,sketch-3047721_1920.jpg,csm_Altar-denoise_2052648ed2.jpg,Bildschirmfoto 2020-05-29 um 10.01.45.png,Bildschirmfoto 2020-05-29 um 08.23.44.png,Pfingsten 2018 noch kleiner.jpg,Bildschirmfoto 2020-06-21 um 21.30.49.png,Bildschirmfoto 2020-06-21 um 21.34.23.png,5CEB1205-3F91-4CC0-8328-204AE5231216.jpeg,DB11F19E-76C8-4E74-A132-2782196E7DF5.png,teenager-5693583_1920.jpg,icon_herunterladen.png,Bildschirmfoto 2020-12-20 um 01.00.34.png,Bildschirmfoto 2020-12-20 um 01.08.08.png'
 recaptchacontact:
     enabled: false
 ---
@@ -102,6 +102,11 @@ Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister u
 ### Digitales Advents-Chorprojekt 2020
 ![](Bildschirmfoto%202020-12-20%20um%2001.00.34.png?forceResize=700)<br>
 Sängerinnen und Sänger Johannische Gemeindechöre möchten mit diesem digitalen Advents-Chorprojekt uns allen eine Weihnachtsfreude machen! Herzlichen Dank an alle, die mitgemacht haben! Fröhliche Weihnachten! [Hier geht es zum Video.](https://smh-gemeinden.de/news/digitales-advents-chorprojekt-2020)
+<br><br>
+
+### Weihnachtsküche 2020
+![](Bildschirmfoto%202020-12-20%20um%2001.08.08.png?forceResize=700)<br>
+Zur Weihnachtszeit gehören [Bratäpfeln](https://smh-gemeinden.de/news/brataepfel-mit-markus) und [Pfefferkuchen- oder Spekulatius-Knusperhäuser](https://smh-gemeinden.de/news/knusperhaeuser-mit-markus)! Markus und Klaus haben zwei weiteres Video gedreht, mit denen sie uns Freude schenken und in Weihnachtsstimmung bringen möchten. Schaut zu, kommt in Weihnachtsatimmung und macht zusammen mit Ihnen eure [Bratäpfel](https://smh-gemeinden.de/news/brataepfel-mit-markus) und [Weihnachtsknusperhäuser](https://smh-gemeinden.de/news/knusperhaeuser-mit-markus)!
 <br><br>
 
 ### Gemeinsamer virtueller Gottesdienstbesuch
