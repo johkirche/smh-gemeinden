@@ -11,6 +11,11 @@ Anlässlich des 100-jährigen Jubiläums der Friedensstadt wurde am Nachmittag d
 
 Das [Video](https://www.johannische-kirche.org/mediathek/100-jahre-friedensstadt.html) der Einweihung findet ihr auf der [Webseite der Joahnniaschen Kirche](https://www.johannische-kirche.org/mediathek/100-jahre-friedensstadt.html).
 
+Darüber hinaus sind auf der Webseite zu sehen:
+* Der Vortrag mit dem Titel „FRIEDENSSTADT, SEIT HUNDERT JAHREN“, welcher im Anschluss an den Gottesdienst am 19.12.2020 von Esther Nörenberk und Christoph Glistau gehalten wurde,
+* eine "FOTODOKUMENTATION ZUR BERGUNG DER ZEITKAPSEL IM HAUS ZUM GRUNDSTEIN" und
+* die "BAUCHRONIK FRIEDENSSTADT 1920-1935".
+
 ![](Bildschirmfoto%202020-12-20%20um%2009.54.28.png)
 
 ![](Bildschirmfoto%202020-12-20%20um%2009.54.43.png)
