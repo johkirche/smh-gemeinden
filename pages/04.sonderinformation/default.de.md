@@ -99,7 +99,7 @@ Aufgrund der Pandemie-Lage in ganz Deutschland und dementsprechend auch im Landk
 Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister und Freunde sind herzlich willkommen. Ideen können beispielsweise direkt mit der Gemeindeleitung besprochen oder per Mail an info@smh-gemeinden.de vorgeschlagen werden. Bitte bringt euch weiterhin mit Ideen und eurer aktiven Hilfe ein.
 <br><br>
 
-### Digitales
+### Digitales Advents-Chorprojekt 2020
 ![](Bildschirmfoto%202020-12-20%20um%2001.00.34.png?forceResize=700,525)<br>
 Sängerinnen und Sänger Johannische Gemeindechöre möchten mit diesem digitalen Advents-Chorprojekt uns allen eine Weihnachtsfreude machen! Herzlichen Dank an alle, die mitgemacht haben! Fröhliche Weihnachten! [Hier geht es zum Video.](https://smh-gemeinden.de/news/digitales-advents-chorprojekt-2020)
 <br><br>
