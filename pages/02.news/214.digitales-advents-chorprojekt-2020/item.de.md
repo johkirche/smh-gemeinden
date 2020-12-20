@@ -1,6 +1,6 @@
 ---
 title: 'Digitales Advents-Chorprojekt 2020'
-media_order: 'Bildschirmfoto 2020-12-20 um 00.55.59.png'
+media_order: 'Bildschirmfoto 2020-12-20 um 01.00.34.png'
 date: '20-12-2020 00:55'
 publish_date: '20-12-2020 00:55'
 unpublish_date: '10-01-2021 23:59'
