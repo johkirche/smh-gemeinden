@@ -1,5 +1,6 @@
 ---
 title: 'Einweihung des Kunstwerks „Aus Ringen wurdenSteine“'
+media_order: 'Bildschirmfoto 2020-12-20 um 09.54.28.png,Bildschirmfoto 2020-12-20 um 09.54.43.png'
 date: '20-12-2020 09:51'
 publish_date: '20-12-2020 09:51'
 unpublish_date: '31-12-2021 23:59'
@@ -10,3 +11,6 @@ Anlässlich des 100-jährigen Jubiläums der Friedensstadt wurde am Nachmittag d
 
 Das [Video](https://www.johannische-kirche.org/mediathek/100-jahre-friedensstadt.html) der Einweihung findet ihr auf der [Webseite der Joahnniaschen Kirche](https://www.johannische-kirche.org/mediathek/100-jahre-friedensstadt.html).
 
+![](Bildschirmfoto%202020-12-20%20um%2009.54.28.png)
+
+![](Bildschirmfoto%202020-12-20%20um%2009.54.43.png)
