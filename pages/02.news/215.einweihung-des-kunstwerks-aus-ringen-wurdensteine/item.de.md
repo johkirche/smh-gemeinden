@@ -1,6 +1,6 @@
 ---
 title: 'Einweihung des Kunstwerks „Aus Ringen wurdenSteine“'
-media_order: 'Bildschirmfoto 2020-12-20 um 09.54.28.png,Bildschirmfoto 2020-12-20 um 09.54.43.png'
+media_order: 'Bildschirmfoto 2020-12-20 um 09.57.50.png,Bildschirmfoto 2020-12-20 um 09.54.28.png,Bildschirmfoto 2020-12-20 um 09.54.43.png'
 date: '20-12-2020 09:51'
 publish_date: '20-12-2020 09:51'
 unpublish_date: '31-12-2021 23:59'
