@@ -7,6 +7,6 @@ unpublish_date: '10-01-2021 23:59'
 show_sidebar: false
 ---
 
-Sängerinnen und Sänger Johannische Gemeindechöre möchten mit diesem digitalen Advents-Chorprojekt uns allen eine Weihnachtsfreude machen! Herzlichen Dank an alle, die mitgemacht haben! Fröhliche Weihnachten!
+Sängerinnen und Sänger Johannischer Gemeindechöre möchten mit diesem digitalen Advents-Chorprojekt uns allen eine Weihnachtsfreude machen! Herzlichen Dank an alle, die mitgemacht haben! Fröhliche Weihnachten!
 
 [plugin:vimeo](https://vimeo.com/492864369)

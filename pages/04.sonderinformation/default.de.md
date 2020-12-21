@@ -7,7 +7,7 @@ recaptchacontact:
 
 # Sonderinformationen zu aktuellen Angeboten der Johannischen Kirche
 
-<p>Im Kampf gegen den Coronavirus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.</p>
+<p>Im Kampf gegen das Coronavirus sind wir alle gefragt. Aus diesem Grund entstehen vielfältige neue Angebote, die via Telefon und Internet genutzt werden können. Zudem stehen euch eure Kirchen- und Gemeindeleitungen sowie die Missionshelfer für alle Fragen, Sorgen und Nöte weiterhin zur Verfügung.</p>
 Überdies bitten wir um Einhaltung des [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) und laden euch verstärkt dazu ein, die Gottesdienstübertragungen per [Telefon](https://www.johannische-kirche.org/wir-ueber-uns/aktuelles.html) oder [Video-Stream](https://www.johannische-kirche.org/mediathek/live-gottesdienst.html) zu nutzen.<br><br>
 Das vollständige [Schutz- und Hygienekonzept für Gottesdienste im St.-Michaels-Heim](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim) findet ihr [hier](https://smh-gemeinden.de/schutz-und-hygienekonzept-bei-gottesdiensten-im-st-michaels-heim):
 
@@ -101,12 +101,12 @@ Aktuell gibt es einige Angebote. weitere Ideen und Beiträge durch Geschwister u
 
 ### Digitales Advents-Chorprojekt 2020
 ![](Bildschirmfoto%202020-12-20%20um%2001.00.34.png?forceResize=700)<br>
-Sängerinnen und Sänger Johannische Gemeindechöre möchten mit diesem digitalen Advents-Chorprojekt uns allen eine Weihnachtsfreude machen! Herzlichen Dank an alle, die mitgemacht haben! Fröhliche Weihnachten! [Hier geht es zum Video.](https://smh-gemeinden.de/news/digitales-advents-chorprojekt-2020)
+Sängerinnen und Sänger Johannischer Gemeindechöre möchten mit diesem digitalen Advents-Chorprojekt uns allen eine Weihnachtsfreude machen! Herzlichen Dank an alle, die mitgemacht haben! Fröhliche Weihnachten! [Hier geht es zum Video.](https://smh-gemeinden.de/news/digitales-advents-chorprojekt-2020)
 <br><br>
 
 ### Weihnachtsküche 2020
 ![](Bildschirmfoto%202020-12-20%20um%2001.08.08.png?forceResize=700)<br>
-Zur Weihnachtszeit gehören [Bratäpfeln](https://smh-gemeinden.de/news/brataepfel-mit-markus) und [Pfefferkuchen- oder Spekulatius-Knusperhäuser](https://smh-gemeinden.de/news/knusperhaeuser-mit-markus)! Markus und Klaus haben zwei weiteres Video gedreht, mit denen sie uns Freude schenken und in Weihnachtsstimmung bringen möchten. Schaut zu, kommt in Weihnachtsatimmung und macht zusammen mit Ihnen eure [Bratäpfel](https://smh-gemeinden.de/news/brataepfel-mit-markus) und [Weihnachtsknusperhäuser](https://smh-gemeinden.de/news/knusperhaeuser-mit-markus)!
+Zur Weihnachtszeit gehören [Bratäpfeln](https://smh-gemeinden.de/news/brataepfel-mit-markus) und [Pfefferkuchen- oder Spekulatius-Knusperhäuser](https://smh-gemeinden.de/news/knusperhaeuser-mit-markus)! Markus und Klaus haben zwei weiteres Video gedreht, mit denen sie uns Freude schenken und in Weihnachtsstimmung bringen möchten. Schaut zu, kommt in Weihnachtsstimmung und macht zusammen mit Ihnen eure [Bratäpfel](https://smh-gemeinden.de/news/brataepfel-mit-markus) und [Weihnachtsknusperhäuser](https://smh-gemeinden.de/news/knusperhaeuser-mit-markus)!
 <br><br>
 
 ### Gemeinsamer virtueller Gottesdienstbesuch
