@@ -7,7 +7,7 @@ unpublish_date: '10-01-2021 23:59'
 show_sidebar: false
 ---
 
-Seit 1986 wirt in der Geburtskirche Jesu Christi in Betlehem in den Wochen vor Weihnachten eine Kerze angezündet und das Licht zunächst mit dem Flugzeug nach Österreich und von dort mit dem Zug in Europa verteilt.
+Seit 1986 wird in der Geburtskirche Jesu Christi in Betlehem in den Wochen vor Weihnachten eine Kerze angezündet und das Licht zunächst mit dem Flugzeug nach Österreich und von dort mit dem Zug in Europa verteilt.
 
 Am Sonntag, dem 20.12.2020, besteht die Möglichkeit, mit einer mitgebrachten Kerze das Friedenslicht zu empfangen. 
 Dies ist in unserer Kirche im Waldfrieden von 16:00 bis 17:30 Uhr möglich. Weiterhin kann das Friedenslicht mit einer eigenen Kerze am Montag, dem 21.12.2020, von 15.00 bis 16.30 Uhr im Gemeinderaum der Friedensstadt empfangen werden.

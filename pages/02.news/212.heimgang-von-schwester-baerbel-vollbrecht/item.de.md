@@ -8,7 +8,7 @@ show_sidebar: false
 
 Am 13. Dezember 2020 wurde unsere Schwester **Bärbel Vollbrecht** aus der USA in die ewige Heimat abgerufen.
 
-Der Termin der Abschiedsfeier wird noch bekanntgegeben.
+Die Abschiedsfeier findet am **Mittwoch, dem 23. Dezember um 14:00 Uhr im Aussegnungsraum bei „reverti“** statt.
 
 
 Zurzeit können Abschiedsfeiern auf unseren Friedhöfen aus gegebenem Anlass nur im Kreise der Angehörigen stattfinden. Wir bitten alle anderen Personen, die sich verabschieden möchten, die Telefonübertragung zu nutzen und das Grab zu einem späteren Zeitpunkt zu besuchen. Die Einwahldaten sind:
