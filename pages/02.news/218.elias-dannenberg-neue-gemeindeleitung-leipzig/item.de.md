@@ -1,5 +1,6 @@
 ---
-title: 'Elias Dannenberg —Neue Gemeindeleitung Leipzig'
+title: 'Elias Dannenberg — Neue Gemeindeleitung Leipzig'
+media_order: smhg_jk.png
 date: '24-12-2020 14:00'
 publish_date: '24-12-2020 14:00'
 unpublish_date: '07-03-2021 23:59'
