@@ -1,5 +1,6 @@
 ---
 title: 'Mitteilung der Kirchenleitung: Gemeindeleitung'
+media_order: smhg_jk.png
 date: '31-12-2020 15:00'
 publish_date: '31-12-2020 15:00'
 unpublish_date: '18-01-2021 23:59'
