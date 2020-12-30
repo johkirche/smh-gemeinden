@@ -16,7 +16,7 @@ ein besonderes Jahr 2020 geht zu Ende und ein besonderes Jahr 2021 beginnt. Wir 
 
 Alle Geschwister, Freunde und Gäste sind am **31.12.2020 ab 23.45 Uhr** herzlich eingeladen, sich per Telefonübertragung oder [Videolivestream](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-urgemeinde.html) mit einigen wenigen Geschwistern im Waldfrieden zu verbinden und gemeinsam mit einem Gebt in das neue Jahr zu gehen.
 
-Die Einwahldaten sind:
+Die Einwahldaten sind:<br>
 Telefon:
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
 * Konferenznummer: 92885#
