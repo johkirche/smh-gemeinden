@@ -7,6 +7,7 @@ unpublish_date: '01-01-2021 23:59'
 taxonomy:
     kategorie:
         - featured
+show_sidebar: false
 ---
 
 Liebe Geschwister, Freunde und Gäste,
