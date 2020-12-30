@@ -22,5 +22,6 @@ Telefon:
 * Konferenznummer: 92885#
 * PIN: 24081855#
 * Hinweis: Die Raute-Taste befindet sich zumeist rechts neben der 9 und ist durch das symbol # gekennzeichnet<br>
+
 Videolivestream:
 * [https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-urgemeinde.html](https://www.johannische-kirche.org/mediathek/live-gottesdienst/live-urgemeinde.html)
