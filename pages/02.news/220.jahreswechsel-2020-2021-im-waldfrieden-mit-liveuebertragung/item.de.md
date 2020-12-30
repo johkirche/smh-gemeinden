@@ -1,5 +1,5 @@
 ---
-title: 'Jahreswechsel 2020/2021 im Waldfrieden mit Liveübertragung'
+title: 'Jahreswechsel 2020/2021 im Waldfrieden mit Liveübertragung (31.12. um 23.45 Uhr)'
 media_order: 'Bildschirmfoto 2020-12-21 um 09.32.58.png'
 date: '30-12-2020 11:54'
 publish_date: '30-12-2020 11:54'
