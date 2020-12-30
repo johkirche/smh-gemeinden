@@ -1,5 +1,6 @@
 ---
 title: 'Heimgang von Schwester Rosi Riedel'
+media_order: smhg_a.JPG
 date: '30-12-2020 11:45'
 publish_date: '30-12-2020 11:45'
 unpublish_date: '10-01-2021 23:59'
