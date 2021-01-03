@@ -1,6 +1,10 @@
 ---
 title: 'Abkündigungen zum 2. Advent 2020'
 media_order: smhg_jk.png
+date: '06-12-2020 11:54'
+publish_date: '06-12-2020 11:54'
+unpublish_date: '10-01-2021 23:59'
+show_sidebar: false
 ---
 
 Gott zum Gruß liebe Geschwister und Freunde,

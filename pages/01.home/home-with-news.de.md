@@ -37,7 +37,7 @@ Wir bitten alle Gottesdienstbesucherinnen und -besucher um Einhaltung unseres [S
 <br><br>
 
 ## Gottesdienste (mit Gemeinde und Video- und Telefonübertragung in alle Welt)
-Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können wieder seit dem 6. September alle Gottesdienste sowie parallel stattfindende Videoübertragungen im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Gottesdienste für die ganze Gemeinde und Kindergottesdienste mit der Gemeinde werden im Wechsel alle vierzehn Tage und der Mittwochgottesdienst alle vier Wochen durchgeführt. Die etablierten Video- und Telefonübertragungen in alle Welt bestehen weiterhin. 
+Wir freuen uns sehr euch zu Beginn des neuen Jahres wieder zu mindestens wöchentlich stattfindenden Gottesdiensten im St.-Michaels-Heim einladen zu können. Bis auf Weiteres können alle Gottesdienste sowie parallel stattfindende Videoübertragungen im St.-Michaels-Heim, unter Beachtung der erforderlichen Vorsichtsmaßnahmen, besucht werden. Gottesdienste für die ganze Gemeinde und Kindergottesdienste mit der Gemeinde werden im Wechsel alle vierzehn Tage und der Mittwochgottesdienst alle vier Wochen durchgeführt. Die etablierten Video- und Telefonübertragungen in alle Welt bestehen weiterhin. 
 
 |  |  |
 | ------ | ----------- |
@@ -46,7 +46,7 @@ Wir freuen uns sehr euch zu Beginn des neuen Kirchenjahres wieder zu mindestens 
 | [![](csm_Altar-denoise_2052648ed2.jpg?cropResize=130,130)](/news/gottesdienste-am-kommenden-sonntag)<font color="white">.     .</font> | [Übersicht aller Gottesdienste in anderen Gemeinden der Johannischen Kirche](/news/gottesdienste-am-kommenden-sonntag) |
 
 <br><br>
-Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 11. November um 19 Uhr im St.-Michaels-Heim statt.
+Der nächste Gottesdienst mit Video- und Telefonübertragung an einem Mittowch findet am 13. Januar um 19 Uhr im St.-Michaels-Heim statt.
 
 |  |  |
 | ------ | ----------- |

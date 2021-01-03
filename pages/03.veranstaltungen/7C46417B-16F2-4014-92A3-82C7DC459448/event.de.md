@@ -6,8 +6,8 @@ cache_enable: true
 date: 13-11-21
 rule: 
 event:
-	start: 13-11-2021 18:00
-	end: 13-11-2021 19:00
+	start: 13-11-2021 10:00
+	end: 13-11-2021 11:00
 	location: 'Kirche St.-Michaels-Heim Bismarckallee 23 14193 Berlin Deutschland'
 taxonomy:
 	kategorie: ['Amtsträger']
