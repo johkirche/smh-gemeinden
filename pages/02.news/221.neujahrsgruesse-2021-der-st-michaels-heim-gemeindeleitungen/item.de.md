@@ -1,5 +1,6 @@
 ---
 title: 'Neujahrsgrüße 2021 der St.-Michaels-Heim-Gemeindeleitungen'
+media_order: IMG_3247.JPG
 date: '03-01-2021 19:35'
 publish_date: '03-01-2021 12:00'
 unpublish_date: '31-01-2021 23:59'
