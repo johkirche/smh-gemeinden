@@ -9,9 +9,9 @@ show_sidebar: false
 
 **Am 29. Dezember 2020** wurde unsere **Schwester Rosie (Rosemarie) Riedel aus der Gemeinde Dresden** in die ewige Heimat abgerufen.
 
-Der Termin der Abschiedsfeier wird noch bekannt gegeben.
+Die Abschiedsfeier findet statt am **Freitag, den 8. Januar um 14:00 Uhr** im Aussegnungsraum bei "reverti".
 
-Zurzeit können Abschiedsfeiern auf unseren Friedhöfen und bei Reverti aus gegebenem Anlass nur im Kreise der Angehörigen stattfinden. Wir bitten alle anderen Personen, die sich verabschieden möchten, die Telefonübertragung zu nutzen und das Grab zu einem späteren Zeitpunkt zu besuchen. Die Einwahldaten sind:
+Zurzeit können Abschiedsfeiern auf unseren Friedhöfen und bei reverti aus gegebenem Anlass nur im Kreise der Angehörigen stattfinden. Wir bitten alle anderen Personen, die sich verabschieden möchten, die Telefonübertragung zu nutzen und das Grab zu einem späteren Zeitpunkt zu besuchen. Die Einwahldaten sind:
 * Telefonnummer: 030 / 201 63 49 00 oder 089 / 121 40 59 00
 * Konferenznummer: 92885#
 * PIN: 24081855#
